@@ -94,3 +94,15 @@ def test_table_with_only_header_row_has_no_rows():
 
     assert tables[0].columns == ["A", "B"]
     assert tables[0].rows == []
+    
+def test_multiple_inline_elements_in_cell_get_space_separated():
+    html = """
+    <table class="wikitable">
+        <tr><th>Type</th><th>Values</th></tr>
+        <tr><td>bool</td><td><code>True</code><code>False</code></td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["bool", "True False"]]

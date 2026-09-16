@@ -28,14 +28,14 @@ def extract_tables(html: str) -> list[Table]:
             continue
 
         header_cells = all_rows[0].find_all(["th", "td"])
-        columns = [cell.get_text(strip=True) for cell in header_cells]
+        columns = [_cell_text(cell) for cell in header_cells]
 
         rows = []
         for tr in all_rows[1:]:
             cells = tr.find_all(["td", "th"])
             if not cells:
                 continue
-            row = [cell.get_text(strip=True) for cell in cells]
+            row = [_cell_text(cell) for cell in cells]
             rows.append(row)
 
         tables.append(
@@ -48,3 +48,12 @@ def extract_tables(html: str) -> list[Table]:
         )
 
     return tables
+
+
+def _cell_text(cell) -> str:
+    """
+    Извлекает текст ячейки, склеивая содержимое нескольких вложенных
+    элементов (например, <code>True</code><code>False</code>) через
+    пробел, а не впритык.
+    """
+    return " ".join(cell.stripped_strings)
