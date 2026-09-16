@@ -1,6 +1,4 @@
-
-from app.wikipedia.content_models import ArticleSection
-from app.wikipedia.html_extractor import extract_sections
+﻿from app.extractors.section_extractor import ArticleSection, extract_sections
 
 
 def test_extract_h2_section():
@@ -50,26 +48,14 @@ def test_extract_h2_and_h3_sections():
     sections = extract_sections(html)
 
     assert sections == [
-        ArticleSection(
-            level=2,
-            title="Design",
-            html="<p>Python has a clear syntax.</p>",
-        ),
-        ArticleSection(
-            level=3,
-            title="Syntax",
-            html="<p>The syntax is readable.</p>",
-        ),
+        ArticleSection(level=2, title="Design", html="<p>Python has a clear syntax.</p>"),
+        ArticleSection(level=3, title="Syntax", html="<p>The syntax is readable.</p>"),
         ArticleSection(
             level=3,
             title="Indentation",
             html="<p>Indentation defines code blocks.</p>",
         ),
-        ArticleSection(
-            level=2,
-            title="Features",
-            html="<p>Python has many features.</p>",
-        ),
+        ArticleSection(level=2, title="Features", html="<p>Python has many features.</p>"),
     ]
 
 
@@ -127,11 +113,7 @@ def test_ignore_content_before_first_heading():
     sections = extract_sections(html)
 
     assert sections == [
-        ArticleSection(
-            level=2,
-            title="History",
-            html="<p>History text.</p>",
-        )
+        ArticleSection(level=2, title="History", html="<p>History text.</p>")
     ]
 
 
@@ -187,42 +169,15 @@ def test_extract_sections_from_mediawiki_heading_wrapper():
             html="<p>Python emphasizes readability.</p>",
         ),
     ]
-def test_extract_sections_from_mediawiki_heading_wrapper():
-    html = """
-    <div class="mw-heading mw-heading2">
-        <h2 id="History">History</h2>
-        <span class="mw-editsection">
-            [edit]
-        </span>
-    </div>
 
-    <p>Python was created by Guido van Rossum.</p>
-    <p>The first version was released in 1991.</p>
 
-    <div class="mw-heading mw-heading2">
-        <h2 id="Design">Design</h2>
-        <span class="mw-editsection">
-            [edit]
-        </span>
-    </div>
+def test_article_section_fields():
+    section = ArticleSection(
+        level=1,
+        title="History",
+        html="<p>Python was created by Guido van Rossum.</p>",
+    )
 
-    <p>Python emphasizes readability.</p>
-    """
-
-    sections = extract_sections(html)
-
-    assert sections == [
-        ArticleSection(
-            level=2,
-            title="History",
-            html=(
-                "<p>Python was created by Guido van Rossum.</p>"
-                "<p>The first version was released in 1991.</p>"
-            ),
-        ),
-        ArticleSection(
-            level=2,
-            title="Design",
-            html="<p>Python emphasizes readability.</p>",
-        ),
-    ]
+    assert section.level == 1
+    assert section.title == "History"
+    assert section.html == "<p>Python was created by Guido van Rossum.</p>"
