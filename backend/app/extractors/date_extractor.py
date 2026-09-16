@@ -15,7 +15,19 @@ _BCE_YEAR_RE = re.compile(
 
 def extract_dates(html: str) -> list[Event]:
     """
-    Извлекает даты (§16 ТЗ) из infobox.
+    Извлекает даты (§16 ТЗ) ИСКЛЮЧИТЕЛЬНО из infobox (<table class="infobox">).
+
+    Сознательно не рассматривает обычные wikitable и, тем более, navbox
+    (навигационные шаблоны внизу статьи) как источник - они дают слишком
+    много ложных срабатываний: строки из общих для многих статей шаблонов
+    (например, "Federations/Confederations" с одинаковой датой сразу у
+    Socrates и Aristotle - явный признак общего navbox, а не содержания
+    конкретной статьи), либо таблицы, где строка означает не "событие",
+    а, например, "историк -> предполагаемая им дата" (как в статье
+    Founding of Rome), что не соответствует семантике Event.
+
+    Даты из обычного текста статьи (не infobox/таблиц) обрабатываются
+    ОТДЕЛЬНО - см. text_date_extractor.py.
 
     Строка infobox трактуется как пара (label, data) - первые две ячейки
     строки (<th> или <td>, без привязки к конкретному тегу или классу),
@@ -24,20 +36,22 @@ def extract_dates(html: str) -> list[Event]:
     (оба класса "plainlist").
 
     Два независимых пути:
-    1. Современные даты: ISO-паттерн (YYYY-MM-DD) в скобках - даёт
-       полную точность day. Работает одинаково в en/ru Wikipedia.
-    2. Даты до нашей эры: готового машиночитаемого формата нет,
-       извлекается только год через текстовый паттерн. Поддерживает
-       английскую нотацию (BC/BCE) и русскую ("до н. э.", "до н.э.",
-       возможно с "год"/"года" между числом и маркером) - precision=year.
+    1. Современные даты: ISO-паттерн (YYYY-MM-DD) в скобках - precision=day.
+    2. Даты до нашей эры: текстовый паттерн BC/BCE/"до н. э." - только
+       год, precision=year.
     """
     if not html or not html.strip():
         return []
 
     soup = BeautifulSoup(html, "html.parser")
+
+    infobox = soup.find("table", class_="infobox")
+    if infobox is None:
+        return []
+
     events: list[Event] = []
 
-    rows = soup.find_all("tr")
+    rows = infobox.find_all("tr")
     for row in rows:
         cells = row.find_all(["th", "td"])
         if len(cells) != 2:
