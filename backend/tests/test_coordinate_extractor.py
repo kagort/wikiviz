@@ -98,3 +98,19 @@ def test_mismatched_lat_lon_count_uses_shorter():
     locations = extract_coordinates(html, article_title="Test")
 
     assert len(locations) == 1
+
+def test_duplicate_coordinates_are_removed():
+    html = """
+    <span class="latitude">27°59′18″N</span>
+    <span class="longitude">86°55′31″E</span>
+
+    <span class="latitude">27°59′18″N</span>
+    <span class="longitude">86°55′31″E</span>
+
+    <span class="latitude">32°39′11″S</span>
+    <span class="longitude">70°00′42″W</span>
+    """
+
+    locations = extract_coordinates(html, article_title="Test")
+
+    assert len(locations) == 2  # дубликат убран, осталось два уникальных

@@ -1,4 +1,4 @@
-import re
+﻿import re
 from urllib.parse import parse_qs, unquote, urlparse
 
 from bs4 import BeautifulSoup
@@ -15,8 +15,8 @@ _DMS_RE = re.compile(
 
 def _dms_to_decimal(text: str) -> float:
     """
-    Конвертирует DMS-строку вида '27°59′18″N' или '57°18′N' (без секунд)
-    в десятичные градусы со знаком (юг/запад — отрицательные).
+    Конвертирует DMS-строку вида '"'"'27°59′18″N'"'"' или '"'"'57°18′N'"'"' (без секунд)
+    в десятичные градусы со знаком (юг/запад - отрицательные).
     """
     match = _DMS_RE.search(text)
     if not match:
@@ -38,7 +38,7 @@ def _extract_name(lat_span, fallback: str) -> str:
     """
     Ищет ближайшую ссылку на geohack и берёт из неё параметр title.
     Если title отсутствует (частый случай для единственной координаты
-    infobox) — используется fallback (обычно заголовок статьи).
+    infobox) - используется fallback (обычно заголовок статьи).
     """
     link = lat_span.find_parent("a", href=re.compile(r"geohack\.toolforge\.org"))
     if link is None:
@@ -50,7 +50,6 @@ def _extract_name(lat_span, fallback: str) -> str:
         return fallback
 
     title = unquote(raw_title).replace("+", " ")
-    # Убираем скобочный суффикс вида "(8848.86 m)"
     title = re.sub(r"\s*\([^)]*\)\s*$", "", title).strip()
     return title or fallback
 
@@ -63,6 +62,10 @@ def extract_coordinates(html: str, article_title: str) -> list[Location]:
     article_title используется как имя точки, когда рядом с координатой
     нет geohack-ссылки с параметром title (типичный случай единственной
     координаты в infobox).
+
+    Дубликаты (одна и та же координата, упомянутая в HTML несколько раз -
+    например, и в infobox, и в тексте статьи) удаляются: сохраняется
+    только первое вхождение.
     """
     if not html or not html.strip():
         return []
@@ -73,18 +76,25 @@ def extract_coordinates(html: str, article_title: str) -> list[Location]:
     lon_spans = soup.find_all(class_="longitude")
 
     locations: list[Location] = []
+    seen_coords: set[tuple[float, float]] = set()
+
     for index, (lat_span, lon_span) in enumerate(zip(lat_spans, lon_spans)):
         try:
             latitude = _dms_to_decimal(lat_span.get_text(strip=True))
             longitude = _dms_to_decimal(lon_span.get_text(strip=True))
         except ValueError:
-            continue  # пропускаем координату, которую не смогли распарсить
+            continue
+
+        dedup_key = (round(latitude, 5), round(longitude, 5))
+        if dedup_key in seen_coords:
+            continue
+        seen_coords.add(dedup_key)
 
         name = _extract_name(lat_span, fallback=article_title)
 
         locations.append(
             Location(
-                id=f"location-{index}",
+                id=f"location-{len(locations)}",
                 name=name,
                 latitude=latitude,
                 longitude=longitude,
