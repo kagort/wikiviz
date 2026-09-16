@@ -28,29 +28,41 @@ _RU_DATE_RE = re.compile(
 _TEXT_CONFIDENCE = 0.6
 _LEAD_TITLE = "Introduction"
 
+_EXCLUDED_SECTION_TITLES = {
+    "references", "citations", "bibliography", "notes", "footnotes",
+    "external links", "further reading", "see also", "sources",
+    "примечания", "источники", "литература", "ссылки", "см. также",
+    "сноски", "примечания и источники",
+}
+
 
 def _month_number(month_text: str):
     key = month_text.lower()
     return _EN_MONTHS.get(key) or _RU_MONTHS.get(key)
 
 
+def _strip_tables(fragment_html: str) -> str:
+    """Убирает содержимое <table> перед поиском дат - таблицы (списки
+    стран-членов, списки должностных лиц и т.п.) дают систематический
+    шум и не являются "упоминанием в прозе"."""
+    soup = BeautifulSoup(fragment_html, "html.parser")
+    for table in soup.find_all("table"):
+        table.decompose()
+    return " ".join(soup.stripped_strings)
+
+
 def _lead_text(soup: BeautifulSoup) -> str:
-    """
-    Текст статьи до первого заголовка - extract_sections() его
-    игнорирует (задокументированное ограничение с Phase 3), но именно
-    там часто живут ключевые вводные факты.
-    """
     headings = soup.find_all(HEADING_TAGS)
     if not headings:
-        return " ".join(soup.stripped_strings)
+        return _strip_tables(str(soup))
 
     first_heading = headings[0]
     wrapper = first_heading.find_parent("div", class_="mw-heading")
     boundary = wrapper if wrapper is not None else first_heading
 
     preceding = list(reversed(boundary.find_previous_siblings()))
-    parts = [el.get_text(" ", strip=True) for el in preceding if getattr(el, "name", None)]
-    return " ".join(parts)
+    fragment_html = "".join(str(el) for el in preceding if getattr(el, "name", None))
+    return _strip_tables(fragment_html)
 
 
 def _find_dates_in_text(text: str, title: str) -> list[Event]:
@@ -88,18 +100,21 @@ def _find_dates_in_text(text: str, title: str) -> list[Event]:
 
 def extract_text_dates(html: str) -> list[Event]:
     """
-    Извлекает даты (день+месяц+год) из обычного текста статьи - НЕ из
-    infobox и НЕ из таблиц (это отдельный date_extractor.py) - через
+    Извлекает даты (день+месяц+год) из обычного текста статьи через
     словарь названий месяцев (en/ru), без NLP-анализа смысла предложения.
 
-    Дата привязывается к заголовку раздела, где встретилась (используя
-    ту же разбивку на разделы, что и section_extractor), либо к condition
-    "Introduction" для текста до первого заголовка. Это не "название
-    события", а лучшее доступное приближение без понимания смысла
-    предложения - поэтому confidence ниже (0.6), чем у дат из infobox (1.0).
+    Исключения (добавлены после обнаружения систематического шума на
+    реальной статье "Организация Объединённых Наций" - см. историю):
+    - служебные разделы (References/Citations/Примечания/Источники и
+      т.п.) - содержат даты обращения к источникам, не события статьи;
+    - содержимое <table> внутри раздела - таблицы (список стран-членов,
+      список должностных лиц) дают систематический шум и обрабатываются
+      отдельно как структурированные данные, не как "упоминание в прозе".
 
-    Известное ограничение: год без дня/месяца (например, одинокое "BC"-
-    упоминание в прозе) не извлекается - только полные даты день-месяц-год.
+    Дата привязывается к заголовку раздела, где встретилась, либо к
+    "Introduction" для текста до первого заголовка. confidence=0.6
+    (ниже, чем у дат из infobox) - привязка к заголовку раздела заведомо
+    менее точна, чем привязка к конкретному infobox-полю.
     """
     if not html or not html.strip():
         return []
@@ -112,8 +127,9 @@ def extract_text_dates(html: str) -> list[Event]:
     events.extend(_find_dates_in_text(lead_text, title=_LEAD_TITLE))
 
     for section in extract_sections(html):
-        section_soup = BeautifulSoup(section.html, "html.parser")
-        section_text = " ".join(section_soup.stripped_strings)
+        if section.title.strip().lower() in _EXCLUDED_SECTION_TITLES:
+            continue
+        section_text = _strip_tables(section.html)
         events.extend(_find_dates_in_text(section_text, title=section.title))
 
     for index, event in enumerate(events):

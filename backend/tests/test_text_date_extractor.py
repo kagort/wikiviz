@@ -114,3 +114,28 @@ def test_no_dates_in_text_returns_empty_list():
     html = "<h2>Section</h2><p>Nothing date-related here.</p>"
 
     assert extract_text_dates(html) == []
+
+def test_tables_inside_section_are_excluded():
+    html = """
+    <h2>Members</h2>
+    <p>Intro text without dates.</p>
+    <table class="wikitable">
+      <tr><th>Country</th><th>Joined</th></tr>
+      <tr><td>Testland</td><td>15 January 1950</td></tr>
+    </table>
+    """
+
+    events = extract_text_dates(html)
+
+    assert events == []
+
+
+def test_references_section_is_excluded():
+    html = """
+    <h2>References</h2>
+    <p>Retrieved 15 January 2021.</p>
+    """
+
+    events = extract_text_dates(html)
+
+    assert events == []
