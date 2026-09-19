@@ -114,3 +114,66 @@ def test_duplicate_coordinates_are_removed():
     locations = extract_coordinates(html, article_title="Test")
 
     assert len(locations) == 2  # дубликат убран, осталось два уникальных
+
+def test_russian_coordinates_basic():
+    html = """
+    <span class="coordinates">
+        <span>35°42′ с.ш. 139°36′ в.д.</span>
+    </span>
+    """
+
+    locations = extract_coordinates(html, article_title="Токио")
+
+    assert len(locations) == 1
+    assert locations[0].name == "Токио"
+    assert round(locations[0].latitude, 2) == 35.70
+    assert round(locations[0].longitude, 2) == 139.60
+
+
+def test_russian_coordinates_with_seconds():
+    html = """
+    <span class="coordinates">
+        <span>27°59′17″ с.ш. 86°55′31″ в.д.</span>
+    </span>
+    """
+
+    locations = extract_coordinates(html, article_title="Джомолунгма")
+
+    assert round(locations[0].latitude, 4) == 27.9881
+    assert round(locations[0].longitude, 4) == 86.9253
+
+
+def test_russian_coordinates_south_and_west_are_negative():
+    html = """
+    <span class="coordinates">
+        <span>2°19′ ю.ш. 29°21′ з.д.</span>
+    </span>
+    """
+
+    locations = extract_coordinates(html, article_title="Test")
+
+    assert locations[0].latitude < 0
+    assert locations[0].longitude < 0
+
+
+def test_russian_coordinates_name_always_from_article_title():
+    html = """
+    <span class="coordinates"><span>48°50′ с.ш. 2°20′ в.д.</span></span>
+    <span class="coordinates"><span>45°45′ с.ш. 4°51′ в.д.</span></span>
+    """
+
+    locations = extract_coordinates(html, article_title="Франция")
+
+    assert len(locations) == 2
+    assert all(loc.name == "Франция" for loc in locations)
+
+
+def test_english_and_russian_paths_both_work_independently():
+    html = """
+    <span class="latitude">10°N</span><span class="longitude">10°E</span>
+    <span class="coordinates"><span>20°с.ш. 20°в.д.</span></span>
+    """
+
+    locations = extract_coordinates(html, article_title="Test")
+
+    assert len(locations) == 2
