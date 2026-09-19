@@ -176,3 +176,59 @@ def test_source_is_always_infobox():
     """)
     result = extract_numbers(html)
     assert result[0].source.value == "infobox"
+
+def test_coordinate_cell_is_skipped():
+    html = _infobox("""
+        <tr><td class="infobox-label">Capital</td>
+            <td class="infobox-data">
+                Paris <span class="geo-inline"><span class="latitude">48°51′N</span>
+                <span class="longitude">2°21′E</span></span>
+            </td></tr>
+    """)
+    assert extract_numbers(html) == []
+
+
+def test_plain_date_without_iso_is_skipped():
+    html = _infobox("""
+        <tr><td class="infobox-label">Founded</td>
+            <td class="infobox-data">10 August 843</td></tr>
+    """)
+    assert extract_numbers(html) == []
+
+
+def test_russian_numeric_date_format_is_skipped():
+    html = _infobox("""
+        <tr><td class="infobox-label">Дата</td>
+            <td class="infobox-data">01.08.2021</td></tr>
+    """)
+    assert extract_numbers(html, language="ru") == []
+
+
+def test_punctuation_only_unit_becomes_none():
+    html = _infobox("""
+        <tr><td class="infobox-label">Currency</td>
+            <td class="infobox-data">euro ( EUR, code 978 )</td></tr>
+    """)
+    result = extract_numbers(html)
+    assert result[0].value == 978.0
+    assert result[0].unit is None
+
+def test_russian_coordinates_class_is_skipped():
+    html = _infobox("""
+        <tr><th class="plainlist">Координаты</th>
+            <td class="plainlist">
+                <span class="coordinates">35°42′ с. ш. 139°36′ в. д.</span>
+            </td></tr>
+    """)
+    assert extract_numbers(html, language="ru") == []
+
+
+def test_gdp_year_subheader_becomes_group_not_value():
+    html = _infobox("""
+        <tr><td class="infobox-label">GDP (PPP)</td><td class="infobox-data">2026 estimate</td></tr>
+        <tr><td class="infobox-label">•\xa0Total</td><td class="infobox-data">$4.734 trillion</td></tr>
+    """)
+    result = extract_numbers(html, language="en")
+    labels = [r.label for r in result]
+    assert "GDP (PPP) — Total" in labels
+    assert not any(r.value == 2026.0 for r in result)

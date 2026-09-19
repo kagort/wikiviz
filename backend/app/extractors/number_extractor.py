@@ -3,10 +3,22 @@ from typing import Optional
 
 from bs4 import BeautifulSoup
 
+from app.extractors.text_date_extractor import _EN_MONTHS, _RU_MONTHS
 from app.models import NumericValue, SourceType
 
 _FOOTNOTE_RE = re.compile(r"\[\s*[^\]]{1,6}\s*\]")
 _ARROW_RE = re.compile(r"[▲▼]")
+
+_DATE_LIKE_RE = re.compile(
+    r"\b\d{1,2}\s+(?:" + "|".join(_EN_MONTHS) + "|" + "|".join(_RU_MONTHS) + r")\b"
+    r"|\b\d{1,2}\.\d{1,2}\.\d{4}\b",
+    re.IGNORECASE,
+)
+
+_YEAR_SUBHEADER_RE = re.compile(
+    r"^(?P<year>\d{4})\s+(?:estimate|estimat\w*|оценка)\.?$",
+    re.IGNORECASE,
+)
 
 _MULTIPLIERS = {
     "thousand": 1_000,
@@ -58,6 +70,14 @@ def _to_float(raw: str, language: str) -> float:
     return float(cleaned)
 
 
+def _has_coordinates(data_cell) -> bool:
+    if data_cell.find(class_="latitude") or data_cell.find(class_="longitude"):
+        return True
+    if data_cell.find(class_="coordinates"):
+        return True
+    return False
+
+
 def _extract_unit(rest: str, label_text: str) -> Optional[str]:
     if rest.startswith("%"):
         return "%"
@@ -69,12 +89,12 @@ def _extract_unit(rest: str, label_text: str) -> Optional[str]:
         return None
 
     candidate = unit_match.group(0).strip()
-    if not candidate:
+    if not candidate or not any(ch.isalpha() for ch in candidate):
         return None
 
     after_unit = rest[unit_match.end():].lstrip()
     sup_match = _SUPERSCRIPT_RE.match(after_unit)
-    if sup_match and any(ch.isalpha() for ch in candidate):
+    if sup_match:
         candidate += "²" if sup_match.group(1) == "2" else "³"
 
     return candidate
@@ -136,39 +156,35 @@ def _extract_percent_breakdown(
 def extract_numbers(html: str, language: str = "en") -> list[NumericValue]:
     """
     Извлекает числовые данные (§17 ТЗ) ИСКЛЮЧИТЕЛЬНО из infobox
-    (<table class="infobox">) - та же изоляция от wikitable/navbox, что
-    и у DateExtractor, по тем же причинам (риск ложных срабатываний из
-    общих шаблонов и вспомогательных таблиц).
+    (<table class="infobox">).
 
-    language определяет локаль разделителей: "en" - запятая=тысячи,
-    точка=десятичная; "ru" - пробел=тысячи, запятая=десятичная.
+    Группировка по контексту (label префикс "Группа — ..."):
+    - через <th class="infobox-header"> (Area/Population/...) - типовой случай;
+    - через строку-подзаголовок вида "GDP (PPP)" / "2026 estimate" -
+      обнаружено на реальной статье France: такие подсекции НЕ используют
+      infobox-header, а являются обычной двухъячеечной строкой, чьё
+      значение - это просто год (+ слово "estimate"/"оценка"), не
+      самостоятельная метрика. Такая строка распознаётся эвристически
+      (после очистки данные состоят ТОЛЬКО из 4-значного года и
+      опционального маркера) и трактуется как новая группа, а не
+      как NumericValue.
 
-    Строки группируются по ближайшему предшествующему заголовку группы
-    (<th class="infobox-header">, например "Area"/"Population"/"GDP") -
-    иначе повторяющиеся generic-label вроде "Total" неразличимы между
-    собой (обнаружено на реальной статье France, где "•Total" встречается
-    трижды в разных смысловых группах).
+    Исключения:
+    - координаты - и англ. разметка (span.latitude/longitude), и русская
+      (span.coordinates, обнаружено на реальной статье о Токио - другая
+      разметка координат, чем в английской Wikipedia);
+    - даты без ISO-представления (день+месяц, dd.mm.yyyy);
+    - единицы измерения без единой буквы (чистая пунктуация).
 
-    Для обычных (не-процентных) ячеек берётся ТОЛЬКО первое найденное
-    число - это одновременно отсекает ранги в скобках ("(21st)"),
-    дублирующее представление в другой системе единиц ("sq mi" после
-    "km²") и номера сносок, поскольку все они в реальных данных всегда
-    идут ПОСЛЕ основного значения.
+    Множители раскрываются в полное значение. Ячейки с несколькими
+    парами "число%+описание" обрабатываются отдельно.
 
-    Множители (million/billion/трлн/млрд и т.п.) распознаются сразу
-    после числа и раскрываются в полное значение (не остаются частью
-    unit) - это удобнее для последующей визуализации на графике
-    (StatisticsChart), где widget не должен разбирать текст единицы
-    измерения, чтобы понять масштаб числа.
-
-    Ячейки с несколькими парами "число%+описание" (например, разбивка
-    религий) обрабатываются отдельно - извлекаются все пары, а не
-    только первая.
-
-    Известные ограничения: год, к которому относится значение (поле
-    "year" модели), не заполняется - эта информация обычно уже есть
-    текстом в label (например, "January 2026 estimate"); восстановление
-    надстрочных степеней (km², km³) работает только для степеней 2 и 3.
+    Известные ограничения: (1) координаты в русском infobox проверены
+    только на одном примере (Токио) - другие возможные варианты
+    разметки могли остаться незамеченными; (2) коды (телефонный, ISO),
+    встроенные в текст без даты/координат, всё ещё могут извлекаться
+    как формально валидные, но бессмысленные значения; (3) unit иногда
+    захватывает случайное следующее слово из прозы ячейки.
     """
     if not html or not html.strip():
         return []
@@ -194,12 +210,24 @@ def extract_numbers(html: str, language: str = "en") -> list[NumericValue]:
             continue
 
         label_cell, data_cell = cells
-        label_text = _clean_label(label_cell.get_text(" ", strip=True))
-        label = f"{current_group} — {label_text}" if current_group else label_text
 
+        if _has_coordinates(data_cell):
+            continue
+
+        label_text = _clean_label(label_cell.get_text(" ", strip=True))
         cleaned_data = _clean(data_cell.get_text(" ", strip=True))
+
+        if _YEAR_SUBHEADER_RE.match(cleaned_data):
+            current_group = label_text
+            continue
+
         if not cleaned_data:
             continue
+
+        if _DATE_LIKE_RE.search(cleaned_data):
+            continue
+
+        label = f"{current_group} — {label_text}" if current_group else label_text
 
         breakdown = _extract_percent_breakdown(label, cleaned_data, language)
         if breakdown:
