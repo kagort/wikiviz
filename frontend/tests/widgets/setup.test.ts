@@ -8,4 +8,8 @@ describe('lib/widgets/setup: сборка виджетов приложения'
   test('galleryWidget зарегистрирован в глобальном реестре', () => {
     expect(widgetRegistry.get('gallery-widget')).toBeDefined()
   })
+
+  test('mapWidget зарегистрирован в глобальном реестре', () => {
+    expect(widgetRegistry.get('map-widget')).toBeDefined()
+  })
 })

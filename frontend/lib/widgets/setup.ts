@@ -1,6 +1,7 @@
 import { widgetRegistry } from './registry'
 import { tableWidget } from './tableWidget'
 import { galleryWidget } from './galleryWidget'
+import { mapWidget } from './mapWidget'
 
 /**
  * Точка сборки: здесь регистрируются все настоящие виджеты приложения.
@@ -9,5 +10,6 @@ import { galleryWidget } from './galleryWidget'
  */
 widgetRegistry.register(tableWidget)
 widgetRegistry.register(galleryWidget)
+widgetRegistry.register(mapWidget)
 
 export { widgetRegistry }
