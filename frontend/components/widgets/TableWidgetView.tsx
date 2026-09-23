@@ -15,16 +15,15 @@ interface SortState {
 }
 
 /**
- * Отображает одну таблицу с сортировкой по клику на заголовок.
+ * Отображает одну таблицу с сортировкой по клику на заголовок
+ * и текстовым поиском по всем ячейкам строки.
  *
- * Сортировка строковая (localeCompare), не числовая: например,
- * "9" будет идти после "10". Числовой парсинг локализованных форматов
- * ("3 699 428", "31,6%") - осознанно отложенная задача будущего
- * transformer/NLP-слоя (по аналогии с NumberExtractor, ТЗ §17.3),
- * а не логика виджета - см. Phase 6 контекст-документ.
+ * Сортировка строковая (localeCompare), не числовая - см. комментарий
+ * ниже и Phase 6 контекст-документ (осознанное ограничение MVP).
  */
 export function TableWidgetView({ table }: TableWidgetViewProps) {
   const [sort, setSort] = useState<SortState | null>(null)
+  const [query, setQuery] = useState('')
 
   function handleHeaderClick(columnIndex: number) {
     setSort((current) => {
@@ -38,18 +37,32 @@ export function TableWidgetView({ table }: TableWidgetViewProps) {
     })
   }
 
+  const normalizedQuery = query.trim().toLowerCase()
+  const filteredRows = normalizedQuery
+    ? table.rows.filter((row) =>
+        row.some((cell) => cell.toLowerCase().includes(normalizedQuery))
+      )
+    : table.rows
+
   const displayedRows = sort
-    ? [...table.rows].sort((a, b) => {
+    ? [...filteredRows].sort((a, b) => {
         const left = a[sort.columnIndex] ?? ''
         const right = b[sort.columnIndex] ?? ''
         const result = left.localeCompare(right)
         return sort.direction === 'asc' ? result : -result
       })
-    : table.rows
+    : filteredRows
 
   return (
     <div>
       {table.title && <h3>{table.title}</h3>}
+      <input
+        type="text"
+        placeholder="Поиск по таблице"
+        value={query}
+        onChange={(event) => setQuery(event.target.value)}
+        aria-label="Поиск по таблице"
+      />
       <table>
         <thead>
           <tr>
@@ -81,6 +94,7 @@ export function TableWidgetView({ table }: TableWidgetViewProps) {
           ))}
         </tbody>
       </table>
+      {displayedRows.length === 0 && <p>Ничего не найдено</p>}
     </div>
   )
 }
