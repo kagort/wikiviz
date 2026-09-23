@@ -1,0 +1,366 @@
+{
+  "article": {
+    "id": 23862,
+    "title": "Python (programming language)",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "History",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Design philosophy and features",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Enhancement Proposals",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "Syntax and semantics",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-4",
+          "title": "Indentation",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "Statements and control flow",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-6",
+          "title": "Expressions",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Typing",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Arithmetic operations",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-9",
+          "title": "Function syntax",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "Code examples",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-11",
+      "title": "Libraries",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-12",
+      "title": "Development environments",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-13",
+      "title": "Implementations",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-14",
+          "title": "Reference implementation",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-15",
+          "title": "Limitations of the reference implementation",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-16",
+          "title": "Other implementations",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Unsupported implementations",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-18",
+          "title": "Transpilers to other languages",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-19",
+          "title": "Performance",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-20",
+      "title": "Language development",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-21",
+      "title": "Naming",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-22",
+      "title": "Languages influenced by Python",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-23",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-24",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-25",
+      "title": "References",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-26",
+          "title": "Sources",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-27",
+      "title": "Further reading",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-28",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {},
+  "tables": [
+    {
+      "id": "table-0",
+      "title": "Summary of Python 3's built-in types",
+      "columns": [
+        "Type",
+        "Mutability",
+        "Description",
+        "Syntax examples"
+      ],
+      "rows": [
+        [
+          "bool",
+          "immutable",
+          "Boolean value",
+          "True False"
+        ],
+        [
+          "bytearray",
+          "mutable",
+          "Sequence of bytes",
+          "bytearray ( b 'Some ASCII' ) bytearray ( b \"Some ASCII\" ) bytearray ([ 119 , 105 , 107 , 105 ])"
+        ],
+        [
+          "bytes",
+          "immutable",
+          "Sequence of bytes",
+          "b 'Some ASCII' b \"Some ASCII\" bytes ([ 119 , 105 , 107 , 105 ])"
+        ],
+        [
+          "complex",
+          "immutable",
+          "Complex number with real and imaginary parts",
+          "3 + 2.7 j 3 + 2.7 j 5 j"
+        ],
+        [
+          "dict",
+          "mutable",
+          "Associative array (or dictionary) of key and value pairs; can contain mixed types (keys and values); keys must be a hashable type",
+          "{ 'key1' : 1.0 , 3 : False } {}"
+        ],
+        [
+          "types.EllipsisType",
+          "immutable",
+          "An ellipsis placeholder to be used as an index in NumPy arrays",
+          "... Ellipsis"
+        ],
+        [
+          "float",
+          "immutable",
+          "64-bit double-precision floating-point number ( IEEE 754 number with 53 bits of precision, in all supported versions since CPython 3.11; [ 107 ] also in practice in 3.10 and older, though technically there the precision is machine-dependent [ 108 ] ) .  Python's built-in type memoryview does though support both 64-bit doubles and 32-bit floats, and Python's standard library struct module additionally supports 16-bit half-floats. Python packages like NumPy and Pandas may also support 32-bit floats or more, e.g. numpy.half ; though support for half-floats is often incomplete or non-existent in most packages. [ 109 ] 16-bit bfloat has support in a few packages. [ 110 ] Most Python implementations choose to support the double kind, but some unusual (subset) implementations, such as MicroPython for embedded programming , support 32-bit IEEE floats as their default float. Users can opt into 64-bit by setting MICROPY_FLOAT_IMPL to MICROPY_FLOAT_IMPL_DOUBLE.",
+          "1.33333"
+        ],
+        [
+          "frozenset",
+          "immutable",
+          "Unordered set , contains no duplicates; can contain mixed types, if hashable",
+          "frozenset ({ 4.0 , 'string' , True }) frozenset ()"
+        ],
+        [
+          "int",
+          "immutable",
+          "Integer of unlimited magnitude [ 111 ] (i.e. not using machine integers; e.g. the Python package NumPy uses fixed-sized integers for speedup (and allows different sizes), such as types numpy.byte and numpy.ulonglong , all such types have a possibility of wrap-around, though less likely the larger it is)",
+          "42"
+        ],
+        [
+          "list",
+          "mutable",
+          "List , can contain mixed types",
+          "[ 4.0 , 'string' , True ] []"
+        ],
+        [
+          "types.NoneType",
+          "immutable",
+          "An object representing the absence of a value, often called null in other languages",
+          "None"
+        ],
+        [
+          "types.NotImplementedType",
+          "immutable",
+          "A placeholder that can be returned from overloaded operators to indicate unsupported operand types",
+          "NotImplemented"
+        ],
+        [
+          "range",
+          "immutable",
+          "An immutable sequence of numbers, commonly used for iterating a specific number of times in for loops [ 112 ]",
+          "range ( − 1 , 10 ) range ( 10 , − 5 , − 2 )"
+        ],
+        [
+          "set",
+          "mutable",
+          "Unordered set , contains no duplicates; can contain mixed types, if hashable",
+          "{ 4.0 , 'string' , True } set ()"
+        ],
+        [
+          "str",
+          "immutable",
+          "A character string : sequence of Unicode codepoints",
+          "'Wikipedia' \"Wikipedia\" \"\"\"Spanning multiple lines\"\"\""
+        ],
+        [
+          "tuple",
+          "immutable",
+          "Tuple , can contain mixed types",
+          "( 4.0 , 'string' , True ) ( 'single element' ,) ()"
+        ]
+      ],
+      "source": "table"
+    }
+  ],
+  "locations": [],
+  "events": [
+    {
+      "id": "event-0",
+      "date": "1991-02-20",
+      "date_precision": "day",
+      "title": "First appeared",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "text-event-0",
+      "date": "2018-07-12",
+      "date_precision": "day",
+      "title": "History",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "2000-10-16",
+      "date_precision": "day",
+      "title": "History",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "2008-12-03",
+      "date_precision": "day",
+      "title": "History",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "2025-03-13",
+      "date_precision": "day",
+      "title": "Libraries",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

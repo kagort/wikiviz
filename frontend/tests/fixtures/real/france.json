@@ -1,0 +1,633 @@
+{
+  "article": {
+    "id": 5843419,
+    "title": "France",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/France",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Etymology",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "History",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Prehistory",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Antiquity (6th century BC – 5th century AD)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Early Middle Ages (5th–10th century)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "High and Late Middle Ages (10th–15th century)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-6",
+          "title": "Early modern period (15th century–1789)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Revolutionary France (1789–1799)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Napoleonic France (1799–1815)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-9",
+          "title": "Colonial empire",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-10",
+          "title": "Early to mid-20th century (1914–1946)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-11",
+          "title": "1946–present",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-12",
+      "title": "Geography",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-13",
+          "title": "Geology, topography and hydrography",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-14",
+          "title": "Environment",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-15",
+      "title": "Politics",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-16",
+          "title": "Government",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Administrative divisions",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-18",
+              "title": "Regions",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-19",
+              "title": "Overseas territories and collectivities",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-20",
+          "title": "Foreign relations",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "Military",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-22",
+          "title": "Law",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-23",
+          "title": "Human rights",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-24",
+      "title": "Economy",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-25",
+          "title": "Tourism",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-26",
+          "title": "Energy",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-27",
+          "title": "Transport",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-28",
+      "title": "Demographics",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-29",
+          "title": "Major cities",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-30",
+          "title": "Ethnic groups",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-31",
+          "title": "Immigration",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-32",
+          "title": "Language",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-33",
+          "title": "Religion",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-34",
+          "title": "Health",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-35",
+          "title": "Education",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-36",
+      "title": "Culture",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-37",
+          "title": "Art",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-38",
+          "title": "Architecture",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-39",
+          "title": "Literature and philosophy",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-40",
+              "title": "Philosophy",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-41",
+          "title": "Music",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-42",
+          "title": "Cinema",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-43",
+          "title": "Fashion",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-44",
+          "title": "Media",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-45",
+          "title": "Cuisine",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-46",
+          "title": "Sports",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-47",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-48",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-49",
+      "title": "References",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-50",
+      "title": "Further reading",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-51",
+      "title": "External links",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-52",
+          "title": "Economy",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-53",
+          "title": "Government",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-54",
+          "title": "Culture",
+          "level": 3,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "infobox": {},
+  "tables": [],
+  "locations": [
+    {
+      "id": "location-0",
+      "name": "France",
+      "latitude": 48.85,
+      "longitude": 2.35,
+      "description": null,
+      "source": "coordinate",
+      "confidence": 1.0
+    },
+    {
+      "id": "location-1",
+      "name": "France",
+      "latitude": 47.0,
+      "longitude": 2.0,
+      "description": null,
+      "source": "coordinate",
+      "confidence": 1.0
+    }
+  ],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1789-07-14",
+      "date_precision": "day",
+      "title": "Revolutionary France (1789–1799)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1792-08-10",
+      "date_precision": "day",
+      "title": "Revolutionary France (1789–1799)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "1944-06-06",
+      "date_precision": "day",
+      "title": "Early to mid-20th century (1914–1946)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "2019-06-28",
+      "date_precision": "day",
+      "title": "Environment",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "2007-08-27",
+      "date_precision": "day",
+      "title": "Culture",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Religion (2020) — Christianity",
+      "value": 50.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2020) — Catholicism",
+      "value": 47.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2020) — Protestantism",
+      "value": 2.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2020) — Orthodoxy",
+      "value": 1.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2020) — no religion",
+      "value": 33.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2020) — Islam",
+      "value": 4.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2020) — Buddhism",
+      "value": 2.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2020) — Judaism",
+      "value": 1.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2020) — other religion",
+      "value": 1.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2020) — unanswered",
+      "value": 9.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Area — Total",
+      "value": 632702.3,
+      "unit": "km²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Area — Water (%)",
+      "value": 0.86,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Area — Metropolitan France ( DGCL )",
+      "value": 543941.0,
+      "unit": "km²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Area — Metropolitan France ( INSEE )",
+      "value": 543908.3,
+      "unit": "km²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population — January 2026 estimate",
+      "value": 69081996.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population — Density",
+      "value": 109.0,
+      "unit": "/km²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population — Metropolitan France, estimate as of January 2026",
+      "value": 66792845.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population — Density",
+      "value": 123.0,
+      "unit": "/km²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP ( PPP ) — Total",
+      "value": 4734000000000.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP ( PPP ) — Per capita",
+      "value": 68567.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Total",
+      "value": 3596000000000.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Per capita",
+      "value": 52083.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Gini (2025)",
+      "value": 30.4,
+      "unit": "medium",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — HDI (2023)",
+      "value": 0.92,
+      "unit": "very",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Time zone",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Summer ( DST )",
+      "value": 2.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Calling code",
+      "value": 33.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Emmanuel_Macron_portrait_%28cropped%29.jpg/1280px-Emmanuel_Macron_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Emmanuel_Macron_portrait_%28cropped%29.jpg/250px-Emmanuel_Macron_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Emmanuel Macron President",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Flag of France",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}
