@@ -106,3 +106,60 @@ def test_multiple_inline_elements_in_cell_get_space_separated():
     tables = extract_tables(html)
 
     assert tables[0].rows == [["bool", "True False"]]
+
+
+def test_hidden_sort_key_span_is_excluded_from_cell_text():
+    """
+    Regression-тест: MediaWiki добавляет в ячейки таблиц скрытый
+    sort-key span (style="display:none") для корректной числовой
+    сортировки. Обнаружено на реальной статье "Токио" (ru) —
+    без фильтрации текст скрытого span склеивался с видимым значением
+    ("03699428.&&&&00 3 699 428" вместо "3 699 428").
+    """
+    html = """
+    <table class="wikitable">
+        <tr><th>Год</th><th>Население</th></tr>
+        <tr>
+            <td>1920</td>
+            <td><span style="display:none">03699428.0000</span> 3 699 428</td>
+        </tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["1920", "3 699 428"]]
+
+
+def test_hidden_span_nested_deeper_than_direct_child_is_excluded():
+    """
+    Скрытый span может быть не прямым потомком ячейки, а обёрнут
+    дополнительным тегом - фильтрация должна работать на любой глубине.
+    """
+    html = """
+    <table class="wikitable">
+        <tr><th>A</th></tr>
+        <tr><td><b><span style="display:none">99</span></b> 5</td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["5"]]
+
+
+def test_style_with_other_properties_is_not_treated_as_hidden():
+    """
+    Только display:none скрывает содержимое - другие style-свойства
+    (например, text-align) не должны исключать текст.
+    """
+    html = """
+    <table class="wikitable">
+        <tr><th>A</th></tr>
+        <tr><td><span style="text-align: center;">visible</span></td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["visible"]]

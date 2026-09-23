@@ -1,6 +1,10 @@
-﻿from bs4 import BeautifulSoup
+import re
+
+from bs4 import BeautifulSoup
 
 from app.models import Table
+
+_HIDDEN_STYLE_RE = re.compile(r"display\s*:\s*none")
 
 
 def extract_tables(html: str) -> list[Table]:
@@ -50,10 +54,36 @@ def extract_tables(html: str) -> list[Table]:
     return tables
 
 
+def _is_hidden(node, cell) -> bool:
+    """
+    Проверяет, находится ли текстовый узел внутри элемента с
+    style="display:none" в пределах данной ячейки (не выходя за её
+    границы вверх по дереву).
+    """
+    parent = node.parent
+    while parent is not None:
+        style = parent.get("style", "") if hasattr(parent, "get") else ""
+        if _HIDDEN_STYLE_RE.search(style):
+            return True
+        if parent is cell:
+            break
+        parent = parent.parent
+    return False
+
+
 def _cell_text(cell) -> str:
     """
     Извлекает текст ячейки, склеивая содержимое нескольких вложенных
     элементов (например, <code>True</code><code>False</code>) через
-    пробел, а не впритык.
+    пробел, а не впритык, и исключая скрытые sort-key spans
+    (style="display:none"), которые MediaWiki добавляет для корректной
+    числовой/датовой сортировки таблиц - без фильтрации их текст
+    (например, "03699428.&&&&00") склеивается с видимым значением
+    ("3 699 428"), портя данные.
     """
-    return " ".join(cell.stripped_strings)
+    visible = [
+        text.strip()
+        for text in cell.strings
+        if text.strip() and not _is_hidden(text, cell)
+    ]
+    return " ".join(visible)
