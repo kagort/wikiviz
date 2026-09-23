@@ -14,16 +14,19 @@ interface SortState {
   direction: SortDirection
 }
 
+const PAGE_SIZE = 10
+
 /**
- * Отображает одну таблицу с сортировкой по клику на заголовок
- * и текстовым поиском по всем ячейкам строки.
+ * Отображает одну таблицу: поиск, сортировка по клику на заголовок,
+ * пагинация. Порядок применения: фильтр -> сортировка -> пагинация.
  *
- * Сортировка строковая (localeCompare), не числовая - см. комментарий
- * ниже и Phase 6 контекст-документ (осознанное ограничение MVP).
+ * Сортировка строковая (localeCompare), не числовая - см. Phase 6
+ * контекст-документ (осознанное ограничение MVP).
  */
 export function TableWidgetView({ table }: TableWidgetViewProps) {
   const [sort, setSort] = useState<SortState | null>(null)
   const [query, setQuery] = useState('')
+  const [page, setPage] = useState(0)
 
   function handleHeaderClick(columnIndex: number) {
     setSort((current) => {
@@ -35,6 +38,12 @@ export function TableWidgetView({ table }: TableWidgetViewProps) {
       }
       return { columnIndex, direction: 'asc' }
     })
+    setPage(0)
+  }
+
+  function handleQueryChange(value: string) {
+    setQuery(value)
+    setPage(0)
   }
 
   const normalizedQuery = query.trim().toLowerCase()
@@ -44,7 +53,7 @@ export function TableWidgetView({ table }: TableWidgetViewProps) {
       )
     : table.rows
 
-  const displayedRows = sort
+  const sortedRows = sort
     ? [...filteredRows].sort((a, b) => {
         const left = a[sort.columnIndex] ?? ''
         const right = b[sort.columnIndex] ?? ''
@@ -53,6 +62,11 @@ export function TableWidgetView({ table }: TableWidgetViewProps) {
       })
     : filteredRows
 
+  const pageCount = Math.max(1, Math.ceil(sortedRows.length / PAGE_SIZE))
+  const currentPage = Math.min(page, pageCount - 1)
+  const pageStart = currentPage * PAGE_SIZE
+  const displayedRows = sortedRows.slice(pageStart, pageStart + PAGE_SIZE)
+
   return (
     <div>
       {table.title && <h3>{table.title}</h3>}
@@ -60,7 +74,7 @@ export function TableWidgetView({ table }: TableWidgetViewProps) {
         type="text"
         placeholder="Поиск по таблице"
         value={query}
-        onChange={(event) => setQuery(event.target.value)}
+        onChange={(event) => handleQueryChange(event.target.value)}
         aria-label="Поиск по таблице"
       />
       <table>
@@ -86,7 +100,7 @@ export function TableWidgetView({ table }: TableWidgetViewProps) {
         </thead>
         <tbody>
           {displayedRows.map((row, rowIndex) => (
-            <tr key={rowIndex}>
+            <tr key={pageStart + rowIndex}>
               {row.map((cell, cellIndex) => (
                 <td key={cellIndex}>{cell}</td>
               ))}
@@ -94,7 +108,29 @@ export function TableWidgetView({ table }: TableWidgetViewProps) {
           ))}
         </tbody>
       </table>
-      {displayedRows.length === 0 && <p>Ничего не найдено</p>}
+      {sortedRows.length === 0 && <p>Ничего не найдено</p>}
+      {pageCount > 1 && (
+        <div>
+          <button
+            type="button"
+            onClick={() => setPage((p) => Math.max(0, p - 1))}
+            disabled={currentPage === 0}
+          >
+            Назад
+          </button>
+          <span>
+            {' '}
+            Страница {currentPage + 1} из {pageCount}{' '}
+          </span>
+          <button
+            type="button"
+            onClick={() => setPage((p) => Math.min(pageCount - 1, p + 1))}
+            disabled={currentPage === pageCount - 1}
+          >
+            Вперёд
+          </button>
+        </div>
+      )}
     </div>
   )
 }
