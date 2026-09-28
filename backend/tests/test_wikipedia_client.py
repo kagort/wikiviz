@@ -160,3 +160,88 @@ def test_fetch_article_unexpected_response():
             client.fetch_article(
                 "https://en.wikipedia.org/wiki/Python_(programming_language)"
             )
+
+def test_fetch_article_with_revision_uses_oldid_instead_of_page():
+    """Фиксированная ревизия: запрос идёт по oldid, а не по названию статьи."""
+    response_data = {
+        "parse": {
+            "pageid": 23862,
+            "title": "Python (programming language)",
+            "revid": 1200000000,
+            "text": "<p>Old revision.</p>",
+        }
+    }
+
+    with patch(
+        "app.wikipedia.client.httpx.get",
+        return_value=make_response(response_data),
+    ) as mock_get:
+        client = WikipediaClient()
+
+        article = client.fetch_article(
+            "https://en.wikipedia.org/wiki/Python_(programming_language)",
+            revision_id=1200000000,
+        )
+
+    assert article.revision_id == 1200000000
+    assert article.html == "<p>Old revision.</p>"
+    assert article.url == (
+        "https://en.wikipedia.org/wiki/Python_(programming_language)"
+    )
+
+    _, kwargs = mock_get.call_args
+
+    assert kwargs["params"] == {
+        "action": "parse",
+        "oldid": "1200000000",
+        "prop": "text|revid",
+        "format": "json",
+        "formatversion": "2",
+    }
+    assert "page" not in kwargs["params"]
+
+
+def test_fetch_article_missing_revision():
+    response_data = {
+        "error": {
+            "code": "nosuchrevid",
+            "info": "There is no revision with ID 1.",
+        }
+    }
+
+    with patch(
+        "app.wikipedia.client.httpx.get",
+        return_value=make_response(response_data),
+    ):
+        client = WikipediaClient()
+
+        with pytest.raises(ArticleNotFoundError):
+            client.fetch_article(
+                "https://en.wikipedia.org/wiki/Python_(programming_language)",
+                revision_id=1,
+            )
+
+
+def test_fetch_article_revision_of_another_page_is_rejected():
+    """oldid глобален для всей Wikipedia: ревизия может принадлежать
+    другой статье. Такой ответ не должен тихо попасть в фикстуру."""
+    response_data = {
+        "parse": {
+            "pageid": 1,
+            "title": "Something Else",
+            "revid": 555,
+            "text": "<p>Other page.</p>",
+        }
+    }
+
+    with patch(
+        "app.wikipedia.client.httpx.get",
+        return_value=make_response(response_data),
+    ):
+        client = WikipediaClient()
+
+        with pytest.raises(WikipediaAPIError):
+            client.fetch_article(
+                "https://en.wikipedia.org/wiki/Python_(programming_language)",
+                revision_id=555,
+            )

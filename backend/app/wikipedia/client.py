@@ -1,5 +1,6 @@
 
 import re
+from typing import Optional
 from urllib.parse import unquote, urlparse
 
 import httpx
@@ -64,6 +65,21 @@ def parse_wikipedia_url(url: str) -> tuple[str, str]:
     return language, title
 
 
+def _same_title(requested: str, actual: str) -> bool:
+    """
+    Сравнивает название из URL с названием из ответа API.
+
+    В URL пробелы записаны как "_", а первая буква названия в MediaWiki
+    не различает регистр ("python" и "Python" - одна статья).
+    """
+
+    def normalize(title: str) -> str:
+        title = title.replace("_", " ").strip()
+        return title[:1].upper() + title[1:]
+
+    return normalize(requested) == normalize(actual)
+
+
 class WikipediaClient:
     """Минимальный клиент для получения статьи через MediaWiki API."""
 
@@ -79,11 +95,17 @@ class WikipediaClient:
         self.timeout = timeout
         self.user_agent = user_agent
 
-    def fetch_article(self, url: str) -> RawArticle:
+    def fetch_article(
+        self,
+        url: str,
+        revision_id: Optional[int] = None,
+    ) -> RawArticle:
         """
         Получает статью Wikipedia через MediaWiki API.
 
-        На вход принимает URL статьи.
+        На вход принимает URL статьи и, необязательно, номер ревизии.
+        Без ревизии загружается текущая версия статьи; с ревизией -
+        именно эта сохранённая версия (нужно для воспроизводимых фикстур).
         На выходе возвращает RawArticle.
         """
 
@@ -91,14 +113,20 @@ class WikipediaClient:
 
         api_url = f"https://{language}.wikipedia.org/w/api.php"
 
-        params = {
-            "action": "parse",
-            "page": requested_title,
-            "prop": "text|revid",
-            "redirects": "1",
-            "format": "json",
-            "formatversion": "2",
-        }
+        params = {"action": "parse"}
+
+        if revision_id is None:
+            params["page"] = requested_title
+            params["prop"] = "text|revid"
+            params["redirects"] = "1"
+        else:
+            # API не принимает page и oldid вместе; redirects к ревизии
+            # неприменим (ревизия уже принадлежит конкретной странице).
+            params["oldid"] = str(revision_id)
+            params["prop"] = "text|revid"
+
+        params["format"] = "json"
+        params["formatversion"] = "2"
 
         headers = {
             "User-Agent": self.user_agent,
@@ -131,9 +159,10 @@ class WikipediaClient:
             error = data["error"]
             error_code = error.get("code")
 
-            if error_code in {"missingtitle", "invalidtitle"}:
+            if error_code in {"missingtitle", "invalidtitle", "nosuchrevid"}:
                 raise ArticleNotFoundError(
                     f"Article not found: {requested_title}"
+                    + (f" (revision {revision_id})" if revision_id else "")
                 )
 
             raise WikipediaAPIError(
@@ -152,6 +181,14 @@ class WikipediaClient:
             raise WikipediaAPIError(
                 "Unexpected response format from Wikipedia API"
             ) from exc
+
+        # Номер ревизии общий для всей Wikipedia и может принадлежать
+        # другой статье (например, опечатка в манифесте фикстур).
+        if revision_id is not None and not _same_title(requested_title, title):
+            raise WikipediaAPIError(
+                f"Revision {revision_id} belongs to '{title}', "
+                f"not to '{requested_title}'"
+            )
 
         article_url = (
             f"https://{language}.wikipedia.org/wiki/"
