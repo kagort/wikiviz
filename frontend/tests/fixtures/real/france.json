@@ -419,71 +419,71 @@
   ],
   "numbers": [
     {
-      "label": "Religion (2020) — Christianity",
-      "value": 50.0,
+      "label": "Religion (2025) — Christianity",
+      "value": 48.0,
       "unit": "%",
       "year": null,
       "source": "infobox"
     },
     {
-      "label": "Religion (2020) — Catholicism",
-      "value": 47.0,
+      "label": "Religion (2025) — Catholicism",
+      "value": 43.0,
       "unit": "%",
       "year": null,
       "source": "infobox"
     },
     {
-      "label": "Religion (2020) — Protestantism",
-      "value": 2.0,
-      "unit": "%",
-      "year": null,
-      "source": "infobox"
-    },
-    {
-      "label": "Religion (2020) — Orthodoxy",
-      "value": 1.0,
-      "unit": "%",
-      "year": null,
-      "source": "infobox"
-    },
-    {
-      "label": "Religion (2020) — no religion",
-      "value": 33.0,
-      "unit": "%",
-      "year": null,
-      "source": "infobox"
-    },
-    {
-      "label": "Religion (2020) — Islam",
+      "label": "Religion (2025) — Protestantism",
       "value": 4.0,
       "unit": "%",
       "year": null,
       "source": "infobox"
     },
     {
-      "label": "Religion (2020) — Buddhism",
-      "value": 2.0,
-      "unit": "%",
-      "year": null,
-      "source": "infobox"
-    },
-    {
-      "label": "Religion (2020) — Judaism",
+      "label": "Religion (2025) — Orthodoxy",
       "value": 1.0,
       "unit": "%",
       "year": null,
       "source": "infobox"
     },
     {
-      "label": "Religion (2020) — other religion",
+      "label": "Religion (2025) — no religion",
+      "value": 37.5,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — Islam",
+      "value": 7.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — Judaism",
       "value": 1.0,
       "unit": "%",
       "year": null,
       "source": "infobox"
     },
     {
-      "label": "Religion (2020) — unanswered",
-      "value": 9.0,
+      "label": "Religion (2025) — Buddhism",
+      "value": 1.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — other religion",
+      "value": 2.5,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — unanswered",
+      "value": 3.0,
       "unit": "%",
       "year": null,
       "source": "infobox"

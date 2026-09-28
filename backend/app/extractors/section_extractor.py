@@ -1,4 +1,4 @@
-﻿from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 from pydantic import BaseModel
 
 HEADING_TAGS = ["h2", "h3", "h4", "h5", "h6"]
@@ -15,6 +15,34 @@ class ArticleSection(BaseModel):
     level: int
     title: str
     html: str
+
+
+def _is_service_text(node, heading) -> bool:
+    """
+    Проверяет, относится ли текстовый узел к служебной разметке внутри
+    заголовка: маркер сноски (<sup class="reference">) или ссылка
+    редактирования (mw-editsection). Такой текст не входит в название раздела.
+    """
+    parent = node.parent
+    while parent is not None and parent is not heading:
+        classes = parent.get("class", []) if hasattr(parent, "get") else []
+        if parent.name == "sup" and "reference" in classes:
+            return True
+        if "mw-editsection" in classes:
+            return True
+        parent = parent.parent
+    return False
+
+
+def _heading_title(heading) -> str:
+    """
+    Название раздела: текст заголовка без служебных элементов,
+    с сохранением пробелов вокруг вложенных тегов.
+    """
+    text = "".join(
+        string for string in heading.strings if not _is_service_text(string, heading)
+    )
+    return " ".join(text.split())
 
 
 def extract_sections(html: str) -> list[ArticleSection]:
@@ -42,7 +70,7 @@ def extract_sections(html: str) -> list[ArticleSection]:
         wrapper = heading.find_parent("div", class_="mw-heading")
         boundary_element = wrapper if wrapper is not None else heading
         level = int(heading.name[1])
-        title = heading.get_text(strip=True)
+        title = _heading_title(heading)
         boundaries.append((boundary_element, level, title))
 
     sections = []
