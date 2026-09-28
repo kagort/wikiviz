@@ -2,27 +2,27 @@
   "articles": [
     {
       "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
-      "revision": null,
+      "revision": 1377273173,
       "file": "python.json"
     },
     {
       "url": "https://en.wikipedia.org/wiki/France",
-      "revision": null,
+      "revision": 1377056769,
       "file": "france.json"
     },
     {
       "url": "https://ru.wikipedia.org/wiki/Токио",
-      "revision": null,
+      "revision": 155191448,
       "file": "tokyo-ru.json"
     },
     {
       "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
-      "revision": null,
+      "revision": 1376122478,
       "file": "julius-caesar.json"
     },
     {
       "url": "https://ru.wikipedia.org/wiki/Сократ",
-      "revision": null,
+      "revision": 154832077,
       "file": "socrates-ru.json"
     }
   ]
