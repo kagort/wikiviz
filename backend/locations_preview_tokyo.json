@@ -1,0 +1,11 @@
+[
+  {
+    "id": "location-0",
+    "name": "Токио",
+    "latitude": 35.7,
+    "longitude": 139.6,
+    "description": null,
+    "source": "coordinate",
+    "confidence": 1.0
+  }
+]
