@@ -3,6 +3,7 @@ from urllib.parse import unquote
 
 from bs4 import BeautifulSoup
 
+from app.extractors.text_utils import strings_without_footnotes
 from app.models import Image
 
 _THUMB_WIDTH_RE = re.compile(r"/\d+px-")
@@ -22,6 +23,13 @@ def _upsize_url(thumbnail_url: str, width: int = 1280) -> str:
     (известное упрощение: не гарантирует "истинный оригинал").
     """
     return _THUMB_WIDTH_RE.sub(f"/{width}px-", thumbnail_url, count=1)
+
+
+def _caption_text(element) -> str:
+    """Подпись: непустые куски текста через пробел, без маркеров сносок."""
+    return " ".join(
+        text.strip() for text in strings_without_footnotes(element) if text.strip()
+    )
 
 
 def _file_title(container) -> str | None:
@@ -67,14 +75,14 @@ def extract_images(html: str) -> list[Image]:
         if kind == "body":
             caption_tag = container.find(class_="thumbcaption")
             if caption_tag:
-                caption = " ".join(caption_tag.stripped_strings) or None
+                caption = _caption_text(caption_tag) or None
         else:  # infobox: подпись, если есть, в следующей строке таблицы
             row = container.find_parent("tr")
             next_row = row.find_next_sibling("tr") if row else None
             if next_row:
                 caption_cell = next_row.find(class_="infobox-caption")
                 if caption_cell:
-                    caption = " ".join(caption_cell.stripped_strings) or None
+                    caption = _caption_text(caption_cell) or None
 
         dedup_key = _file_title(container) or thumbnail_url
         if dedup_key in seen:

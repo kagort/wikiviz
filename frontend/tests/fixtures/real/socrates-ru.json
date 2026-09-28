@@ -1,0 +1,276 @@
+{
+  "article": {
+    "id": 1235,
+    "title": "Сократ",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Сократ",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Источники",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-1",
+          "title": "Аристофан",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-2",
+          "title": "Ксенофонт",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Платон",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "«Сократики», Поликрат",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "Античные авторы, которые жили после Сократа",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "«Сократический вопрос»",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-7",
+      "title": "Биография",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-8",
+          "title": "Происхождение",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-9",
+          "title": "Внешний вид. Образ жизни",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-10",
+          "title": "Ответ дельфийской пифии",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-11",
+          "title": "Даймоний Сократа",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-12",
+          "title": "Семья",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-13",
+          "title": "Сократ — гражданин Афин",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-14",
+          "title": "Суд над Сократом",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-15",
+          "title": "Смерть",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-16",
+      "title": "Учение и философские взгляды Сократа",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-17",
+          "title": "Метод Сократа",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-18",
+          "title": "Учение",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-19",
+          "title": "«Сократические парадоксы»",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-20",
+      "title": "Ученики Сократа",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-21",
+          "title": "Сократики",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-22",
+          "title": "Алкивиад",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-23",
+          "title": "Будущие тираны",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-24",
+          "title": "Взаимоотношения учеников Сократа",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-25",
+      "title": "Память",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-26",
+          "title": "Ренессанс",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-27",
+          "title": "Новое время",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-28",
+          "title": "Новейшее время",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-29",
+      "title": "Примечания",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-30",
+      "title": "Литература",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-31",
+          "title": "Античные источники",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-32",
+          "title": "Книги",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-33",
+          "title": "Статьи",
+          "level": 3,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "infobox": {},
+  "tables": [],
+  "locations": [],
+  "events": [
+    {
+      "id": "event-0",
+      "date": "-0469",
+      "date_precision": "year",
+      "title": "Дата рождения",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "-0399",
+      "date_precision": "year",
+      "title": "Дата смерти",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Дата рождения",
+      "value": 469.0,
+      "unit": "до",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Дата смерти",
+      "value": 399.0,
+      "unit": "до",
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/1280px-Socrates_Louvre.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/330px-Socrates_Louvre.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Римская копия бюста Сократа работы Лисиппа. Лувр, Париж",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

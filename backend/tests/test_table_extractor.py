@@ -163,3 +163,112 @@ def test_style_with_other_properties_is_not_treated_as_hidden():
     tables = extract_tables(html)
 
     assert tables[0].rows == [["visible"]]
+
+def test_footnote_markers_are_excluded_from_data_cells():
+    # Разметка MediaWiki одинакова в en и ru: <sup class="reference">.
+    html = """
+    <table class="wikitable">
+        <tr><th>Type</th><th>Size</th></tr>
+        <tr><td>int<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[107]</a></sup></td><td>42</td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["int", "42"]]
+
+
+def test_footnote_markers_are_excluded_from_header_cells():
+    html = """
+    <table class="wikitable">
+        <tr><th>Население<sup class="reference"><a href="#cite_note-24">[24]</a></sup></th><th>Год</th></tr>
+        <tr><td>14 000 000</td><td>2024</td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].columns == ["Население", "Год"]
+
+
+def test_footnote_markers_are_excluded_from_table_caption():
+    html = """
+    <table class="wikitable">
+        <caption>Climate<sup class="reference"><a href="#cite_note-3">[3]</a></sup></caption>
+        <tr><th>Month</th></tr>
+        <tr><td>Jan</td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].title == "Climate"
+
+
+def test_non_reference_superscript_is_kept():
+    # Обычный <sup> (степень, порядковый номер) - часть данных, не сноска.
+    html = """
+    <table class="wikitable">
+        <tr><th>Area</th></tr>
+        <tr><td>2194 km<sup>2</sup></td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["2194 km 2"]]
+
+
+def test_syntax_highlighted_code_is_not_split_by_spaces():
+    # Реальная разметка Wikipedia: подсветка синтаксиса дробит одно
+    # выражение на <span>'ы внутри <code class="mw-highlight">.
+    html = """
+    <table class="wikitable">
+        <tr><th>Type</th><th>Example</th></tr>
+        <tr><td>bytearray</td><td><code class="mw-highlight mw-highlight-lang-python" dir="ltr"><span class="nb">bytearray</span><span class="p">(</span><span class="sa">b</span><span class="s1">'Some ASCII'</span><span class="p">)</span></code></td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["bytearray", "bytearray(b'Some ASCII')"]]
+
+
+def test_spaces_inside_highlighted_code_are_preserved():
+    html = """
+    <table class="wikitable">
+        <tr><th>Example</th></tr>
+        <tr><td><code class="mw-highlight"><span class="p">{</span><span class="s1">'key1'</span><span class="p">:</span> <span class="mf">1.0</span><span class="p">,</span> <span class="mi">3</span><span class="p">:</span> <span class="kc">False</span><span class="p">}</span></code></td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["{'key1': 1.0, 3: False}"]]
+
+
+def test_separate_highlighted_code_elements_stay_space_separated():
+    # Несколько примеров кода в одной ячейке (через <br/>) не склеиваются.
+    html = """
+    <table class="wikitable">
+        <tr><th>Example</th></tr>
+        <tr><td><code class="mw-highlight"><span class="p">{</span><span class="mi">4.0</span><span class="p">}</span></code><br/><code class="mw-highlight"><span class="nb">set</span><span class="p">()</span></code></td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["{4.0} set()"]]
+
+
+def test_code_next_to_plain_text_stays_space_separated():
+    html = """
+    <table class="wikitable">
+        <tr><th>Description</th></tr>
+        <tr><td>types <code>numpy.byte</code> and <code>numpy.ulonglong</code></td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["types numpy.byte and numpy.ulonglong"]]

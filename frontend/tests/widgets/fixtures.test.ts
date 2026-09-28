@@ -29,4 +29,16 @@ describe('реальные фикстуры Wikipedia', () => {
     expect(data.article.language).toBe('ru')
     expect(data.tables.length).toBeGreaterThan(0)
   })
+
+  test('julius-caesar.json загружается, даты до н. э. хранятся как отрицательный год', () => {
+    const data = loadFixture('julius-caesar.json')
+    expect(data.article.title).toBe('Julius Caesar')
+    expect(data.events.some((e) => e.date.startsWith('-'))).toBe(true)
+  })
+
+  test('socrates-ru.json загружается с кириллицей без искажений', () => {
+    const data = loadFixture('socrates-ru.json')
+    expect(data.article.title).toBe('Сократ')
+    expect(data.article.language).toBe('ru')
+  })
 })

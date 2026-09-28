@@ -406,15 +406,6 @@
       "description": null,
       "source": "article_text",
       "confidence": 0.6
-    },
-    {
-      "id": "text-event-4",
-      "date": "2007-08-27",
-      "date_precision": "day",
-      "title": "Culture",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
     }
   ],
   "numbers": [

@@ -16,4 +16,8 @@ describe('lib/widgets/setup: сборка виджетов приложения'
   test('sectionNavigatorWidget зарегистрирован в глобальном реестре', () => {
     expect(widgetRegistry.get('section-navigator-widget')).toBeDefined()
   })
+
+  test('timelineWidget зарегистрирован в глобальном реестре', () => {
+    expect(widgetRegistry.get('timeline-widget')).toBeDefined()
+  })
 })

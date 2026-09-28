@@ -3,7 +3,13 @@ import path from 'node:path'
 import type { NormalizedArticleModel } from '../../../types'
 import { WidgetsDevClient } from '../../../components/dev/WidgetsDevClient'
 
-const FIXTURES = ['python.json', 'france.json', 'tokyo-ru.json']
+const FIXTURES = [
+  'python.json',
+  'france.json',
+  'tokyo-ru.json',
+  'julius-caesar.json',
+  'socrates-ru.json',
+]
 
 function loadFixture(filename: string): NormalizedArticleModel {
   const filePath = path.join(process.cwd(), 'tests', 'fixtures', 'real', filename)

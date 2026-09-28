@@ -3,6 +3,7 @@ import { tableWidget } from './tableWidget'
 import { galleryWidget } from './galleryWidget'
 import { mapWidget } from './mapWidget'
 import { sectionNavigatorWidget } from './sectionNavigatorWidget'
+import { timelineWidget } from './timelineWidget'
 
 /**
  * Точка сборки: здесь регистрируются все настоящие виджеты приложения.
@@ -16,5 +17,6 @@ widgetRegistry.register(tableWidget)
 widgetRegistry.register(galleryWidget)
 widgetRegistry.register(mapWidget)
 widgetRegistry.register(sectionNavigatorWidget)
+widgetRegistry.register(timelineWidget)
 
 export { widgetRegistry }

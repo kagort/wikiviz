@@ -1,0 +1,879 @@
+{
+  "article": {
+    "id": 15924,
+    "title": "Julius Caesar",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Early life and career",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-1",
+          "title": "Life under Sulla and military service",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-2",
+          "title": "Entrance to politics",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Aedileship and election as pontifex maximus",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Praetorship",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "First consulship and the Gallic Wars",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-6",
+          "title": "First consulship",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Campaigns in Gaul",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Politics, Gaul, and Rome",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "Civil war",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-10",
+          "title": "Italy, Spain, and Greece",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-11",
+          "title": "Alexandrine war and Asia Minor",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-12",
+          "title": "Italy, Africa, and Spain",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-13",
+      "title": "Dictatorship and assassination",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-14",
+          "title": "Dictatorships and honours",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-15",
+          "title": "Legislation",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-16",
+          "title": "Conspiracy and death",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Aftermath of the assassination",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-18",
+      "title": "Personal life",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-19",
+          "title": "Health and physical appearance",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-20",
+          "title": "Name and family",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-21",
+              "title": "The name Gaius Julius Caesar",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-22",
+              "title": "Posterity",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-23",
+          "title": "Rumours of passive homosexuality",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-24",
+      "title": "Literary works",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-25",
+          "title": "Memoirs",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-26",
+      "title": "Legacy",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-27",
+          "title": "Historiography",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-28",
+          "title": "Politics",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-29",
+          "title": "Depictions",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-30",
+          "title": "Battle record",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-31",
+      "title": "Chronology",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-32",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-33",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-34",
+      "title": "References",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-35",
+      "title": "Sources",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-36",
+          "title": "Primary sources",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-37",
+              "title": "Own writings",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-38",
+              "title": "Ancient historians' writings",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-39",
+          "title": "Secondary sources",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-40",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {},
+  "tables": [
+    {
+      "id": "table-0",
+      "title": null,
+      "columns": [
+        "Date",
+        "War",
+        "Action",
+        "Opponents",
+        "Type",
+        "Present-day areas",
+        "Outcome"
+      ],
+      "rows": [
+        [
+          "58 BC",
+          "Gallic Wars",
+          "Battle of the Arar",
+          "Helvetii",
+          "Battle",
+          "France",
+          "Victory"
+        ],
+        [
+          "58 BC",
+          "Battle of Bibracte",
+          "Helvetii , Boii , Tulingi , Rauraci",
+          "Battle",
+          "France",
+          "Victory"
+        ],
+        [
+          "58 BC",
+          "Battle of Vosges",
+          "Suebi",
+          "Battle",
+          "France",
+          "Victory"
+        ],
+        [
+          "57 BC",
+          "Battle of the Axona",
+          "Belgae",
+          "Battle",
+          "France",
+          "Victory"
+        ],
+        [
+          "57 BC",
+          "Battle of the Sabis",
+          "Nervii , Viromandui , Atrebates , Aduatuci",
+          "Battle",
+          "France",
+          "Victory"
+        ],
+        [
+          "56 BC",
+          "Battle of Morbihan",
+          "Veneti",
+          "Battle",
+          "France",
+          "Victory"
+        ],
+        [
+          "55 and 54 BC",
+          "Julius Caesar's invasions of Britain",
+          "Celtic Britons",
+          "Campaign",
+          "England",
+          "Victory"
+        ],
+        [
+          "54 BC–53 BC",
+          "Ambiorix's revolt",
+          "Eburones",
+          "Campaign",
+          "Belgium, France",
+          "Victory"
+        ],
+        [
+          "52 BC",
+          "Avaricum",
+          "Bituriges , Arverni",
+          "Siege",
+          "France",
+          "Victory"
+        ],
+        [
+          "52 BC",
+          "Battle of Gergovia",
+          "Gallic tribes",
+          "Battle",
+          "France",
+          "Defeat"
+        ],
+        [
+          "September 52 BC",
+          "Battle of Alesia",
+          "Gallic Confederation",
+          "Siege and Battle",
+          "Alise-Sainte-Reine , France",
+          "Decisive victory"
+        ],
+        [
+          "51 BC",
+          "Siege of Uxellodunum",
+          "Gallic",
+          "Siege",
+          "Vayrac , France",
+          "Victory"
+        ],
+        [
+          "June–August 49 BC",
+          "Caesar's Civil War",
+          "Battle of Ilerda",
+          "Optimates",
+          "Battle",
+          "Catalonia , Spain",
+          "Victory"
+        ],
+        [
+          "10 July 48 BC",
+          "Battle of Dyrrhachium (48 BC)",
+          "Optimates",
+          "Battle",
+          "Durrës , Albania",
+          "Defeat"
+        ],
+        [
+          "9 August 48 BC",
+          "Battle of Pharsalus",
+          "Pompeians",
+          "Battle",
+          "Greece",
+          "Decisive victory"
+        ],
+        [
+          "47 BC",
+          "Battle of the Nile",
+          "Ptolemaic Kingdom",
+          "Battle",
+          "Alexandria , Egypt",
+          "Victory"
+        ],
+        [
+          "2 August 47 BC",
+          "Battle of Zela",
+          "Kingdom of Pontus",
+          "Battle",
+          "Zile , Turkey",
+          "Victory"
+        ],
+        [
+          "4 January 46 BC",
+          "Battle of Ruspina",
+          "Optimates , Numidia",
+          "Battle",
+          "Ruspina Africa",
+          "Defeat"
+        ],
+        [
+          "6 April 46 BC",
+          "Battle of Thapsus",
+          "Optimates , Numidia",
+          "Battle",
+          "Tunisia",
+          "Decisive victory"
+        ],
+        [
+          "17 March 45 BC",
+          "Battle of Munda",
+          "Pompeians",
+          "Battle",
+          "Andalusia Spain",
+          "Victory"
+        ]
+      ],
+      "source": "table"
+    },
+    {
+      "id": "table-1",
+      "title": null,
+      "columns": [
+        "Political offices"
+      ],
+      "rows": [
+        [
+          "Preceded by Lucius Afranius Quintus Caecilius Metellus Celer",
+          "Roman consul 59 BC With: Marcus Calpurnius Bibulus",
+          "Succeeded by Lucius Calpurnius Piso Caesoninus Aulus Gabinius"
+        ],
+        [
+          "Preceded by Lucius Cornelius Lentulus Crus Gaius Claudius Marcellus",
+          "Roman consul II 48 BC With: Publius Servilius Isauricus",
+          "Succeeded by Quintus Fufius Calenus Publius Vatinius"
+        ],
+        [
+          "Preceded by Quintus Fufius Calenus Publius Vatinius",
+          "Roman consul III 46 BC With: Marcus Aemilius Lepidus",
+          "Succeeded by Himself without colleague"
+        ],
+        [
+          "Preceded by Himself Marcus Aemilius Lepidus",
+          "Roman consul IV January–September 45 BC",
+          "Succeeded by Himself Mark Antony"
+        ],
+        [
+          "Preceded by Himself without colleague",
+          "Roman consul V 44 BC With: Mark Antony",
+          "Succeeded by Publius Cornelius Dolabella"
+        ],
+        [
+          "Religious titles"
+        ],
+        [
+          "Preceded by Quintus Caecilius Metellus Pius",
+          "Pontifex maximus 63–44 BC",
+          "Succeeded by Marcus Aemilius Lepidus"
+        ]
+      ],
+      "source": "table"
+    }
+  ],
+  "locations": [],
+  "events": [
+    {
+      "id": "event-0",
+      "date": "-0100",
+      "date_precision": "year",
+      "title": "Born",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "-0044",
+      "date_precision": "year",
+      "title": "Died",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-2",
+      "date": "-0044",
+      "date_precision": "year",
+      "title": "Pontifex maximus",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-3",
+      "date": "-0062",
+      "date_precision": "year",
+      "title": "Praetor",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-4",
+      "date": "-0059",
+      "date_precision": "year",
+      "title": "Consul",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-5",
+      "date": "-0049",
+      "date_precision": "year",
+      "title": "Proconsul(Gaul, Illyricum)",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-6",
+      "date": "-0044",
+      "date_precision": "year",
+      "title": "Dictator",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-7",
+      "date": "-0044",
+      "date_precision": "year",
+      "title": "Consul",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-8",
+      "date": "-0044",
+      "date_precision": "year",
+      "title": "Dictator perpetuo",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-9",
+      "date": "-0084",
+      "date_precision": "year",
+      "title": "Cornelia",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-10",
+      "date": "-0067",
+      "date_precision": "year",
+      "title": "Pompeia",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-11",
+      "date": "-0059",
+      "date_precision": "year",
+      "title": "Calpurnia",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-12",
+      "date": "-0045",
+      "date_precision": "year",
+      "title": "Service years",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "text-event-0",
+      "date": "-0100",
+      "date_precision": "year",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "-0044",
+      "date_precision": "year",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "-0100",
+      "date_precision": "year",
+      "title": "Early life and career",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "-0050",
+      "date_precision": "year",
+      "title": "Civil war",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "-0049",
+      "date_precision": "year",
+      "title": "Italy, Spain, and Greece",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "-0048",
+      "date_precision": "year",
+      "title": "Italy, Spain, and Greece",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "-0048",
+      "date_precision": "year",
+      "title": "Alexandrine war and Asia Minor",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "-0047",
+      "date_precision": "year",
+      "title": "Italy, Africa, and Spain",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "-0046",
+      "date_precision": "year",
+      "title": "Italy, Africa, and Spain",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "-0045",
+      "date_precision": "year",
+      "title": "Italy, Africa, and Spain",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "-0044",
+      "date_precision": "year",
+      "title": "Italy, Africa, and Spain",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-11",
+      "date": "-0044",
+      "date_precision": "year",
+      "title": "Conspiracy and death",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-12",
+      "date": "-0042",
+      "date_precision": "year",
+      "title": "Aftermath of the assassination",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Pontifex maximus",
+      "value": 64.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Praetor",
+      "value": 62.0,
+      "unit": "BC",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Consul",
+      "value": 59.0,
+      "unit": "BC",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Proconsul (Gaul, Illyricum)",
+      "value": 58.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Dictator",
+      "value": 49.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Consul",
+      "value": 48.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Dictator perpetuo",
+      "value": 44.0,
+      "unit": "BC",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Cornelia",
+      "value": 84.0,
+      "unit": "BC;",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Pompeia",
+      "value": 67.0,
+      "unit": "BC;",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Calpurnia",
+      "value": 59.0,
+      "unit": "BC",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Service years",
+      "value": 81.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Cesar_Dictator_Perpetuo_denier_Gallica_23528_avers.jpg/1280px-Cesar_Dictator_Perpetuo_denier_Gallica_23528_avers.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Cesar_Dictator_Perpetuo_denier_Gallica_23528_avers.jpg/250px-Cesar_Dictator_Perpetuo_denier_Gallica_23528_avers.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "This coin, minted c. 44 BC , shows Caesar's laurelled head surrounded by the CAESAR DICT PERPETVO . The reverse shows symbols of victory, internal harmony, and liberty.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Roman_families_4_Nov_08.png/1280px-Roman_families_4_Nov_08.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Roman_families_4_Nov_08.png/1280px-Roman_families_4_Nov_08.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Julio-Claudian family tree",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg/1280px-Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg/120px-Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Bust in the National Archaeological Museum, Naples",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Rimini083.jpg/1280px-Rimini083.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Rimini083.jpg/120px-Rimini083.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Modern bronze statue of Julius Caesar, Rimini, Italy",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Portrait_of_Julius_Caesar_%281st_cent._B.C.%29_at_the_Archaeological_Museum_of_Sparta_on_15_May_2019.jpg/1280px-Portrait_of_Julius_Caesar_%281st_cent._B.C.%29_at_the_Archaeological_Museum_of_Sparta_on_15_May_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Portrait_of_Julius_Caesar_%281st_cent._B.C.%29_at_the_Archaeological_Museum_of_Sparta_on_15_May_2019.jpg/120px-Portrait_of_Julius_Caesar_%281st_cent._B.C.%29_at_the_Archaeological_Museum_of_Sparta_on_15_May_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Portrait at the Archaeological Museum of Sparta",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Porta_palatina%2C_statue.jpg/1280px-Porta_palatina%2C_statue.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Porta_palatina%2C_statue.jpg/120px-Porta_palatina%2C_statue.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Bronze statue at the Porta Palatina in Turin",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Portrait_head_of_Julius_Caesar_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_on_10_January_2020.jpg/1280px-Portrait_head_of_Julius_Caesar_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_on_10_January_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Portrait_head_of_Julius_Caesar_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_on_10_January_2020.jpg/120px-Portrait_head_of_Julius_Caesar_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_on_10_January_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Bust in the Archaeological Museum of Corinth",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Julius_Caesar_Coustou_Louvre.png/1280px-Julius_Caesar_Coustou_Louvre.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Julius_Caesar_Coustou_Louvre.png/120px-Julius_Caesar_Coustou_Louvre.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Late 17th century statue by Nicolas Coustou",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/1280px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "The Tusculum portrait, a marble sculpture of Julius Caesar",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

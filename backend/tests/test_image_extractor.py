@@ -146,3 +146,38 @@ def test_missing_src_is_skipped():
     """
 
     assert extract_images(html) == []
+
+def test_footnote_markers_are_excluded_from_body_caption():
+    html = """
+    <div class="thumb">
+        <a href="/wiki/File:Bust.jpg" class="mw-file-description">
+            <img src="//upload.wikimedia.org/thumb/b/330px-Bust.jpg" />
+        </a>
+        <div class="thumbcaption">The Tusculum portrait<sup class="reference"><a href="#cite_note-191">[191]</a></sup></div>
+    </div>
+    """
+
+    images = extract_images(html)
+
+    assert images[0].caption == "The Tusculum portrait"
+
+
+def test_footnote_markers_are_excluded_from_infobox_caption():
+    html = """
+    <table class="infobox">
+        <tr>
+            <td class="infobox-image">
+                <a href="/wiki/File:Mountain.jpg" class="mw-file-description">
+                    <img src="//upload.wikimedia.org/thumb/m/330px-Mountain.jpg" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td class="infobox-caption">Highest peak<sup class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+        </tr>
+    </table>
+    """
+
+    images = extract_images(html)
+
+    assert images[0].caption == "Highest peak"

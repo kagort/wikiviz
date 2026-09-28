@@ -25,6 +25,13 @@ _RU_DATE_RE = re.compile(
     re.IGNORECASE,
 )
 
+# Маркер эпохи сразу после найденной даты (ТЗ §16.2): "100 BC",
+# "44 BCE", "44 года до н. э.", "100 г. до н.э.", "до Р. Х.".
+_BCE_MARKER_RE = re.compile(
+    r"\s*(?:года?\s*|г\.\s*)?(?:BCE?\b|до\s*н\.?\s*э\.?|до\s*Р\.?\s*Х\.?)",
+    re.IGNORECASE,
+)
+
 _TEXT_CONFIDENCE = 0.6
 _LEAD_TITLE = "Introduction"
 
@@ -79,7 +86,14 @@ def _find_dates_in_text(text: str, title: str) -> list[Event]:
             if not (1 <= day <= 31):
                 continue
 
-            date_str = f"{year:04d}-{month:02d}-{day:02d}"
+            if _BCE_MARKER_RE.match(text, match.end()):
+                # До н. э. хранится только год (ТЗ §16.2): день и месяц
+                # в таких датах часто неоднозначны ("12 or 13 July 100 BC").
+                date_str = f"-{year:04d}"
+                precision = DatePrecision.YEAR
+            else:
+                date_str = f"{year:04d}-{month:02d}-{day:02d}"
+                precision = DatePrecision.DAY
             if date_str in seen:
                 continue
             seen.add(date_str)
@@ -88,7 +102,7 @@ def _find_dates_in_text(text: str, title: str) -> list[Event]:
                 Event(
                     id="pending",
                     date=date_str,
-                    date_precision=DatePrecision.DAY,
+                    date_precision=precision,
                     title=title,
                     source=SourceType.ARTICLE_TEXT,
                     confidence=_TEXT_CONFIDENCE,
@@ -106,7 +120,8 @@ def extract_text_dates(html: str) -> list[Event]:
     Исключения (добавлены после обнаружения систематического шума на
     реальной статье "Организация Объединённых Наций" - см. историю):
     - служебные разделы (References/Citations/Примечания/Источники и
-      т.п.) - содержат даты обращения к источникам, не события статьи;
+      т.п.) вместе со всеми их подразделами - содержат даты обращения
+      к источникам и публикаций, не события статьи;
     - содержимое <table> внутри раздела - таблицы (список стран-членов,
       список должностных лиц) дают систематический шум и обрабатываются
       отдельно как структурированные данные, не как "упоминание в прозе".
@@ -115,6 +130,9 @@ def extract_text_dates(html: str) -> list[Event]:
     "Introduction" для текста до первого заголовка. confidence=0.6
     (ниже, чем у дат из infobox) - привязка к заголовку раздела заведомо
     менее точна, чем привязка к конкретному infobox-полю.
+
+    Дата с маркером эпохи до н. э. сохраняется только годом ("-0044",
+    precision=year), как и в infobox (ТЗ §16.2).
     """
     if not html or not html.strip():
         return []
@@ -126,8 +144,17 @@ def extract_text_dates(html: str) -> list[Event]:
     lead_text = _lead_text(soup)
     events.extend(_find_dates_in_text(lead_text, title=_LEAD_TITLE))
 
+    # Уровень заголовка открытого служебного раздела: его подразделы
+    # (например, Economy/Government/Culture внутри External links у France,
+    # Secondary sources внутри Sources) исключаются вместе с ним, хотя
+    # их собственные названия служебными не выглядят.
+    excluded_level = None
     for section in extract_sections(html):
+        if excluded_level is not None and section.level > excluded_level:
+            continue
+        excluded_level = None
         if section.title.strip().lower() in _EXCLUDED_SECTION_TITLES:
+            excluded_level = section.level
             continue
         section_text = _strip_tables(section.html)
         events.extend(_find_dates_in_text(section_text, title=section.title))
