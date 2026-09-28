@@ -139,3 +139,124 @@ def test_references_section_is_excluded():
     events = extract_text_dates(html)
 
     assert events == []
+
+
+def test_english_bc_date_keeps_only_negative_year():
+    # ТЗ §16.2: для дат до н. э. извлекается только год, "-000N".
+    html = """
+    <h2>Early life</h2>
+    <p>Caesar was born on 12 or 13 July 100 BC in Rome.</p>
+    """
+
+    events = extract_text_dates(html)
+
+    assert len(events) == 1
+    assert events[0].date == "-0100"
+    assert events[0].date_precision.value == "year"
+
+
+def test_english_bce_marker_is_recognized():
+    html = """
+    <h2>Death</h2>
+    <p>He was assassinated on 15 March 44 BCE.</p>
+    """
+
+    events = extract_text_dates(html)
+
+    assert [(e.date, e.date_precision.value) for e in events] == [("-0044", "year")]
+
+
+def test_russian_bc_date_with_goda_keeps_only_negative_year():
+    html = """
+    <h2>Смерть</h2>
+    <p>Убит 15 марта 44 года до н. э. в Риме.</p>
+    """
+
+    events = extract_text_dates(html)
+
+    assert [(e.date, e.date_precision.value) for e in events] == [("-0044", "year")]
+
+
+def test_russian_bc_date_compact_marker_is_recognized():
+    html = """
+    <h2>Биография</h2>
+    <p>Родился 13 июля 100 г. до н.э.</p>
+    """
+
+    events = extract_text_dates(html)
+
+    assert [(e.date, e.date_precision.value) for e in events] == [("-0100", "year")]
+
+
+def test_ad_date_next_to_bc_date_is_unchanged():
+    html = """
+    <h2>Legacy</h2>
+    <p>He died on 15 March 44 BC. A statue was unveiled on 1 January 2000.</p>
+    """
+
+    events = extract_text_dates(html)
+
+    assert [(e.date, e.date_precision.value) for e in events] == [
+        ("-0044", "year"),
+        ("2000-01-01", "day"),
+    ]
+
+
+def test_subsections_of_excluded_section_are_excluded():
+    # France: подразделы External links называются Economy/Government/Culture,
+    # сами по себе служебными не выглядят.
+    html = """
+    <div class="mw-heading mw-heading2"><h2>External links</h2></div>
+    <ul><li>Official site</li></ul>
+    <div class="mw-heading mw-heading3"><h3>Culture</h3></div>
+    <ul><li>Journal. Archived 27 August 2007 at the Wayback Machine.</li></ul>
+    """
+
+    events = extract_text_dates(html)
+
+    assert events == []
+
+
+def test_deeply_nested_subsections_of_excluded_section_are_excluded():
+    html = """
+    <h2>Sources</h2>
+    <h3>Secondary sources</h3>
+    <p>Published 26 January 2021.</p>
+    <h4>Articles</h4>
+    <p>Retrieved 2 September 2017.</p>
+    """
+
+    events = extract_text_dates(html)
+
+    assert events == []
+
+
+def test_russian_subsections_of_excluded_section_are_excluded():
+    html = """
+    <h2>Литература</h2>
+    <h3>Статьи</h3>
+    <p>Опубликовано 21 мая 2015 года.</p>
+    """
+
+    events = extract_text_dates(html)
+
+    assert events == []
+
+
+def test_section_after_excluded_subtree_is_included_again():
+    html = """
+    <h2>Notes</h2>
+    <h3>Details</h3>
+    <p>Accessed 1 May 2020.</p>
+    <h2>Legacy</h2>
+    <p>A monument was opened on 14 July 1990.</p>
+    <h3>Memorials</h3>
+    <p>Another one on 3 March 1995.</p>
+    """
+
+    events = extract_text_dates(html)
+
+    assert [(e.date, e.title) for e in events] == [
+        ("1990-07-14", "Legacy"),
+        ("1995-03-03", "Memorials"),
+    ]

@@ -240,15 +240,6 @@
       "description": null,
       "source": "infobox",
       "confidence": 1.0
-    },
-    {
-      "id": "text-event-0",
-      "date": "2015-05-21",
-      "date_precision": "day",
-      "title": "Статьи",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
     }
   ],
   "numbers": [
