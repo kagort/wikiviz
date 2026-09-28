@@ -163,3 +163,57 @@ def test_style_with_other_properties_is_not_treated_as_hidden():
     tables = extract_tables(html)
 
     assert tables[0].rows == [["visible"]]
+
+def test_footnote_markers_are_excluded_from_data_cells():
+    # Разметка MediaWiki одинакова в en и ru: <sup class="reference">.
+    html = """
+    <table class="wikitable">
+        <tr><th>Type</th><th>Size</th></tr>
+        <tr><td>int<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[107]</a></sup></td><td>42</td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["int", "42"]]
+
+
+def test_footnote_markers_are_excluded_from_header_cells():
+    html = """
+    <table class="wikitable">
+        <tr><th>Население<sup class="reference"><a href="#cite_note-24">[24]</a></sup></th><th>Год</th></tr>
+        <tr><td>14 000 000</td><td>2024</td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].columns == ["Население", "Год"]
+
+
+def test_footnote_markers_are_excluded_from_table_caption():
+    html = """
+    <table class="wikitable">
+        <caption>Climate<sup class="reference"><a href="#cite_note-3">[3]</a></sup></caption>
+        <tr><th>Month</th></tr>
+        <tr><td>Jan</td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].title == "Climate"
+
+
+def test_non_reference_superscript_is_kept():
+    # Обычный <sup> (степень, порядковый номер) - часть данных, не сноска.
+    html = """
+    <table class="wikitable">
+        <tr><th>Area</th></tr>
+        <tr><td>2194 km<sup>2</sup></td></tr>
+    </table>
+    """
+
+    tables = extract_tables(html)
+
+    assert tables[0].rows == [["2194 km 2"]]

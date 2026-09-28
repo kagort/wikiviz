@@ -2,6 +2,7 @@ import re
 
 from bs4 import BeautifulSoup
 
+from app.extractors.text_utils import is_footnote_marker, strings_without_footnotes
 from app.models import Table
 
 _HIDDEN_STYLE_RE = re.compile(r"display\s*:\s*none")
@@ -25,7 +26,11 @@ def extract_tables(html: str) -> list[Table]:
     tables = []
     for index, raw_table in enumerate(raw_tables):
         caption_tag = raw_table.find("caption")
-        title = caption_tag.get_text(strip=True) if caption_tag else None
+        title = (
+            "".join(t.strip() for t in strings_without_footnotes(caption_tag))
+            if caption_tag
+            else None
+        )
 
         all_rows = raw_table.find_all("tr")
         if not all_rows:
@@ -79,11 +84,14 @@ def _cell_text(cell) -> str:
     (style="display:none"), которые MediaWiki добавляет для корректной
     числовой/датовой сортировки таблиц - без фильтрации их текст
     (например, "03699428.&&&&00") склеивается с видимым значением
-    ("3 699 428"), портя данные.
+    ("3 699 428"), портя данные. Маркеры сносок (<sup class="reference">,
+    например "[107]") тоже отбрасываются.
     """
     visible = [
         text.strip()
         for text in cell.strings
-        if text.strip() and not _is_hidden(text, cell)
+        if text.strip()
+        and not _is_hidden(text, cell)
+        and not is_footnote_marker(text, cell)
     ]
     return " ".join(visible)

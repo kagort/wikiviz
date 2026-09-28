@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 from pydantic import BaseModel
 
+from app.extractors.text_utils import is_footnote_marker
+
 HEADING_TAGS = ["h2", "h3", "h4", "h5", "h6"]
 
 
@@ -23,11 +25,11 @@ def _is_service_text(node, heading) -> bool:
     заголовка: маркер сноски (<sup class="reference">) или ссылка
     редактирования (mw-editsection). Такой текст не входит в название раздела.
     """
+    if is_footnote_marker(node, heading):
+        return True
     parent = node.parent
     while parent is not None and parent is not heading:
         classes = parent.get("class", []) if hasattr(parent, "get") else []
-        if parent.name == "sup" and "reference" in classes:
-            return True
         if "mw-editsection" in classes:
             return True
         parent = parent.parent

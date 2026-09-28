@@ -238,7 +238,7 @@
         [
           "float",
           "immutable",
-          "64-bit double-precision floating-point number ( IEEE 754 number with 53 bits of precision, in all supported versions since CPython 3.11; [ 107 ] also in practice in 3.10 and older, though technically there the precision is machine-dependent [ 108 ] ) .  Python's built-in type memoryview does though support both 64-bit doubles and 32-bit floats, and Python's standard library struct module additionally supports 16-bit half-floats. Python packages like NumPy and Pandas may also support 32-bit floats or more, e.g. numpy.half ; though support for half-floats is often incomplete or non-existent in most packages. [ 109 ] 16-bit bfloat has support in a few packages. [ 110 ] Most Python implementations choose to support the double kind, but some unusual (subset) implementations, such as MicroPython for embedded programming , support 32-bit IEEE floats as their default float. Users can opt into 64-bit by setting MICROPY_FLOAT_IMPL to MICROPY_FLOAT_IMPL_DOUBLE.",
+          "64-bit double-precision floating-point number ( IEEE 754 number with 53 bits of precision, in all supported versions since CPython 3.11; also in practice in 3.10 and older, though technically there the precision is machine-dependent ) .  Python's built-in type memoryview does though support both 64-bit doubles and 32-bit floats, and Python's standard library struct module additionally supports 16-bit half-floats. Python packages like NumPy and Pandas may also support 32-bit floats or more, e.g. numpy.half ; though support for half-floats is often incomplete or non-existent in most packages. 16-bit bfloat has support in a few packages. Most Python implementations choose to support the double kind, but some unusual (subset) implementations, such as MicroPython for embedded programming , support 32-bit IEEE floats as their default float. Users can opt into 64-bit by setting MICROPY_FLOAT_IMPL to MICROPY_FLOAT_IMPL_DOUBLE.",
           "1.33333"
         ],
         [
@@ -250,7 +250,7 @@
         [
           "int",
           "immutable",
-          "Integer of unlimited magnitude [ 111 ] (i.e. not using machine integers; e.g. the Python package NumPy uses fixed-sized integers for speedup (and allows different sizes), such as types numpy.byte and numpy.ulonglong , all such types have a possibility of wrap-around, though less likely the larger it is)",
+          "Integer of unlimited magnitude (i.e. not using machine integers; e.g. the Python package NumPy uses fixed-sized integers for speedup (and allows different sizes), such as types numpy.byte and numpy.ulonglong , all such types have a possibility of wrap-around, though less likely the larger it is)",
           "42"
         ],
         [
@@ -274,7 +274,7 @@
         [
           "range",
           "immutable",
-          "An immutable sequence of numbers, commonly used for iterating a specific number of times in for loops [ 112 ]",
+          "An immutable sequence of numbers, commonly used for iterating a specific number of times in for loops",
           "range ( − 1 , 10 ) range ( 10 , − 5 , − 2 )"
         ],
         [
