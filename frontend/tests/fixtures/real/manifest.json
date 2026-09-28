@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "revision": null,
+      "file": "python.json"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/France",
+      "revision": null,
+      "file": "france.json"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Токио",
+      "revision": null,
+      "file": "tokyo-ru.json"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "revision": null,
+      "file": "julius-caesar.json"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Сократ",
+      "revision": null,
+      "file": "socrates-ru.json"
+    }
+  ]
+}
