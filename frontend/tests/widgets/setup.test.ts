@@ -12,4 +12,8 @@ describe('lib/widgets/setup: сборка виджетов приложения'
   test('mapWidget зарегистрирован в глобальном реестре', () => {
     expect(widgetRegistry.get('map-widget')).toBeDefined()
   })
+
+  test('sectionNavigatorWidget зарегистрирован в глобальном реестре', () => {
+    expect(widgetRegistry.get('section-navigator-widget')).toBeDefined()
+  })
 })
