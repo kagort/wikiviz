@@ -76,6 +76,16 @@ def _is_hidden(node, cell) -> bool:
     return False
 
 
+def _code_ancestor(node, cell):
+    """Ближайший <code>, содержащий текстовый узел, в пределах ячейки."""
+    parent = node.parent
+    while parent is not None and parent is not cell:
+        if parent.name == "code":
+            return parent
+        parent = parent.parent
+    return None
+
+
 def _cell_text(cell) -> str:
     """
     Извлекает текст ячейки, склеивая содержимое нескольких вложенных
@@ -85,13 +95,22 @@ def _cell_text(cell) -> str:
     числовой/датовой сортировки таблиц - без фильтрации их текст
     (например, "03699428.&&&&00") склеивается с видимым значением
     ("3 699 428"), портя данные. Маркеры сносок (<sup class="reference">,
-    например "[107]") тоже отбрасываются.
+    например "[107]") тоже отбрасываются, а текст внутри одного <code>
+    не разрывается пробелами.
     """
-    visible = [
-        text.strip()
-        for text in cell.strings
-        if text.strip()
-        and not _is_hidden(text, cell)
-        and not is_footnote_marker(text, cell)
-    ]
-    return " ".join(visible)
+    pieces: list[str] = []
+    current_code = None
+    for text in cell.strings:
+        if _is_hidden(text, cell) or is_footnote_marker(text, cell):
+            continue
+        code = _code_ancestor(text, cell)
+        if code is not None and code is current_code:
+            # Подсветка синтаксиса дробит одно выражение на <span>'ы:
+            # внутри одного <code> куски склеиваются как есть,
+            # со своими пробелами, а не через пробел.
+            pieces[-1] += text
+            continue
+        current_code = code
+        pieces.append(text)
+
+    return " ".join(piece.strip() for piece in pieces if piece.strip())

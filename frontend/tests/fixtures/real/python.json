@@ -209,25 +209,25 @@
           "bytearray",
           "mutable",
           "Sequence of bytes",
-          "bytearray ( b 'Some ASCII' ) bytearray ( b \"Some ASCII\" ) bytearray ([ 119 , 105 , 107 , 105 ])"
+          "bytearray(b'Some ASCII') bytearray(b\"Some ASCII\") bytearray([119, 105, 107, 105])"
         ],
         [
           "bytes",
           "immutable",
           "Sequence of bytes",
-          "b 'Some ASCII' b \"Some ASCII\" bytes ([ 119 , 105 , 107 , 105 ])"
+          "b'Some ASCII' b\"Some ASCII\" bytes([119, 105, 107, 105])"
         ],
         [
           "complex",
           "immutable",
           "Complex number with real and imaginary parts",
-          "3 + 2.7 j 3 + 2.7 j 5 j"
+          "3+2.7j 3 + 2.7j 5j"
         ],
         [
           "dict",
           "mutable",
           "Associative array (or dictionary) of key and value pairs; can contain mixed types (keys and values); keys must be a hashable type",
-          "{ 'key1' : 1.0 , 3 : False } {}"
+          "{'key1': 1.0, 3: False} {}"
         ],
         [
           "types.EllipsisType",
@@ -245,7 +245,7 @@
           "frozenset",
           "immutable",
           "Unordered set , contains no duplicates; can contain mixed types, if hashable",
-          "frozenset ({ 4.0 , 'string' , True }) frozenset ()"
+          "frozenset({4.0, 'string', True}) frozenset()"
         ],
         [
           "int",
@@ -257,7 +257,7 @@
           "list",
           "mutable",
           "List , can contain mixed types",
-          "[ 4.0 , 'string' , True ] []"
+          "[4.0, 'string', True] []"
         ],
         [
           "types.NoneType",
@@ -275,13 +275,13 @@
           "range",
           "immutable",
           "An immutable sequence of numbers, commonly used for iterating a specific number of times in for loops",
-          "range ( − 1 , 10 ) range ( 10 , − 5 , − 2 )"
+          "range(−1, 10) range(10, −5, −2)"
         ],
         [
           "set",
           "mutable",
           "Unordered set , contains no duplicates; can contain mixed types, if hashable",
-          "{ 4.0 , 'string' , True } set ()"
+          "{4.0, 'string', True} set()"
         ],
         [
           "str",
@@ -293,7 +293,7 @@
           "tuple",
           "immutable",
           "Tuple , can contain mixed types",
-          "( 4.0 , 'string' , True ) ( 'single element' ,) ()"
+          "(4.0, 'string', True) ('single element',) ()"
         ]
       ],
       "source": "table"
