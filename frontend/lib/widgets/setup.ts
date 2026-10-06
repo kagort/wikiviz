@@ -4,6 +4,7 @@ import { galleryWidget } from './galleryWidget'
 import { mapWidget } from './mapWidget'
 import { sectionNavigatorWidget } from './sectionNavigatorWidget'
 import { timelineWidget } from './timelineWidget'
+import { infoboxWidget } from './infoboxWidget'
 
 /**
  * Точка сборки: здесь регистрируются все настоящие виджеты приложения.
@@ -18,5 +19,6 @@ widgetRegistry.register(galleryWidget)
 widgetRegistry.register(mapWidget)
 widgetRegistry.register(sectionNavigatorWidget)
 widgetRegistry.register(timelineWidget)
+widgetRegistry.register(infoboxWidget)
 
 export { widgetRegistry }

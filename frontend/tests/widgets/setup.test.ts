@@ -20,4 +20,8 @@ describe('lib/widgets/setup: сборка виджетов приложения'
   test('timelineWidget зарегистрирован в глобальном реестре', () => {
     expect(widgetRegistry.get('timeline-widget')).toBeDefined()
   })
+
+  test('infoboxWidget зарегистрирован в глобальном реестре', () => {
+    expect(widgetRegistry.get('infobox-widget')).toBeDefined()
+  })
 })
