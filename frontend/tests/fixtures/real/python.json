@@ -187,7 +187,128 @@
       "children": []
     }
   ],
-  "infobox": {},
+  "infobox": {
+    "paradigm": {
+      "key": "paradigm",
+      "label": "Paradigm",
+      "group": null,
+      "value": "Multi-paradigm: object-oriented, procedural (imperative), functional, structured, reflective",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "designed_by": {
+      "key": "designed_by",
+      "label": "Designed by",
+      "group": null,
+      "value": "Guido van Rossum",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "developer": {
+      "key": "developer",
+      "label": "Developer",
+      "group": null,
+      "value": "Python Software Foundation",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "first_appeared": {
+      "key": "first_appeared",
+      "label": "First appeared",
+      "group": null,
+      "value": "20 February 1991",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "stable_release": {
+      "key": "stable_release",
+      "label": "Stable release",
+      "group": null,
+      "value": "3.14.8 / 30 September 2026",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "typing_discipline": {
+      "key": "typing_discipline",
+      "label": "Typing discipline",
+      "group": null,
+      "value": "Duck, dynamic, strong; optional type annotations",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "memory_management": {
+      "key": "memory_management",
+      "label": "Memory management",
+      "group": null,
+      "value": "Garbage-collected",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "os": {
+      "key": "os",
+      "label": "OS",
+      "group": null,
+      "value": "Cross-platform",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "license": {
+      "key": "license",
+      "label": "License",
+      "group": null,
+      "value": "Python Software Foundation License",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "filename_extensions": {
+      "key": "filename_extensions",
+      "label": "Filename extensions",
+      "group": null,
+      "value": ".py, .pyc, .pyd, .pyi, .pyw, .pyz",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "website": {
+      "key": "website",
+      "label": "Website",
+      "group": null,
+      "value": "python.org",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "major_implementations": {
+      "key": "major_implementations",
+      "label": "Major implementations",
+      "group": null,
+      "value": "CPython, PyPy, MicroPython, CircuitPython, IronPython, Jython, Stackless Python",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "dialects": {
+      "key": "dialects",
+      "label": "Dialects",
+      "group": null,
+      "value": "Cython, RPython, Starlark",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "influenced_by": {
+      "key": "influenced_by",
+      "label": "Influenced by",
+      "group": null,
+      "value": "ABC, Ada, ALGOL 68, APL, C, C++, CLU, Dylan, Haskell, Icon, Lisp, Modula-3, Perl, Standard ML",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "influenced": {
+      "key": "influenced",
+      "label": "Influenced",
+      "group": null,
+      "value": "Apache Groovy, Boo, Cobra, CoffeeScript, D, F#, GDScript, Go, JavaScript, Julia, Mojo, Nim, Ruby, Swift, V",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
   "tables": [
     {
       "id": "table-0",
@@ -296,6 +417,7 @@
           "(4.0, 'string', True) ('single element',) ()"
         ]
       ],
+      "notes": [],
       "source": "table"
     }
   ],

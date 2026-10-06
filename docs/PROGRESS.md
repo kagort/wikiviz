@@ -1,0 +1,197 @@
+# WikiViz — ход разработки (Progress)
+
+> Живой документ для передачи контекста между сессиями. Обновляется в конце каждой сессии: текущее состояние, принятые решения, открытые вопросы, правила работы. Подробности отдельных сессий — в отчётах и логах (см. «Где что лежит»).
+
+**Последнее обновление:** 2026-10-06, после закрытия Phase 6.
+
+---
+
+## 1. Где что лежит
+
+| Документ | Назначение |
+|---|---|
+| `docs/WikiViz - Техническое задание (ТЗ).md` | ТЗ v3.1, главная спецификация (разделы 22–35 и 38 отсутствуют, это известно) |
+| `docs/WikiViz 3.1 RoadMap.md` | Roadmap v3.1: фазы и правила (Rule 3–6) |
+| `docs/PROGRESS.md` | этот документ: текущее состояние и всё важное для следующей сессии |
+| `docs/PHASE6_TZ.md` | ТЗ на завершение Phase 6 для Claude Code (выполнено) |
+| `docs/PHASE6_REPORT.md` | итоговый отчёт Phase 6: этапы, ловушки, техдолг, коммиты |
+| `docs/WikiViz_контекст_проекта_20260928.md` | контекст проекта для чата (стек, стиль работы); по состоянию Phase 6 устарел, актуальное — здесь |
+| `docs/WikiViz_Сессия_20260928.md` | лог сессии 28.09 (подключение Claude Code, этапы 0–4, 8) |
+
+---
+
+## 2. Текущее состояние
+
+**Roadmap:** Phase 0–6 закрыты. Следующая — **Phase 7, Widget Selector (rule engine)**. ТЗ на неё ещё не написано.
+
+**Проверки на конец Phase 6:**
+
+| | Значение |
+|---|---|
+| Backend `pytest` | 192 passed |
+| Frontend `npm test` | 23 набора, 168 тестов |
+| `npx tsc --noEmit`, `npm run build` | чисто |
+
+При следующей сессии числа должны быть не меньше этих.
+
+### 2.1. Нормализованная модель (`NormalizedArticleModel`)
+
+Pydantic (`backend/app/models/`) и TypeScript (`frontend/types/`) меняются синхронно, вручную.
+
+- **Заполнены реальными данными:** `article`, `sections`, `infobox`, `tables`, `locations`, `images`, `events`, `numbers`.
+- **Заглушки:** `people`, `organizations`, `works`, `relations`, `links`, `metadata`. Также `article.description` и `article.summary` пока `None`.
+- **Изменения контракта в Phase 6** (одобрены владельцем):
+  - `InfoboxField.group: str | None` — подзаголовок группы («Area» для «Total» у France);
+  - `Table.notes: list[str]` — строки во всю ширину, не являющиеся данными («Источник: …»).
+
+### 2.2. Backend: extractors (`backend/app/extractors/`)
+
+| Файл | Что делает |
+|---|---|
+| `section_extractor`, `section_normalizer` | разделы и их дерево |
+| `table_extractor` | `table.wikitable`. Сноски и скрытые sort-key убираются, код в `<code>` не дробится. Многострочная шапка собирается с учётом `colspan`/`rowspan`, примечания уходят в `notes` |
+| `infobox_extractor` | первый `table.infobox`: группы, уникальные ключи; без сносок, скрытого текста и `.noprint` |
+| `date_extractor` | даты только из инфобокса |
+| `text_date_extractor` | даты «день месяц год» из текста. До н. э. хранится только год `-0044`; служебные разделы исключаются вместе с подразделами |
+| `number_extractor` | числа из инфобокса |
+| `coordinate_extractor`, `image_extractor` | координаты и изображения |
+| `text_utils` | общая проверка «это сноска» |
+| `article_normalizer` | собирает всё в `NormalizedArticleModel` |
+
+`app/wikipedia/` — ровно четыре файла (`client.py`, `models.py`, `errors.py`, `endpoints.py`), не расширять. `fetch_article(url, revision_id=None)`.
+
+### 2.3. Frontend: виджеты
+
+Регистрация — `frontend/lib/widgets/setup.ts`, по одной строке на виджет (Rule 6). `registry.ts` и `selector.ts` не менять. Порядок регистрации задаёт порядок показа.
+
+| id | Логика | Компонент | `supports` |
+|---|---|---|---|
+| `table-widget` | — | `TableWidgetView` (поиск, сортировка, страницы, примечания) | есть таблицы |
+| `gallery-widget` | — | `GalleryWidgetView` | есть изображения |
+| `map-widget` | `mapGeometry.ts` | `MapWidgetView` (Leaflet, только клиент) | есть координаты |
+| `section-navigator-widget` | `sectionAnchors.ts` | `SectionNavigatorView` | есть разделы |
+| `timeline-widget` | `timeline.ts` | `TimelineWidgetView` | событий ≥ 2 |
+| `infobox-widget` | `infobox.ts` | `InfoBoxWidgetView` | инфобокс не пуст |
+| `statistics-chart-widget` | `statistics.ts` | `StatisticsChartView` (столбики без библиотеки) | есть группа ≥ 3 значений в «%» |
+
+Dev-страницы (не для продакшена, закрыть в Phase 10): `/dev/map`, `/dev/widgets` — все пять фикстур со всеми выбранными виджетами.
+
+### 2.4. Фикстуры
+
+`frontend/tests/fixtures/real/manifest.json`: Python, France, Токио (ru), Julius Caesar, Сократ (ru) — все с закреплёнными ревизиями.
+
+- `python -m scripts.export_fixtures` (из `backend`) качает закреплённые ревизии. `--update` берёт свежие и переписывает манифест; запускать его только сознательно.
+- **После каждого изменения extractor'а:** перевыгрузить, посмотреть `git diff` фикстур (меняться должно только задуманное) и запустить выгрузку второй раз: diff должен остаться пустым.
+- Ограничение: ревизия не закрепляет шаблоны и Wikidata. Пример: «Stable release» Python изменится с выходом новой версии. Тесты не должны зависеть от конкретных значений живых статей.
+
+---
+
+## 3. Журнал решений владельца
+
+| Дата | Вопрос | Решение |
+|---|---|---|
+| 28.09 | Вид TimelineWidget | А: вертикальный список; от 2 событий; до н. э. подписывается по языку статьи |
+| 28.09 | Даты до н. э. и шум из литературы | исправить; BCE — только год (ТЗ §16.2); служебные разделы исключать вместе со всеми подразделами |
+| 06.10 | Форма `Infobox` | Б: необязательное поле `group` |
+| 06.10 | StatisticsChart | А: без библиотеки, только столбики |
+| 06.10 | Шапка таблиц | Б: эвристика + поле `notes` в `Table` |
+| — | Сортировка в TableWidget | строковая; парсинг чисел — будущий слой Transformation |
+
+---
+
+## 4. Открытые вопросы и техдолг
+
+**Требует внимания (найдено владельцем при визуальной проверке 28.09):**
+- Таблица-навигация у Цезаря («Political offices / Religious titles», succession box: кто был до и после на посту) извлекается как таблица с данными: она размечена как `wikitable`, а `table_extractor` не отличает её от настоящих таблиц. Нужна разведка разметки (вероятно, классы `succession-box` / `wikitable succession-box`) и решение, исключать ли такие таблицы.
+
+**Известные ограничения:**
+- `rowspan` в строках данных не раскрывается (сражения Цезаря: «Gallic Wars» на 12 строк), ТЗ §12.4.
+- **Даты из текста:**
+  - вступление русской статьи подписано английским «Introduction»;
+  - одна дата в разных разделах даёт несколько событий;
+  - даты до н. э. одного года в одном разделе сливаются в одно событие.
+- **Даты из инфобокса:** для срока «64–44 BC» берётся конец срока (Pontifex maximus — 44 BC).
+- **Шум в `numbers`:** группа «GDP (nominal)» захватывает Gini, Time zone, Calling code; у годов единицы «BC» и «до». StatisticsChart фильтрует его, а extractor по ТЗ не чистится.
+- **Инфобокс:**
+  - строки во всю ширину без заголовка не извлекаются (France: Motto, Anthem);
+  - берётся только первый инфобокс (у Токио их два);
+  - вложенные таблицы в значениях сплющиваются через запятую.
+- Ошибки Scribunto/Lua-шаблонов в таблицах не фильтруются.
+- BOM в 12 файлах (`.gitignore`, `README.md`, 5 extractors, 5 тестов). Сейчас не мешает.
+- `README.md` устарел: «Статус: Phase 0».
+- Отложено до Phase 10: 3 известные уязвимости npm (без `npm audit fix --force`), защита dev-страниц.
+
+---
+
+## 5. Правила работы
+
+**Архитектура (не нарушать):**
+- `Extraction ≠ Transformation ≠ Visualization`: логика извлечения не попадает в React, логика отображения — в extractor.
+- HTML Wikipedia — не контракт (Rule 3). Модели не создаются под виджет (Rule 4). Новые данные сначала попадают в нормализованную модель (Rule 5). Виджет подключается одной строкой (Rule 6).
+- Extractors принимают строку HTML. Контракт `Widget`: `id`, `name`, `version`, `description`, `supports(data)`, `render` — React-компонент.
+
+**Процесс:**
+1. Сначала разведка настоящего HTML (скрипт в `backend/scripts/`) на en и ru, потом код. Гипотезы о разметке не принимать на веру.
+2. Сначала красный тест, воспроизводящий баг, потом исправление. Тесты не ослаблять и не удалять.
+3. Проверки раздельно и с числами: `pytest`, `npx tsc --noEmit`, `npm test`, `npm run build`. Jest не проверяет типы.
+4. Один логический шаг — один коммит, только при зелёных проверках. Без `push --force` и без переписывания истории.
+5. Тесты офлайн. Сетевые скрипты лежат в `backend/scripts/`, без функций `test_*`. Временные дампы — во временную папку, не в репозиторий.
+6. Без согласования не делать: новые зависимости, обновление Next.js и основных библиотек, `npm audit fix --force`, изменения контракта данных.
+
+**Что решает владелец:** изменения контракта, новые зависимости, вид виджетов, библиотеки. Вопрос оформляется на одну страницу простым языком: 2–3 варианта, плюсы и минусы, рекомендация с причиной. Пока ответа нет, работа идёт по независимым этапам.
+
+**Отчёт после этапа:** что сделано и зачем (простым языком); числа тестов до и после; что посмотреть глазами и по какому адресу; вопросы; список коммитов.
+
+**Слияние:** работа идёт в ветке `claude/...`, затем сливается в `main` (`git merge --no-ff`). Владелец перепроверяет у себя на машине: `pytest`, `tsc`, `npm test`, `build`, сверяет числа с отчётом и смотрит `/dev/widgets`.
+
+---
+
+## 6. Окружение
+
+**Локально (Windows, PowerShell 5.1):**
+- Backend: из `backend`, `.\venv\Scripts\Activate.ps1`.
+- Файлы сохранять в UTF-8 без BOM: `pytest.ini` чувствителен к BOM, `Out-File -Encoding utf8` не использовать. `Get-Content` — с `-Encoding utf8`. В начале сессии терминала выполнить `chcp 65001` и настройку UTF-8 консоли (см. контекст-документ).
+- `WikipediaClient` намеренно работает с `trust_env=False`: остаточный системный прокси VPN ломает httpx. Не менять.
+
+**Облачная сессия Claude Code (claude.ai/code):**
+- Каждая сессия — чистый контейнер, сохраняется только то, что закоммичено.
+- Доступ к сети: `Network access: Custom` с `*.wikipedia.org` и `*.wikimedia.org` (уже настроено). Подложка карты OpenStreetMap в облаке не грузится: это ограничение среды, не дефект.
+- Установка:
+  ```bash
+  cd backend && python3.13 -m venv venv && ./venv/bin/pip install -r requirements.txt
+  cd ../frontend && npm ci
+  ```
+- На свежей копии **сначала `npm run build`, потом `npx tsc --noEmit`**: тип `LayoutProps` создаётся во время сборки.
+- `WikipediaClient` с `trust_env=False` не видит сертификат прокси облака. Сетевые скрипты запускать через обёртку вне репозитория, например `scratchpad/run_with_ca.py`. Код клиента не менять:
+  ```python
+  import functools, os, runpy, ssl, sys
+  sys.path.insert(0, os.getcwd())
+  import httpx
+  _ctx = ssl.create_default_context(cafile="/root/.ccr/ca-bundle.crt")
+  _orig = httpx.get
+  httpx.get = functools.wraps(_orig)(lambda *a, **k: (k.setdefault("verify", _ctx), _orig(*a, **k))[1])
+  mod = sys.argv[1]; sys.argv = [mod] + sys.argv[2:]
+  runpy.run_module(mod, run_name="__main__")
+  ```
+  Запуск из `backend`: `./venv/bin/python <путь>/run_with_ca.py scripts.export_fixtures`.
+- Визуальная проверка в облаке: `npx next dev -p 3000`, затем Playwright с `executablePath: '/opt/pw-browsers/chromium'`. `next dev` переписывает `frontend/AGENTS.md`; файл уже в репозитории, так и должно быть.
+
+---
+
+## 7. Следующие шаги
+
+1. Владелец перепроверяет слияние Phase 6 у себя: `pytest` 192; frontend 23 набора, 168 тестов; `tsc` и `build` чистые; `/dev/widgets` — семь виджетов.
+2. Решить судьбу таблиц-навигации (succession box), см. раздел 4.
+3. Написать ТЗ на Phase 7 (Widget Selector, rule engine) по Roadmap. Сейчас `selectWidgets` показывает все виджеты, у которых `supports` вернул `true`, в порядке регистрации; приоритетов нет.
+4. По желанию — мелкий коммит техдолга: BOM в 12 файлах, статус в `README.md`.
+
+---
+
+## 8. История сессий
+
+| Дата | Ветка | Итог |
+|---|---|---|
+| до 28.09 | `main` | Phase 0–5; Phase 6: table, gallery, map, section-navigator (Claude в чате) |
+| 28.09 | `claude/funny-mccarthy-4wpwsk` | этап 0; сеть к Wikipedia была закрыта; начат этап 1 |
+| 28.09 | `claude/peaceful-clarke-dg7efr` | этапы 1–4, 8; слито владельцем в `main` (`7b9402a`) |
+| 06.10 | `claude/peaceful-clarke-dg7efr` | этапы 5–7, итоговый отчёт, этот документ; слито в `main` |

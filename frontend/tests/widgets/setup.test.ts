@@ -20,4 +20,25 @@ describe('lib/widgets/setup: сборка виджетов приложения'
   test('timelineWidget зарегистрирован в глобальном реестре', () => {
     expect(widgetRegistry.get('timeline-widget')).toBeDefined()
   })
+
+  test('infoboxWidget зарегистрирован в глобальном реестре', () => {
+    expect(widgetRegistry.get('infobox-widget')).toBeDefined()
+  })
+
+  test('statisticsChartWidget зарегистрирован в глобальном реестре', () => {
+    expect(widgetRegistry.get('statistics-chart-widget')).toBeDefined()
+  })
+
+  test('зарегистрированы все семь виджетов Phase 6', () => {
+    const ids = [
+      'table-widget',
+      'gallery-widget',
+      'map-widget',
+      'section-navigator-widget',
+      'timeline-widget',
+      'infobox-widget',
+      'statistics-chart-widget',
+    ]
+    for (const id of ids) expect(widgetRegistry.get(id)).toBeDefined()
+  })
 })

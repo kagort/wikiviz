@@ -21,7 +21,8 @@ const PAGE_SIZE = 10
  * пагинация. Порядок применения: фильтр -> сортировка -> пагинация.
  *
  * Сортировка строковая (localeCompare), не числовая - см. Phase 6
- * контекст-документ (осознанное ограничение MVP).
+ * контекст-документ (осознанное ограничение MVP). Примечания таблицы
+ * ("Источник: ...") показываются под ней и в поиск/сортировку не входят.
  */
 export function TableWidgetView({ table }: TableWidgetViewProps) {
   const [sort, setSort] = useState<SortState | null>(null)
@@ -109,6 +110,13 @@ export function TableWidgetView({ table }: TableWidgetViewProps) {
         </tbody>
       </table>
       {sortedRows.length === 0 && <p>Ничего не найдено</p>}
+      {table.notes.length > 0 && (
+        <ul aria-label="Примечания к таблице">
+          {table.notes.map((note, index) => (
+            <li key={index}>{note}</li>
+          ))}
+        </ul>
+      )}
       {pageCount > 1 && (
         <div>
           <button

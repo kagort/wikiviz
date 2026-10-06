@@ -145,6 +145,32 @@ def test_normalize_article_fills_numbers():
     assert result.numbers[0].value == 69081996.0
 
 
+def test_normalize_article_fills_infobox():
+    raw = RawArticle(
+        page_id=1, title="Test", language="en", url="https://en.wikipedia.org/wiki/Test",
+        html="""
+        <table class="infobox">
+            <tr><th class="infobox-header">Area</th></tr>
+            <tr><th class="infobox-label">• Total</th><td class="infobox-data">543,941 km2</td></tr>
+        </table>
+        """,
+    )
+
+    result = normalize_article(raw)
+
+    field = result.infobox["area_total"]
+    assert (field.group, field.label, field.value) == ("Area", "Total", "543,941 km2")
+
+
+def test_normalize_article_without_infobox_has_empty_infobox():
+    raw = RawArticle(
+        page_id=1, title="Test", language="en", url="https://en.wikipedia.org/wiki/Test",
+        html="<p>Text.</p>",
+    )
+
+    assert normalize_article(raw).infobox == {}
+
+
 def test_normalize_article_remaining_fields_are_still_stubs():
     raw = RawArticle(
         page_id=1, title="Test", language="en", url="https://en.wikipedia.org/wiki/Test",
@@ -153,7 +179,6 @@ def test_normalize_article_remaining_fields_are_still_stubs():
 
     result = normalize_article(raw)
 
-    assert result.infobox == {}
     assert result.people == []
     assert result.organizations == []
     assert result.works == []

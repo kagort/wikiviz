@@ -12,6 +12,7 @@ const searchTestTable: Table = {
     ['Анна', 'Пятигорск'],
     ['Пётр', 'Москва'],
   ],
+  notes: [],
   source: SourceType.Table,
 }
 

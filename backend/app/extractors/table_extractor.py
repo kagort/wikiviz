@@ -36,11 +36,35 @@ def extract_tables(html: str) -> list[Table]:
         if not all_rows:
             continue
 
-        header_cells = all_rows[0].find_all(["th", "td"])
-        columns = [_cell_text(cell) for cell in header_cells]
+        notes: list[str] = []
+
+        # Строки <td> во всю ширину над шапкой (Tokyo: "Статистика населения ...").
+        # Переосмысливаются, только если за ними идёт настоящая шапка из
+        # одних <th>; иначе (Julius Caesar, "Political offices" над
+        # данными) поведение прежнее: первая строка - колонки.
+        start = 0
+        while start < len(all_rows) and _is_full_width(all_rows[start], tag="td"):
+            start += 1
+        if start > 0 and not _is_header_row(all_rows[start] if start < len(all_rows) else None):
+            start = 0
+        for tr in all_rows[:start]:
+            text = _cell_text(tr.find(["th", "td"]))
+            if title is None:
+                title = text
+            else:
+                notes.append(text)
+
+        header_end = _header_end(all_rows, start)
+        columns = _header_columns(all_rows[start:header_end])
+
+        # Строки во всю ширину под данными (Tokyo: "Источник: ...").
+        end = len(all_rows)
+        while end > header_end and _is_full_width(all_rows[end - 1]):
+            end -= 1
+        trailing = [_cell_text(tr.find(["th", "td"])) for tr in all_rows[end:]]
 
         rows = []
-        for tr in all_rows[1:]:
+        for tr in all_rows[header_end:end]:
             cells = tr.find_all(["td", "th"])
             if not cells:
                 continue
@@ -53,10 +77,93 @@ def extract_tables(html: str) -> list[Table]:
                 title=title,
                 columns=columns,
                 rows=rows,
+                notes=notes + trailing,
             )
         )
 
     return tables
+
+
+def _span(cell, name: str) -> int:
+    try:
+        return max(1, int(cell.get(name, 1)))
+    except ValueError:
+        return 1
+
+
+def _is_full_width(tr, tag: str | None = None) -> bool:
+    """
+    Строка из одной ячейки на несколько колонок: пояснение или примечание.
+    tag="td" отсекает <th colspan> над шапкой - это заголовок группы
+    колонок ("Population" над "1990 | 2000"), а не пояснение.
+    """
+    cells = tr.find_all(["th", "td"])
+    return (
+        len(cells) == 1
+        and _span(cells[0], "colspan") > 1
+        and (tag is None or cells[0].name == tag)
+    )
+
+
+def _is_header_row(tr) -> bool:
+    if tr is None:
+        return False
+    cells = tr.find_all(["th", "td"])
+    return bool(cells) and all(cell.name == "th" for cell in cells)
+
+
+def _header_end(all_rows, start: int) -> int:
+    """
+    Индекс первой строки после шапки. Шапка - строка start; следующая
+    строка из одних <th> входит в шапку, только если в предыдущей
+    строке шапки есть объединённая ячейка (colspan > 1), ждущая
+    подзаголовков (Tokyo: "Возраст" -> "до 15 | 15—64 | от 65").
+    Иначе строки, начинающиеся с <th> (Julius Caesar: "58 BC"),
+    остаются данными, как и раньше.
+    """
+    end = start + 1
+    while (
+        end < len(all_rows)
+        and _is_header_row(all_rows[end])
+        and any(_span(cell, "colspan") > 1 for cell in all_rows[end - 1].find_all(["th", "td"]))
+    ):
+        end += 1
+    return end
+
+
+def _header_columns(header_rows) -> list[str]:
+    """
+    Названия колонок из одной или нескольких строк шапки с учётом
+    colspan/rowspan: ячейки раскладываются по сетке, название колонки -
+    тексты сверху вниз через " — " без повторов ("Возраст — до 15").
+    """
+    grid: list[dict[int, str]] = [dict() for _ in header_rows]
+    for row_index, tr in enumerate(header_rows):
+        column = 0
+        for cell in tr.find_all(["th", "td"]):
+            while column in grid[row_index]:
+                column += 1
+            text = _cell_text(cell)
+            rowspan = min(_span(cell, "rowspan"), len(header_rows) - row_index)
+            for r in range(row_index, row_index + rowspan):
+                for c in range(column, column + _span(cell, "colspan")):
+                    grid[r][c] = text
+            column += _span(cell, "colspan")
+
+    if len(header_rows) == 1:
+        # Одна строка шапки - как раньше: по колонке на ячейку.
+        return [_cell_text(cell) for cell in header_rows[0].find_all(["th", "td"])]
+
+    width = max((max(row) + 1 for row in grid if row), default=0)
+    columns = []
+    for c in range(width):
+        parts: list[str] = []
+        for row in grid:
+            text = row.get(c, "")
+            if text and (not parts or parts[-1] != text):
+                parts.append(text)
+        columns.append(" — ".join(parts))
+    return columns
 
 
 def _is_hidden(node, cell) -> bool:

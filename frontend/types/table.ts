@@ -5,5 +5,7 @@ export interface Table {
   title: string | null;
   columns: string[];
   rows: string[][];
+  /** Строки во всю ширину, не являющиеся данными: пояснения и "Источник: ...". */
+  notes: string[];
   source: SourceType;
 }
