@@ -348,7 +348,312 @@
       ]
     }
   ],
-  "infobox": {},
+  "infobox": {
+    "capital_and_largest_city": {
+      "key": "capital_and_largest_city",
+      "label": "Capital, and largest city",
+      "group": null,
+      "value": "Paris, 48°51′N 2°21′E / 48.850°N 2.350°E",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "official_languages": {
+      "key": "official_languages",
+      "label": "Official languages",
+      "group": null,
+      "value": "French",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "common_languages": {
+      "key": "common_languages",
+      "label": "Common languages",
+      "group": null,
+      "value": "French and other regional languages",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "religion_2025": {
+      "key": "religion_2025",
+      "label": "Religion, (2025)",
+      "group": null,
+      "value": "48% Christianity, 43% Catholicism, 4% Protestantism, 1% Orthodoxy, 37.5% no religion, 7% Islam, 1% Judaism, 1% Buddhism, 2.5% other religion, 3% unanswered",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "demonym": {
+      "key": "demonym",
+      "label": "Demonym",
+      "group": null,
+      "value": "French",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government": {
+      "key": "government",
+      "label": "Government",
+      "group": null,
+      "value": "Unitary semi-presidential republic",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_president": {
+      "key": "government_president",
+      "label": "President",
+      "group": "Government",
+      "value": "Emmanuel Macron",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_prime_minister": {
+      "key": "government_prime_minister",
+      "label": "Prime Minister",
+      "group": "Government",
+      "value": "Sébastien Lecornu",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_president_of_the_senate": {
+      "key": "government_president_of_the_senate",
+      "label": "President of the Senate",
+      "group": "Government",
+      "value": "Gérard Larcher",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_president_of_the_national_assembly": {
+      "key": "government_president_of_the_national_assembly",
+      "label": "President of the National Assembly",
+      "group": "Government",
+      "value": "Yaël Braun-Pivet",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "legislature": {
+      "key": "legislature",
+      "label": "Legislature",
+      "group": null,
+      "value": "Parliament",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "legislature_upper_house": {
+      "key": "legislature_upper_house",
+      "label": "Upper house",
+      "group": "Legislature",
+      "value": "Senate",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "legislature_lower_house": {
+      "key": "legislature_lower_house",
+      "label": "Lower house",
+      "group": "Legislature",
+      "value": "National Assembly",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "establishment_kingdom_of_the_west_franks_treaty_of_verdun": {
+      "key": "establishment_kingdom_of_the_west_franks_treaty_of_verdun",
+      "label": "Kingdom of the West Franks — Treaty of Verdun",
+      "group": "Establishment",
+      "value": "10 August 843",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "establishment_french_republic_french_first_republic": {
+      "key": "establishment_french_republic_french_first_republic",
+      "label": "French Republic — French First Republic",
+      "group": "Establishment",
+      "value": "22 September 1792",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "establishment_current_constitution_french_fifth_republic": {
+      "key": "establishment_current_constitution_french_fifth_republic",
+      "label": "Current constitution — French Fifth Republic",
+      "group": "Establishment",
+      "value": "4 October 1958",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_total": {
+      "key": "area_total",
+      "label": "Total",
+      "group": "Area",
+      "value": "632,702.3 km2 (244,287.7 sq mi), (including metropolitan France and overseas France and excluding Adélie Land) (42nd)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_water": {
+      "key": "area_water",
+      "label": "Water (%)",
+      "group": "Area",
+      "value": "0.86",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_metropolitan_france_dgcl": {
+      "key": "area_metropolitan_france_dgcl",
+      "label": "Metropolitan France (DGCL)",
+      "group": "Area",
+      "value": "543,941 km2 (210,017 sq mi) (50th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_metropolitan_france_insee": {
+      "key": "area_metropolitan_france_insee",
+      "label": "Metropolitan France (INSEE)",
+      "group": "Area",
+      "value": "543,908.3 km2 (210,004.2 sq mi) (50th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_january_2026_estimate": {
+      "key": "population_january_2026_estimate",
+      "label": "January 2026 estimate",
+      "group": "Population",
+      "value": "69,081,996 (21st)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_density": {
+      "key": "population_density",
+      "label": "Density",
+      "group": "Population",
+      "value": "109/km2 (283/sq mi) (106th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_metropolitan_france_estimate_as_of_january_2026": {
+      "key": "population_metropolitan_france_estimate_as_of_january_2026",
+      "label": "Metropolitan France, estimate as of January 2026",
+      "group": "Population",
+      "value": "66,792,845 (21st)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_density_2": {
+      "key": "population_density_2",
+      "label": "Density",
+      "group": "Population",
+      "value": "123/km2 (318.6/sq mi) (97th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_ppp": {
+      "key": "gdp_ppp",
+      "label": "GDP (PPP)",
+      "group": null,
+      "value": "2026 estimate",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_ppp_total": {
+      "key": "gdp_ppp_total",
+      "label": "Total",
+      "group": "GDP (PPP)",
+      "value": "$4.734 trillion (9th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_ppp_per_capita": {
+      "key": "gdp_ppp_per_capita",
+      "label": "Per capita",
+      "group": "GDP (PPP)",
+      "value": "$68,567 (25th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_nominal": {
+      "key": "gdp_nominal",
+      "label": "GDP (nominal)",
+      "group": null,
+      "value": "2026 estimate",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_nominal_total": {
+      "key": "gdp_nominal_total",
+      "label": "Total",
+      "group": "GDP (nominal)",
+      "value": "$3.596 trillion (7th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_nominal_per_capita": {
+      "key": "gdp_nominal_per_capita",
+      "label": "Per capita",
+      "group": "GDP (nominal)",
+      "value": "$52,083 (22nd)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gini_2025": {
+      "key": "gini_2025",
+      "label": "Gini (2025)",
+      "group": null,
+      "value": "30.4, medium inequality",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "hdi_2023": {
+      "key": "hdi_2023",
+      "label": "HDI (2023)",
+      "group": null,
+      "value": "0.920, very high (26th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "currency": {
+      "key": "currency",
+      "label": "Currency",
+      "group": null,
+      "value": "Euro (€) (EUR), CFP franc (XPF)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "time_zone": {
+      "key": "time_zone",
+      "label": "Time zone",
+      "group": null,
+      "value": "UTC+1 (CET)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "time_zone_summer_dst": {
+      "key": "time_zone_summer_dst",
+      "label": "Summer (DST)",
+      "group": "Time zone",
+      "value": "UTC+2 (CEST)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "calling_code": {
+      "key": "calling_code",
+      "label": "Calling code",
+      "group": null,
+      "value": "+33",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "iso_3166_code": {
+      "key": "iso_3166_code",
+      "label": "ISO 3166 code",
+      "group": null,
+      "value": "FR",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "internet_tld": {
+      "key": "internet_tld",
+      "label": "Internet TLD",
+      "group": null,
+      "value": ".fr",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
   "tables": [],
   "locations": [
     {

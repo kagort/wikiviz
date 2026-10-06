@@ -219,7 +219,88 @@
       ]
     }
   ],
-  "infobox": {},
+  "infobox": {
+    "дата_рождения": {
+      "key": "дата_рождения",
+      "label": "Дата рождения",
+      "group": null,
+      "value": "около 469 до н. э.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "место_рождения": {
+      "key": "место_рождения",
+      "label": "Место рождения",
+      "group": null,
+      "value": "Афины",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "дата_смерти": {
+      "key": "дата_смерти",
+      "label": "Дата смерти",
+      "group": null,
+      "value": "около 399 до н. э. (70 лет)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "место_смерти": {
+      "key": "место_смерти",
+      "label": "Место смерти",
+      "group": null,
+      "value": "Афины",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "страна": {
+      "key": "страна",
+      "label": "Страна",
+      "group": null,
+      "value": "Афины",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "род_деятельности": {
+      "key": "род_деятельности",
+      "label": "Род деятельности",
+      "group": null,
+      "value": "философ, учитель, писатель, этик",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "школа_традиция": {
+      "key": "школа_традиция",
+      "label": "Школа/традиция",
+      "group": null,
+      "value": "классическая греческая философия, сократическая",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "основные_интересы": {
+      "key": "основные_интересы",
+      "label": "Основные интересы",
+      "group": null,
+      "value": "эпистемология, этика",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "оказавшие_влияние": {
+      "key": "оказавшие_влияние",
+      "label": "Оказавшие влияние",
+      "group": null,
+      "value": "досократики, софисты",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "испытавшие_влияние": {
+      "key": "испытавшие_влияние",
+      "label": "Испытавшие влияние",
+      "group": null,
+      "value": "Платон, Ксенофонт, Аристотель, сократические школы, стоики и др.",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
   "tables": [],
   "locations": [],
   "events": [

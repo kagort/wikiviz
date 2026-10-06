@@ -265,7 +265,136 @@
       "children": []
     }
   ],
-  "infobox": {},
+  "infobox": {
+    "born": {
+      "key": "born",
+      "label": "Born",
+      "group": null,
+      "value": "12 or 13 July 100 BC, Suburra, Rome",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "died": {
+      "key": "died",
+      "label": "Died",
+      "group": null,
+      "value": "15 March 44 BC (aged 55), Theatre of Pompey, Rome",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "cause_of_death": {
+      "key": "cause_of_death",
+      "label": "Cause of death",
+      "group": null,
+      "value": "Assassination (stab wounds)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "occupations": {
+      "key": "occupations",
+      "label": "Occupations",
+      "group": null,
+      "value": "Politician, soldier, author",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "notable_work": {
+      "key": "notable_work",
+      "label": "Notable work",
+      "group": null,
+      "value": "Bellum Gallicum, Bellum Civile",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "office": {
+      "key": "office",
+      "label": "Office",
+      "group": null,
+      "value": "Pontifex maximus, 64–44 BC, Praetor, 62 BC, Consul, 59 BC, Proconsul (Gaul, Illyricum), 58–49 BC, Dictator, 49–44 BC, Consul, 48, 46–44 BC, Dictator perpetuo, 44 BC",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "spouse_s": {
+      "key": "spouse_s",
+      "label": "Spouse(s)",
+      "group": null,
+      "value": "Cossutia, (disputed), Cornelia, m. 84 BC; d. 69 BC, Pompeia, m. 67 BC; div. 61 BC, Calpurnia, m. 59 BC",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "partner": {
+      "key": "partner",
+      "label": "Partner",
+      "group": null,
+      "value": "Cleopatra VII (mistress)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "children": {
+      "key": "children",
+      "label": "Children",
+      "group": null,
+      "value": "Julia, Caesarion (unacknowledged), Augustus (adoptive)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "parents": {
+      "key": "parents",
+      "label": "Parents",
+      "group": null,
+      "value": "Gaius Julius Caesar, Aurelia",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "awards": {
+      "key": "awards",
+      "label": "Awards",
+      "group": null,
+      "value": "Civic Crown",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "military_career_allegiance": {
+      "key": "military_career_allegiance",
+      "label": "Allegiance",
+      "group": "Military career",
+      "value": "Roman Republic",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "military_career_branch": {
+      "key": "military_career_branch",
+      "label": "Branch",
+      "group": "Military career",
+      "value": "Roman Army",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "military_career_service_years": {
+      "key": "military_career_service_years",
+      "label": "Service years",
+      "group": "Military career",
+      "value": "81–45 BC",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "military_career_commands": {
+      "key": "military_career_commands",
+      "label": "Commands",
+      "group": "Military career",
+      "value": "XIII Legion",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "military_career_conflicts": {
+      "key": "military_career_conflicts",
+      "label": "Conflicts",
+      "group": "Military career",
+      "value": "Several, including:, Siege of Mytilene, Gallic Wars, Invasions of Britain, Caesar's civil war, Alexandrian war",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
   "tables": [
     {
       "id": "table-0",
