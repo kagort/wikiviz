@@ -351,7 +351,7 @@
   "infobox": {
     "capital_and_largest_city": {
       "key": "capital_and_largest_city",
-      "label": "Capital, and largest city",
+      "label": "Capital and largest city",
       "group": null,
       "value": "Paris, 48°51′N 2°21′E / 48.850°N 2.350°E",
       "normalized_value": null,
@@ -375,7 +375,7 @@
     },
     "religion_2025": {
       "key": "religion_2025",
-      "label": "Religion, (2025)",
+      "label": "Religion (2025)",
       "group": null,
       "value": "48% Christianity, 43% Catholicism, 4% Protestantism, 1% Orthodoxy, 37.5% no religion, 7% Islam, 1% Judaism, 1% Buddhism, 2.5% other religion, 3% unanswered",
       "normalized_value": null,

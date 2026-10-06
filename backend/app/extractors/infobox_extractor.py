@@ -53,7 +53,7 @@ def _collect(node: Tag, parts: list[str]) -> None:
                 _collect(child, parts)
 
 
-def _cell_text(cell: Tag) -> str:
+def _cell_text(cell: Tag, separator: str = ", ") -> str:
     """
     Видимый текст ячейки: без сносок (<sup class="reference">), скрытых
     span'ов (display:none, например ISO-дата "(1991-02-20)") и экранных
@@ -67,7 +67,7 @@ def _cell_text(cell: Tag) -> str:
         " ".join(piece.replace("﻿", "").split()).strip(" ,;")
         for piece in "".join(parts).split(_SEPARATOR)
     )
-    return ", ".join(piece for piece in pieces if piece)
+    return separator.join(piece for piece in pieces if piece)
 
 
 def _make_key(group: Optional[str], label: str, used: set[str]) -> str:
@@ -165,7 +165,8 @@ def extract_infobox(html: str) -> dict[str, InfoboxField]:
         if len(cells) < 2:
             continue
 
-        raw_label = _cell_text(cells[0])
+        # В подписи <br> - перенос строки, а не перечисление.
+        raw_label = _cell_text(cells[0], separator=" ")
         is_bullet = raw_label.startswith(_BULLET)
         label = raw_label.lstrip(_BULLET).strip()
         value = _cell_text(cells[1])

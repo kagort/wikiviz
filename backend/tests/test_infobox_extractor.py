@@ -271,3 +271,18 @@ def test_noprint_relative_age_is_removed():
     """
 
     assert _pairs(extract_infobox(html)) == [(None, "First appeared", "20 February 1991")]
+
+
+def test_line_break_inside_label_is_a_space_not_a_list():
+    # France: "Capital<br>and largest city", "Religion<br>(2025)".
+    html = """
+    <table class="infobox">
+        <tr><th class="infobox-label">Capital<br>and largest city</th><td class="infobox-data">Paris</td></tr>
+        <tr><th class="infobox-label"><div>Religion<br>(2025)</div></th><td class="infobox-data">48% Christianity</td></tr>
+    </table>
+    """
+
+    assert _pairs(extract_infobox(html)) == [
+        (None, "Capital and largest city", "Paris"),
+        (None, "Religion (2025)", "48% Christianity"),
+    ]
