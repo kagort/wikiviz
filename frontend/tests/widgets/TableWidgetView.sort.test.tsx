@@ -21,6 +21,7 @@ const sortTestTable: Table = {
     ['Абрикос', '9'],
     ['Банан', '2'],
   ],
+  notes: [],
   source: SourceType.Table,
 }
 

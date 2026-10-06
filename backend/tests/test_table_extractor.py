@@ -272,3 +272,125 @@ def test_code_next_to_plain_text_stays_space_separated():
     tables = extract_tables(html)
 
     assert tables[0].rows == [["types numpy.byte and numpy.ulonglong"]]
+
+
+def test_full_width_row_above_header_becomes_title_and_multirow_header_is_merged():
+    # Tokyo, "Статистика населения": пояснение во всю ширину, затем шапка
+    # в две строки (rowspan=2 у большинства колонок, "Возраст" с colspan=3).
+    html = """
+    <table class="wikitable">
+        <tr><td colspan="5">Статистика населения Токио</td></tr>
+        <tr><th rowspan="2">Перепись</th><th rowspan="2">Население</th><th colspan="3">Возраст</th></tr>
+        <tr><th>до 15</th><th>15—64</th><th>от 65</th></tr>
+        <tr><td>1 октября 1920</td><td>3 699 428</td><td>31,6%</td><td>65,3%</td><td>3,2%</td></tr>
+    </table>
+    """
+
+    table = extract_tables(html)[0]
+
+    assert table.title == "Статистика населения Токио"
+    assert table.columns == [
+        "Перепись",
+        "Население",
+        "Возраст — до 15",
+        "Возраст — 15—64",
+        "Возраст — от 65",
+    ]
+    assert table.rows == [["1 октября 1920", "3 699 428", "31,6%", "65,3%", "3,2%"]]
+    assert table.notes == []
+
+
+def test_full_width_row_above_header_goes_to_notes_when_caption_exists():
+    html = """
+    <table class="wikitable">
+        <caption>Население</caption>
+        <tr><td colspan="2">Данные переписей</td></tr>
+        <tr><th>Год</th><th>Население</th></tr>
+        <tr><td>1920</td><td>3 699 428</td></tr>
+    </table>
+    """
+
+    table = extract_tables(html)[0]
+
+    assert table.title == "Население"
+    assert table.columns == ["Год", "Население"]
+    assert table.rows == [["1920", "3 699 428"]]
+    assert table.notes == ["Данные переписей"]
+
+
+def test_full_width_source_row_below_data_goes_to_notes():
+    # Tokyo, "Климат Токио": последняя строка "Источник: ..." во всю ширину.
+    html = """
+    <table class="wikitable">
+        <caption>Климат Токио</caption>
+        <tr><th>Показатель</th><th>Янв.</th><th>Год</th></tr>
+        <tr><th>Средняя температура, °C</th><td>6,1</td><td>16,3</td></tr>
+        <tr><td colspan="3">Источник: Погода и климат</td></tr>
+    </table>
+    """
+
+    table = extract_tables(html)[0]
+
+    assert table.columns == ["Показатель", "Янв.", "Год"]
+    assert table.rows == [["Средняя температура, °C", "6,1", "16,3"]]
+    assert table.notes == ["Источник: Погода и климат"]
+
+
+def test_full_width_row_without_header_below_keeps_old_behavior():
+    # Julius Caesar, таблица должностей: "Political offices" во всю ширину,
+    # но за ней не шапка, а данные - строку не переосмысливаем.
+    html = """
+    <table class="wikitable">
+        <tr><th colspan="3">Political offices</th></tr>
+        <tr><td>Preceded by A</td><td>Roman consul 59 BC</td><td>Succeeded by B</td></tr>
+    </table>
+    """
+
+    table = extract_tables(html)[0]
+
+    assert table.title is None
+    assert table.columns == ["Political offices"]
+    assert table.rows == [["Preceded by A", "Roman consul 59 BC", "Succeeded by B"]]
+    assert table.notes == []
+
+
+def test_row_header_cells_in_data_rows_are_not_treated_as_header():
+    # Julius Caesar, таблица сражений: строки данных начинаются с <th>.
+    html = """
+    <table class="wikitable">
+        <tr><th>Date</th><th>War</th></tr>
+        <tr><th>58 BC</th><td>Gallic Wars</td></tr>
+        <tr><th>57 BC</th><td>Gallic Wars</td></tr>
+    </table>
+    """
+
+    table = extract_tables(html)[0]
+
+    assert table.columns == ["Date", "War"]
+    assert table.rows == [["58 BC", "Gallic Wars"], ["57 BC", "Gallic Wars"]]
+
+
+def test_two_level_header_without_rowspan_joins_parent_and_child():
+    html = """
+    <table class="wikitable">
+        <tr><th colspan="2">Population</th></tr>
+        <tr><th>1990</th><th>2000</th></tr>
+        <tr><td>10</td><td>12</td></tr>
+    </table>
+    """
+
+    table = extract_tables(html)[0]
+
+    assert table.columns == ["Population — 1990", "Population — 2000"]
+    assert table.rows == [["10", "12"]]
+
+
+def test_tables_without_full_width_rows_have_empty_notes():
+    html = """
+    <table class="wikitable">
+        <tr><th>A</th></tr>
+        <tr><td>1</td></tr>
+    </table>
+    """
+
+    assert extract_tables(html)[0].notes == []

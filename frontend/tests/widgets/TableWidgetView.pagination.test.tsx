@@ -9,6 +9,7 @@ function makeTableWithRows(count: number): Table {
     title: null,
     columns: ['№'],
     rows: Array.from({ length: count }, (_, i) => [`Строка ${i + 1}`]),
+    notes: [],
     source: SourceType.Table,
   }
 }
