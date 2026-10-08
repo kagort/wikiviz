@@ -1,0 +1,2358 @@
+{
+  "article": {
+    "id": 1106,
+    "title": "Новосибирск",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Новосибирск",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Этимология",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "История",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Российская Империя",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "После 1917 года",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "После 1940 года",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "XXI век",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "Физико-географическая характеристика",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-7",
+          "title": "Географическое положение",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Климат",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-9",
+          "title": "Часовой пояс",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-10",
+          "title": "Гидрография",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-11",
+          "title": "Экология",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-12",
+      "title": "Символика",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-13",
+          "title": "Герб",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-14",
+          "title": "Флаг",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-15",
+      "title": "Административное деление",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-16",
+      "title": "Генеральный план города",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-17",
+      "title": "Население",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-18",
+          "title": "Численность населения",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-19",
+          "title": "Национальный состав",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-20",
+          "title": "Демографические показатели",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "Браки и разводы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-22",
+          "title": "Информация по районам",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-23",
+          "title": "Миграция",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-24",
+      "title": "Главы",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-25",
+      "title": "Новосибирская агломерация",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-26",
+      "title": "Экономика",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-27",
+          "title": "Общее состояние",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-28",
+          "title": "Промышленность",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-29",
+          "title": "Торговля и услуги",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-30",
+          "title": "Финансы, кредитные рейтинги",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-31",
+      "title": "Транспорт",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-32",
+          "title": "Междугородный и международный транспорт",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-33",
+              "title": "Водный транспорт",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-34",
+              "title": "Железнодорожный транспорт",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-35",
+              "title": "Автомобильный транспорт",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-36",
+              "title": "Авиационный транспорт",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-37",
+          "title": "Городской общественный транспорт",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-38",
+              "title": "Автобус",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-39",
+              "title": "Трамвай",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-40",
+              "title": "Троллейбус",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-41",
+              "title": "Речной трамвай",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-42",
+              "title": "Метрополитен",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-43",
+              "title": "Городская железная дорога",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-44",
+              "title": "Маршрутное такси",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-45",
+              "title": "Такси",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-46",
+              "title": "Каршеринг и средства индивидуальной мобильности",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-47",
+      "title": "Наука и образование",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-48",
+          "title": "Дошкольное и основное образование",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-49",
+          "title": "Высшее образование",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-50",
+          "title": "Университеты",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-51",
+          "title": "Академии",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-52",
+          "title": "Институты",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-53",
+      "title": "Культура",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-54",
+          "title": "Театры",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-55",
+          "title": "Филармонии",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-56",
+          "title": "Фестивали",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-57",
+          "title": "Кинотеатры",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-58",
+          "title": "Планетарии",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-59",
+          "title": "Зоопарк",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-60",
+          "title": "Музеи",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-61",
+          "title": "Библиотеки",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-62",
+          "title": "Достопримечательности",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-63",
+      "title": "Религия",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-64",
+          "title": "Русская православная церковь",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-65",
+          "title": "Другие религиозные организации",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-66",
+      "title": "Кладбища",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-67",
+      "title": "Спорт",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-68",
+          "title": "Спортивные соревнования",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-69",
+          "title": "Спортивные сооружения",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-70",
+      "title": "Почётные жители",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-71",
+      "title": "Туризм",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-72",
+          "title": "История",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-73",
+          "title": "Достопримечательности",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-74",
+          "title": "Туристско-информационный центр",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-75",
+      "title": "Гостиницы",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-76",
+      "title": "Новосибирск в произведениях искусства",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-77",
+          "title": "Живопись",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-78",
+          "title": "Музыкальные произведения",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-79",
+      "title": "Разное",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-80",
+      "title": "Дипломатические и консульские представительства",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-81",
+      "title": "Города-побратимы",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-82",
+      "title": "Галерея",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-83",
+      "title": "Панорама",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-84",
+      "title": "См. также",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-85",
+      "title": "Примечания",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-86",
+      "title": "Литература",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-87",
+      "title": "Ссылки",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "страна": {
+      "key": "страна",
+      "label": "Страна",
+      "group": null,
+      "value": "Россия",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "статус": {
+      "key": "статус",
+      "label": "Статус",
+      "group": null,
+      "value": "областной центр",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "субъект_федерации": {
+      "key": "субъект_федерации",
+      "label": "Субъект Федерации",
+      "group": null,
+      "value": "Новосибирская область",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "городской_округ": {
+      "key": "городской_округ",
+      "label": "Городской округ",
+      "group": null,
+      "value": "город Новосибирск",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "внутреннее_деление": {
+      "key": "внутреннее_деление",
+      "label": "Внутреннее деление",
+      "group": null,
+      "value": "10 районов",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "мэр": {
+      "key": "мэр",
+      "label": "Мэр",
+      "group": null,
+      "value": "Максим Кудрявцев",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_основан": {
+      "key": "история_и_география_основан",
+      "label": "Основан",
+      "group": "История и география",
+      "value": "1893 год",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_прежние_названия": {
+      "key": "история_и_география_прежние_названия",
+      "label": "Прежние названия",
+      "group": "История и география",
+      "value": "до 1895 — Александровский, до 1903 — Ново-Николаевский, до 1926 — Ново-Николаевск",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_город_с": {
+      "key": "история_и_география_город_с",
+      "label": "Город с",
+      "group": "История и география",
+      "value": "1903 года",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_площадь": {
+      "key": "история_и_география_площадь",
+      "label": "Площадь",
+      "group": "История и география",
+      "value": "502,7 км²",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_высота_центра": {
+      "key": "история_и_география_высота_центра",
+      "label": "Высота центра",
+      "group": "История и география",
+      "value": "150 м",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_тип_климата": {
+      "key": "история_и_география_тип_климата",
+      "label": "Тип климата",
+      "group": "История и география",
+      "value": "континентальный",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_часовой_пояс": {
+      "key": "история_и_география_часовой_пояс",
+      "label": "Часовой пояс",
+      "group": "История и география",
+      "value": "UTC+7:00",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_население": {
+      "key": "население_население",
+      "label": "Население",
+      "group": "Население",
+      "value": "↗1 637 266 человек (2025)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_плотность": {
+      "key": "население_плотность",
+      "label": "Плотность",
+      "group": "Население",
+      "value": "3238,14 чел./км²",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_агломерация": {
+      "key": "население_агломерация",
+      "label": "Агломерация",
+      "group": "Население",
+      "value": "Новосибирская",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_население_агломерации": {
+      "key": "население_население_агломерации",
+      "label": "Население агломерации",
+      "group": "Население",
+      "value": "2 274 959 чел.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_национальности": {
+      "key": "население_национальности",
+      "label": "Национальности",
+      "group": "Население",
+      "value": "русские и др.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_конфессии": {
+      "key": "население_конфессии",
+      "label": "Конфессии",
+      "group": "Население",
+      "value": "православные, протестанты, мусульмане, католики и др.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_название_жителей": {
+      "key": "население_название_жителей",
+      "label": "Название жителей",
+      "group": "Население",
+      "value": "новосиби́рцы, новосиби́рец, новосиби́рка",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_телефонный_код": {
+      "key": "цифровые_идентификаторы_телефонный_код",
+      "label": "Телефонный код",
+      "group": "Цифровые идентификаторы",
+      "value": "+7 383",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_почтовый_индекс": {
+      "key": "цифровые_идентификаторы_почтовый_индекс",
+      "label": "Почтовый индекс",
+      "group": "Цифровые идентификаторы",
+      "value": "630xxx",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_окато": {
+      "key": "цифровые_идентификаторы_окато",
+      "label": "ОКАТО",
+      "group": "Цифровые идентификаторы",
+      "value": "50401",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_октмо": {
+      "key": "цифровые_идентификаторы_октмо",
+      "label": "ОКТМО",
+      "group": "Цифровые идентификаторы",
+      "value": "50701000001",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_номер_в_гкгн": {
+      "key": "цифровые_идентификаторы_номер_в_гкгн",
+      "label": "Номер в ГКГН",
+      "group": "Цифровые идентификаторы",
+      "value": "0013499",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "прочее_награды": {
+      "key": "прочее_награды",
+      "label": "Награды",
+      "group": "Прочее",
+      "value": "Город трудовой доблести",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "прочее_день_города": {
+      "key": "прочее_день_города",
+      "label": "День города",
+      "group": "Прочее",
+      "value": "Последнее воскресенье июня",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "прочее_неофициальные_названия": {
+      "key": "прочее_неофициальные_названия",
+      "label": "Неофициальные названия",
+      "group": "Прочее",
+      "value": "Столица Сибири, Сибирский Чикаго, Новосиб, Сиб, НСК, Энск",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [
+    {
+      "id": "table-0",
+      "title": "Климат Новосибирска",
+      "columns": [
+        "Показатель",
+        "Янв.",
+        "Февр.",
+        "Март",
+        "Апр.",
+        "Май",
+        "Июнь",
+        "Июль",
+        "Авг.",
+        "Сент.",
+        "Окт.",
+        "Нояб.",
+        "Дек.",
+        "Год"
+      ],
+      "rows": [
+        [
+          "Абсолютный максимум, °C",
+          "4,1",
+          "5,3",
+          "14,4",
+          "30,7",
+          "36,1",
+          "38,9",
+          "36,4",
+          "35,7",
+          "33,2",
+          "23,8",
+          "11,9",
+          "4,8",
+          "38,9"
+        ],
+        [
+          "Средний суточный максимум, °C",
+          "−12,6",
+          "−9,2",
+          "−1,3",
+          "9,6",
+          "18,9",
+          "23,8",
+          "25,4",
+          "23,1",
+          "16,1",
+          "7,9",
+          "−3,4",
+          "−9,9",
+          "7,4"
+        ],
+        [
+          "Средняя температура, °C",
+          "−17",
+          "−14,4",
+          "−6,8",
+          "3,6",
+          "11,9",
+          "17,6",
+          "19,5",
+          "16,9",
+          "10,3",
+          "3,3",
+          "−6,8",
+          "−13,9",
+          "2"
+        ],
+        [
+          "Средний суточный минимум, °C",
+          "−21,2",
+          "−19,1",
+          "−11,9",
+          "−1,4",
+          "5,7",
+          "11,7",
+          "13,9",
+          "11,5",
+          "5,7",
+          "−0,2",
+          "−10,1",
+          "−18",
+          "−2,8"
+        ],
+        [
+          "Абсолютный минимум, °C",
+          "−51,1",
+          "−47,6",
+          "−40",
+          "−29",
+          "−8,6",
+          "−2",
+          "3,9",
+          "0,2",
+          "−6,9",
+          "−26,4",
+          "−39,6",
+          "−45,7",
+          "−51,1"
+        ],
+        [
+          "Норма осадков, мм",
+          "25",
+          "18",
+          "20",
+          "24",
+          "37",
+          "55",
+          "68",
+          "58",
+          "46",
+          "43",
+          "39",
+          "36",
+          "465"
+        ]
+      ],
+      "notes": [
+        "Источник: Погода и Климат — Климат Новосибирска . pogodaiklimat.ru. Дата обращения: 20 июля 2017. Архивировано 9 октября 2016 года."
+      ],
+      "source": "table"
+    },
+    {
+      "id": "table-1",
+      "title": null,
+      "columns": [
+        "Солнечное сияние, часов за месяц, 1966—2013 — Месяц",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Янв",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Фев",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Мар",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Апр",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Май",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Июн",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Июл",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Авг",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Сен",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Окт",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Ноя",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Дек",
+        "Солнечное сияние, часов за месяц, 1966—2013 — Год"
+      ],
+      "rows": [
+        [
+          "Солнечное сияние, ч",
+          "72",
+          "113",
+          "172",
+          "215",
+          "269",
+          "301",
+          "304",
+          "250",
+          "172",
+          "103",
+          "62",
+          "51",
+          "2088"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-2",
+      "title": "Национальный состав Новосибирска по данным переписи 2010 года",
+      "columns": [
+        "Национальность",
+        "Численность чел.",
+        "В % к числу лиц, указавших национальную принадлежность"
+      ],
+      "rows": [
+        [
+          "русские",
+          "1 269 979",
+          "92,82 %"
+        ],
+        [
+          "украинцы",
+          "12 570",
+          "0,92 %"
+        ],
+        [
+          "узбеки",
+          "10 323",
+          "0,75 %"
+        ],
+        [
+          "татары",
+          "9 985",
+          "0,73 %"
+        ],
+        [
+          "немцы",
+          "8 649",
+          "0,63 %"
+        ],
+        [
+          "таджики",
+          "8 396",
+          "0,61 %"
+        ],
+        [
+          "армяне",
+          "6 446",
+          "0,47 %"
+        ],
+        [
+          "киргизы",
+          "6 033",
+          "0,44 %"
+        ],
+        [
+          "азербайджанцы",
+          "5 652",
+          "0,41 %"
+        ],
+        [
+          "белорусы",
+          "3 277",
+          "0,24 %"
+        ],
+        [
+          "казахи",
+          "2 837",
+          "0,21 %"
+        ],
+        [
+          "корейцы",
+          "2 739",
+          "0,20 %"
+        ],
+        [
+          "езиды",
+          "2 157",
+          "0,16 %"
+        ],
+        [
+          "евреи",
+          "2 047",
+          "0,15 %"
+        ],
+        [
+          "китайцы",
+          "1 726",
+          "0,13 %"
+        ],
+        [
+          "цыгане",
+          "1 432",
+          "0,10 %"
+        ],
+        [
+          "тувинцы",
+          "1 190",
+          "0,09 %"
+        ],
+        [
+          "буряты",
+          "1 180",
+          "0,09 %"
+        ],
+        [
+          "чуваши",
+          "981",
+          "0,07 %"
+        ],
+        [
+          "грузины",
+          "901",
+          "0,07 %"
+        ],
+        [
+          "турки",
+          "756",
+          "0,05 %"
+        ],
+        [
+          "мордва",
+          "691",
+          "0,05 %"
+        ],
+        [
+          "якуты",
+          "584",
+          "0,04 %"
+        ],
+        [
+          "башкиры",
+          "551",
+          "0,04 %"
+        ],
+        [
+          "поляки",
+          "497",
+          "0,04 %"
+        ],
+        [
+          "алтайцы",
+          "487",
+          "0,04 %"
+        ],
+        [
+          "молдаване",
+          "480",
+          "0,04 %"
+        ],
+        [
+          "лица других национальностей",
+          "5 667",
+          "0,41 %"
+        ],
+        [
+          "без национальности",
+          "98 148",
+          "6,67 %"
+        ],
+        [
+          "национальность не указана",
+          "4 375",
+          "0,31 %"
+        ],
+        [
+          "отказ от ответа",
+          "3 018",
+          "0,23 %"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-3",
+      "title": "10 крупнейших промышленных компаний Новосибирскапо версии журнала «Деловой квартал» на 2023 год.",
+      "columns": [
+        "Место в топ-100",
+        "Компания"
+      ],
+      "rows": [
+        [
+          "4",
+          "Группа Сибантрацит"
+        ],
+        [
+          "7",
+          "Новосибирский металлургический завод имени Кузьмина"
+        ],
+        [
+          "22",
+          "КМП Восток"
+        ],
+        [
+          "24",
+          "ВПК-Ойл"
+        ],
+        [
+          "31",
+          "Сибирская продовольственная компания"
+        ],
+        [
+          "34",
+          "Новосибиркий стрелочный завод"
+        ],
+        [
+          "41",
+          "Кудряшовский мясокомбинат"
+        ],
+        [
+          "45",
+          "НЛ Континент"
+        ],
+        [
+          "46",
+          "Искитимцемент"
+        ],
+        [
+          "48",
+          "Сибирская Нива"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    }
+  ],
+  "locations": [
+    {
+      "id": "location-0",
+      "name": "Новосибирск",
+      "latitude": 55.016666666666666,
+      "longitude": 82.91666666666667,
+      "description": null,
+      "source": "coordinate",
+      "confidence": 1.0
+    }
+  ],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1903-12-28",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1904-01-10",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "2025-01-01",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1893-04-30",
+      "date_precision": "day",
+      "title": "Этимология",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "1930-10-20",
+      "date_precision": "day",
+      "title": "Российская Империя",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "1915-01-01",
+      "date_precision": "day",
+      "title": "Российская Империя",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "2023-10-22",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "1918-05-26",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "1918-06-04",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "1918-06-30",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "1921-06-13",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-11",
+      "date": "1925-05-25",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-12",
+      "date": "1923-05-16",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-13",
+      "date": "1925-12-10",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-14",
+      "date": "1926-02-12",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-15",
+      "date": "1937-09-28",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-16",
+      "date": "1943-01-26",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-17",
+      "date": "1944-08-13",
+      "date_precision": "day",
+      "title": "После 1917 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-18",
+      "date": "1943-08-21",
+      "date_precision": "day",
+      "title": "После 1940 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-19",
+      "date": "1958-06-03",
+      "date_precision": "day",
+      "title": "После 1940 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-20",
+      "date": "1948-09-25",
+      "date_precision": "day",
+      "title": "После 1940 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-21",
+      "date": "1962-09-02",
+      "date_precision": "day",
+      "title": "После 1940 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-22",
+      "date": "1985-12-28",
+      "date_precision": "day",
+      "title": "После 1940 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-23",
+      "date": "1986-01-07",
+      "date_precision": "day",
+      "title": "После 1940 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-24",
+      "date": "1976-09-26",
+      "date_precision": "day",
+      "title": "После 1940 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-25",
+      "date": "1982-04-28",
+      "date_precision": "day",
+      "title": "После 1940 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-26",
+      "date": "1987-04-06",
+      "date_precision": "day",
+      "title": "После 1940 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-27",
+      "date": "1987-10-04",
+      "date_precision": "day",
+      "title": "После 1940 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-28",
+      "date": "2000-05-13",
+      "date_precision": "day",
+      "title": "После 1940 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-29",
+      "date": "2020-07-02",
+      "date_precision": "day",
+      "title": "XXI век",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-30",
+      "date": "2013-03-19",
+      "date_precision": "day",
+      "title": "Географическое положение",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-31",
+      "date": "1915-01-09",
+      "date_precision": "day",
+      "title": "Климат",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-32",
+      "date": "2023-06-07",
+      "date_precision": "day",
+      "title": "Климат",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-33",
+      "date": "1957-03-01",
+      "date_precision": "day",
+      "title": "Часовой пояс",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-34",
+      "date": "1993-05-23",
+      "date_precision": "day",
+      "title": "Часовой пояс",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-35",
+      "date": "2011-03-27",
+      "date_precision": "day",
+      "title": "Часовой пояс",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-36",
+      "date": "2014-10-25",
+      "date_precision": "day",
+      "title": "Часовой пояс",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-37",
+      "date": "2014-10-26",
+      "date_precision": "day",
+      "title": "Часовой пояс",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-38",
+      "date": "2016-07-23",
+      "date_precision": "day",
+      "title": "Часовой пояс",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-39",
+      "date": "2016-07-24",
+      "date_precision": "day",
+      "title": "Часовой пояс",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-40",
+      "date": "2025-01-01",
+      "date_precision": "day",
+      "title": "Численность населения",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-41",
+      "date": "1962-09-02",
+      "date_precision": "day",
+      "title": "Численность населения",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-42",
+      "date": "2014-04-23",
+      "date_precision": "day",
+      "title": "Главы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-43",
+      "date": "2023-12-28",
+      "date_precision": "day",
+      "title": "Главы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-44",
+      "date": "2024-04-16",
+      "date_precision": "day",
+      "title": "Главы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-45",
+      "date": "1992-01-14",
+      "date_precision": "day",
+      "title": "Главы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-46",
+      "date": "1993-10-05",
+      "date_precision": "day",
+      "title": "Главы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-47",
+      "date": "2000-03-26",
+      "date_precision": "day",
+      "title": "Главы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-48",
+      "date": "2014-01-09",
+      "date_precision": "day",
+      "title": "Главы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-49",
+      "date": "2014-01-10",
+      "date_precision": "day",
+      "title": "Главы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-50",
+      "date": "2014-04-22",
+      "date_precision": "day",
+      "title": "Главы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-51",
+      "date": "2017-07-01",
+      "date_precision": "day",
+      "title": "Общее состояние",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-52",
+      "date": "2023-06-02",
+      "date_precision": "day",
+      "title": "Промышленность",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-53",
+      "date": "2011-03-18",
+      "date_precision": "day",
+      "title": "Торговля и услуги",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-54",
+      "date": "2003-03-07",
+      "date_precision": "day",
+      "title": "Водный транспорт",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-55",
+      "date": "2019-12-21",
+      "date_precision": "day",
+      "title": "Автомобильный транспорт",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-56",
+      "date": "2020-04-06",
+      "date_precision": "day",
+      "title": "Автомобильный транспорт",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-57",
+      "date": "1934-11-26",
+      "date_precision": "day",
+      "title": "Трамвай",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-58",
+      "date": "1957-11-06",
+      "date_precision": "day",
+      "title": "Троллейбус",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-59",
+      "date": "1985-12-28",
+      "date_precision": "day",
+      "title": "Метрополитен",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-60",
+      "date": "1986-01-07",
+      "date_precision": "day",
+      "title": "Метрополитен",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-61",
+      "date": "2021-07-08",
+      "date_precision": "day",
+      "title": "Городская железная дорога",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-62",
+      "date": "2024-12-16",
+      "date_precision": "day",
+      "title": "Городская железная дорога",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-63",
+      "date": "2026-03-16",
+      "date_precision": "day",
+      "title": "Наука и образование",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-64",
+      "date": "2024-04-02",
+      "date_precision": "day",
+      "title": "Фестивали",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-65",
+      "date": "2008-05-21",
+      "date_precision": "day",
+      "title": "Фестивали",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-66",
+      "date": "2013-05-21",
+      "date_precision": "day",
+      "title": "Фестивали",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-67",
+      "date": "2007-08-17",
+      "date_precision": "day",
+      "title": "Музеи",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-68",
+      "date": "2002-06-27",
+      "date_precision": "day",
+      "title": "Музеи",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-69",
+      "date": "2007-10-07",
+      "date_precision": "day",
+      "title": "Музеи",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-70",
+      "date": "1945-05-12",
+      "date_precision": "day",
+      "title": "Достопримечательности",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-71",
+      "date": "2012-01-01",
+      "date_precision": "day",
+      "title": "Достопримечательности",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-72",
+      "date": "2020-01-28",
+      "date_precision": "day",
+      "title": "Достопримечательности",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-73",
+      "date": "1970-11-05",
+      "date_precision": "day",
+      "title": "Достопримечательности",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-74",
+      "date": "2018-08-28",
+      "date_precision": "day",
+      "title": "Достопримечательности",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-75",
+      "date": "2013-06-19",
+      "date_precision": "day",
+      "title": "Религия",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-76",
+      "date": "2019-06-29",
+      "date_precision": "day",
+      "title": "Спорт",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-77",
+      "date": "1992-03-22",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-78",
+      "date": "1997-03-16",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-79",
+      "date": "2005-02-19",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-80",
+      "date": "2007-03-26",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-81",
+      "date": "2007-07-01",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-82",
+      "date": "2009-04-19",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-83",
+      "date": "2011-04-24",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-84",
+      "date": "2012-03-06",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-85",
+      "date": "2015-03-13",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-86",
+      "date": "2015-03-29",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-87",
+      "date": "2018-05-11",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-88",
+      "date": "2019-06-30",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-89",
+      "date": "2020-01-20",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-90",
+      "date": "2021-04-24",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-91",
+      "date": "2023-03-28",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-92",
+      "date": "2025-02-01",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-93",
+      "date": "2025-02-09",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-94",
+      "date": "2025-12-14",
+      "date_precision": "day",
+      "title": "Спортивные соревнования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-95",
+      "date": "2024-05-25",
+      "date_precision": "day",
+      "title": "Почётные жители",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-96",
+      "date": "1909-01-09",
+      "date_precision": "day",
+      "title": "Почётные жители",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-97",
+      "date": "1914-03-17",
+      "date_precision": "day",
+      "title": "Почётные жители",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-98",
+      "date": "2011-12-28",
+      "date_precision": "day",
+      "title": "Почётные жители",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-99",
+      "date": "2010-09-09",
+      "date_precision": "day",
+      "title": "Почётные жители",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-100",
+      "date": "2014-05-12",
+      "date_precision": "day",
+      "title": "Почётные жители",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-101",
+      "date": "2016-03-01",
+      "date_precision": "day",
+      "title": "Туристско-информационный центр",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-102",
+      "date": "2016-09-12",
+      "date_precision": "day",
+      "title": "Разное",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-103",
+      "date": "1992-11-06",
+      "date_precision": "day",
+      "title": "Разное",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-104",
+      "date": "2008-08-01",
+      "date_precision": "day",
+      "title": "Разное",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-105",
+      "date": "2013-01-26",
+      "date_precision": "day",
+      "title": "Панорама",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Внутреннее деление",
+      "value": 10.0,
+      "unit": "районов",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Основан",
+      "value": 1893.0,
+      "unit": "год",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Прежние названия",
+      "value": 1895.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Город с",
+      "value": 1903.0,
+      "unit": "года",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Площадь",
+      "value": 502.7,
+      "unit": "км²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Высота центра",
+      "value": 150.0,
+      "unit": "м",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Часовой пояс",
+      "value": 7.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Население",
+      "value": 1637266.0,
+      "unit": "человек",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Плотность",
+      "value": 3238.14,
+      "unit": "чел./км²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Население агломерации",
+      "value": 2274959.0,
+      "unit": "чел.",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — Телефонный код",
+      "value": 7383.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — Почтовый индекс",
+      "value": 630.0,
+      "unit": "xxx",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — ОКАТО",
+      "value": 50401.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — ОКТМО",
+      "value": 50701000001.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — Номер в ГКГН",
+      "value": 13499.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Extravagance_sunset_over_the_Ob_sea_%285001539930%29.jpg/1280px-Extravagance_sunset_over_the_Ob_sea_%285001539930%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Extravagance_sunset_over_the_Ob_sea_%285001539930%29.jpg/500px-Extravagance_sunset_over_the_Ob_sea_%285001539930%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Закат на Новосибирском водохранилище",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/March_evening._The_sun_fell_across_the_Ob_river.jpg/1280px-March_evening._The_sun_fell_across_the_Ob_river.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/March_evening._The_sun_fell_across_the_Ob_river.jpg/500px-March_evening._The_sun_fell_across_the_Ob_river.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Закат на Оби",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%B2%D1%8B%D0%B9_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3_%D1%81_%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%81%D1%82%D0%B0.jpg/1280px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%B2%D1%8B%D0%B9_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3_%D1%81_%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%81%D1%82%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%B2%D1%8B%D0%B9_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3_%D1%81_%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%81%D1%82%D0%B0.jpg/500px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%B2%D1%8B%D0%B9_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3_%D1%81_%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%81%D1%82%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Река Обь и вид на правый берег города",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA._%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D1%8B_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B5.jpg/1280px-%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA._%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D1%8B_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA._%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D1%8B_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B5.jpg/330px-%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA._%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D1%8B_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Фонтаны на воде",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Bugrinsky_Bridge.jpg/1280px-Bugrinsky_Bridge.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Bugrinsky_Bridge.jpg/500px-Bugrinsky_Bridge.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Бугринский мост, октябрь 2017 года",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Somewhere_in_Novosibirsk.jpg/1280px-Somewhere_in_Novosibirsk.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Somewhere_in_Novosibirsk.jpg/500px-Somewhere_in_Novosibirsk.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Жилые дома, 2018 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Mikhailovskaya_Embankment%2C_Novosibirsk_07.jpg/1280px-Mikhailovskaya_Embankment%2C_Novosibirsk_07.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Mikhailovskaya_Embankment%2C_Novosibirsk_07.jpg/500px-Mikhailovskaya_Embankment%2C_Novosibirsk_07.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Михайловская набережная, 2019 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Novosibirsk_reservoir_2.jpg/1280px-Novosibirsk_reservoir_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Novosibirsk_reservoir_2.jpg/500px-Novosibirsk_reservoir_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Новосибирское водохранилище зимой. Микрорайон ОбьГЭС, 2014 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/View_on_the_nude_beach_in_Novosibirsk.jpg/1280px-View_on_the_nude_beach_in_Novosibirsk.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/View_on_the_nude_beach_in_Novosibirsk.jpg/500px-View_on_the_nude_beach_in_Novosibirsk.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Нудистский пляж, неподалёку от Академгородка, 2011 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Novosibirsk-third-day-of-first-snow-october-2016-001.jpg/1280px-Novosibirsk-third-day-of-first-snow-october-2016-001.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Novosibirsk-third-day-of-first-snow-october-2016-001.jpg/500px-Novosibirsk-third-day-of-first-snow-october-2016-001.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Жилой район, 2016 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Novosibirsk_LeninaSt_wooden_house_07-2016.jpg/1280px-Novosibirsk_LeninaSt_wooden_house_07-2016.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Novosibirsk_LeninaSt_wooden_house_07-2016.jpg/500px-Novosibirsk_LeninaSt_wooden_house_07-2016.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Деревянный жилой дом (№ 11) на улице Ленина, 2016 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/%D0%92%D0%BE%D0%B4%D0%BE%D0%BD%D0%B0%D0%BF%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F_%D1%83%D0%BB._%D0%92%D0%B0%D1%82%D1%83%D1%82%D0%B8%D0%BD%D0%B0%2C_29_1_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA_2.jpg/1280px-%D0%92%D0%BE%D0%B4%D0%BE%D0%BD%D0%B0%D0%BF%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F_%D1%83%D0%BB._%D0%92%D0%B0%D1%82%D1%83%D1%82%D0%B8%D0%BD%D0%B0%2C_29_1_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/%D0%92%D0%BE%D0%B4%D0%BE%D0%BD%D0%B0%D0%BF%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F_%D1%83%D0%BB._%D0%92%D0%B0%D1%82%D1%83%D1%82%D0%B8%D0%BD%D0%B0%2C_29_1_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA_2.jpg/250px-%D0%92%D0%BE%D0%B4%D0%BE%D0%BD%D0%B0%D0%BF%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F_%D1%83%D0%BB._%D0%92%D0%B0%D1%82%D1%83%D1%82%D0%B8%D0%BD%D0%B0%2C_29_1_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Водонапорная башня на площади Маркса, 2012 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA_1.jpg/1280px-%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA_1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA_1.jpg/500px-%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA_1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Дворец культуры имени Горького на улице Богдана Хмельницкого, 2016 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Entrance_to_Novosibirsk_Railway_Museum.jpg/1280px-Entrance_to_Novosibirsk_Railway_Museum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Entrance_to_Novosibirsk_Railway_Museum.jpg/960px-Entrance_to_Novosibirsk_Railway_Museum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Музей железнодорожной техники, 2007 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Night_Novosibirsk.jpg/1280px-Night_Novosibirsk.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Night_Novosibirsk.jpg/500px-Night_Novosibirsk.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Вид на ночной Новосибирск с самолёта, 2023 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Opera-and-Ballet-theatre-Novosibirsk.jpg/1280px-Opera-and-Ballet-theatre-Novosibirsk.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Opera-and-Ballet-theatre-Novosibirsk.jpg/330px-Opera-and-Ballet-theatre-Novosibirsk.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

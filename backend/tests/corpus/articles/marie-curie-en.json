@@ -1,0 +1,412 @@
+{
+  "article": {
+    "id": 20408,
+    "title": "Marie Curie",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Marie_Curie",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Life and career",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-1",
+          "title": "Early years",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-2",
+          "title": "Life in Paris",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "New elements",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Nobel Prizes",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "World War I",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-6",
+          "title": "Postwar years",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Death",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "Legacy",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-9",
+      "title": "Commemorations",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-10",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-11",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-12",
+      "title": "References",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-13",
+      "title": "Further reading",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-14",
+          "title": "Nonfiction",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-15",
+          "title": "Fiction",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-16",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "born": {
+      "key": "born",
+      "label": "Born",
+      "group": null,
+      "value": "Maria Salomea Skłodowska, 7 November 1867, Warsaw, Congress Poland, Russian Empire",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "died": {
+      "key": "died",
+      "label": "Died",
+      "group": null,
+      "value": "4 July 1934 (aged 66), Passy, Haute-Savoie, France",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "cause_of_death": {
+      "key": "cause_of_death",
+      "label": "Cause of death",
+      "group": null,
+      "value": "Aplastic anaemia",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "citizenship": {
+      "key": "citizenship",
+      "label": "Citizenship",
+      "group": null,
+      "value": "Russian Empire (until 1895), France (from 1895)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "education": {
+      "key": "education",
+      "label": "Education",
+      "group": null,
+      "value": "University of Paris",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "known_for": {
+      "key": "known_for",
+      "label": "Known for",
+      "group": null,
+      "value": "Discovering polonium and radium (with Pierre), Researching radioactivity",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "spouse": {
+      "key": "spouse",
+      "label": "Spouse",
+      "group": null,
+      "value": "Pierre Curie, ​, ​, (m. 1895; died 1906)​",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "children": {
+      "key": "children",
+      "label": "Children",
+      "group": null,
+      "value": "Irène, Ève",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "father": {
+      "key": "father",
+      "label": "Father",
+      "group": null,
+      "value": "Władysław Skłodowski",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "family": {
+      "key": "family",
+      "label": "Family",
+      "group": null,
+      "value": "Skłodowski (by birth), Curie (by marriage)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "awards": {
+      "key": "awards",
+      "label": "Awards",
+      "group": null,
+      "value": "Davy Medal (1903), Nobel Prize in Physics (1903), Matteucci Medal (1904), Actonian Prize (1907), Elliott Cresson Medal (1909), Albert Medal (1910), Nobel Prize in Chemistry (1911), Willard Gibbs Award (1921), John Scott Medal (1921), Cameron Prize for Therapeutics of the University of Edinburgh (1931)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "fields": {
+      "key": "fields",
+      "label": "Fields",
+      "group": null,
+      "value": "Physics, Chemistry",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "workplaces": {
+      "key": "workplaces",
+      "label": "Workplaces",
+      "group": null,
+      "value": "University of Paris, Institut du Radium, École normale supérieure, French Academy of Medicine, International Committee on Intellectual Cooperation",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "thesis": {
+      "key": "thesis",
+      "label": "Thesis",
+      "group": null,
+      "value": "Recherches sur les substances radioactives (Research on Radioactive Substances) (1903)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "doctoral_advisor": {
+      "key": "doctoral_advisor",
+      "label": "Doctoral advisor",
+      "group": null,
+      "value": "Gabriel Lippmann",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "doctoral_students": {
+      "key": "doctoral_students",
+      "label": "Doctoral students",
+      "group": null,
+      "value": "André-Louis Debierne, Gioacchino Failla, Ladislas Goldstein, Émile Henriot, Irène Joliot-Curie, Óscar Moreno, Marguerite Perey, Francis Perrin",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [],
+  "locations": [],
+  "events": [
+    {
+      "id": "event-0",
+      "date": "1867-11-07",
+      "date_precision": "day",
+      "title": "Born",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "1934-07-04",
+      "date_precision": "day",
+      "title": "Died",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "text-event-0",
+      "date": "1867-11-07",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1934-07-04",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "1867-11-07",
+      "date_precision": "day",
+      "title": "Early years",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1883-06-12",
+      "date_precision": "day",
+      "title": "Early years",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "1895-07-26",
+      "date_precision": "day",
+      "title": "Life in Paris",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "1898-04-12",
+      "date_precision": "day",
+      "title": "New elements",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "1898-04-14",
+      "date_precision": "day",
+      "title": "New elements",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "1898-12-26",
+      "date_precision": "day",
+      "title": "New elements",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "1906-04-19",
+      "date_precision": "day",
+      "title": "Nobel Prizes",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "1906-05-13",
+      "date_precision": "day",
+      "title": "Nobel Prizes",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "1934-07-04",
+      "date_precision": "day",
+      "title": "Death",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Citizenship",
+      "value": 1895.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Spouse",
+      "value": 1895.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Awards",
+      "value": 1903.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Thesis",
+      "value": 1903.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/1280px-Marie_Curie_c._1920s.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/250px-Marie_Curie_c._1920s.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Black-and-white head shot of Curie",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

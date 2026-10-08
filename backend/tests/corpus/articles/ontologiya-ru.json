@@ -1,0 +1,117 @@
+{
+  "article": {
+    "id": 13821,
+    "title": "Онтология",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Онтология",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Онтология как теория",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-1",
+          "title": "Что такое онтология?",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-2",
+          "title": "Развитие онтологии",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-3",
+              "title": "Античность",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-4",
+              "title": "Средние века",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-5",
+              "title": "Возникновение термина",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-6",
+              "title": "XX век",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "Предмет онтологии",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-8",
+      "title": "Онтология в точных науках",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-9",
+          "title": "Типы онтологий",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "Метаонтология",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-11",
+      "title": "См. также",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-12",
+      "title": "Примечания",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-13",
+      "title": "Литература",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-14",
+      "title": "Ссылки",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {},
+  "tables": [],
+  "locations": [],
+  "events": [],
+  "numbers": [],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [],
+  "links": [],
+  "metadata": {}
+}

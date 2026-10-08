@@ -129,6 +129,34 @@ def test_save_manifest_roundtrip_keeps_cyrillic_readable(tmp_path):
     assert load_manifest(path) == entries
 
 
+def test_kind_is_optional_and_roundtrips(tmp_path):
+    # kind - тип статьи (для корпуса проверки устойчивости); у фикстур его нет.
+    path = write_manifest(tmp_path, {
+        "articles": [
+            {"url": "https://en.wikipedia.org/wiki/A", "revision": 1, "file": "a.json", "kind": "person"},
+            {"url": "https://en.wikipedia.org/wiki/B", "revision": 2, "file": "b.json"},
+        ]
+    })
+
+    entries = load_manifest(path)
+    assert [e.kind for e in entries] == ["person", None]
+
+    save_manifest(path, entries)
+    saved = json.loads(path.read_text(encoding="utf-8"))["articles"]
+    assert saved[0]["kind"] == "person"
+    assert "kind" not in saved[1]  # манифест без kind пишется как раньше
+    assert load_manifest(path) == entries
+
+
+def test_load_manifest_rejects_non_string_kind(tmp_path):
+    path = write_manifest(tmp_path, {
+        "articles": [{"url": "https://en.wikipedia.org/wiki/A", "revision": 1, "file": "a.json", "kind": 5}]
+    })
+
+    with pytest.raises(ManifestError):
+        load_manifest(path)
+
+
 # --- export_fixtures -------------------------------------------------------
 
 

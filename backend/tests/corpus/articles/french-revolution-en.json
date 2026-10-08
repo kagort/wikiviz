@@ -1,0 +1,574 @@
+{
+  "article": {
+    "id": 11188,
+    "title": "French Revolution",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/French_Revolution",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Causes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Crisis of the Ancien Régime",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Financial and political crisis",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Estates-General of 1789",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "Constitutional monarchy (July 1789 – September 1792)",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-5",
+          "title": "Abolition of the Ancien Régime",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-6",
+          "title": "Creating a constitution",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Catholic Church",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Political divisions",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-9",
+          "title": "Varennes and after",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-10",
+          "title": "Fall of the monarchy",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "First Republic (1792–1795)",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-12",
+          "title": "Proclamation of the First Republic",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-13",
+          "title": "Political crisis and fall of the Girondins",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-14",
+          "title": "Reign of Terror",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-15",
+          "title": "Thermidorian reaction",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-16",
+      "title": "French Directory (1795–1799)",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-17",
+      "title": "Role of ideology",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-18",
+      "title": "French Revolutionary Wars",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-19",
+      "title": "Slavery and the colonies",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-20",
+      "title": "Media and symbolism",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-21",
+          "title": "Newspapers",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-22",
+          "title": "Revolutionary symbols",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-23",
+              "title": "La Marseillaise",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-24",
+              "title": "Guillotine",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-25",
+              "title": "Cockade, tricolore, and liberty cap",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-26",
+      "title": "Role of women",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-27",
+          "title": "Prominent women",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-28",
+      "title": "Economic policies",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-29",
+      "title": "Impact",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-30",
+          "title": "France",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-31",
+          "title": "Europe outside France",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-32",
+          "title": "North America",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-33",
+      "title": "Historiography",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-34",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-35",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-36",
+      "title": "References",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-37",
+          "title": "Citations",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-38",
+          "title": "Sources",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-39",
+      "title": "Further reading",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-40",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "part_of_the_age_of_revolution_date": {
+      "key": "part_of_the_age_of_revolution_date",
+      "label": "Date",
+      "group": "Part of the Age of Revolution",
+      "value": "5 May 1789 – 9 November 1799, (10 years, 6 months, and 4 days)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "part_of_the_age_of_revolution_location": {
+      "key": "part_of_the_age_of_revolution_location",
+      "label": "Location",
+      "group": "Part of the Age of Revolution",
+      "value": "France",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "part_of_the_age_of_revolution_outcome": {
+      "key": "part_of_the_age_of_revolution_outcome",
+      "label": "Outcome",
+      "group": "Part of the Age of Revolution",
+      "value": "Abolition of the Ancien régime and creation of constitutional monarchy, Proclamation of the French First Republic in September 1792, Reign of Terror and execution of Louis XVI, French Revolutionary Wars, Establishment of the French Consulate in November 1799",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [
+    {
+      "id": "table-0",
+      "title": null,
+      "columns": [
+        "Preceded by Ancien Régime (Old Regime)",
+        "French Revolution 1789–1792",
+        "Succeeded by French First Republic"
+      ],
+      "rows": [],
+      "notes": [],
+      "source": "table"
+    }
+  ],
+  "locations": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1799-11-09",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1792-08-10",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "1788-08-08",
+      "date_precision": "day",
+      "title": "Financial and political crisis",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1788-09-25",
+      "date_precision": "day",
+      "title": "Financial and political crisis",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "1789-05-05",
+      "date_precision": "day",
+      "title": "Estates-General of 1789",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "1789-07-14",
+      "date_precision": "day",
+      "title": "Abolition of the Ancien Régime",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "1790-02-16",
+      "date_precision": "day",
+      "title": "Catholic Church",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "1790-02-13",
+      "date_precision": "day",
+      "title": "Catholic Church",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "1790-07-12",
+      "date_precision": "day",
+      "title": "Catholic Church",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "1790-07-14",
+      "date_precision": "day",
+      "title": "Political divisions",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "1791-06-20",
+      "date_precision": "day",
+      "title": "Varennes and after",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-11",
+      "date": "1792-08-10",
+      "date_precision": "day",
+      "title": "Fall of the monarchy",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-12",
+      "date": "1792-04-20",
+      "date_precision": "day",
+      "title": "Fall of the monarchy",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-13",
+      "date": "1793-01-17",
+      "date_precision": "day",
+      "title": "Proclamation of the First Republic",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-14",
+      "date": "1793-04-06",
+      "date_precision": "day",
+      "title": "Political crisis and fall of the Girondins",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-15",
+      "date": "1794-04-05",
+      "date_precision": "day",
+      "title": "Reign of Terror",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-16",
+      "date": "1794-07-28",
+      "date_precision": "day",
+      "title": "Reign of Terror",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-17",
+      "date": "1795-09-23",
+      "date_precision": "day",
+      "title": "Thermidorian reaction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-18",
+      "date": "1795-10-05",
+      "date_precision": "day",
+      "title": "French Directory (1795–1799)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-19",
+      "date": "1799-11-09",
+      "date_precision": "day",
+      "title": "French Directory (1795–1799)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-20",
+      "date": "1792-09-20",
+      "date_precision": "day",
+      "title": "French Revolutionary Wars",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-21",
+      "date": "1794-02-04",
+      "date_precision": "day",
+      "title": "Slavery and the colonies",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-22",
+      "date": "1789-07-12",
+      "date_precision": "day",
+      "title": "Cockade, tricolore, and liberty cap",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-23",
+      "date": "1793-10-30",
+      "date_precision": "day",
+      "title": "Role of women",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-24",
+      "date": "1790-09-29",
+      "date_precision": "day",
+      "title": "Economic policies",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-25",
+      "date": "1789-11-04",
+      "date_precision": "day",
+      "title": "Europe outside France",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Outcome",
+      "value": 1792.0,
+      "unit": "Reign",
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hippolyte_Taine_cropped.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hippolyte_Taine_cropped.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "caption": "Hippolyte Taine , conservative historian of the French Revolution",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/1280px-Anonymous_-_Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/330px-Anonymous_-_Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

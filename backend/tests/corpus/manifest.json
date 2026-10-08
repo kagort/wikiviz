@@ -1,0 +1,292 @@
+{
+  "articles": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "revision": 1378672573,
+      "file": "marie-curie-en.json",
+      "kind": "person-modern"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "revision": 1376862306,
+      "file": "albert-einstein-en.json",
+      "kind": "person-modern"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aristotle",
+      "revision": 1379112110,
+      "file": "aristotle-en.json",
+      "kind": "person-ancient"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Japan",
+      "revision": 1379160042,
+      "file": "japan-en.json",
+      "kind": "country"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brazil",
+      "revision": 1378644706,
+      "file": "brazil-en.json",
+      "kind": "country"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_States",
+      "revision": 1379041063,
+      "file": "united-states-en.json",
+      "kind": "country"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/London",
+      "revision": 1378295485,
+      "file": "london-en.json",
+      "kind": "city"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_York_City",
+      "revision": 1379109132,
+      "file": "new-york-city-en.json",
+      "kind": "city"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "revision": 1378918791,
+      "file": "world-war-ii-en.json",
+      "kind": "event"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Revolution",
+      "revision": 1379187602,
+      "file": "french-revolution-en.json",
+      "kind": "event"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Nations",
+      "revision": 1378625584,
+      "file": "united-nations-en.json",
+      "kind": "organization"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Google",
+      "revision": 1378514468,
+      "file": "google-en.json",
+      "kind": "organization"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Democracy",
+      "revision": 1378880935,
+      "file": "democracy-en.json",
+      "kind": "concept"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+      "revision": 1371284103,
+      "file": "photosynthesis-en.json",
+      "kind": "concept"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Epistemology",
+      "revision": 1376802426,
+      "file": "epistemology-en.json",
+      "kind": "concept"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/War_and_Peace",
+      "revision": 1378855904,
+      "file": "war-and-peace-en.json",
+      "kind": "work"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abbey_Road",
+      "revision": 1378781092,
+      "file": "abbey-road-en.json",
+      "kind": "work"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tiger",
+      "revision": 1377410117,
+      "file": "tiger-en.json",
+      "kind": "nature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Everest",
+      "revision": 1376942985,
+      "file": "mount-everest-en.json",
+      "kind": "nature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Water",
+      "revision": 1379051232,
+      "file": "water-en.json",
+      "kind": "substance"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
+      "revision": 1377878710,
+      "file": "2018-fifa-world-cup-en.json",
+      "kind": "sport"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_largest_cities",
+      "revision": 1378652449,
+      "file": "list-of-largest-cities-en.json",
+      "kind": "list"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Пушкин,_Александр_Сергеевич",
+      "revision": 155241272,
+      "file": "pushkin-ru.json",
+      "kind": "person-modern"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Гагарин,_Юрий_Алексеевич",
+      "revision": 155488993,
+      "file": "gagarin-ru.json",
+      "kind": "person-modern"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Платон",
+      "revision": 154752113,
+      "file": "platon-ru.json",
+      "kind": "person-ancient"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Германия",
+      "revision": 155463463,
+      "file": "germaniya-ru.json",
+      "kind": "country"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Казахстан",
+      "revision": 155482387,
+      "file": "kazakhstan-ru.json",
+      "kind": "country"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Санкт-Петербург",
+      "revision": 155340816,
+      "file": "sankt-peterburg-ru.json",
+      "kind": "city"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Новосибирск",
+      "revision": 155451765,
+      "file": "novosibirsk-ru.json",
+      "kind": "city"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Отечественная_война_1812_года",
+      "revision": 155455615,
+      "file": "war-1812-ru.json",
+      "kind": "event"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Куликовская_битва",
+      "revision": 155269428,
+      "file": "kulikovskaya-bitva-ru.json",
+      "kind": "event"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Московский_государственный_университет",
+      "revision": 154655190,
+      "file": "msu-ru.json",
+      "kind": "organization"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Философия",
+      "revision": 155259881,
+      "file": "filosofiya-ru.json",
+      "kind": "concept"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Онтология",
+      "revision": 154327612,
+      "file": "ontologiya-ru.json",
+      "kind": "concept"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Мастер_и_Маргарита",
+      "revision": 155323051,
+      "file": "master-i-margarita-ru.json",
+      "kind": "work"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Берёза",
+      "revision": 154075229,
+      "file": "bereza-ru.json",
+      "kind": "nature"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Байкал",
+      "revision": 154598574,
+      "file": "baikal-ru.json",
+      "kind": "nature"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Золото",
+      "revision": 154951599,
+      "file": "zoloto-ru.json",
+      "kind": "substance"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Чемпионат_мира_по_футболу_2018",
+      "revision": 155125399,
+      "file": "chm-2018-ru.json",
+      "kind": "sport"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Список_городов_России",
+      "revision": 155184267,
+      "file": "spisok-gorodov-rossii-ru.json",
+      "kind": "list"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jens_Adler",
+      "revision": 1361699356,
+      "file": "random-en-jens-adler.json",
+      "kind": "random"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Parsonages_(Amendment)_Act_1838",
+      "revision": 1373561680,
+      "file": "random-en-parsonages-amendment-act-1838.json",
+      "kind": "random"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yellow-breasted_warbling_antbird",
+      "revision": 1366670134,
+      "file": "random-en-yellow-breasted-warbling-antbird.json",
+      "kind": "random"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Пермская_область",
+      "revision": 150141783,
+      "file": "random-ru-13794.json",
+      "kind": "random"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Зельрайн",
+      "revision": 134683821,
+      "file": "random-ru-580420.json",
+      "kind": "random"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Toyota_RAV4_EV",
+      "revision": 153577165,
+      "file": "random-ru-toyota-rav4-ev.json",
+      "kind": "random"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andrew_Crosby",
+      "revision": 1355839404,
+      "file": "stub-en-andrew-crosby.json",
+      "kind": "stub"
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Зилга",
+      "revision": 123659885,
+      "file": "stub-ru-2801457.json",
+      "kind": "stub"
+    }
+  ]
+}

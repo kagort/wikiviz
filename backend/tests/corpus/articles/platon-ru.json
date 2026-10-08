@@ -1,0 +1,487 @@
+{
+  "article": {
+    "id": 1231,
+    "title": "Платон",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Платон",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Биография",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Произведения",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Издание Аристофана Византийского",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Издание Трасилла",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Сочинения, приписываемые Платону",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "Рецепция Платона в Риме и в Средневековье",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-6",
+          "title": "Издание Марсилио Фичино",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Издание Анри Этьенна (Стафановское издание)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Современная хронология",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-9",
+              "title": "Ранний период (приблизительно 90-е гг. IV века до н. э.)",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-10",
+              "title": "Переходный период (80-е гг.)",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-11",
+              "title": "Зрелый период (70—60-е гг.)",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-12",
+              "title": "Поздний период",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-13",
+      "title": "Онтология Платона",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-14",
+          "title": "Основные положения онтологии Платона",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-15",
+          "title": "Теория идей Платона",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-16",
+          "title": "Проблемы, связанные с теорией идей",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Идея Блага",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-18",
+      "title": "Учение о душе",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-19",
+          "title": "Дуализм души и тела",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-20",
+          "title": "Три части души",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "Первый аргумент в пользу бессмертия души",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-22",
+          "title": "Второй аргумент в пользу бессмертия души",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-23",
+          "title": "Третий аргумент в пользу бессмертия души",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-24",
+          "title": "Четвёртый аргумент в пользу бессмертия души",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-25",
+          "title": "Судьба души человека",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-26",
+      "title": "Учение о познании",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-27",
+      "title": "Диалектика Платона",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-28",
+      "title": "Политико-правовое учение Платона",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-29",
+          "title": "Политические идеи в «Государстве»",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-30",
+          "title": "Политические идеи в «Законах»",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-31",
+          "title": "Политические идеи в диалоге «Политик»",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-32",
+      "title": "Этические взгляды",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-33",
+      "title": "Человек",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-34",
+      "title": "Неписаное учение",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-35",
+      "title": "Тексты",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-36",
+      "title": "История изучения",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-37",
+      "title": "Политическая критика Платона",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-38",
+      "title": "Переводчики Платона",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-39",
+          "title": "На русский язык",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-40",
+          "title": "На европейские языки",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-41",
+          "title": "На армянский язык",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-42",
+      "title": "См. также",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-43",
+      "title": "Примечания",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-44",
+      "title": "Литература",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-45",
+          "title": "Тексты и переводы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-46",
+          "title": "Исследования на русском языке",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-47",
+          "title": "Исследования на других языках",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-48",
+      "title": "Образ Платона в современном искусстве",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-49",
+      "title": "Ссылки",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "имя_при_рождении": {
+      "key": "имя_при_рождении",
+      "label": "Имя при рождении",
+      "group": null,
+      "value": "Аристокл",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "дата_рождения": {
+      "key": "дата_рождения",
+      "label": "Дата рождения",
+      "group": null,
+      "value": "428/427 до н.э. или 424/423 до н.э.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "место_рождения": {
+      "key": "место_рождения",
+      "label": "Место рождения",
+      "group": null,
+      "value": "Древние Афины",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "дата_смерти": {
+      "key": "дата_смерти",
+      "label": "Дата смерти",
+      "group": null,
+      "value": "348/347 до н.э.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "место_смерти": {
+      "key": "место_смерти",
+      "label": "Место смерти",
+      "group": null,
+      "value": "Древние Афины",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "страна": {
+      "key": "страна",
+      "label": "Страна",
+      "group": null,
+      "value": "Древние Афины",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "язык_и_произведений": {
+      "key": "язык_и_произведений",
+      "label": "Язык(и) произведений",
+      "group": null,
+      "value": "аттический диалект древнегреческого языка",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "род_деятельности": {
+      "key": "род_деятельности",
+      "label": "Род деятельности",
+      "group": null,
+      "value": "философ, эпиграмматист, поэт, писатель, философ права",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "направление": {
+      "key": "направление",
+      "label": "Направление",
+      "group": null,
+      "value": "платонизм",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "период": {
+      "key": "период",
+      "label": "Период",
+      "group": null,
+      "value": "Древняя Греция",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "основные_интересы": {
+      "key": "основные_интересы",
+      "label": "Основные интересы",
+      "group": null,
+      "value": "метафизика, эпистемология, этика, эстетика, политика, образование, философия математики",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "оказавшие_влияние": {
+      "key": "оказавшие_влияние",
+      "label": "Оказавшие влияние",
+      "group": null,
+      "value": "Сократ, Архит, Демокрит, Парменид, Пифагор, Гераклит",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "испытавшие_влияние": {
+      "key": "испытавшие_влияние",
+      "label": "Испытавшие влияние",
+      "group": null,
+      "value": "Аристотель, практически все европейские и ближневосточные философы",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [],
+  "locations": [],
+  "events": [
+    {
+      "id": "event-0",
+      "date": "-0427",
+      "date_precision": "year",
+      "title": "Дата рождения",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "-0347",
+      "date_precision": "year",
+      "title": "Дата смерти",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "text-event-0",
+      "date": "2014-03-26",
+      "date_precision": "day",
+      "title": "Политические идеи в диалоге «Политик»",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Дата рождения",
+      "value": 428.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Дата смерти",
+      "value": 348.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/1280px-Plato_Silanion_Musei_Capitolini_MC1377.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/330px-Plato_Silanion_Musei_Capitolini_MC1377.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

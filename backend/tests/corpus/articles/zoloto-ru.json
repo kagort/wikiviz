@@ -1,0 +1,965 @@
+{
+  "article": {
+    "id": 743,
+    "title": "Золото",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Золото",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Этимология",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Физические свойства",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-2",
+      "title": "Химические свойства",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-3",
+      "title": "Биологическая роль и физиологическое воздействие",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-4",
+      "title": "Происхождение",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-5",
+      "title": "Геохимия",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-6",
+          "title": "Биогеохимия",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "Запасы и добыча",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-8",
+          "title": "Получение",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-9",
+              "title": "Промывка",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-10",
+              "title": "Амальгамация",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-11",
+              "title": "Цианирование",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-12",
+              "title": "Регенерация",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-13",
+      "title": "Применение",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-14",
+          "title": "В ювелирных изделиях",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-15",
+          "title": "Как объект инвестирования",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-16",
+          "title": "В качестве денег",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "В промышленности",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-18",
+          "title": "В стоматологии",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-19",
+          "title": "В фармакологии",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-20",
+          "title": "В пищевой промышленности",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-21",
+      "title": "Безопасность",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-22",
+      "title": "Изотопы",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-23",
+      "title": "Цены",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-24",
+          "title": "Как инструмент инвестиций",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-25",
+      "title": "Международный рынок",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-26",
+      "title": "Резервы",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-27",
+          "title": "Золотой резерв России",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-28",
+          "title": "Крупнейшие государственные резервы в мире",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-29",
+      "title": "Меры чистоты",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-30",
+          "title": "Британская каратная система",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-31",
+          "title": "Система проб",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-32",
+              "title": "Российская система проб",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-33",
+              "title": "Золотниковая система проб",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-34",
+      "title": "Истории, легенды и мифы",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-35",
+          "title": "Золото империи инков, XV—XVI века",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-36",
+      "title": "В культуре",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-37",
+          "title": "Устойчивые выражения, пословицы и поговорки",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-38",
+          "title": "В художественной литературе",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-39",
+          "title": "В киноискусстве",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-40",
+      "title": "См. также",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-41",
+      "title": "Примечания",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-42",
+      "title": "Литература",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-43",
+      "title": "Ссылки",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "внешний_вид_простого_вещества": {
+      "key": "внешний_вид_простого_вещества",
+      "label": "Внешний вид простого вещества",
+      "group": null,
+      "value": "Металл ярко-жёлтого цвета",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "свойства_атома_название_символ_номер": {
+      "key": "свойства_атома_название_символ_номер",
+      "label": "Название, символ, номер",
+      "group": "Свойства атома",
+      "value": "Зо́лото / Aurum (Au), 79",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "свойства_атома_атомная_масса_молярная_масса": {
+      "key": "свойства_атома_атомная_масса_молярная_масса",
+      "label": "Атомная масса (молярная масса)",
+      "group": "Свойства атома",
+      "value": "196,966569(4) а. е. м. (г/моль)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "свойства_атома_электронная_конфигурация": {
+      "key": "свойства_атома_электронная_конфигурация",
+      "label": "Электронная конфигурация",
+      "group": "Свойства атома",
+      "value": "[Xe] 4f14 5d10 6s1",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "свойства_атома_радиус_атома": {
+      "key": "свойства_атома_радиус_атома",
+      "label": "Радиус атома",
+      "group": "Свойства атома",
+      "value": "144 пм",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "химические_свойства_ковалентный_радиус": {
+      "key": "химические_свойства_ковалентный_радиус",
+      "label": "Ковалентный радиус",
+      "group": "Химические свойства",
+      "value": "134 пм",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "химические_свойства_радиус_иона": {
+      "key": "химические_свойства_радиус_иона",
+      "label": "Радиус иона",
+      "group": "Химические свойства",
+      "value": "(−3e) 185 (+1e) 137 пм",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "химические_свойства_электроотрицательность": {
+      "key": "химические_свойства_электроотрицательность",
+      "label": "Электроотрицательность",
+      "group": "Химические свойства",
+      "value": "2,64 (шкала Полинга)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "химические_свойства_электродный_потенциал": {
+      "key": "химические_свойства_электродный_потенциал",
+      "label": "Электродный потенциал",
+      "group": "Химические свойства",
+      "value": "Au ← Au3+ 1,50 В, Au ← Au+ 1,70 В",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "химические_свойства_степени_окисления": {
+      "key": "химические_свойства_степени_окисления",
+      "label": "Степени окисления",
+      "group": "Химические свойства",
+      "value": "−1, 0, +1, +2, +3, +5",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "химические_свойства_энергия_ионизации_первый_электрон": {
+      "key": "химические_свойства_энергия_ионизации_первый_электрон",
+      "label": "Энергия ионизации (первый электрон)",
+      "group": "Химические свойства",
+      "value": "889,3 (9,22) кДж/моль (эВ)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "термодинамические_свойства_простого_вещества_плотность_при_н_у": {
+      "key": "термодинамические_свойства_простого_вещества_плотность_при_н_у",
+      "label": "Плотность (при н. у.)",
+      "group": "Термодинамические свойства простого вещества",
+      "value": "19,3—19,32 г/см3",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "термодинамические_свойства_простого_вещества_температура_плавления": {
+      "key": "термодинамические_свойства_простого_вещества_температура_плавления",
+      "label": "Температура плавления",
+      "group": "Термодинамические свойства простого вещества",
+      "value": "1337,33 К (1064,18 °C)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "термодинамические_свойства_простого_вещества_температура_кипения": {
+      "key": "термодинамические_свойства_простого_вещества_температура_кипения",
+      "label": "Температура кипения",
+      "group": "Термодинамические свойства простого вещества",
+      "value": "3129 К (2856 °C)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "термодинамические_свойства_простого_вещества_мол_теплота_плавления": {
+      "key": "термодинамические_свойства_простого_вещества_мол_теплота_плавления",
+      "label": "Мол. теплота плавления",
+      "group": "Термодинамические свойства простого вещества",
+      "value": "12,68 кДж/моль",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "термодинамические_свойства_простого_вещества_мол_теплота_испарения": {
+      "key": "термодинамические_свойства_простого_вещества_мол_теплота_испарения",
+      "label": "Мол. теплота испарения",
+      "group": "Термодинамические свойства простого вещества",
+      "value": "~340 кДж/моль",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "термодинамические_свойства_простого_вещества_молярная_теплоёмкость": {
+      "key": "термодинамические_свойства_простого_вещества_молярная_теплоёмкость",
+      "label": "Молярная теплоёмкость",
+      "group": "Термодинамические свойства простого вещества",
+      "value": "25,39 Дж/(K·моль)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "термодинамические_свойства_простого_вещества_молярный_объём": {
+      "key": "термодинамические_свойства_простого_вещества_молярный_объём",
+      "label": "Молярный объём",
+      "group": "Термодинамические свойства простого вещества",
+      "value": "10,2 см3/моль",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "кристаллическая_решётка_простого_вещества_структура_решётки": {
+      "key": "кристаллическая_решётка_простого_вещества_структура_решётки",
+      "label": "Структура решётки",
+      "group": "Кристаллическая решётка простого вещества",
+      "value": "кубическая гранецентрированная типа Cu, пр. группа Fm3m",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "кристаллическая_решётка_простого_вещества_параметры_решётки": {
+      "key": "кристаллическая_решётка_простого_вещества_параметры_решётки",
+      "label": "Параметры решётки",
+      "group": "Кристаллическая решётка простого вещества",
+      "value": "4,0781 Å",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "кристаллическая_решётка_простого_вещества_отношение_c_a": {
+      "key": "кристаллическая_решётка_простого_вещества_отношение_c_a",
+      "label": "Отношение c/a",
+      "group": "Кристаллическая решётка простого вещества",
+      "value": "1",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "кристаллическая_решётка_простого_вещества_температура_дебая": {
+      "key": "кристаллическая_решётка_простого_вещества_температура_дебая",
+      "label": "Температура Дебая",
+      "group": "Кристаллическая решётка простого вещества",
+      "value": "170,00 K",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "прочие_характеристики_теплопроводность": {
+      "key": "прочие_характеристики_теплопроводность",
+      "label": "Теплопроводность",
+      "group": "Прочие характеристики",
+      "value": "(300 K) 318 Вт/(м·К)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "прочие_характеристики_номер_cas": {
+      "key": "прочие_характеристики_номер_cas",
+      "label": "Номер CAS",
+      "group": "Прочие характеристики",
+      "value": "7440-57-5",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "наиболее_долгоживущие_изотопы": {
+      "key": "наиболее_долгоживущие_изотопы",
+      "label": "Наиболее долгоживущие изотопы",
+      "group": null,
+      "value": "Основная статья: Изотопы золота, Изотоп, Распростра-, нённость, Период полураспада, Канал распада, Продукт распада, 195Au, синт., 186,10 сут, ЭЗ, 195Pt, 196Au, синт., 6,183 сут, ЭЗ, 196Pt, β−, 196Hg, 197Au, 100 %, стабилен, -, -, 198Au, синт., 2,69517 сут, β−, 198Hg, 199Au, синт., 3,169 сут, β−, 199Hg",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [
+    {
+      "id": "table-0",
+      "title": null,
+      "columns": [
+        "Изотоп",
+        "Распростра- нённость",
+        "Период полураспада",
+        "Канал распада",
+        "Продукт распада"
+      ],
+      "rows": [
+        [
+          "195 Au",
+          "синт.",
+          "186,10 сут",
+          "ЭЗ",
+          "195 Pt"
+        ],
+        [
+          "196 Au",
+          "синт.",
+          "6,183 сут",
+          "ЭЗ",
+          "196 Pt"
+        ],
+        [
+          "β −",
+          "196 Hg"
+        ],
+        [
+          "197 Au",
+          "100 %",
+          "стабилен",
+          "-",
+          "-"
+        ],
+        [
+          "198 Au",
+          "синт.",
+          "2,69517 сут",
+          "β −",
+          "198 Hg"
+        ],
+        [
+          "199 Au",
+          "синт.",
+          "3,169 сут",
+          "β −",
+          "199 Hg"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-1",
+      "title": null,
+      "columns": [
+        "№",
+        "Страна/организация",
+        "Золото (тонн)",
+        "Доля золота в общем объёме валютных резервов государства (%)"
+      ],
+      "rows": [
+        [
+          "1",
+          "США",
+          "8133,5",
+          "74,5 %"
+        ],
+        [
+          "2",
+          "Германия",
+          "3369,9",
+          "69,6 %"
+        ],
+        [
+          "3",
+          "Международный валютный фонд",
+          "2814,0",
+          "—"
+        ],
+        [
+          "4",
+          "Италия",
+          "2451,8",
+          "66,6 %"
+        ],
+        [
+          "5",
+          "Франция",
+          "2436,0",
+          "62,4 %"
+        ],
+        [
+          "6",
+          "Россия",
+          "2170,0",
+          "18 %"
+        ],
+        [
+          "7",
+          "КНР",
+          "1842,6",
+          "2,3 %"
+        ],
+        [
+          "8",
+          "Швейцария",
+          "1040,0",
+          "5,2 %"
+        ],
+        [
+          "9",
+          "Япония",
+          "765,2",
+          "2,5 %"
+        ],
+        [
+          "10",
+          "Нидерланды",
+          "612,5",
+          "67,3 %"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    }
+  ],
+  "locations": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "2008-11-21",
+      "date_precision": "day",
+      "title": "Цены",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "2011-07-18",
+      "date_precision": "day",
+      "title": "Цены",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "2011-08-08",
+      "date_precision": "day",
+      "title": "Цены",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "2011-09-06",
+      "date_precision": "day",
+      "title": "Цены",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "2013-04-12",
+      "date_precision": "day",
+      "title": "Цены",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "2015-07-20",
+      "date_precision": "day",
+      "title": "Цены",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "2020-03-06",
+      "date_precision": "day",
+      "title": "Цены",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "2020-03-09",
+      "date_precision": "day",
+      "title": "Цены",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "2022-03-09",
+      "date_precision": "day",
+      "title": "Цены",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "2026-01-30",
+      "date_precision": "day",
+      "title": "Цены",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "2017-09-01",
+      "date_precision": "day",
+      "title": "Золотой резерв России",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-11",
+      "date": "2025-03-02",
+      "date_precision": "day",
+      "title": "Золото империи инков, XV—XVI века",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-12",
+      "date": "1534-01-21",
+      "date_precision": "day",
+      "title": "Золото империи инков, XV—XVI века",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Свойства атома — Название, символ, номер",
+      "value": 79.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Свойства атома — Атомная масса ( молярная масса )",
+      "value": 196.966569,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Свойства атома — Электронная конфигурация",
+      "value": 4.0,
+      "unit": "f",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Свойства атома — Радиус атома",
+      "value": 144.0,
+      "unit": "пм",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Химические свойства — Ковалентный радиус",
+      "value": 134.0,
+      "unit": "пм",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Химические свойства — Радиус иона",
+      "value": 3.0,
+      "unit": "e)",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Химические свойства — Электроотрицательность",
+      "value": 2.64,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Химические свойства — Электродный потенциал",
+      "value": 3.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Химические свойства — Степени окисления",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Химические свойства — Энергия ионизации (первый электрон)",
+      "value": 889.3,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Термодинамические свойства простого вещества — Плотность (при н. у. )",
+      "value": 19.3,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Термодинамические свойства простого вещества — Температура плавления",
+      "value": 1337.33,
+      "unit": "К",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Термодинамические свойства простого вещества — Температура кипения",
+      "value": 3129.0,
+      "unit": "К",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Термодинамические свойства простого вещества — Мол. теплота плавления",
+      "value": 12.68,
+      "unit": "кДж/моль",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Термодинамические свойства простого вещества — Мол. теплота испарения",
+      "value": 340.0,
+      "unit": "кДж/моль",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Термодинамические свойства простого вещества — Молярная теплоёмкость",
+      "value": 25.39,
+      "unit": "Дж/",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Термодинамические свойства простого вещества — Молярный объём",
+      "value": 10.2,
+      "unit": "см³",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Кристаллическая решётка простого вещества — Структура решётки",
+      "value": 3.0,
+      "unit": "m",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Кристаллическая решётка простого вещества — Параметры решётки",
+      "value": 4.0781,
+      "unit": "Å",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Кристаллическая решётка простого вещества — Отношение c / a",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Кристаллическая решётка простого вещества — Температура Дебая",
+      "value": 170.0,
+      "unit": "K",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Прочие характеристики — Теплопроводность",
+      "value": 300.0,
+      "unit": "K)",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Прочие характеристики — Номер CAS",
+      "value": 7440.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Наиболее долгоживущие изотопы — β −",
+      "value": 196.0,
+      "unit": "Hg",
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Earrings_from_Shulgi.JPG/1280px-Earrings_from_Shulgi.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Earrings_from_Shulgi.JPG/500px-Earrings_from_Shulgi.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Пара шумерских серёжек с клинописными надписями; 2093—2046 годы до н. э.; Музей Сулеймании[англ.] (Сулеймания, Ирак)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Statuette_of_Amun_MET_DT553.jpg/1280px-Statuette_of_Amun_MET_DT553.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Statuette_of_Amun_MET_DT553.jpg/250px-Statuette_of_Amun_MET_DT553.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Древнеегипетская статуэтка Амона; 945—715 годы до н. э.; золото; 17,5 × 4,7 см; Метрополитен-музей (Нью-Йорк)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Indian_gold_tribute_donor_Apadana.jpg/1280px-Indian_gold_tribute_donor_Apadana.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Indian_gold_tribute_donor_Apadana.jpg/250px-Indian_gold_tribute_donor_Apadana.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Индийский податель дани в Ападане, из ахеменидской сатрапии Хиндуш[англ.], несущий золото на коромысле, около 500 года до н. э.[58]",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Gold_stater_MET_DP138743.jpg/1280px-Gold_stater_MET_DP138743.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Gold_stater_MET_DP138743.jpg/330px-Gold_stater_MET_DP138743.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Древнегреческий статер; 323—315 годы до н. э.; 18 мм; Метрополитен-музей",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Monnaie_de_Bactriane%2C_Eucratide_I%2C_2_faces.jpg/1280px-Monnaie_de_Bactriane%2C_Eucratide_I%2C_2_faces.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Monnaie_de_Bactriane%2C_Eucratide_I%2C_2_faces.jpg/960px-Monnaie_de_Bactriane%2C_Eucratide_I%2C_2_faces.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Золотая монета Эвкратида I (171—145 до н. э.), одного из эллинистических правителей древнего Ай-Ханума. Это самая большая известная золотая монета, отчеканенная в древности (169,20 г; 58 мм)[59]",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Gold_aureus_of_Hadrian_MET_DP104782b.jpg/1280px-Gold_aureus_of_Hadrian_MET_DP104782b.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Gold_aureus_of_Hadrian_MET_DP104782b.jpg/330px-Gold_aureus_of_Hadrian_MET_DP104782b.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Римский ауреус Адриан; 134—138 годы; 7,4 г; Метрополитен-музей",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Box_with_scene_depicting_Roman_hero_Gaius_Mucius_Scaevola_before_the_Etruscan_king_Lars_Porsena_MET_DP170836_%28cropped%29.jpg/1280px-Box_with_scene_depicting_Roman_hero_Gaius_Mucius_Scaevola_before_the_Etruscan_king_Lars_Porsena_MET_DP170836_%28cropped%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Box_with_scene_depicting_Roman_hero_Gaius_Mucius_Scaevola_before_the_Etruscan_king_Lars_Porsena_MET_DP170836_%28cropped%29.jpg/500px-Box_with_scene_depicting_Roman_hero_Gaius_Mucius_Scaevola_before_the_Etruscan_king_Lars_Porsena_MET_DP170836_%28cropped%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Английская неоклассическая шкатулка; 1741; общая: 4,4 × 11,6 × 9,2 см; Метрополитен-музей",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

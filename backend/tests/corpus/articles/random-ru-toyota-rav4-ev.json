@@ -1,0 +1,52 @@
+{
+  "article": {
+    "id": 1326874,
+    "title": "Toyota RAV4 EV",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Toyota_RAV4_EV",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Первое поколение",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Второе поколение",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-2",
+      "title": "Примечания",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {},
+  "tables": [],
+  "locations": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "2018-02-25",
+      "date_precision": "day",
+      "title": "Второе поколение",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [],
+  "links": [],
+  "metadata": {}
+}

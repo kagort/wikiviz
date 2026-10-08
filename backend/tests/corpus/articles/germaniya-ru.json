@@ -1,0 +1,1749 @@
+{
+  "article": {
+    "id": 4104,
+    "title": "Германия",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Германия",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Название страны",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "География",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Рельеф",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Реки и озёра",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Климат",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "Особо охраняемые природные территории",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "История",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-7",
+          "title": "Доисторическое время",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Историческое время",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-9",
+              "title": "Первая мировая война и Ноябрьская революция",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-10",
+              "title": "Приход к власти НСДАП Адольфа Гитлера",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-11",
+              "title": "Вторая мировая война",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-12",
+              "title": "После Второй мировой войны",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-13",
+              "title": "Объединение Германии",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-14",
+      "title": "Административное деление",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-15",
+      "title": "Население",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-16",
+          "title": "Города",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Структура населения",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-18",
+          "title": "Языки",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-19",
+          "title": "Уровень жизни",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-20",
+          "title": "Миграция",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "Религия",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-22",
+      "title": "Государственное устройство",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-23",
+          "title": "Политические партии",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-24",
+              "title": "Левые",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-25",
+              "title": "Левоцентристы",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-26",
+              "title": "Центристы",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-27",
+              "title": "Правоцентристы",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-28",
+              "title": "Правые",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-29",
+          "title": "Этапы реформирования федеративной системы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-30",
+          "title": "Внешняя политика",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-31",
+      "title": "Вооружённые силы",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-32",
+      "title": "Правовая система",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-33",
+      "title": "Экономика",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-34",
+          "title": "Сельское хозяйство",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-35",
+              "title": "Животноводство",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-36",
+              "title": "Выращивание культур",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-37",
+          "title": "Промышленность",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-38",
+          "title": "Туризм",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-39",
+          "title": "Инфраструктурные отрасли",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-40",
+              "title": "Энергетика",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-41",
+              "title": "Транспорт",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-42",
+          "title": "Оборона",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-43",
+      "title": "Социальная политика",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-44",
+          "title": "Принцип профессиональной солидарности",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-45",
+          "title": "Принцип перераспределения",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-46",
+          "title": "Принцип вспомоществования",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-47",
+          "title": "Профсоюзы",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-48",
+              "title": "Германский союз чиновников и тарифный союз",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-49",
+              "title": "Ассоциация Христианских профсоюзов Германии",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-50",
+              "title": "Объединённый профсоюз работников сферы обслуживания",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-51",
+          "title": "Союзы местных самоуправлений",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-52",
+      "title": "Здравоохранение",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-53",
+      "title": "Образование",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-54",
+      "title": "Культура",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-55",
+          "title": "Литература",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-56",
+          "title": "Спорт",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-57",
+          "title": "Праздники",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-58",
+          "title": "СМИ",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-59",
+              "title": "Пресса",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-60",
+              "title": "Телевидение и радиовещание",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-61",
+      "title": "Примечания",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-62",
+          "title": "Комментарии",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-63",
+      "title": "Литература",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-64",
+      "title": "Ссылки",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "основано": {
+      "key": "основано",
+      "label": "Основано",
+      "group": null,
+      "value": "18 января 1871 года (Германская империя)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "официальный_язык": {
+      "key": "официальный_язык",
+      "label": "Официальный язык",
+      "group": null,
+      "value": "немецкий",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "столица": {
+      "key": "столица",
+      "label": "Столица",
+      "group": null,
+      "value": "Берлин",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "крупнейшие_города": {
+      "key": "крупнейшие_города",
+      "label": "Крупнейшие города",
+      "group": null,
+      "value": "Берлин, Гамбург, Мюнхен, Кёльн, Франкфурт-на-Майне",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "форма_правления": {
+      "key": "форма_правления",
+      "label": "Форма правления",
+      "group": null,
+      "value": "парламентская республика",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "форма_гос_устройства": {
+      "key": "форма_гос_устройства",
+      "label": "Форма гос. устройства",
+      "group": null,
+      "value": "федерация",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "федеральный_президент": {
+      "key": "федеральный_президент",
+      "label": "Федеральный президент",
+      "group": null,
+      "value": "Франк-Вальтер Штайнмайер",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "федеральный_канцлер": {
+      "key": "федеральный_канцлер",
+      "label": "Федеральный канцлер",
+      "group": null,
+      "value": "Фридрих Мерц",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "гос_религия": {
+      "key": "гос_религия",
+      "label": "Гос. религия",
+      "group": null,
+      "value": "светское государство",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "гос_религия_всего": {
+      "key": "гос_религия_всего",
+      "label": "Всего",
+      "group": "Гос. религия",
+      "value": "357 684 км² (62-я в мире)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "гос_религия_водной_поверхности": {
+      "key": "гос_религия_водной_поверхности",
+      "label": "% водной поверхности",
+      "group": "Гос. религия",
+      "value": "2,46 %",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "гос_религия_оценка_2025": {
+      "key": "гос_религия_оценка_2025",
+      "label": "Оценка (2025)",
+      "group": "Гос. религия",
+      "value": "↘83 467 117 чел. (17-е)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "гос_религия_перепись_2015": {
+      "key": "гос_религия_перепись_2015",
+      "label": "Перепись (2015)",
+      "group": "Гос. религия",
+      "value": "81 292 400 чел.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "гос_религия_плотность": {
+      "key": "гос_религия_плотность",
+      "label": "Плотность",
+      "group": "Гос. религия",
+      "value": "232,3 чел./км² (58-я)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "гос_религия_итого_2024": {
+      "key": "гос_религия_итого_2024",
+      "label": "Итого (2024)",
+      "group": "Гос. религия",
+      "value": "6017 млрд долл. (6-й)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "гос_религия_на_душу_населения": {
+      "key": "гос_религия_на_душу_населения",
+      "label": "На душу населения",
+      "group": "Гос. религия",
+      "value": "70 930 долл. (22-й)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "гос_религия_итого_2024_2": {
+      "key": "гос_религия_итого_2024_2",
+      "label": "Итого (2024)",
+      "group": "Гос. религия",
+      "value": "4710 млрд долл. (3-й)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "гос_религия_на_душу_населения_2": {
+      "key": "гос_религия_на_душу_населения_2",
+      "label": "На душу населения",
+      "group": "Гос. религия",
+      "value": "55 521 долл. (17-й)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "ичр_2022": {
+      "key": "ичр_2022",
+      "label": "ИЧР (2022)",
+      "group": null,
+      "value": "▲ 0,950 (очень высокий; 7-е место)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "названия_жителей": {
+      "key": "названия_жителей",
+      "label": "Названия жителей",
+      "group": null,
+      "value": "немец, немка, немцы",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "валюта": {
+      "key": "валюта",
+      "label": "Валюта",
+      "group": null,
+      "value": "евро (EUR, код 978)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "интернет_домен": {
+      "key": "интернет_домен",
+      "label": "Интернет-домен",
+      "group": null,
+      "value": ".de",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "код_iso": {
+      "key": "код_iso",
+      "label": "Код ISO",
+      "group": null,
+      "value": "DE",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "телефонный_код": {
+      "key": "телефонный_код",
+      "label": "Телефонный код",
+      "group": null,
+      "value": "+49",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "часовой_пояс": {
+      "key": "часовой_пояс",
+      "label": "Часовой пояс",
+      "group": null,
+      "value": "CET (UTC+1, летом UTC+2)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "автомобильное_движение": {
+      "key": "автомобильное_движение",
+      "label": "Автомобильное движение",
+      "group": null,
+      "value": "правое",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [
+    {
+      "id": "table-0",
+      "title": null,
+      "columns": [
+        "Земля",
+        "Столица",
+        "Немецкое название земли",
+        "Немецкое название столицы"
+      ],
+      "rows": [
+        [
+          "1. Баден-Вюртемберг",
+          "Штутгарт",
+          "Baden-Württemberg",
+          "Stuttgart"
+        ],
+        [
+          "2. Свободное государство Бавария",
+          "Мюнхен",
+          "Freistaat Bayern",
+          "München"
+        ],
+        [
+          "3. Берлин",
+          "Берлин",
+          "Berlin",
+          "Berlin"
+        ],
+        [
+          "4. Бранденбург",
+          "Потсдам",
+          "Brandenburg",
+          "Potsdam"
+        ],
+        [
+          "5. Свободный ганзейский город Бремен",
+          "Бремен",
+          "Freie Hansestadt Bremen",
+          "Bremen"
+        ],
+        [
+          "6. Свободный и ганзейский город Гамбург",
+          "Гамбург",
+          "Freie und Hansestadt Hamburg",
+          "Hamburg"
+        ],
+        [
+          "7. Гессен",
+          "Висбаден",
+          "Hessen",
+          "Wiesbaden"
+        ],
+        [
+          "8. Мекленбург-Передняя Померания",
+          "Шверин",
+          "Mecklenburg-Vorpommern",
+          "Schwerin"
+        ],
+        [
+          "9. Нижняя Саксония",
+          "Ганновер",
+          "Niedersachsen",
+          "Hannover"
+        ],
+        [
+          "10. Северный Рейн — Вестфалия",
+          "Дюссельдорф",
+          "Nordrhein-Westfalen",
+          "Düsseldorf"
+        ],
+        [
+          "11. Рейнланд-Пфальц",
+          "Майнц",
+          "Rheinland-Pfalz",
+          "Mainz"
+        ],
+        [
+          "12. Саар",
+          "Саарбрюккен",
+          "Saarland",
+          "Saarbrücken"
+        ],
+        [
+          "13. Свободное государство Саксония",
+          "Дрезден",
+          "Freistaat Sachsen",
+          "Dresden"
+        ],
+        [
+          "14. Саксония-Анхальт",
+          "Магдебург",
+          "Sachsen-Anhalt",
+          "Magdeburg"
+        ],
+        [
+          "15. Шлезвиг-Гольштейн",
+          "Киль",
+          "Schleswig-Holstein",
+          "Kiel"
+        ],
+        [
+          "16. Свободное государство Тюрингия",
+          "Эрфурт",
+          "Freistaat Thüringen",
+          "Erfurt"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-1",
+      "title": "Добыча угля",
+      "columns": [
+        "Год",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "rows": [
+        [
+          "Всего (млн тонн)",
+          "182,3",
+          "188,6",
+          "196,2",
+          "190,6",
+          "185,8",
+          "184,3"
+        ],
+        [
+          "Каменный (млн тонн)",
+          "12,9",
+          "12,1",
+          "10,8",
+          "7,6",
+          "7,6",
+          "6,2"
+        ],
+        [
+          "Бурый (млн тонн)",
+          "169,4",
+          "176,5",
+          "185,4",
+          "183,0",
+          "178,2",
+          "178,1"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-2",
+      "title": null,
+      "columns": [
+        "Русское название",
+        "Местное название",
+        "Число",
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "rows": [
+        [
+          "Новый год",
+          "Neujahr",
+          "1 января",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          "Богоявление (Праздник трёх волхвов)",
+          "Heilige Drei Könige",
+          "6 января",
+          "X",
+          "X",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          "",
+          ""
+        ],
+        [
+          "Страстная пятница",
+          "Karfreitag",
+          "подвижный апрель",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          "Пасха",
+          "Ostern",
+          "подвижный",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          "Первое Мая",
+          "Tag der Arbeit",
+          "1 мая",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          "Вознесение Христово",
+          "Christi Himmelfahrt",
+          "подвижный май",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          "Троица — День Святого Духа",
+          "Pfingstmontag",
+          "подвижный",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          "праздник тела Христова",
+          "Fronleichnam",
+          "подвижный",
+          "X",
+          "X",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          "",
+          "",
+          "X",
+          "X",
+          "X",
+          "1)",
+          "",
+          "",
+          "2)"
+        ],
+        [
+          "Мир Аугсбурга",
+          "Augsburger Friedensfest",
+          "8 августа",
+          "",
+          "3)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Успение Богородицы",
+          "Mariä Himmelfahrt",
+          "15 августа",
+          "",
+          "5)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "День единства",
+          "Tag der Deutschen Einheit",
+          "3 октября",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          "День Реформации",
+          "Reformationstag",
+          "31 октября",
+          "",
+          "",
+          "",
+          "X",
+          "",
+          "",
+          "",
+          "X",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          "X",
+          "",
+          "X"
+        ],
+        [
+          "День всех святых",
+          "Allerheiligen",
+          "1 ноября",
+          "X",
+          "X",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "X",
+          "X",
+          "X",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "День покаяния и молитвы",
+          "Buß- und Bettag",
+          "подвижный",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Рождество 1-й день",
+          "1. Weihnachtstag",
+          "25 декабря",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          "Рождество 2-й день",
+          "2. Weihnachtstag",
+          "26 декабря",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X",
+          "X"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    }
+  ],
+  "locations": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "2025-05-06",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "2017-03-19",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "2021-12-31",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "0962-02-02",
+      "date_precision": "day",
+      "title": "Историческое время",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "1866-08-10",
+      "date_precision": "day",
+      "title": "Историческое время",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "1870-12-10",
+      "date_precision": "day",
+      "title": "Историческое время",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "1914-08-01",
+      "date_precision": "day",
+      "title": "Первая мировая война и Ноябрьская революция",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "1918-11-09",
+      "date_precision": "day",
+      "title": "Первая мировая война и Ноябрьская революция",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "1918-11-11",
+      "date_precision": "day",
+      "title": "Первая мировая война и Ноябрьская революция",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "1918-12-21",
+      "date_precision": "day",
+      "title": "Первая мировая война и Ноябрьская революция",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "1919-01-19",
+      "date_precision": "day",
+      "title": "Первая мировая война и Ноябрьская революция",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-11",
+      "date": "1919-02-10",
+      "date_precision": "day",
+      "title": "Первая мировая война и Ноябрьская революция",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-12",
+      "date": "1919-06-28",
+      "date_precision": "day",
+      "title": "Первая мировая война и Ноябрьская революция",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-13",
+      "date": "1919-06-30",
+      "date_precision": "day",
+      "title": "Первая мировая война и Ноябрьская революция",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-14",
+      "date": "1933-03-21",
+      "date_precision": "day",
+      "title": "Приход к власти НСДАП Адольфа Гитлера",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-15",
+      "date": "1933-01-30",
+      "date_precision": "day",
+      "title": "Приход к власти НСДАП Адольфа Гитлера",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-16",
+      "date": "1933-02-01",
+      "date_precision": "day",
+      "title": "Приход к власти НСДАП Адольфа Гитлера",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-17",
+      "date": "1933-02-04",
+      "date_precision": "day",
+      "title": "Приход к власти НСДАП Адольфа Гитлера",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-18",
+      "date": "1933-03-05",
+      "date_precision": "day",
+      "title": "Приход к власти НСДАП Адольфа Гитлера",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-19",
+      "date": "1933-07-14",
+      "date_precision": "day",
+      "title": "Приход к власти НСДАП Адольфа Гитлера",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-20",
+      "date": "1938-11-09",
+      "date_precision": "day",
+      "title": "Приход к власти НСДАП Адольфа Гитлера",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-21",
+      "date": "1939-09-01",
+      "date_precision": "day",
+      "title": "Вторая мировая война",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-22",
+      "date": "1941-06-22",
+      "date_precision": "day",
+      "title": "Вторая мировая война",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-23",
+      "date": "1945-05-08",
+      "date_precision": "day",
+      "title": "Вторая мировая война",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-24",
+      "date": "1944-06-06",
+      "date_precision": "day",
+      "title": "Вторая мировая война",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-25",
+      "date": "1944-07-20",
+      "date_precision": "day",
+      "title": "Вторая мировая война",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-26",
+      "date": "1945-03-07",
+      "date_precision": "day",
+      "title": "Вторая мировая война",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-27",
+      "date": "1945-04-21",
+      "date_precision": "day",
+      "title": "Вторая мировая война",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-28",
+      "date": "1945-04-30",
+      "date_precision": "day",
+      "title": "Вторая мировая война",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-29",
+      "date": "1945-05-02",
+      "date_precision": "day",
+      "title": "Вторая мировая война",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-30",
+      "date": "1945-05-03",
+      "date_precision": "day",
+      "title": "Вторая мировая война",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-31",
+      "date": "1949-05-08",
+      "date_precision": "day",
+      "title": "После Второй мировой войны",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-32",
+      "date": "1949-10-07",
+      "date_precision": "day",
+      "title": "После Второй мировой войны",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-33",
+      "date": "1953-06-17",
+      "date_precision": "day",
+      "title": "После Второй мировой войны",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-34",
+      "date": "1990-10-03",
+      "date_precision": "day",
+      "title": "Объединение Германии",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-35",
+      "date": "2019-01-01",
+      "date_precision": "day",
+      "title": "Уровень жизни",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-36",
+      "date": "2020-01-01",
+      "date_precision": "day",
+      "title": "Уровень жизни",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-37",
+      "date": "2017-07-08",
+      "date_precision": "day",
+      "title": "Миграция",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-38",
+      "date": "2013-07-01",
+      "date_precision": "day",
+      "title": "Миграция",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-39",
+      "date": "2021-12-31",
+      "date_precision": "day",
+      "title": "Религия",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-40",
+      "date": "1999-12-12",
+      "date_precision": "day",
+      "title": "Религия",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-41",
+      "date": "2003-10-17",
+      "date_precision": "day",
+      "title": "Этапы реформирования федеративной системы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-42",
+      "date": "2005-11-18",
+      "date_precision": "day",
+      "title": "Этапы реформирования федеративной системы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-43",
+      "date": "2006-07-07",
+      "date_precision": "day",
+      "title": "Этапы реформирования федеративной системы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-44",
+      "date": "1955-05-05",
+      "date_precision": "day",
+      "title": "Внешняя политика",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-45",
+      "date": "2022-10-25",
+      "date_precision": "day",
+      "title": "Внешняя политика",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-46",
+      "date": "2004-11-10",
+      "date_precision": "day",
+      "title": "Вооружённые силы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-47",
+      "date": "2011-07-01",
+      "date_precision": "day",
+      "title": "Вооружённые силы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-48",
+      "date": "2017-06-11",
+      "date_precision": "day",
+      "title": "Экономика",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-49",
+      "date": "2017-07-08",
+      "date_precision": "day",
+      "title": "Экономика",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-50",
+      "date": "2022-02-24",
+      "date_precision": "day",
+      "title": "Оборона",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-51",
+      "date": "2012-02-12",
+      "date_precision": "day",
+      "title": "Социальная политика",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-52",
+      "date": "2026-07-30",
+      "date_precision": "day",
+      "title": "Образование",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Всего",
+      "value": 357684.0,
+      "unit": "км²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "% водной поверхности",
+      "value": 2.46,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Оценка (2025)",
+      "value": 83467117.0,
+      "unit": "чел.",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Перепись (2015)",
+      "value": 81292400.0,
+      "unit": "чел.",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Плотность",
+      "value": 232.3,
+      "unit": "чел./км²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Итого (2024)",
+      "value": 6017000000000.0,
+      "unit": "долл.",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "На душу населения",
+      "value": 70930.0,
+      "unit": "долл.",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Итого (2024)",
+      "value": 4710000000000.0,
+      "unit": "долл.",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "На душу населения",
+      "value": 55521.0,
+      "unit": "долл.",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "ИЧР (2022)",
+      "value": 0.95,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Валюта",
+      "value": 978.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Телефонный код",
+      "value": 49.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Часовой пояс",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Circle200.svg/1280px-Circle200.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Circle200.svg/250px-Circle200.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Миграция в Германию в 2013 году по странам (всего 1.226.493 человека)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Circle_frame.svg/1280px-Circle_frame.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Circle_frame.svg/250px-Circle_frame.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Религия в Германии на 31 декабря 2021 года христиане (49,7 %) нерелигиозны (42,0 %) мусульмане (3,5 %) другие религии (4,8 %)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Флаг",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

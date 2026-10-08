@@ -1,0 +1,1315 @@
+{
+  "article": {
+    "id": 736,
+    "title": "Albert Einstein",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Life and career",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-1",
+          "title": "Childhood, youth and education",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-2",
+          "title": "Marriages, relationships and children",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Assistant at the Swiss Patent Office (1902–1909)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "First scientific papers (1900–1905)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "Academic career in Europe (1908–1933)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-6",
+          "title": "Putting general relativity to the test (1919)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Coming to terms with fame (1921–1923)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Serving the League of Nations (1922–1932)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-9",
+          "title": "Touring South America (1925)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-10",
+          "title": "Touring the US (1930–1931)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-11",
+          "title": "Immigration to the US (1933)",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-12",
+              "title": "Refugee status",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-13",
+              "title": "Resident scholar at the Institute for Advanced Study",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-14",
+              "title": "World War II and the Manhattan Project",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-15",
+              "title": "US citizenship",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-16",
+          "title": "Personal views",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-17",
+              "title": "Political views",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-18",
+              "title": "Relationship with Zionism",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-19",
+              "title": "Religious and philosophical views",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-20",
+              "title": "Love of music",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-21",
+          "title": "Death",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-22",
+      "title": "Scientific career",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-23",
+          "title": "Statistical mechanics",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-24",
+              "title": "Thermodynamic fluctuations and statistical physics",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-25",
+              "title": "Theory of critical opalescence",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-26",
+          "title": "1905 – Annus Mirabilis papers",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-27",
+          "title": "Special relativity",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-28",
+          "title": "General relativity",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-29",
+              "title": "General relativity and the equivalence principle",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-30",
+              "title": "Gravitational waves",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-31",
+              "title": "Hole argument and Entwurf theory",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-32",
+              "title": "Physical cosmology",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-33",
+              "title": "Energy momentum pseudotensor",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-34",
+              "title": "Wormholes",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-35",
+              "title": "Einstein–Cartan theory",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-36",
+              "title": "Equations of motion",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-37",
+          "title": "Old quantum theory",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-38",
+              "title": "Photons and energy quanta",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-39",
+              "title": "Quantized atomic vibrations",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-40",
+              "title": "Bose–Einstein statistics",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-41",
+              "title": "Wave–particle duality",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-42",
+              "title": "Zero-point energy",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-43",
+              "title": "Stimulated emission",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-44",
+              "title": "Matter waves",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-45",
+          "title": "Quantum mechanics",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-46",
+              "title": "Einstein's objections to quantum mechanics",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-47",
+              "title": "Bohr versus Einstein",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-48",
+              "title": "Einstein–Podolsky–Rosen paradox",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-49",
+          "title": "Unified field theory",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-50",
+          "title": "Other investigations",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-51",
+          "title": "Collaboration with other scientists",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-52",
+              "title": "Einstein–de Haas experiment",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-53",
+              "title": "Einstein as an inventor",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-54",
+      "title": "Legacy",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-55",
+          "title": "Non-scientific",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-56",
+          "title": "Scientific recognition",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-57",
+      "title": "In popular culture",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-58",
+      "title": "Awards and honors",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-59",
+      "title": "Publications",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-60",
+          "title": "Scientific",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-61",
+          "title": "Popular",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-62",
+          "title": "Political",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-63",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-64",
+      "title": "Footnotes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-65",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-66",
+      "title": "References",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-67",
+          "title": "Works cited",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-68",
+      "title": "Further reading",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-69",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "born": {
+      "key": "born",
+      "label": "Born",
+      "group": null,
+      "value": "14 March 1879, Ulm, Kingdom of Württemberg, German Empire",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "died": {
+      "key": "died",
+      "label": "Died",
+      "group": null,
+      "value": "18 April 1955 (aged 76), Princeton, New Jersey, U.S.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "citizenship": {
+      "key": "citizenship",
+      "label": "Citizenship",
+      "group": null,
+      "value": "See list, Kingdom of Württemberg, part of the German Empire (until 1896), Stateless (1896–1901), Switzerland (from 1901), Kingdom of Prussia, part of the German Empire (1914–1918), Free State of Prussia (Weimar Republic, 1918–1933), U.S. (from 1940)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "education": {
+      "key": "education",
+      "label": "Education",
+      "group": null,
+      "value": "Swiss federal polytechnic school (teaching diploma, 1900), University of Zurich (PhD, 1905)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "known_for": {
+      "key": "known_for",
+      "label": "Known for",
+      "group": null,
+      "value": "General relativity, Special relativity, Photoelectric effect, E=mc2 (mass–energy equivalence), E=hf (Planck–Einstein relation), Theory of Brownian motion, Einstein field equations, Bose–Einstein statistics, Bose–Einstein condensate, Gravitational wave, Cosmological constant, Unified field theory, EPR paradox, Ensemble interpretation, List of other concepts",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "spouses": {
+      "key": "spouses",
+      "label": "Spouses",
+      "group": null,
+      "value": "Mileva Marić, ​, ​, (m. 1903; div. 1919)​, Elsa Löwenthal, ​, ​, (m. 1919; died 1936)​",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "children": {
+      "key": "children",
+      "label": "Children",
+      "group": null,
+      "value": "3, including Hans Albert",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "family": {
+      "key": "family",
+      "label": "Family",
+      "group": null,
+      "value": "Einstein",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "awards": {
+      "key": "awards",
+      "label": "Awards",
+      "group": null,
+      "value": "See list, Barnard Medal for Meritorious Service to Science (1920), Nobel Prize in Physics (1921), Matteucci Medal (1921), ForMemRS (1921), Copley Medal (1925), Gold Medal of RAS (1926), Max Planck Medal (1929), Membership of NAS (1942), Time Person of the Century (1999)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "fields": {
+      "key": "fields",
+      "label": "Fields",
+      "group": null,
+      "value": "Physics",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "workplaces": {
+      "key": "workplaces",
+      "label": "Workplaces",
+      "group": null,
+      "value": "See list, University of Bern (1908–1909), University of Zurich (1909–1911), Charles University in Prague (1911–1912), ETH Zurich (1912–1914), Prussian Academy of Sciences (1914–1933), Humboldt University of Berlin (1914–1933), Kaiser Wilhelm Institute (director, 1917–1933), German Physical Society (president, 1916–1918), Institute for Advanced Study (1933–1955)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "thesis": {
+      "key": "thesis",
+      "label": "Thesis",
+      "group": null,
+      "value": "Eine neue Bestimmung der Moleküldimensionen (A New Determination of Molecular Dimensions) (1905)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "doctoral_advisor": {
+      "key": "doctoral_advisor",
+      "label": "Doctoral advisor",
+      "group": null,
+      "value": "Alfred Kleiner",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "other_academic_advisors": {
+      "key": "other_academic_advisors",
+      "label": "Other academic advisors",
+      "group": null,
+      "value": "Heinrich Friedrich Weber",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "website": {
+      "key": "website",
+      "label": "Website",
+      "group": null,
+      "value": "alberteinstein.com",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [
+    {
+      "id": "table-0",
+      "title": null,
+      "columns": [
+        "Title (translated)",
+        "Area of focus",
+        "Received",
+        "Published",
+        "Significance"
+      ],
+      "rows": [
+        [
+          "\"On a Heuristic Viewpoint Concerning the Production and Transformation of Light\"",
+          "Photoelectric effect",
+          "18 March",
+          "9 June",
+          "Resolved an unsolved puzzle by suggesting that energy is exchanged only in discrete amounts ( quanta ). This idea was pivotal to the early development of quantum theory."
+        ],
+        [
+          "\"On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat\"",
+          "Brownian motion",
+          "11 May",
+          "18 July",
+          "Explained empirical evidence for the atomic theory , supporting the application of statistical physics ."
+        ],
+        [
+          "\"On the Electrodynamics of Moving Bodies\"",
+          "Special relativity",
+          "30 June",
+          "26 September",
+          "Reconciled Maxwell 's equations for electricity and magnetism with the laws of mechanics by introducing changes to mechanics, resulting from analysis based on the independence of the speed of light from the motion of the observer. Discredited the concept of a \" luminiferous ether \"."
+        ],
+        [
+          "\"Does the Inertia of a Body Depend Upon Its Energy Content?\"",
+          "Matter–energy equivalence",
+          "27 September",
+          "21 November",
+          "Equivalence of matter and energy, E = mc 2 , the existence of \" rest energy \", and the basis of nuclear energy."
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    }
+  ],
+  "locations": [],
+  "events": [
+    {
+      "id": "event-0",
+      "date": "1879-03-14",
+      "date_precision": "day",
+      "title": "Born",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "1955-04-18",
+      "date_precision": "day",
+      "title": "Died",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "text-event-0",
+      "date": "1879-03-14",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1955-04-18",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "1879-03-14",
+      "date_precision": "day",
+      "title": "Childhood, youth and education",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1919-02-14",
+      "date_precision": "day",
+      "title": "Marriages, relationships and children",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "1905-04-30",
+      "date_precision": "day",
+      "title": "First scientific papers (1900–1905)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "1906-01-15",
+      "date_precision": "day",
+      "title": "First scientific papers (1900–1905)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "1911-11-03",
+      "date_precision": "day",
+      "title": "Academic career in Europe (1908–1933)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "1913-07-24",
+      "date_precision": "day",
+      "title": "Academic career in Europe (1908–1933)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "1914-04-01",
+      "date_precision": "day",
+      "title": "Academic career in Europe (1908–1933)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "1919-05-29",
+      "date_precision": "day",
+      "title": "Putting general relativity to the test (1919)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "1919-11-06",
+      "date_precision": "day",
+      "title": "Putting general relativity to the test (1919)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-11",
+      "date": "1919-11-07",
+      "date_precision": "day",
+      "title": "Putting general relativity to the test (1919)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-12",
+      "date": "1921-04-02",
+      "date_precision": "day",
+      "title": "Coming to terms with fame (1921–1923)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-13",
+      "date": "1922-04-06",
+      "date_precision": "day",
+      "title": "Coming to terms with fame (1921–1923)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-14",
+      "date": "1934-03-24",
+      "date_precision": "day",
+      "title": "Immigration to the US (1933)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-15",
+      "date": "1933-05-26",
+      "date_precision": "day",
+      "title": "Refugee status",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-16",
+      "date": "1933-07-24",
+      "date_precision": "day",
+      "title": "Refugee status",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-17",
+      "date": "1933-05-31",
+      "date_precision": "day",
+      "title": "Refugee status",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-18",
+      "date": "1933-10-03",
+      "date_precision": "day",
+      "title": "Resident scholar at the Institute for Advanced Study",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-19",
+      "date": "1931-09-27",
+      "date_precision": "day",
+      "title": "Political views",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-20",
+      "date": "1943-04-11",
+      "date_precision": "day",
+      "title": "Religious and philosophical views",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-21",
+      "date": "1954-01-03",
+      "date_precision": "day",
+      "title": "Religious and philosophical views",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-22",
+      "date": "1955-04-17",
+      "date_precision": "day",
+      "title": "Death",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-23",
+      "date": "1965-12-13",
+      "date_precision": "day",
+      "title": "Death",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-24",
+      "date": "2014-12-05",
+      "date_precision": "day",
+      "title": "Scientific career",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-25",
+      "date": "1905-06-30",
+      "date_precision": "day",
+      "title": "Special relativity",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-26",
+      "date": "2016-02-11",
+      "date_precision": "day",
+      "title": "Gravitational waves",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-27",
+      "date": "2015-09-14",
+      "date_precision": "day",
+      "title": "Gravitational waves",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-28",
+      "date": "1935-05-04",
+      "date_precision": "day",
+      "title": "Einstein's objections to quantum mechanics",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-29",
+      "date": "1930-11-11",
+      "date_precision": "day",
+      "title": "Einstein as an inventor",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-30",
+      "date": "1900-12-13",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-31",
+      "date": "1900-12-16",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-32",
+      "date": "1901-03-01",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-33",
+      "date": "1905-03-17",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-34",
+      "date": "1905-03-18",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-35",
+      "date": "1905-06-09",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-36",
+      "date": "2006-03-10",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-37",
+      "date": "1905-04-30",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-38",
+      "date": "1905-07-20",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-39",
+      "date": "1905-05-11",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-40",
+      "date": "1905-07-18",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-41",
+      "date": "1905-06-30",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-42",
+      "date": "1905-09-26",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-43",
+      "date": "1905-09-27",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-44",
+      "date": "1905-11-21",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-45",
+      "date": "1915-11-25",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-46",
+      "date": "1915-12-02",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-47",
+      "date": "1916-06-29",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-48",
+      "date": "2022-01-24",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-49",
+      "date": "1918-01-31",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-50",
+      "date": "2020-11-14",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-51",
+      "date": "1923-07-11",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-52",
+      "date": "2015-02-03",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-53",
+      "date": "1924-07-10",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-54",
+      "date": "2016-10-14",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-55",
+      "date": "2015-02-26",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-56",
+      "date": "1926-03-12",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-57",
+      "date": "1926-03-01",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-58",
+      "date": "2015-01-04",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-59",
+      "date": "1935-05-15",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-60",
+      "date": "1935-03-25",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-61",
+      "date": "2008-07-21",
+      "date_precision": "day",
+      "title": "Scientific",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-62",
+      "date": "1948-12-04",
+      "date_precision": "day",
+      "title": "Political",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-63",
+      "date": "2007-12-17",
+      "date_precision": "day",
+      "title": "Political",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-64",
+      "date": "2006-05-25",
+      "date_precision": "day",
+      "title": "Political",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-65",
+      "date": "2006-01-11",
+      "date_precision": "day",
+      "title": "Political",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-66",
+      "date": "2006-01-16",
+      "date_precision": "day",
+      "title": "Political",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Citizenship",
+      "value": 1896.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Education",
+      "value": 1900.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Known for",
+      "value": 2.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Spouses",
+      "value": 1903.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Children",
+      "value": 3.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Awards",
+      "value": 1920.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Workplaces",
+      "value": 1908.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Thesis",
+      "value": 1905.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hermann_einstein.jpg/1280px-Hermann_einstein.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hermann_einstein.jpg/250px-Hermann_einstein.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein's parents, Hermann and Pauline",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/1280px-Albert_Einstein_Head_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/250px-Albert_Einstein_Head_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

@@ -1,0 +1,1025 @@
+{
+  "article": {
+    "id": 3434750,
+    "title": "United States",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/United_States",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Etymology",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "History",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Indigenous peoples",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "European exploration, colonization and conflict (1513–1765)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "American Revolution and the early republic (1765–1800)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "Westward expansion and Civil War (1800–1865)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-6",
+          "title": "Reconstruction, Gilded Age, and Progressive Era (1866–1917)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "World War I, Great Depression, and World War II (1917–1945)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Cold War and social revolution (1945–1991)",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-9",
+          "title": "Contemporary (1991–present)",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "Geography",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-11",
+          "title": "Climate",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-12",
+          "title": "Biodiversity and conservation",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-13",
+      "title": "Government and politics",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-14",
+          "title": "Federal government",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-15",
+              "title": "Legislature",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-16",
+              "title": "Executive",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-17",
+              "title": "Judiciary",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-18",
+          "title": "Subdivisions",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-19",
+          "title": "Political parties",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-20",
+          "title": "Foreign relations",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "Military",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-22",
+          "title": "Law enforcement and criminal justice",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-23",
+      "title": "Economy",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-24",
+          "title": "Science and technology",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-25",
+              "title": "Spaceflight",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-26",
+          "title": "Energy",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-27",
+          "title": "Transportation",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-28",
+      "title": "Demographics",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-29",
+          "title": "Population",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-30",
+          "title": "Urbanization",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-31",
+          "title": "Language",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-32",
+          "title": "Immigration",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-33",
+          "title": "Religion",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-34",
+          "title": "Health",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-35",
+          "title": "Education",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-36",
+      "title": "Culture and society",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-37",
+          "title": "Literature",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-38",
+          "title": "Mass media",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-39",
+          "title": "Theater",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-40",
+          "title": "Visual arts",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-41",
+          "title": "Music",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-42",
+          "title": "Fashion",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-43",
+          "title": "Cinema",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-44",
+          "title": "Cuisine",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-45",
+          "title": "Sports",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-46",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-47",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-48",
+      "title": "References",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-49",
+          "title": "Sources",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-50",
+      "title": "External links",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-51",
+          "title": "Government",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-52",
+          "title": "History",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-53",
+          "title": "Maps",
+          "level": 3,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "infobox": {
+    "capital": {
+      "key": "capital",
+      "label": "Capital",
+      "group": null,
+      "value": "Washington, D.C., 38°53′N 77°1′W / 38.883°N 77.017°W",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "largest_city": {
+      "key": "largest_city",
+      "label": "Largest city",
+      "group": null,
+      "value": "New York City, 40°43′N 74°0′W / 40.717°N 74.000°W",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "official_languages": {
+      "key": "official_languages",
+      "label": "Official languages",
+      "group": null,
+      "value": "English",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "ethnic_groups_2020": {
+      "key": "ethnic_groups_2020",
+      "label": "Ethnic groups (2020)",
+      "group": null,
+      "value": "By race: 61.6% White, 12.4% Black, 6% Asian, 1.1% Native American, 0.2% Pacific Islander, 10.2% two or more races, 8.4% other, By origin: 81.3% non-Hispanic or Latino, 18.7% Hispanic or Latino",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "religion_2025": {
+      "key": "religion_2025",
+      "label": "Religion (2025)",
+      "group": null,
+      "value": "65% Christianity, 32% Protestantism, 20% Catholicism, 12% other Christian, 1% Mormonism, 24% unaffiliated, 2% Judaism, 6% other religion, 3% unanswered",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "demonym": {
+      "key": "demonym",
+      "label": "Demonym",
+      "group": null,
+      "value": "American",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government": {
+      "key": "government",
+      "label": "Government",
+      "group": null,
+      "value": "Federal presidential republic",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_president": {
+      "key": "government_president",
+      "label": "President",
+      "group": "Government",
+      "value": "Donald Trump",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_vice_president": {
+      "key": "government_vice_president",
+      "label": "Vice President",
+      "group": "Government",
+      "value": "JD Vance",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_house_speaker": {
+      "key": "government_house_speaker",
+      "label": "House Speaker",
+      "group": "Government",
+      "value": "Mike Johnson",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_chief_justice": {
+      "key": "government_chief_justice",
+      "label": "Chief Justice",
+      "group": "Government",
+      "value": "John Roberts",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "legislature": {
+      "key": "legislature",
+      "label": "Legislature",
+      "group": null,
+      "value": "Congress",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "legislature_upper_house": {
+      "key": "legislature_upper_house",
+      "label": "Upper house",
+      "group": "Legislature",
+      "value": "Senate",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "legislature_lower_house": {
+      "key": "legislature_lower_house",
+      "label": "Lower house",
+      "group": "Legislature",
+      "value": "House of Representatives",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "independence_from_great_britain_declaration": {
+      "key": "independence_from_great_britain_declaration",
+      "label": "Declaration",
+      "group": "Independence, from Great Britain",
+      "value": "July 4, 1776",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "independence_from_great_britain_confederation": {
+      "key": "independence_from_great_britain_confederation",
+      "label": "Confederation",
+      "group": "Independence, from Great Britain",
+      "value": "March 1, 1781",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "independence_from_great_britain_recognition": {
+      "key": "independence_from_great_britain_recognition",
+      "label": "Recognition",
+      "group": "Independence, from Great Britain",
+      "value": "September 3, 1783",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "independence_from_great_britain_constitution": {
+      "key": "independence_from_great_britain_constitution",
+      "label": "Constitution",
+      "group": "Independence, from Great Britain",
+      "value": "March 4, 1789",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_total_area": {
+      "key": "area_total_area",
+      "label": "Total area",
+      "group": "Area",
+      "value": "3,796,742 sq mi (9,833,520 km2) (4th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_water": {
+      "key": "area_water",
+      "label": "Water (%)",
+      "group": "Area",
+      "value": "7.0 (2010)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_land_area": {
+      "key": "area_land_area",
+      "label": "Land area",
+      "group": "Area",
+      "value": "3,531,905 sq mi (9,147,590 km2) (3rd)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_2025_estimate": {
+      "key": "population_2025_estimate",
+      "label": "2025 estimate",
+      "group": "Population",
+      "value": "341,784,857",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_2020_census": {
+      "key": "population_2020_census",
+      "label": "2020 census",
+      "group": "Population",
+      "value": "331,449,281 (3rd)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_density": {
+      "key": "population_density",
+      "label": "Density",
+      "group": "Population",
+      "value": "96.8/sq mi (37.4/km2) (180th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_ppp": {
+      "key": "gdp_ppp",
+      "label": "GDP (PPP)",
+      "group": null,
+      "value": "2026 estimate",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_ppp_total": {
+      "key": "gdp_ppp_total",
+      "label": "Total",
+      "group": "GDP (PPP)",
+      "value": "$32.384 trillion (2nd)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_ppp_per_capita": {
+      "key": "gdp_ppp_per_capita",
+      "label": "Per capita",
+      "group": "GDP (PPP)",
+      "value": "$94,430 (10th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_nominal": {
+      "key": "gdp_nominal",
+      "label": "GDP (nominal)",
+      "group": null,
+      "value": "2026 estimate",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_nominal_total": {
+      "key": "gdp_nominal_total",
+      "label": "Total",
+      "group": "GDP (nominal)",
+      "value": "$32.384 trillion (1st)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_nominal_per_capita": {
+      "key": "gdp_nominal_per_capita",
+      "label": "Per capita",
+      "group": "GDP (nominal)",
+      "value": "$94,430 (8th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gini_2024": {
+      "key": "gini_2024",
+      "label": "Gini (2024)",
+      "group": null,
+      "value": "41.8, medium inequality",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "hdi_2023": {
+      "key": "hdi_2023",
+      "label": "HDI (2023)",
+      "group": null,
+      "value": "0.938, very high (17th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "currency": {
+      "key": "currency",
+      "label": "Currency",
+      "group": null,
+      "value": "U.S. dollar ($) (USD)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "time_zone": {
+      "key": "time_zone",
+      "label": "Time zone",
+      "group": null,
+      "value": "UTC−4 to −12, +10, +11",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "time_zone_summer_dst": {
+      "key": "time_zone_summer_dst",
+      "label": "Summer (DST)",
+      "group": "Time zone",
+      "value": "UTC−4 to −10",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "date_format": {
+      "key": "date_format",
+      "label": "Date format",
+      "group": null,
+      "value": "mm/dd/yyyy",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "calling_code": {
+      "key": "calling_code",
+      "label": "Calling code",
+      "group": null,
+      "value": "+1",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "iso_3166_code": {
+      "key": "iso_3166_code",
+      "label": "ISO 3166 code",
+      "group": null,
+      "value": "US",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "internet_tld": {
+      "key": "internet_tld",
+      "label": "Internet TLD",
+      "group": null,
+      "value": ".us",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [],
+  "locations": [
+    {
+      "id": "location-0",
+      "name": "United States",
+      "latitude": 38.88333333333333,
+      "longitude": -77.01666666666667,
+      "description": null,
+      "source": "coordinate",
+      "confidence": 1.0
+    },
+    {
+      "id": "location-1",
+      "name": "United States",
+      "latitude": 40.71666666666667,
+      "longitude": -74.0,
+      "description": null,
+      "source": "coordinate",
+      "confidence": 1.0
+    },
+    {
+      "id": "location-2",
+      "name": "United States of America",
+      "latitude": 40.0,
+      "longitude": -100.0,
+      "description": null,
+      "source": "coordinate",
+      "confidence": 1.0
+    }
+  ],
+  "events": [
+    {
+      "id": "event-0",
+      "date": "1776-07-04",
+      "date_precision": "day",
+      "title": "•Declaration",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "1781-03-01",
+      "date_precision": "day",
+      "title": "•Confederation",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-2",
+      "date": "1783-09-03",
+      "date_precision": "day",
+      "title": "•Recognition",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-3",
+      "date": "1789-03-04",
+      "date_precision": "day",
+      "title": "•Constitution",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Ethnic groups (2020) — White",
+      "value": 61.6,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnic groups (2020) — Black",
+      "value": 12.4,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnic groups (2020) — Asian",
+      "value": 6.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnic groups (2020) — Native American",
+      "value": 1.1,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnic groups (2020) — Pacific Islander",
+      "value": 0.2,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnic groups (2020) — two or more races",
+      "value": 10.2,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnic groups (2020) — other By origin:",
+      "value": 8.4,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnic groups (2020) — non- Hispanic or Latino",
+      "value": 81.3,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnic groups (2020) — Hispanic or Latino",
+      "value": 18.7,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — Christianity",
+      "value": 65.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — Protestantism",
+      "value": 32.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — Catholicism",
+      "value": 20.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — other Christian",
+      "value": 12.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — Mormonism",
+      "value": 1.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — unaffiliated",
+      "value": 24.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — Judaism",
+      "value": 2.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — other religion",
+      "value": 6.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2025) — unanswered",
+      "value": 3.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Independence from Great Britain — Declaration",
+      "value": 4.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Independence from Great Britain — Confederation",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Independence from Great Britain — Recognition",
+      "value": 3.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Independence from Great Britain — Constitution",
+      "value": 4.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Area — Total area",
+      "value": 3796742.0,
+      "unit": "sq",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Area — Water (%)",
+      "value": 7.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Area — Land area",
+      "value": 3531905.0,
+      "unit": "sq",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population — 2025 estimate",
+      "value": 341784857.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population — 2020 census",
+      "value": 331449281.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population — Density",
+      "value": 96.8,
+      "unit": "/sq",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP ( PPP ) — Total",
+      "value": 32384000000000.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP ( PPP ) — Per capita",
+      "value": 94430.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Total",
+      "value": 32384000000000.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Per capita",
+      "value": 94430.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Gini (2024)",
+      "value": 41.8,
+      "unit": "medium",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — HDI (2023)",
+      "value": 0.938,
+      "unit": "very",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Time zone",
+      "value": 4.0,
+      "unit": "to",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Summer ( DST )",
+      "value": 4.0,
+      "unit": "to",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Calling code",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg/1280px-Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg/330px-Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Glacier Point in Yosemite National Park , California",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Capitol_Building_Full_View.jpg/1280px-Capitol_Building_Full_View.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Capitol_Building_Full_View.jpg/250px-Capitol_Building_Full_View.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Capitol Building , seat of legislative government, houses both chambers of Congress .",
+      "alt": "The Capitol Building",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/250px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Donald Trump President",
+      "alt": "Donald Trump",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg/1280px-Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg/250px-Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": " ",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

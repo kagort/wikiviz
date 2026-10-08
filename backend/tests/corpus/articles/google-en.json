@@ -1,0 +1,1265 @@
+{
+  "article": {
+    "id": 1092923,
+    "title": "Google",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Google",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Search",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Advertising",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-2",
+      "title": "Corporate affairs",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-3",
+          "title": "Founding",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Hiring of Eric Schmidt",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "Initial public offering",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-6",
+          "title": "Acquisitions",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Alphabet",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "YouTube",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-9",
+      "title": "Products and services",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-10",
+          "title": "Generative AI",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-11",
+          "title": "Consumer services",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-12",
+              "title": "Web-based services",
+              "level": 4,
+              "children": [
+                {
+                  "id": "section-13",
+                  "title": "Social network",
+                  "level": 5,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "section-14",
+              "title": "Software",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-15",
+              "title": "Hardware",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-16",
+          "title": "Enterprise services",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Internet services",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-18",
+          "title": "Financial services",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-19",
+      "title": "Finance",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-20",
+          "title": "Tax avoidance strategies",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-21",
+      "title": "Culture",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-22",
+          "title": "Don't be evil",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-23",
+          "title": "Logo",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-24",
+          "title": "Workplace",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-25",
+          "title": "20% Time",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-26",
+          "title": "Real estate",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-27",
+              "title": "North America",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-28",
+              "title": "Latin America",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-29",
+              "title": "Europe",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-30",
+              "title": "Asia–Pacific",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-31",
+              "title": "Africa and the Middle East",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-32",
+          "title": "Philanthropy",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-33",
+          "title": "Lobbying and political influence",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-34",
+          "title": "Environment",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-35",
+              "title": "Climate change denial and misinformation",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-36",
+      "title": "Litigation",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-37",
+      "title": "Data centers",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-38",
+      "title": "Criticism and controversies",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-39",
+          "title": "Political controversies",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-40",
+              "title": "United States",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-41",
+              "title": "Brazil",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-42",
+              "title": "Israeli–Palestinian conflict",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-43",
+          "title": "Monopoly",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-44",
+              "title": "European Union",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-45",
+              "title": "United States",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-46",
+          "title": "Gender discrimination lawsuit",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-47",
+          "title": "Censorship",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-48",
+          "title": "Data loss",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-49",
+          "title": "Data privacy",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-50",
+              "title": "Geolocation",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-51",
+              "title": "Copyright infringement",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-52",
+              "title": "U.S. government contracts",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-53",
+              "title": "Google Nest hidden microphone incident",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-54",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-55",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-56",
+      "title": "References",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-57",
+      "title": "Further reading",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-58",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "formerly": {
+      "key": "formerly",
+      "label": "Formerly",
+      "group": null,
+      "value": "Google Inc. (1998–2017)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "type": {
+      "key": "type",
+      "label": "Type",
+      "group": null,
+      "value": "Subsidiary",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "traded_as": {
+      "key": "traded_as",
+      "label": "Traded as",
+      "group": null,
+      "value": "Nasdaq: GOOGL, Nasdaq: GOOG",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "industry": {
+      "key": "industry",
+      "label": "Industry",
+      "group": null,
+      "value": "Internet, Cloud computing, Computer software, Computer hardware, Artificial intelligence, Advertising",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "founded": {
+      "key": "founded",
+      "label": "Founded",
+      "group": null,
+      "value": "September 4, 1998 in Menlo Park, California, United States",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "founders": {
+      "key": "founders",
+      "label": "Founders",
+      "group": null,
+      "value": "Larry Page, Sergey Brin",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "headquarters": {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "group": null,
+      "value": "Googleplex, Mountain View, California, United States",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_served": {
+      "key": "area_served",
+      "label": "Area served",
+      "group": null,
+      "value": "Worldwide",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "key_people": {
+      "key": "key_people",
+      "label": "Key people",
+      "group": null,
+      "value": "John L. Hennessy (Chairman), Sundar Pichai (CEO), Philipp Schindler (CBO), Ruth Porat (President and CIO), Anat Ashkenazi (CFO), Lorraine Twohill (CMO)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "products": {
+      "key": "products",
+      "label": "Products",
+      "group": null,
+      "value": "Google Search, Android, Nest, Pixel, Workspace, Fitbit, Waze, YouTube, Gemini, Full list",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "number_of_employees": {
+      "key": "number_of_employees",
+      "label": "Number of employees",
+      "group": null,
+      "value": "187,000 (2022)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "parent": {
+      "key": "parent",
+      "label": "Parent",
+      "group": null,
+      "value": "Alphabet Inc.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "subsidiaries": {
+      "key": "subsidiaries",
+      "label": "Subsidiaries",
+      "group": null,
+      "value": "Cameyo, Charleston Road Registry, Endoxon, FeedBurner, ImageAmerica, Kaltix, Nest Labs, reCAPTCHA, X Development, YouTube, ZipDash",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "asn": {
+      "key": "asn",
+      "label": "ASN",
+      "group": null,
+      "value": "15169",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "website": {
+      "key": "website",
+      "label": "Website",
+      "group": null,
+      "value": "about.google",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [
+    {
+      "id": "table-0",
+      "title": null,
+      "columns": [
+        "FY",
+        "Revenue",
+        "Net income",
+        "Employees",
+        "References"
+      ],
+      "rows": [
+        [
+          "in million USD"
+        ],
+        [
+          "1999",
+          "0.22",
+          "−6.0",
+          "",
+          ""
+        ],
+        [
+          "2000",
+          "19.1",
+          "−14.6",
+          "",
+          ""
+        ],
+        [
+          "2001",
+          "86.4",
+          "6.9",
+          "284",
+          ""
+        ],
+        [
+          "2002",
+          "439",
+          "99.6",
+          "682",
+          ""
+        ],
+        [
+          "",
+          "in billion USD",
+          "",
+          ""
+        ],
+        [
+          "2003",
+          "1.4",
+          "0.10",
+          "1,628",
+          ""
+        ],
+        [
+          "2004",
+          "3.1",
+          "0.39",
+          "3,021",
+          ""
+        ],
+        [
+          "2005",
+          "6.1",
+          "1.4",
+          "5,680",
+          ""
+        ],
+        [
+          "2006",
+          "10.6",
+          "3.0",
+          "10,674",
+          ""
+        ],
+        [
+          "2007",
+          "16.5",
+          "4.2",
+          "16,805",
+          ""
+        ],
+        [
+          "2008",
+          "21.8",
+          "4.2",
+          "20,222",
+          ""
+        ],
+        [
+          "2009",
+          "23.6",
+          "6.5",
+          "19,835",
+          ""
+        ],
+        [
+          "2010",
+          "29,3",
+          "8.5",
+          "24,400",
+          ""
+        ],
+        [
+          "2011",
+          "37.9",
+          "9.7",
+          "32,467",
+          ""
+        ],
+        [
+          "2012",
+          "46.0",
+          "10.7",
+          "53,861",
+          ""
+        ],
+        [
+          "2013",
+          "55.5",
+          "12.7",
+          "47,756",
+          ""
+        ],
+        [
+          "2014",
+          "66.0",
+          "14.1",
+          "53,600",
+          ""
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-1",
+      "title": null,
+      "columns": [
+        "SN",
+        "City",
+        "Country or U.S. state"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Ann Arbor",
+          "Michigan"
+        ],
+        [
+          "2.",
+          "Atlanta",
+          "Georgia"
+        ],
+        [
+          "3.",
+          "Austin",
+          "Texas"
+        ],
+        [
+          "4.",
+          "Boulder",
+          "Colorado"
+        ],
+        [
+          "5.",
+          "Boulder – Pearl Place",
+          "Colorado"
+        ],
+        [
+          "6.",
+          "Boulder – Walnut",
+          "Colorado"
+        ],
+        [
+          "7.",
+          "Cambridge",
+          "Massachusetts"
+        ],
+        [
+          "8.",
+          "Chapel Hill",
+          "North Carolina"
+        ],
+        [
+          "9.",
+          "Chicago – Carpenter",
+          "Illinois"
+        ],
+        [
+          "10.",
+          "Chicago – Fulton Market",
+          "Illinois"
+        ],
+        [
+          "11.",
+          "Chicago – Loop (2026)",
+          "Illinois"
+        ],
+        [
+          "12.",
+          "Detroit",
+          "Michigan"
+        ],
+        [
+          "13.",
+          "Irvine",
+          "California"
+        ],
+        [
+          "14.",
+          "Kirkland",
+          "Washington"
+        ],
+        [
+          "15.",
+          "Kitchener",
+          "Canada"
+        ],
+        [
+          "16.",
+          "Los Angeles",
+          "California"
+        ],
+        [
+          "17.",
+          "Madison",
+          "Wisconsin"
+        ],
+        [
+          "18.",
+          "Miami",
+          "Florida"
+        ],
+        [
+          "19.",
+          "Montreal",
+          "Canada"
+        ],
+        [
+          "20.",
+          "Mountain View – HQ",
+          "California"
+        ],
+        [
+          "21.",
+          "New York",
+          "New York"
+        ],
+        [
+          "22.",
+          "Pittsburgh",
+          "Pennsylvania"
+        ],
+        [
+          "23.",
+          "Playa Vista",
+          "California"
+        ],
+        [
+          "24.",
+          "Portland",
+          "Oregon"
+        ],
+        [
+          "25.",
+          "Redwood City",
+          "California"
+        ],
+        [
+          "26.",
+          "Reston",
+          "Virginia"
+        ],
+        [
+          "27.",
+          "San Bruno",
+          "California"
+        ],
+        [
+          "28.",
+          "San Diego",
+          "California"
+        ],
+        [
+          "29.",
+          "San Francisco",
+          "California"
+        ],
+        [
+          "30.",
+          "Seattle",
+          "Washington"
+        ],
+        [
+          "31.",
+          "Sunnyvale",
+          "California"
+        ],
+        [
+          "32.",
+          "Toronto",
+          "Canada"
+        ],
+        [
+          "33.",
+          "Washington, D.C.",
+          "District of Columbia"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-2",
+      "title": null,
+      "columns": [
+        "SN",
+        "City",
+        "Country"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Belo Horizonte",
+          "Brazil"
+        ],
+        [
+          "2.",
+          "Bogotá",
+          "Colombia"
+        ],
+        [
+          "3.",
+          "Buenos Aires",
+          "Argentina"
+        ],
+        [
+          "4.",
+          "Mexico City",
+          "Mexico"
+        ],
+        [
+          "5.",
+          "San Salvador",
+          "El Salvador"
+        ],
+        [
+          "6.",
+          "Santiago",
+          "Chile"
+        ],
+        [
+          "7.",
+          "São Paulo",
+          "Brazil"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-3",
+      "title": null,
+      "columns": [
+        "SN",
+        "City",
+        "Country"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Aarhus",
+          "Denmark"
+        ],
+        [
+          "2.",
+          "Amsterdam",
+          "Netherlands"
+        ],
+        [
+          "3.",
+          "Athens",
+          "Greece"
+        ],
+        [
+          "4.",
+          "Berlin",
+          "Germany"
+        ],
+        [
+          "5.",
+          "Brussels",
+          "Belgium"
+        ],
+        [
+          "6.",
+          "Bucharest",
+          "Romania"
+        ],
+        [
+          "7.",
+          "Copenhagen",
+          "Denmark"
+        ],
+        [
+          "8.",
+          "Dublin",
+          "Ireland"
+        ],
+        [
+          "9.",
+          "Hamburg",
+          "Germany"
+        ],
+        [
+          "10.",
+          "Kraków",
+          "Poland"
+        ],
+        [
+          "11.",
+          "Lisbon",
+          "Portugal"
+        ],
+        [
+          "12.",
+          "London – 6PS",
+          "United Kingdom"
+        ],
+        [
+          "13.",
+          "London – BEL",
+          "United Kingdom"
+        ],
+        [
+          "14.",
+          "London – CSG",
+          "United Kingdom"
+        ],
+        [
+          "15.",
+          "Madrid",
+          "Spain"
+        ],
+        [
+          "16.",
+          "Milan",
+          "Italy"
+        ],
+        [
+          "17.",
+          "Munich",
+          "Germany"
+        ],
+        [
+          "18.",
+          "Oslo",
+          "Norway"
+        ],
+        [
+          "19.",
+          "Paris",
+          "France"
+        ],
+        [
+          "20.",
+          "Prague",
+          "Czech Republic"
+        ],
+        [
+          "21.",
+          "Stockholm",
+          "Sweden"
+        ],
+        [
+          "22.",
+          "Vienna",
+          "Austria"
+        ],
+        [
+          "23.",
+          "Vilnius",
+          "Lithuania"
+        ],
+        [
+          "24.",
+          "Warsaw",
+          "Poland"
+        ],
+        [
+          "25.",
+          "Wrocław",
+          "Poland"
+        ],
+        [
+          "26.",
+          "Zürich – BRA",
+          "Switzerland"
+        ],
+        [
+          "27.",
+          "Zürich – EUR",
+          "Switzerland"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-4",
+      "title": null,
+      "columns": [
+        "SN",
+        "City",
+        "Country"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Auckland",
+          "New Zealand"
+        ],
+        [
+          "2.",
+          "Bangkok",
+          "Thailand"
+        ],
+        [
+          "3.",
+          "Beijing",
+          "China"
+        ],
+        [
+          "4.",
+          "Bengaluru – Kyoto Campus",
+          "India"
+        ],
+        [
+          "5.",
+          "Bengaluru – OMR",
+          "India"
+        ],
+        [
+          "6.",
+          "Gurgaon",
+          "India"
+        ],
+        [
+          "7.",
+          "Ho Chi Minh City",
+          "Vietnam"
+        ],
+        [
+          "8.",
+          "Hong Kong",
+          "Hong Kong"
+        ],
+        [
+          "9.",
+          "Hyderabad",
+          "India"
+        ],
+        [
+          "10.",
+          "Jakarta",
+          "Indonesia"
+        ],
+        [
+          "11.",
+          "Kuala Lumpur",
+          "Malaysia"
+        ],
+        [
+          "12.",
+          "Manila",
+          "Philippines"
+        ],
+        [
+          "13.",
+          "Melbourne",
+          "Australia"
+        ],
+        [
+          "14.",
+          "Mumbai",
+          "India"
+        ],
+        [
+          "15.",
+          "New Taipei City",
+          "Taiwan"
+        ],
+        [
+          "16.",
+          "Pune",
+          "India"
+        ],
+        [
+          "17.",
+          "Seoul",
+          "South Korea"
+        ],
+        [
+          "18.",
+          "Shanghai",
+          "China"
+        ],
+        [
+          "19.",
+          "Shenzhen",
+          "China"
+        ],
+        [
+          "20.",
+          "Singapore",
+          "Singapore"
+        ],
+        [
+          "21.",
+          "Sydney – ODR",
+          "Australia"
+        ],
+        [
+          "22.",
+          "Sydney – PIR",
+          "Australia"
+        ],
+        [
+          "23.",
+          "Taipei",
+          "Taiwan"
+        ],
+        [
+          "24.",
+          "Tokyo – RPG",
+          "Japan"
+        ],
+        [
+          "25.",
+          "Tokyo – STRM",
+          "Japan"
+        ],
+        [
+          "26.",
+          "Zhubei",
+          "Taiwan"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-5",
+      "title": null,
+      "columns": [
+        "SN",
+        "City",
+        "Country"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Accra",
+          "Ghana"
+        ],
+        [
+          "2.",
+          "Doha",
+          "Qatar"
+        ],
+        [
+          "3.",
+          "Dubai",
+          "United Arab Emirates"
+        ],
+        [
+          "4.",
+          "Haifa",
+          "Israel"
+        ],
+        [
+          "5.",
+          "Istanbul",
+          "Turkey"
+        ],
+        [
+          "6.",
+          "Johannesburg",
+          "South Africa"
+        ],
+        [
+          "7.",
+          "Lagos",
+          "Nigeria"
+        ],
+        [
+          "8.",
+          "Tel Aviv",
+          "Israel"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    }
+  ],
+  "locations": [],
+  "events": [
+    {
+      "id": "event-0",
+      "date": "1998-09-04",
+      "date_precision": "day",
+      "title": "Founded",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Formerly",
+      "value": 1998.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Founded",
+      "value": 4.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Number of employees",
+      "value": 187000.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "ASN",
+      "value": 15169.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Google_2026_logo.svg/1280px-Google_2026_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Google_2026_logo.svg/250px-Google_2026_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Google's headquarters, the Googleplex , in 2016",
+      "alt": "Each letter of \"Google\" is colored (from left to right) in blue, red, yellow, blue, green, and red.",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

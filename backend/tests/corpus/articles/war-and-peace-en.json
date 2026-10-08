@@ -1,0 +1,374 @@
+{
+  "article": {
+    "id": 155311,
+    "title": "War and Peace",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/War_and_Peace",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Composition history",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Realism",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-2",
+      "title": "Language",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-3",
+      "title": "Background and historical context",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-4",
+      "title": "Principal characters",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-5",
+      "title": "Plot summary",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-6",
+          "title": "Book One",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Book Two",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Book Three",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-9",
+          "title": "Book Four",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-10",
+          "title": "Epilogue in two parts",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-11",
+              "title": "First part",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-12",
+              "title": "Second part",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-13",
+          "title": "Philosophical chapters",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-14",
+      "title": "Reception",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-15",
+      "title": "English translations",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-16",
+          "title": "List of English translations",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Comparing translations",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-18",
+      "title": "Adaptations",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-19",
+          "title": "Film",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-20",
+          "title": "Television",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "Music",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-22",
+          "title": "Opera",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-23",
+          "title": "Theatre",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-24",
+          "title": "Radio",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-25",
+          "title": "Comics",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-26",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-27",
+      "title": "References",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-28",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "author": {
+      "key": "author",
+      "label": "Author",
+      "group": null,
+      "value": "Leo Tolstoy",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "original_title": {
+      "key": "original_title",
+      "label": "Original title",
+      "group": null,
+      "value": "Война и миръ",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "translator": {
+      "key": "translator",
+      "label": "Translator",
+      "group": null,
+      "value": "First translated into English by Nathan Haskell Dole, 1889",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "language": {
+      "key": "language",
+      "label": "Language",
+      "group": null,
+      "value": "Russian, with some French and occasionally German",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "genre": {
+      "key": "genre",
+      "label": "Genre",
+      "group": null,
+      "value": "Novel (Historical novel)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "publisher": {
+      "key": "publisher",
+      "label": "Publisher",
+      "group": null,
+      "value": "The Russian Messenger (serial)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "publication_date": {
+      "key": "publication_date",
+      "label": "Publication date",
+      "group": null,
+      "value": "Serialised 1865–1867; book 1869",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "publication_place": {
+      "key": "publication_place",
+      "label": "Publication place",
+      "group": null,
+      "value": "Russia",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "media_type": {
+      "key": "media_type",
+      "label": "Media type",
+      "group": null,
+      "value": "Print",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "pages": {
+      "key": "pages",
+      "label": "Pages",
+      "group": null,
+      "value": "1,225 (first published edition)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "followed_by": {
+      "key": "followed_by",
+      "label": "Followed by",
+      "group": null,
+      "value": "The Decembrists (abandoned and unfinished)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "original_text": {
+      "key": "original_text",
+      "label": "Original text",
+      "group": null,
+      "value": "Война и миръ at Russian Wikisource",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "translation": {
+      "key": "translation",
+      "label": "Translation",
+      "group": null,
+      "value": "War and Peace at Wikisource",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [],
+  "locations": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "2015-12-08",
+      "date_precision": "day",
+      "title": "Television",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1943-02-07",
+      "date_precision": "day",
+      "title": "Radio",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "1969-12-30",
+      "date_precision": "day",
+      "title": "Radio",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1970-05-12",
+      "date_precision": "day",
+      "title": "Radio",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Translator",
+      "value": 1889.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Publication date",
+      "value": 1865.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Pages",
+      "value": 1225.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg/1280px-Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg/250px-Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

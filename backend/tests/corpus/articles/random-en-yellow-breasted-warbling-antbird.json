@@ -1,0 +1,150 @@
+{
+  "article": {
+    "id": 18162027,
+    "title": "Yellow-breasted warbling antbird",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Yellow-breasted_warbling_antbird",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Taxonomy and systematics",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Description",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-2",
+      "title": "Distribution and habitat",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-3",
+      "title": "Behavior",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-4",
+          "title": "Movement",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "Feeding",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-6",
+          "title": "Breeding",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Vocalization",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "Status",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-9",
+      "title": "References",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "kingdom": {
+      "key": "kingdom",
+      "label": "Kingdom:",
+      "group": null,
+      "value": "Animalia",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "phylum": {
+      "key": "phylum",
+      "label": "Phylum:",
+      "group": null,
+      "value": "Chordata",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "class": {
+      "key": "class",
+      "label": "Class:",
+      "group": null,
+      "value": "Aves",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "order": {
+      "key": "order",
+      "label": "Order:",
+      "group": null,
+      "value": "Passeriformes",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "family": {
+      "key": "family",
+      "label": "Family:",
+      "group": null,
+      "value": "Thamnophilidae",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "genus": {
+      "key": "genus",
+      "label": "Genus:",
+      "group": null,
+      "value": "Hypocnemis",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "species_complex": {
+      "key": "species_complex",
+      "label": "Species complex:",
+      "group": null,
+      "value": "Hypocnemis cantator complex",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "species": {
+      "key": "species",
+      "label": "Species:",
+      "group": null,
+      "value": "H. subflava",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [],
+  "locations": [],
+  "events": [],
+  "numbers": [],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [],
+  "links": [],
+  "metadata": {}
+}

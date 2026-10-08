@@ -35,6 +35,9 @@ class ManifestEntry:
     url: str
     revision: Optional[int]
     file: str
+    # Тип статьи ("person", "city", ...) - используется корпусом проверки
+    # устойчивости (scripts.export_corpus); у фикстур его нет.
+    kind: Optional[str] = None
 
 
 def _parse_entry(raw: object, index: int) -> ManifestEntry:
@@ -46,6 +49,7 @@ def _parse_entry(raw: object, index: int) -> ManifestEntry:
     url = raw.get("url")
     file = raw.get("file")
     revision = raw.get("revision")
+    kind = raw.get("kind")
 
     if not isinstance(url, str):
         raise ManifestError(f"{where}: 'url' must be a string")
@@ -74,7 +78,10 @@ def _parse_entry(raw: object, index: int) -> ManifestEntry:
             f"{where}: 'revision' must be a positive integer or null, got {revision!r}"
         )
 
-    return ManifestEntry(url=url, revision=revision, file=file)
+    if kind is not None and not isinstance(kind, str):
+        raise ManifestError(f"{where}: 'kind' must be a string or absent, got {kind!r}")
+
+    return ManifestEntry(url=url, revision=revision, file=file, kind=kind)
 
 
 def load_manifest(path: Path) -> list[ManifestEntry]:
@@ -94,12 +101,13 @@ def load_manifest(path: Path) -> list[ManifestEntry]:
 
 
 def save_manifest(path: Path, entries: list[ManifestEntry]) -> None:
-    data = {
-        "articles": [
-            {"url": entry.url, "revision": entry.revision, "file": entry.file}
-            for entry in entries
-        ]
-    }
+    articles = []
+    for entry in entries:
+        item = {"url": entry.url, "revision": entry.revision, "file": entry.file}
+        if entry.kind is not None:
+            item["kind"] = entry.kind
+        articles.append(item)
+    data = {"articles": articles}
     Path(path).write_text(
         json.dumps(data, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",

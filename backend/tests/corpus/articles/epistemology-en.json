@@ -1,0 +1,188 @@
+{
+  "article": {
+    "id": 9247,
+    "title": "Epistemology",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Epistemology",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Definition",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Central concepts",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Knowledge",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-3",
+              "title": "Types",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-4",
+              "title": "Analysis",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-5",
+              "title": "Value",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-6",
+          "title": "Belief and truth",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Justification",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-8",
+              "title": "Sources",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-9",
+          "title": "Other concepts",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "Major schools of thought",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-11",
+          "title": "Skepticism and fallibilism",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-12",
+          "title": "Empiricism and rationalism",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-13",
+          "title": "Foundationalism and coherentism",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-14",
+          "title": "Internalism and externalism",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-15",
+      "title": "Branches and approaches",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-16",
+          "title": "Knowledge in particular domains",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-17",
+      "title": "Related fields",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-18",
+      "title": "History",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-19",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-20",
+      "title": "References",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-21",
+          "title": "Notes",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-22",
+          "title": "Citations",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-23",
+          "title": "Bibliography",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-24",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {},
+  "tables": [],
+  "locations": [],
+  "events": [],
+  "numbers": [],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Locke.jpg/1280px-John_Locke.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Locke.jpg/250px-John_Locke.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "John Locke and David Hume shaped the philosophy of empiricism.",
+      "alt": "Oil painting of a man with gray hair wearing a brown attire",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

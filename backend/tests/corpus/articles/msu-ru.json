@@ -1,0 +1,1009 @@
+{
+  "article": {
+    "id": 7253,
+    "title": "Московский государственный университет",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Московский_государственный_университет",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "История",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-1",
+          "title": "Императорский Московский университет 1755—1917",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-2",
+              "title": "Московский университет в XVIII веке",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-3",
+              "title": "Московский университет в XIX веке",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-4",
+              "title": "Университет в 1900—1917",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-5",
+          "title": "Московский государственный университет",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-6",
+              "title": "Московский университет 1917—1929",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-7",
+              "title": "Реорганизация МГУ 1929—1934",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-8",
+              "title": "МГУ в 1934—1941 годах",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-9",
+              "title": "МГУ в годы Великой Отечественной войны (1941—1945)",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-10",
+              "title": "МГУ после 1945 года",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-11",
+              "title": "Руководители МГУ после 1917",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-12",
+      "title": "Современный МГУ",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-13",
+          "title": "Изменение статуса МГУ",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-14",
+      "title": "Репутация и рейтинги",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-15",
+      "title": "Научная деятельность",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-16",
+          "title": "Система ИСТИНА",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-17",
+      "title": "Учебный процесс",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-18",
+          "title": "Межфакультетские курсы",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-19",
+      "title": "Факультеты",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-20",
+          "title": "с 1755 года",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "1929—1941 годы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-22",
+          "title": "1952—1973 годы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-23",
+          "title": "1988—1995 годы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-24",
+          "title": "после 1997 года",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-25",
+      "title": "Высшие школы",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-26",
+      "title": "Отделения",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-27",
+      "title": "Институты",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-28",
+      "title": "Филиалы",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-29",
+      "title": "Научно-образовательные школы",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-30",
+      "title": "Университетский кампус",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-31",
+      "title": "Знаменитые выпускники",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-32",
+      "title": "Награды и поощрения Московского университета",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-33",
+      "title": "МГУ в филателии",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-34",
+      "title": "Религиозные организации при МГУ",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-35",
+          "title": "Русская православная церковь",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-36",
+      "title": "Критика",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-37",
+          "title": "Уголовное дело за взятку против заместителя декана факультета мировой политики МГУ",
+          "level": 4,
+          "children": []
+        },
+        {
+          "id": "section-38",
+          "title": "Фальшивые диссертации",
+          "level": 4,
+          "children": []
+        },
+        {
+          "id": "section-39",
+          "title": "Угрозы отчисления и оскорбления замдекана Людмилы Григорьевой в адрес студентов «Инициативной группы МГУ»",
+          "level": 4,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-40",
+      "title": "См. также",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-41",
+      "title": "Примечания",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-42",
+      "title": "Литература",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-43",
+      "title": "Ссылки",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "международное_название": {
+      "key": "международное_название",
+      "label": "Международное название",
+      "group": null,
+      "value": "Lomonosov Moscow State University",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "прежнее_название": {
+      "key": "прежнее_название",
+      "label": "Прежнее название",
+      "group": null,
+      "value": "Императорский Московский университет (1755—1917)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "девиз": {
+      "key": "девиз",
+      "label": "Девиз",
+      "group": null,
+      "value": "«Наука есть ясное познание истины, просвещение разума», (лат. «Scientia est clara cognitio veritatis, illustratio mentis»)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "год_основания": {
+      "key": "год_основания",
+      "label": "Год основания",
+      "group": null,
+      "value": "12 (23) января 1755",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "тип": {
+      "key": "тип",
+      "label": "Тип",
+      "group": null,
+      "value": "государственный",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "целевой_капитал": {
+      "key": "целевой_капитал",
+      "label": "Целевой капитал",
+      "group": null,
+      "value": "110 млн ₽ (22.12.2014)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "ректор": {
+      "key": "ректор",
+      "label": "Ректор",
+      "group": null,
+      "value": "Виктор Антонович Садовничий",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "студенты": {
+      "key": "студенты",
+      "label": "Студенты",
+      "group": null,
+      "value": "39 282",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "иностранные_студенты": {
+      "key": "иностранные_студенты",
+      "label": "Иностранные студенты",
+      "group": null,
+      "value": "5403",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "бакалавриат": {
+      "key": "бакалавриат",
+      "label": "Бакалавриат",
+      "group": null,
+      "value": "22 563",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "расположение": {
+      "key": "расположение",
+      "label": "Расположение",
+      "group": null,
+      "value": "Россия: Москва, Ленинские горы и Моховая",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "метро": {
+      "key": "метро",
+      "label": "Метро",
+      "group": null,
+      "value": "Охотный Ряд, Университет, Ломоносовский проспект",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "кампус": {
+      "key": "кампус",
+      "label": "Кампус",
+      "group": null,
+      "value": "городской, 205,7 га",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "юридический_адрес": {
+      "key": "юридический_адрес",
+      "label": "Юридический адрес",
+      "group": null,
+      "value": "119991, Российская Федерация, г. Москва, Ленинские горы, д. 1, МГУ имени М. В. Ломоносова",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "сайт": {
+      "key": "сайт",
+      "label": "Сайт",
+      "group": null,
+      "value": "msu.ru",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [
+    {
+      "id": "table-0",
+      "title": null,
+      "columns": [
+        "Глобальные рейтинги",
+        "2023",
+        "2022",
+        "2021",
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      "rows": [
+        [
+          "ShanghaiRanking’s ARWU",
+          "",
+          "",
+          "97",
+          "93",
+          "87",
+          "86",
+          "93",
+          "87",
+          "86"
+        ],
+        [
+          "QS World University Rankings",
+          "75",
+          "78",
+          "74",
+          "84",
+          "90",
+          "95",
+          "108",
+          "108",
+          "114"
+        ],
+        [
+          "« Три миссии университета »",
+          "-",
+          "18",
+          "19",
+          "21",
+          "22",
+          "23",
+          "25",
+          "-",
+          "-"
+        ],
+        [
+          "Региональные рейтинги",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ],
+        [
+          "QS University Rankings: BRICS",
+          "",
+          "",
+          "",
+          "",
+          "6",
+          "5",
+          "7",
+          "4",
+          "3"
+        ],
+        [
+          "QS Emerging Europe & Central Asia",
+          "",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "-"
+        ],
+        [
+          "Российские рейтинги",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ],
+        [
+          "«Интерфакс»",
+          "",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "RAEX",
+          "-",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    }
+  ],
+  "locations": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1932-10-20",
+      "date_precision": "day",
+      "title": "История",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1937-11-11",
+      "date_precision": "day",
+      "title": "История",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "1940-05-07",
+      "date_precision": "day",
+      "title": "История",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1955-05-07",
+      "date_precision": "day",
+      "title": "История",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "1980-01-22",
+      "date_precision": "day",
+      "title": "История",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "2008-03-28",
+      "date_precision": "day",
+      "title": "История",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "2010-12-31",
+      "date_precision": "day",
+      "title": "История",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "2014-10-22",
+      "date_precision": "day",
+      "title": "История",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "1804-11-05",
+      "date_precision": "day",
+      "title": "Московский университет в XIX веке",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "1918-10-01",
+      "date_precision": "day",
+      "title": "Московский университет 1917—1929",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "1919-04-14",
+      "date_precision": "day",
+      "title": "Московский университет 1917—1929",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-11",
+      "date": "1920-10-05",
+      "date_precision": "day",
+      "title": "Московский университет 1917—1929",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-12",
+      "date": "1927-05-01",
+      "date_precision": "day",
+      "title": "Московский университет 1917—1929",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-13",
+      "date": "1930-06-30",
+      "date_precision": "day",
+      "title": "Реорганизация МГУ 1929—1934",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-14",
+      "date": "1941-06-01",
+      "date_precision": "day",
+      "title": "МГУ в 1934—1941 годах",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-15",
+      "date": "1943-06-10",
+      "date_precision": "day",
+      "title": "МГУ в годы Великой Отечественной войны (1941—1945)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-16",
+      "date": "1955-05-06",
+      "date_precision": "day",
+      "title": "МГУ после 1945 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-17",
+      "date": "1980-01-22",
+      "date_precision": "day",
+      "title": "МГУ после 1945 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-18",
+      "date": "2019-03-28",
+      "date_precision": "day",
+      "title": "МГУ после 1945 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-19",
+      "date": "2023-01-25",
+      "date_precision": "day",
+      "title": "МГУ после 1945 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-20",
+      "date": "2024-12-28",
+      "date_precision": "day",
+      "title": "МГУ после 1945 года",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-21",
+      "date": "2007-09-01",
+      "date_precision": "day",
+      "title": "Современный МГУ",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-22",
+      "date": "2009-01-23",
+      "date_precision": "day",
+      "title": "Современный МГУ",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-23",
+      "date": "2010-01-25",
+      "date_precision": "day",
+      "title": "Современный МГУ",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-24",
+      "date": "2009-11-11",
+      "date_precision": "day",
+      "title": "Изменение статуса МГУ",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-25",
+      "date": "2011-08-18",
+      "date_precision": "day",
+      "title": "Изменение статуса МГУ",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-26",
+      "date": "2016-09-01",
+      "date_precision": "day",
+      "title": "Отделения",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-27",
+      "date": "1944-05-29",
+      "date_precision": "day",
+      "title": "Награды и поощрения Московского университета",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-28",
+      "date": "2011-11-18",
+      "date_precision": "day",
+      "title": "Русская православная церковь",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-29",
+      "date": "2012-09-28",
+      "date_precision": "day",
+      "title": "Русская православная церковь",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Прежнее название",
+      "value": 1755.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Год основания",
+      "value": 12.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Студенты",
+      "value": 39282.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Иностранные студенты",
+      "value": 5403.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Бакалавриат",
+      "value": 22563.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Метро",
+      "value": 1.0,
+      "unit": "Охотный",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Кампус",
+      "value": 205.7,
+      "unit": "га",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Юридический адрес",
+      "value": 119991.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Elizabeth_of_Russia.jpg/1280px-Elizabeth_of_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Elizabeth_of_Russia.jpg/330px-Elizabeth_of_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Императрица Елизавета Петровна",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/I.I._Shuvalov_by_Alexey_Petr._Shabanov_after_Vigee-Lebrun_%281785%2C_GRM%29.jpg/1280px-I.I._Shuvalov_by_Alexey_Petr._Shabanov_after_Vigee-Lebrun_%281785%2C_GRM%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/I.I._Shuvalov_by_Alexey_Petr._Shabanov_after_Vigee-Lebrun_%281785%2C_GRM%29.jpg/330px-I.I._Shuvalov_by_Alexey_Petr._Shabanov_after_Vigee-Lebrun_%281785%2C_GRM%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Иван Иванович Шувалов",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2.%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_1754%D0%B3._%D0%A0%D0%B8%D1%81._%D0%93%D0%98%D0%9C_e1cr.jpg/1280px-%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2.%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_1754%D0%B3._%D0%A0%D0%B8%D1%81._%D0%93%D0%98%D0%9C_e1cr.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2.%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_1754%D0%B3._%D0%A0%D0%B8%D1%81._%D0%93%D0%98%D0%9C_e1cr.jpg/250px-%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2.%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_1754%D0%B3._%D0%A0%D0%B8%D1%81._%D0%93%D0%98%D0%9C_e1cr.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Гравюра XVIII века с медалью, выпущенной в честь основания университета",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/49_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0.jpg/1280px-49_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/49_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0.jpg/250px-49_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Мундир профессоров Московского Университета в конце XVIII века",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Chernomorskiy_filial_MGU.jpg/1280px-Chernomorskiy_filial_MGU.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Chernomorskiy_filial_MGU.jpg/250px-Chernomorskiy_filial_MGU.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Филиал МГУ в Севастополе (1999)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/0/07/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B5%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_%D0%B8_%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D0%BB%D0%B0_%D0%9C%D0%93%D0%A3.JPG/1280px-%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B5%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_%D0%B8_%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D0%BB%D0%B0_%D0%9C%D0%93%D0%A3.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/0/07/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B5%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_%D0%B8_%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D0%BB%D0%B0_%D0%9C%D0%93%D0%A3.JPG/250px-%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B5%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_%D0%B8_%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D0%BB%D0%B0_%D0%9C%D0%93%D0%A3.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Филиал МГУ в Астане (2000)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/3/3e/Tashkentskiy_filial_MGU.JPG/1280px-Tashkentskiy_filial_MGU.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/3/3e/Tashkentskiy_filial_MGU.JPG/330px-Tashkentskiy_filial_MGU.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Филиал МГУ в Ташкенте (2006)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/d/d6/Building_of_MSU_barnch_in_Baku.jpg/1280px-Building_of_MSU_barnch_in_Baku.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/d/d6/Building_of_MSU_barnch_in_Baku.jpg/250px-Building_of_MSU_barnch_in_Baku.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Филиал МГУ в Баку (2008)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/a/ac/%D0%A4%D0%B8%D0%BB%D0%B8%D0%B0%D0%BB_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_%D0%B8%D0%BC._%D0%9C.%D0%92._%D0%BB%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%94%D1%83%D1%88%D0%B0%D0%BD%D0%B1%D0%B5.JPG/1280px-%D0%A4%D0%B8%D0%BB%D0%B8%D0%B0%D0%BB_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_%D0%B8%D0%BC._%D0%9C.%D0%92._%D0%BB%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%94%D1%83%D1%88%D0%B0%D0%BD%D0%B1%D0%B5.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/a/ac/%D0%A4%D0%B8%D0%BB%D0%B8%D0%B0%D0%BB_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_%D0%B8%D0%BC._%D0%9C.%D0%92._%D0%BB%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%94%D1%83%D1%88%D0%B0%D0%BD%D0%B1%D0%B5.JPG/330px-%D0%A4%D0%B8%D0%BB%D0%B8%D0%B0%D0%BB_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_%D0%B8%D0%BC._%D0%9C.%D0%92._%D0%BB%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%94%D1%83%D1%88%D0%B0%D0%BD%D0%B1%D0%B5.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Филиал МГУ в Душанбе (2009)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/MSU_Yerevan_branch_building_%28backyard%29.jpg/1280px-MSU_Yerevan_branch_building_%28backyard%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/MSU_Yerevan_branch_building_%28backyard%29.jpg/330px-MSU_Yerevan_branch_building_%28backyard%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Филиал МГУ в Ереване (2015)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Stamp_of_USSR_1576g.jpg/1280px-Stamp_of_USSR_1576g.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Stamp_of_USSR_1576g.jpg/330px-Stamp_of_USSR_1576g.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Почтовая марка 1950 год: проект 26-этажного здания МГУ",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Stamp_of_USSR_1837.jpg/1280px-Stamp_of_USSR_1837.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Stamp_of_USSR_1837.jpg/330px-Stamp_of_USSR_1837.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Почтовая марка 1955 год: старое здание университета",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Stamp_of_USSR_1838.jpg/1280px-Stamp_of_USSR_1838.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Stamp_of_USSR_1838.jpg/330px-Stamp_of_USSR_1838.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Почтовая марка 1955 год: новое здание университета",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stamp_of_USSR_2047.jpg/1280px-Stamp_of_USSR_2047.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stamp_of_USSR_2047.jpg/330px-Stamp_of_USSR_2047.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Почтовая марка 1957 год: Москва фестиваль молодёжи и студентов",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/1958_CPA_2173.jpg/1280px-1958_CPA_2173.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/1958_CPA_2173.jpg/330px-1958_CPA_2173.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Почтовая марка 1958 год: V конгресс Международного союза архитекторов",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/1958_CPA_2198.jpg/1280px-1958_CPA_2198.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/1958_CPA_2198.jpg/330px-1958_CPA_2198.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Почтовая марка 1958 год: X съезд Международного астрономического союза новое здание университета",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Rus_Stamp-MORF_200.jpg/1280px-Rus_Stamp-MORF_200.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Rus_Stamp-MORF_200.jpg/250px-Rus_Stamp-MORF_200.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Почтовая марка 2002 год: 200 лет Минобразования РФ",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Rus_Stamp-MGU_250.jpg/1280px-Rus_Stamp-MGU_250.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Rus_Stamp-MGU_250.jpg/250px-Rus_Stamp-MGU_250.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Почтовая марка 2005 год: 250 лет МГУ",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/4/4c/%D0%9C%D0%93%D0%A3_%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0.png/1280px-%D0%9C%D0%93%D0%A3_%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/4/4c/%D0%9C%D0%93%D0%A3_%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0.png/250px-%D0%9C%D0%93%D0%A3_%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

@@ -1,0 +1,637 @@
+{
+  "article": {
+    "id": 15573,
+    "title": "Japan",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Etymology",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "History",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Prehistoric to classical history",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Feudal era",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Modern era",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "Geography",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-6",
+          "title": "Climate",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Biodiversity",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Environment",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "Government and politics",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-10",
+          "title": "Administrative divisions",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-11",
+          "title": "Foreign relations",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-12",
+          "title": "Military",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-13",
+          "title": "Law enforcement",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-14",
+          "title": "Human rights",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-15",
+      "title": "Economy",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-16",
+          "title": "Agriculture and fishery",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Industry and services",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-18",
+          "title": "Science and technology",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-19",
+      "title": "Infrastructure",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-20",
+          "title": "Transportation",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "Energy",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-22",
+      "title": "Demographics",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-23",
+          "title": "Languages",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-24",
+          "title": "Religion",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-25",
+          "title": "Education",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-26",
+          "title": "Health",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-27",
+      "title": "Culture",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-28",
+          "title": "Art and architecture",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-29",
+          "title": "Literature and philosophy",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-30",
+          "title": "Performing arts",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-31",
+          "title": "Media",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-32",
+          "title": "Holidays",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-33",
+          "title": "Cuisine",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-34",
+          "title": "Sports",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-35",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-36",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-37",
+      "title": "References",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-38",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "capital_and_largest_city": {
+      "key": "capital_and_largest_city",
+      "label": "Capital and largest city",
+      "group": null,
+      "value": "Tokyo, 35°41′N 139°46′E / 35.683°N 139.767°E",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "national_language": {
+      "key": "national_language",
+      "label": "National language",
+      "group": null,
+      "value": "Japanese",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "regional_languages": {
+      "key": "regional_languages",
+      "label": "Regional languages",
+      "group": null,
+      "value": "Ainu (recognized), Hachijō, Ryukyuan languages",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "demonym": {
+      "key": "demonym",
+      "label": "Demonym",
+      "group": null,
+      "value": "Japanese",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government": {
+      "key": "government",
+      "label": "Government",
+      "group": null,
+      "value": "Unitary parliamentary constitutional monarchy",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_emperor": {
+      "key": "government_emperor",
+      "label": "Emperor",
+      "group": "Government",
+      "value": "Naruhito",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_prime_minister": {
+      "key": "government_prime_minister",
+      "label": "Prime Minister",
+      "group": "Government",
+      "value": "Sanae Takaichi",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "legislature": {
+      "key": "legislature",
+      "label": "Legislature",
+      "group": null,
+      "value": "National Diet",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "legislature_upper_house": {
+      "key": "legislature_upper_house",
+      "label": "Upper house",
+      "group": "Legislature",
+      "value": "Senate",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "legislature_lower_house": {
+      "key": "legislature_lower_house",
+      "label": "Lower house",
+      "group": "Legislature",
+      "value": "House of Representatives",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_total": {
+      "key": "area_total",
+      "label": "Total",
+      "group": "Area",
+      "value": "377,975 km2 (145,937 sq mi) (62nd)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_water": {
+      "key": "area_water",
+      "label": "Water (%)",
+      "group": "Area",
+      "value": "1.4",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_january_1_2026_estimate": {
+      "key": "population_january_1_2026_estimate",
+      "label": "January 1, 2026 estimate",
+      "group": "Population",
+      "value": "122,950,000 (11th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_2020_census": {
+      "key": "population_2020_census",
+      "label": "2020 census",
+      "group": "Population",
+      "value": "126,146,099",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_density": {
+      "key": "population_density",
+      "label": "Density",
+      "group": "Population",
+      "value": "330/km2 (854.7/sq mi) (39th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_ppp": {
+      "key": "gdp_ppp",
+      "label": "GDP (PPP)",
+      "group": null,
+      "value": "2026 estimate",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_ppp_total": {
+      "key": "gdp_ppp_total",
+      "label": "Total",
+      "group": "GDP (PPP)",
+      "value": "$7.262 trillion (5th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_ppp_per_capita": {
+      "key": "gdp_ppp_per_capita",
+      "label": "Per capita",
+      "group": "GDP (PPP)",
+      "value": "$59,207 (36th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_nominal": {
+      "key": "gdp_nominal",
+      "label": "GDP (nominal)",
+      "group": null,
+      "value": "2026 estimate",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_nominal_total": {
+      "key": "gdp_nominal_total",
+      "label": "Total",
+      "group": "GDP (nominal)",
+      "value": "$4.379 trillion (4th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gdp_nominal_per_capita": {
+      "key": "gdp_nominal_per_capita",
+      "label": "Per capita",
+      "group": "GDP (nominal)",
+      "value": "$35,703 (39th)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gini_2020": {
+      "key": "gini_2020",
+      "label": "Gini (2020)",
+      "group": null,
+      "value": "32.3, medium inequality",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "hdi_2023": {
+      "key": "hdi_2023",
+      "label": "HDI (2023)",
+      "group": null,
+      "value": "0.925, very high (23rd)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "currency": {
+      "key": "currency",
+      "label": "Currency",
+      "group": null,
+      "value": "Japanese yen (JPY)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "time_zone": {
+      "key": "time_zone",
+      "label": "Time zone",
+      "group": null,
+      "value": "UTC+09:00 (JST)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "calling_code": {
+      "key": "calling_code",
+      "label": "Calling code",
+      "group": null,
+      "value": "+81",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "iso_3166_code": {
+      "key": "iso_3166_code",
+      "label": "ISO 3166 code",
+      "group": null,
+      "value": "JP",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "internet_tld": {
+      "key": "internet_tld",
+      "label": "Internet TLD",
+      "group": null,
+      "value": ".jp",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [],
+  "locations": [
+    {
+      "id": "location-0",
+      "name": "Japan",
+      "latitude": 35.68333333333333,
+      "longitude": 139.76666666666668,
+      "description": null,
+      "source": "coordinate",
+      "confidence": 1.0
+    },
+    {
+      "id": "location-1",
+      "name": "Japan",
+      "latitude": 36.0,
+      "longitude": 138.0,
+      "description": null,
+      "source": "coordinate",
+      "confidence": 1.0
+    }
+  ],
+  "events": [],
+  "numbers": [
+    {
+      "label": "Area — Total",
+      "value": 377975.0,
+      "unit": "km²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Area — Water (%)",
+      "value": 1.4,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population — January 1, 2026 estimate",
+      "value": 122950000.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population — 2020 census",
+      "value": 126146099.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population — Density",
+      "value": 330.0,
+      "unit": "/km²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP ( PPP ) — Total",
+      "value": 7262000000000.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP ( PPP ) — Per capita",
+      "value": 59207.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Total",
+      "value": 4378999999999.9995,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Per capita",
+      "value": 35703.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Gini (2020)",
+      "value": 32.3,
+      "unit": "medium",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — HDI (2023)",
+      "value": 0.925,
+      "unit": "very",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Time zone",
+      "value": 9.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "GDP (nominal) — Calling code",
+      "value": 81.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Meiji_tenno1.jpg/1280px-Meiji_tenno1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Meiji_tenno1.jpg/250px-Meiji_tenno1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Emperor Meiji ( 明治天皇 , Meiji-tennō ) ; 1852–1912",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg/1280px-Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg/250px-Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Naruhito Emperor",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Itsukushima_Gate.jpg/1280px-Itsukushima_Gate.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Itsukushima_Gate.jpg/250px-Itsukushima_Gate.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The torii of Itsukushima Shinto Shrine near Hiroshima",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/1280px-The_Great_Wave_off_Kanagawa.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/250px-The_Great_Wave_off_Kanagawa.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Hokusai 's 19th-century ukiyo-e woodblock print The Great Wave off Kanagawa",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/250px-Flag_of_Japan.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Centered deep red circle on a white rectangle",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}
