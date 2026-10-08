@@ -176,10 +176,59 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Honourable_Bertrand_Russell.jpg/1280px-Honourable_Bertrand_Russell.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Honourable_Bertrand_Russell.jpg/250px-Honourable_Bertrand_Russell.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Bertrand Russell originated the distinction between propositional knowledge and knowledge by acquaintance.",
+      "alt": "Black and white photo of a man wearing a dark suit, a white shirt, and a tie",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Immanuel_Kant_portrait_c1790.jpg/1280px-Immanuel_Kant_portrait_c1790.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Immanuel_Kant_portrait_c1790.jpg/250px-Immanuel_Kant_portrait_c1790.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The analytic–synthetic distinction has its roots in the philosophy of Immanuel Kant .",
+      "alt": "Painting of a man with gray hair in a formal dark attire",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Justified_True_Belief_model_of_knowledge.svg/1280px-Justified_True_Belief_model_of_knowledge.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Justified_True_Belief_model_of_knowledge.svg/250px-Justified_True_Belief_model_of_knowledge.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The so-called traditional analysis says that knowledge is justified true belief. Edmund Gettier tried to show that some justified true beliefs do not amount to knowledge.",
+      "alt": "Venn diagram with circles for true beliefs, justified beliefs, and knowledge",
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Locke.jpg/1280px-John_Locke.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Locke.jpg/250px-John_Locke.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "John Locke and David Hume shaped the philosophy of empiricism.",
       "alt": "Oil painting of a man with gray hair wearing a brown attire",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Foundationalism%2C_coherentism%2C_infinitism2.svg/1280px-Foundationalism%2C_coherentism%2C_infinitism2.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Foundationalism%2C_coherentism%2C_infinitism2.svg/500px-Foundationalism%2C_coherentism%2C_infinitism2.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Diagram of foundationalism, coherentism, and infinitism with arrows symbolizing support between beliefs. According to foundationalism, some basic beliefs are justified without support from other beliefs. According to coherentism, justification requires that beliefs mutually support each other. According to infinitism, justification requires that beliefs form infinite support chains.",
+      "alt": "Diagram with sections for foundationalism, coherentism, and infinitism, each depicting the relations between beliefs",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Alvin_Goldman_1966.jpg/1280px-Alvin_Goldman_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Alvin_Goldman_1966.jpg/250px-Alvin_Goldman_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Alvin Goldman was an influential defender of externalism.",
+      "alt": "Black and white photo of a bearded man wearing a suit and a tie",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tibet%2C_c._15th-16th_century_-_Portrait_of_Dharmakirti_-_2010.474_-_Cleveland_Museum_of_Art.tif/lossy-page1-250px-Tibet%2C_c._15th-16th_century_-_Portrait_of_Dharmakirti_-_2010.474_-_Cleveland_Museum_of_Art.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tibet%2C_c._15th-16th_century_-_Portrait_of_Dharmakirti_-_2010.474_-_Cleveland_Museum_of_Art.tif/lossy-page1-250px-Tibet%2C_c._15th-16th_century_-_Portrait_of_Dharmakirti_-_2010.474_-_Cleveland_Museum_of_Art.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Buddhist philosopher Dharmakirti developed a causal theory of knowledge.",
+      "alt": "Photo of a statue of a monk sitting in the lotus position",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/1280px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/250px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "René Descartes used methodological doubt to seek certain foundations for philosophy.",
+      "alt": "Painting of a bearded man with long hair wearing a dark formal attire",
       "source": "article_text"
     }
   ],

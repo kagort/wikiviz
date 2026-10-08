@@ -1147,6 +1147,15 @@
   "locations": [],
   "events": [
     {
+      "id": "event-0",
+      "date": "1871-01-18",
+      "date_precision": "day",
+      "title": "Основано",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "2025-05-06",
       "date_precision": "day",
@@ -1723,6 +1732,209 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/BRD.png/1280px-BRD.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/BRD.png/330px-BRD.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Карта Германии с указанием городов",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Deutschland_topo.jpg/1280px-Deutschland_topo.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Deutschland_topo.jpg/250px-Deutschland_topo.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Топография Германии",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Mischwald-taunus-april-001.jpg/1280px-Mischwald-taunus-april-001.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Mischwald-taunus-april-001.jpg/250px-Mischwald-taunus-april-001.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Равнины и возвышенности рельефа Германии",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Urwald_Sababurg_%2816%29.jpg/1280px-Urwald_Sababurg_%2816%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Urwald_Sababurg_%2816%29.jpg/250px-Urwald_Sababurg_%2816%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Лиственный лес в Германии ( Urwald Sababurg )",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Urwald_Sababurg_%2836%29.jpg/1280px-Urwald_Sababurg_%2836%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Urwald_Sababurg_%2836%29.jpg/250px-Urwald_Sababurg_%2836%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/D%C3%BClmen%2C_Wildpark_--_2018_--_3754.jpg/1280px-D%C3%BClmen%2C_Wildpark_--_2018_--_3754.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/D%C3%BClmen%2C_Wildpark_--_2018_--_3754.jpg/250px-D%C3%BClmen%2C_Wildpark_--_2018_--_3754.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Утро в заповеднике в Дюльмене , Северный Рейн-Вестфалия",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Europa_Germanen_50_n_Chr.svg/1280px-Europa_Germanen_50_n_Chr.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Europa_Germanen_50_n_Chr.svg/250px-Europa_Germanen_50_n_Chr.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Карта расселения древних германских племён",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Treaty_of_Verdun_map.gif/1280px-Treaty_of_Verdun_map.gif?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Treaty_of_Verdun_map.gif/250px-Treaty_of_Verdun_map.gif?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Карта Франкской империи после Верденского договора 843 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/HRR.gif/1280px-HRR.gif?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/HRR.gif/250px-HRR.gif?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Священная Римская империя германской нации",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Map-Rheinbund-1812.png/1280px-Map-Rheinbund-1812.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Map-Rheinbund-1812.png/250px-Map-Rheinbund-1812.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Рейнский союз",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Deutscher_Bund.svg/1280px-Deutscher_Bund.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Deutscher_Bund.svg/250px-Deutscher_Bund.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Германский союз",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Deutsche_Kolonien_rus.PNG/1280px-Deutsche_Kolonien_rus.PNG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Deutsche_Kolonien_rus.PNG/250px-Deutsche_Kolonien_rus.PNG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Германская империя и её колонии",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ausrufung_Republik_Scheidemann.jpg/1280px-Ausrufung_Republik_Scheidemann.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ausrufung_Republik_Scheidemann.jpg/250px-Ausrufung_Republik_Scheidemann.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Филипп Шейдеман провозгласил республику в ноябре 1918 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesarchiv_Bild_183-S38324%2C_Tag_von_Potsdam%2C_Adolf_Hitler%2C_Paul_v._Hindenburg.jpg/1280px-Bundesarchiv_Bild_183-S38324%2C_Tag_von_Potsdam%2C_Adolf_Hitler%2C_Paul_v._Hindenburg.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesarchiv_Bild_183-S38324%2C_Tag_von_Potsdam%2C_Adolf_Hitler%2C_Paul_v._Hindenburg.jpg/250px-Bundesarchiv_Bild_183-S38324%2C_Tag_von_Potsdam%2C_Adolf_Hitler%2C_Paul_v._Hindenburg.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "« День Потсдама » (21 марта 1933 года). Поклон Адольфа Гитлера призван продемонстрировать политическую покорность нового рейхсканцлера рейхспрезиденту Паулю фон Гинденбургу .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/German_Reich_1942.svg/1280px-German_Reich_1942.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/German_Reich_1942.svg/250px-German_Reich_1942.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Великогерманский рейх и его территориальная экспансия в Европе, 1938—1943",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Ribbentrop-Molotov-ru.svg/1280px-Ribbentrop-Molotov-ru.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Ribbentrop-Molotov-ru.svg/250px-Ribbentrop-Molotov-ru.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Слева: раздел сфер интересов в Восточной Европе по Секретному доп. протоколу . Справа: фактические изменения территорий к 1941 году. Оранжевым цветом изображены территории, отходящие и отошедшие к СССР, голубым — территории, отошедшие к Германскому рейху, фиолетовым — территории, оккупированные Германией ( Варшавское генерал-губернаторство , Норвегия и протекторат Богемия и Моравия )",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hitler_and_Stalin._Wonder_how_long_the_honeymoon_will_last%3F.jpg/1280px-Hitler_and_Stalin._Wonder_how_long_the_honeymoon_will_last%3F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hitler_and_Stalin._Wonder_how_long_the_honeymoon_will_last%3F.jpg/250px-Hitler_and_Stalin._Wonder_how_long_the_honeymoon_will_last%3F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "«Интересно, сколько продлится медовый месяц?». Клиффорд Берримен . («The Washington Star», октябрь 1939)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bundesarchiv_Bild_146-1982-077-11%2C_Russland%2C_Minsk%2C_gefangene_sowjetische_Soldaten.jpg/1280px-Bundesarchiv_Bild_146-1982-077-11%2C_Russland%2C_Minsk%2C_gefangene_sowjetische_Soldaten.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bundesarchiv_Bild_146-1982-077-11%2C_Russland%2C_Minsk%2C_gefangene_sowjetische_Soldaten.jpg/250px-Bundesarchiv_Bild_146-1982-077-11%2C_Russland%2C_Minsk%2C_gefangene_sowjetische_Soldaten.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Колонна пленных красноармейцев в оккупированном немцами Минске, 1941",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/German_pows_stalingrad_1943.jpg/1280px-German_pows_stalingrad_1943.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/German_pows_stalingrad_1943.jpg/250px-German_pows_stalingrad_1943.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Пленённые под Сталинградом немецкие солдаты, февраль 1943",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Koeln_1945.jpg/1280px-Koeln_1945.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Koeln_1945.jpg/250px-Koeln_1945.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Кёльн , 1945 год",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Field_Marshal_Keitel_signs_German_surrender_terms_in_Berlin_8_May_1945_-_Restoration.jpg/1280px-Field_Marshal_Keitel_signs_German_surrender_terms_in_Berlin_8_May_1945_-_Restoration.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Field_Marshal_Keitel_signs_German_surrender_terms_in_Berlin_8_May_1945_-_Restoration.jpg/250px-Field_Marshal_Keitel_signs_German_surrender_terms_in_Berlin_8_May_1945_-_Restoration.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Генерал-фельдмаршал Вильгельм Кейтель подписывает акт капитуляции германского Вермахта в штабе 5-й ударной армии в Карлсхорсте , Берлин, 8 мая 1945",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/1280px-Berlinermauer.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/250px-Berlinermauer.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Берлинская стена",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Karte_Deutsche_Bundesl%C3%A4nder_%28nummeriert%29.svg/1280px-Karte_Deutsche_Bundesl%C3%A4nder_%28nummeriert%29.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Karte_Deutsche_Bundesl%C3%A4nder_%28nummeriert%29.svg/330px-Karte_Deutsche_Bundesl%C3%A4nder_%28nummeriert%29.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Schwerin_Palace_Park_Garden_Mecklenburg_Germany_Schweriner_Schloss_Garten_BUGA_2009.jpg/1280px-Schwerin_Palace_Park_Garden_Mecklenburg_Germany_Schweriner_Schloss_Garten_BUGA_2009.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Schwerin_Palace_Park_Garden_Mecklenburg_Germany_Schweriner_Schloss_Garten_BUGA_2009.jpg/250px-Schwerin_Palace_Park_Garden_Mecklenburg_Germany_Schweriner_Schloss_Garten_BUGA_2009.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Шверинский замок , Парламент Мекленбурга-Передней Померании (ландтаги)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gemany_population_pyramid.gif/1280px-Gemany_population_pyramid.gif?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gemany_population_pyramid.gif/330px-Gemany_population_pyramid.gif?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Возрастно-половые пирамиды населения Германии в 1950—2018 г.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Germany_population_pyramid.svg/1280px-Germany_population_pyramid.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Germany_population_pyramid.svg/330px-Germany_population_pyramid.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Возрастно-половая пирамида населения Германии на 2020 год",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Population_density_in_Germany.png/1280px-Population_density_in_Germany.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Population_density_in_Germany.png/330px-Population_density_in_Germany.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Плотность населения по земельным районам Германии по состоянию на 2019 год",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_view_of_Berlin_%2832881394137%29.jpg/1280px-Aerial_view_of_Berlin_%2832881394137%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_view_of_Berlin_%2832881394137%29.jpg/330px-Aerial_view_of_Berlin_%2832881394137%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Вид на Берлин с высоты птичьего полёта",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Quedlinburg_005.JPG/1280px-Quedlinburg_005.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Quedlinburg_005.JPG/330px-Quedlinburg_005.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Вид на Кведлинбург с воздуха",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Circle200.svg/1280px-Circle200.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Circle200.svg/250px-Circle200.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Миграция в Германию в 2013 году по странам (всего 1.226.493 человека)",
@@ -1730,9 +1942,135 @@
       "source": "article_text"
     },
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Lucas_Cranach_%28I%29_workshop_-_Martin_Luther_%28Uffizi%29.jpg/1280px-Lucas_Cranach_%28I%29_workshop_-_Martin_Luther_%28Uffizi%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Lucas_Cranach_%28I%29_workshop_-_Martin_Luther_%28Uffizi%29.jpg/250px-Lucas_Cranach_%28I%29_workshop_-_Martin_Luther_%28Uffizi%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Мартин Лютер — основатель немецкого протестантизма ( лютеранства )",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Circle_frame.svg/1280px-Circle_frame.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Circle_frame.svg/250px-Circle_frame.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Религия в Германии на 31 декабря 2021 года христиане (49,7 %) нерелигиозны (42,0 %) мусульмане (3,5 %) другие религии (4,8 %)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Reichstag_building_Berlin_view_from_west_before_sunset.jpg/1280px-Reichstag_building_Berlin_view_from_west_before_sunset.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Reichstag_building_Berlin_view_from_west_before_sunset.jpg/330px-Reichstag_building_Berlin_view_from_west_before_sunset.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Рейхстаг , резиденция немецкого парламента, Бундестаг Германии",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Frank-Walter_Steinmeier_-_2018_%28cropped%29.jpg/1280px-Frank-Walter_Steinmeier_-_2018_%28cropped%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Frank-Walter_Steinmeier_-_2018_%28cropped%29.jpg/250px-Frank-Walter_Steinmeier_-_2018_%28cropped%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Федеральный президент Франк-Вальтер Штайнмайер",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/1280px-07.08.21.Bundeskanzleramt.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/330px-07.08.21.Bundeskanzleramt.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Ведомство федерального канцлера Германии в Берлине",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Friedrich_Merz_May_2025.jpg/1280px-Friedrich_Merz_May_2025.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Friedrich_Merz_May_2025.jpg/250px-Friedrich_Merz_May_2025.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Федеральный канцлер Фридрих Мерц",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Dmitry_Medvedev_with_Angela_Merkel-1.jpg/1280px-Dmitry_Medvedev_with_Angela_Merkel-1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Dmitry_Medvedev_with_Angela_Merkel-1.jpg/250px-Dmitry_Medvedev_with_Angela_Merkel-1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Ангела Меркель и Дмитрий Медведев . Октябрь 2008 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Leo2A5.JPG/1280px-Leo2A5.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Leo2A5.JPG/250px-Leo2A5.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Основной боевой танк « Леопард-2 »",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Fregatte_Mecklenburg-Vorpommern_F218.jpg/1280px-Fregatte_Mecklenburg-Vorpommern_F218.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Fregatte_Mecklenburg-Vorpommern_F218.jpg/250px-Fregatte_Mecklenburg-Vorpommern_F218.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Фрегаты типа «Бранденбург»",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/1/12/%D0%92%D0%92%D0%9F_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D1%91%D1%80%D0%BA%D0%B8_1992-2009.png/1280px-%D0%92%D0%92%D0%9F_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D1%91%D1%80%D0%BA%D0%B8_1992-2009.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/1/12/%D0%92%D0%92%D0%9F_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D1%91%D1%80%D0%BA%D0%B8_1992-2009.png/330px-%D0%92%D0%92%D0%9F_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D1%91%D1%80%D0%BA%D0%B8_1992-2009.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Динамика ВВП в странах Большой восьмёрки в 1992—2009 годах, в процентах от уровня 1992 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Zollernalb_MichaD.jpg/1280px-Zollernalb_MichaD.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Zollernalb_MichaD.jpg/330px-Zollernalb_MichaD.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Сельскохозяйственные поля",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Frankfurt_am_Main%2C_Skyline_mit_Fl%C3%B6%C3%9Ferbr%C3%BCcke_2.jpg/1280px-Frankfurt_am_Main%2C_Skyline_mit_Fl%C3%B6%C3%9Ferbr%C3%BCcke_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Frankfurt_am_Main%2C_Skyline_mit_Fl%C3%B6%C3%9Ferbr%C3%BCcke_2.jpg/250px-Frankfurt_am_Main%2C_Skyline_mit_Fl%C3%B6%C3%9Ferbr%C3%BCcke_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Франкфурт-на-Майне является одним из крупнейших транспортных и финансовых центров Европы",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Lilienstein_Saxon_Switzerland.jpg/1280px-Lilienstein_Saxon_Switzerland.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Lilienstein_Saxon_Switzerland.jpg/250px-Lilienstein_Saxon_Switzerland.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Германия обладает множеством притягательных мест для путешественников",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Munich_Airport_February_2005_04.jpg/1280px-Munich_Airport_February_2005_04.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Munich_Airport_February_2005_04.jpg/250px-Munich_Airport_February_2005_04.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Самолёт авиакомпании Lufthansa у ворот аэропорта Мюнхена, крупного аэропорта центральной Европы",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/ICE3_in_Cologne.jpg/1280px-ICE3_in_Cologne.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/ICE3_in_Cologne.jpg/250px-ICE3_in_Cologne.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Скоростной поезд ICE на кёльнском вокзале",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/GKV-Ausgaben.png/1280px-GKV-Ausgaben.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/GKV-Ausgaben.png/250px-GKV-Ausgaben.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Расходы немецких больничных касс 1993—2006",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg/1280px-Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg/330px-Siegessaeule_Aussicht_10-13_img4_Tiergarten.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Берлин является одним из важнейших научных и культурных центров",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Germany_champions_2014_FIFA_World_Cup.jpg/1280px-Germany_champions_2014_FIFA_World_Cup.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Germany_champions_2014_FIFA_World_Cup.jpg/250px-Germany_champions_2014_FIFA_World_Cup.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Сборная Германии по футболу — чемпион мира 2014 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Muenchen-Oktoberfest-bjs2005-02.jpg/1280px-Muenchen-Oktoberfest-bjs2005-02.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Muenchen-Oktoberfest-bjs2005-02.jpg/250px-Muenchen-Oktoberfest-bjs2005-02.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Октоберфест в 2005 году",
       "alt": null,
       "source": "article_text"
     },

@@ -874,7 +874,7 @@
     },
     {
       "id": "table-3",
-      "title": "Крупнейшие города Казахстана (населением св. 100 тыс. жит.) на 1 октября 2022 г.",
+      "title": "Крупнейшие города Казахстана (населением св. 100 тыс. жит.) на 1 октября 2022 г.",
       "columns": [
         "Место",
         "Название города",
@@ -1111,7 +1111,7 @@
     },
     {
       "id": "table-5",
-      "title": "2024 год. Урожай пшеницы",
+      "title": "2024 год. Урожай пшеницы",
       "columns": [
         "Регион",
         "Площадь посева",
@@ -1213,6 +1213,15 @@
   ],
   "locations": [],
   "events": [
+    {
+      "id": "event-0",
+      "date": "1991-12-16",
+      "date_precision": "day",
+      "title": "Дата независимости",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
     {
       "id": "text-event-0",
       "date": "2019-03-20",
@@ -1858,101 +1867,654 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kazakhstan_BMNG.jpg/1280px-Kazakhstan_BMNG.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kazakhstan_BMNG.jpg/250px-Kazakhstan_BMNG.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Спутниковый снимок Казахстана в ноябре 2004 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Reserve_Karkaraly.jpg/1280px-Reserve_Karkaraly.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Reserve_Karkaraly.jpg/250px-Reserve_Karkaraly.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Карагандинская область",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Astana-steppe-7748.jpg/1280px-Astana-steppe-7748.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Astana-steppe-7748.jpg/250px-Astana-steppe-7748.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Казахская степь в Акмолинской области",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Eurasian_steppe_belt.jpg/1280px-Eurasian_steppe_belt.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Eurasian_steppe_belt.jpg/250px-Eurasian_steppe_belt.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Казахская степь в части Евразийского степного пояса ( на карте)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0.png/1280px-%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0.png/250px-%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Геологическое строение Казахстана",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-201005.jpg/1280px-%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-201005.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-201005.jpg/250px-%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-201005.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Боровое , гора Окжетпес",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Panorama%28sharyn%29.jpg/1280px-Panorama%28sharyn%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Panorama%28sharyn%29.jpg/250px-Panorama%28sharyn%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Каньон Чарын",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%9D%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE_%D0%BE%D1%82_%D0%BF%D0%B8%D0%BA%D0%B0_-_panoramio.jpg/1280px-%D0%9D%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE_%D0%BE%D1%82_%D0%BF%D0%B8%D0%BA%D0%B0_-_panoramio.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%9D%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE_%D0%BE%D1%82_%D0%BF%D0%B8%D0%BA%D0%B0_-_panoramio.jpg/250px-%D0%9D%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE_%D0%BE%D1%82_%D0%BF%D0%B8%D0%BA%D0%B0_-_panoramio.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Горные области Тянь-Шаня на юго-востоке Казахстана",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kaindy_lake_south-east_Kazakhstan.jpg/1280px-Kaindy_lake_south-east_Kazakhstan.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kaindy_lake_south-east_Kazakhstan.jpg/250px-Kaindy_lake_south-east_Kazakhstan.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Озеро Каинды на юго-востоке Казахстана",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Aral_Sea_1989-2008.jpg/1280px-Aral_Sea_1989-2008.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Aral_Sea_1989-2008.jpg/250px-Aral_Sea_1989-2008.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Аральское море в 1989 и 2008 годах",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Qarmet_Combine_in_Temirtau_%282019-02-16%29.jpg/1280px-Qarmet_Combine_in_Temirtau_%282019-02-16%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Qarmet_Combine_in_Temirtau_%282019-02-16%29.jpg/250px-Qarmet_Combine_in_Temirtau_%282019-02-16%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Комбинат Qarmet",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Korsak_Fuchs_%2811600110075%29.jpg/1280px-Korsak_Fuchs_%2811600110075%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Korsak_Fuchs_%2811600110075%29.jpg/250px-Korsak_Fuchs_%2811600110075%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Корсак",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Turanid_looking_Western_Gokturk%E2%80%93Ak-Hun_Turkic_men%2C_Miho_Museum.jpg/1280px-Turanid_looking_Western_Gokturk%E2%80%93Ak-Hun_Turkic_men%2C_Miho_Museum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Turanid_looking_Western_Gokturk%E2%80%93Ak-Hun_Turkic_men%2C_Miho_Museum.jpg/250px-Turanid_looking_Western_Gokturk%E2%80%93Ak-Hun_Turkic_men%2C_Miho_Museum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Погребальное изображение длинноволосых тюрков в казахской степи . Погребальный диван Михо, около 570 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dzhuchi_khan_mausoleum.jpg/1280px-Dzhuchi_khan_mausoleum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dzhuchi_khan_mausoleum.jpg/250px-Dzhuchi_khan_mausoleum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Мавзолей Джучи в Улытауской области , Казахстан",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mengu-Timur_portrait._Timurid_genealogy%2C_1405-1409%2C_Samarkand_%28Topkapi_Sarayi_M%C3%BCzesi%2C_H2152%29_folio_36b.jpg/1280px-Mengu-Timur_portrait._Timurid_genealogy%2C_1405-1409%2C_Samarkand_%28Topkapi_Sarayi_M%C3%BCzesi%2C_H2152%29_folio_36b.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mengu-Timur_portrait._Timurid_genealogy%2C_1405-1409%2C_Samarkand_%28Topkapi_Sarayi_M%C3%BCzesi%2C_H2152%29_folio_36b.jpg/250px-Mengu-Timur_portrait._Timurid_genealogy%2C_1405-1409%2C_Samarkand_%28Topkapi_Sarayi_M%C3%BCzesi%2C_H2152%29_folio_36b.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Миниатюра с изображением Менгу-Тимура из тимуридской генеалогической рукописи, около 1405–1409 года.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/MongolEmpireDivisions1300.png/1280px-MongolEmpireDivisions1300.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/MongolEmpireDivisions1300.png/250px-MongolEmpireDivisions1300.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Улусы Монгольской империи : Золотая Орда Чагатайский улус Государство Хулагуидов Империя Юань",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Battle_between_Timur_and_Toqtamish_Khan_in_18_June_1391._Zafarnama_of_1436%2C_facing_folios_208v-207r.jpg/1280px-Battle_between_Timur_and_Toqtamish_Khan_in_18_June_1391._Zafarnama_of_1436%2C_facing_folios_208v-207r.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Battle_between_Timur_and_Toqtamish_Khan_in_18_June_1391._Zafarnama_of_1436%2C_facing_folios_208v-207r.jpg/250px-Battle_between_Timur_and_Toqtamish_Khan_in_18_June_1391._Zafarnama_of_1436%2C_facing_folios_208v-207r.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Битва между Тохтамышом (слева) и Тимуром (справа) 18 июня 1391 года. Зафар-наме «Книга побед»",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Kazakh_warriors_15th-18th_century_Kazakhstan_National_Encyclopedia.png/1280px-Kazakh_warriors_15th-18th_century_Kazakhstan_National_Encyclopedia.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Kazakh_warriors_15th-18th_century_Kazakhstan_National_Encyclopedia.png/250px-Kazakh_warriors_15th-18th_century_Kazakhstan_National_Encyclopedia.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Казахские воины XV—XVIII веков. Иллюстрация «КНЭ»",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Mausoleum_Turkestan_2021.jpg/1280px-Mausoleum_Turkestan_2021.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Mausoleum_Turkestan_2021.jpg/250px-Mausoleum_Turkestan_2021.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Мавзолеи Рабиги Султан Бегим и Ходжи Ахмеда Ясави в городе Туркестан",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%D0%A4.%D0%98._%D1%84%D0%BE%D0%BD_%D0%A1%D1%82%D1%80%D0%B0%D0%BB%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D1%82%D1%96%D2%A3_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D1%81%D1%8B%D0%BD%D0%B4%D0%B0%D2%93%D1%8B_%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B_%D0%9E%D1%80%D0%B4%D0%B0%D1%81%D1%8B_%28Cosaci_Horda%29.jpg/1280px-%D0%A4.%D0%98._%D1%84%D0%BE%D0%BD_%D0%A1%D1%82%D1%80%D0%B0%D0%BB%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D1%82%D1%96%D2%A3_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D1%81%D1%8B%D0%BD%D0%B4%D0%B0%D2%93%D1%8B_%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B_%D0%9E%D1%80%D0%B4%D0%B0%D1%81%D1%8B_%28Cosaci_Horda%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%D0%A4.%D0%98._%D1%84%D0%BE%D0%BD_%D0%A1%D1%82%D1%80%D0%B0%D0%BB%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D1%82%D1%96%D2%A3_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D1%81%D1%8B%D0%BD%D0%B4%D0%B0%D2%93%D1%8B_%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B_%D0%9E%D1%80%D0%B4%D0%B0%D1%81%D1%8B_%28Cosaci_Horda%29.jpg/250px-%D0%A4.%D0%98._%D1%84%D0%BE%D0%BD_%D0%A1%D1%82%D1%80%D0%B0%D0%BB%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D1%82%D1%96%D2%A3_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D1%81%D1%8B%D0%BD%D0%B4%D0%B0%D2%93%D1%8B_%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B_%D0%9E%D1%80%D0%B4%D0%B0%D1%81%D1%8B_%28Cosaci_Horda%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Карта Тартарии , Cosaki Horda , Предположительно отражает расселение казахских племён в 1600—1620-е годы, Филипп Иоганн фон Страленберга",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%22Padishah_%28Emperor%29_of_Dast-i_Qipchaq%22._Tabriz_or_Qavin%2C_circa_1550._British_Museum%2C_1948-10-9-056_%28complete%29.jpg/1280px-%22Padishah_%28Emperor%29_of_Dast-i_Qipchaq%22._Tabriz_or_Qavin%2C_circa_1550._British_Museum%2C_1948-10-9-056_%28complete%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%22Padishah_%28Emperor%29_of_Dast-i_Qipchaq%22._Tabriz_or_Qavin%2C_circa_1550._British_Museum%2C_1948-10-9-056_%28complete%29.jpg/250px-%22Padishah_%28Emperor%29_of_Dast-i_Qipchaq%22._Tabriz_or_Qavin%2C_circa_1550._British_Museum%2C_1948-10-9-056_%28complete%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Падишах Дешт-и-Кипчака. Вероятный портрет казахского хана , 1550 г.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Abulkhair_Khan.jpg/1280px-Abulkhair_Khan.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Abulkhair_Khan.jpg/250px-Abulkhair_Khan.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Портрет Абулхаира, Джон Кэстль",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%D3%98%D0%B1%D1%96%D0%BB%D1%85%D0%B0%D0%B9%D1%8B%D1%80_%D1%85%D0%B0%D0%BD%D0%BD%D1%8B%D2%A3_%D1%85%D0%B0%D1%82%D1%8B_%281731%29.jpg/1280px-%D3%98%D0%B1%D1%96%D0%BB%D1%85%D0%B0%D0%B9%D1%8B%D1%80_%D1%85%D0%B0%D0%BD%D0%BD%D1%8B%D2%A3_%D1%85%D0%B0%D1%82%D1%8B_%281731%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%D3%98%D0%B1%D1%96%D0%BB%D1%85%D0%B0%D0%B9%D1%8B%D1%80_%D1%85%D0%B0%D0%BD%D0%BD%D1%8B%D2%A3_%D1%85%D0%B0%D1%82%D1%8B_%281731%29.jpg/250px-%D3%98%D0%B1%D1%96%D0%BB%D1%85%D0%B0%D0%B9%D1%8B%D1%80_%D1%85%D0%B0%D0%BD%D0%BD%D1%8B%D2%A3_%D1%85%D0%B0%D1%82%D1%8B_%281731%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Письмо Абулхаир-хана императрице Анне Иоанновне, 1731 год",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%D0%9E%D1%80%D1%81%D0%BA%D0%B0%D1%8F-%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C-%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA-1736.jpg/1280px-%D0%9E%D1%80%D1%81%D0%BA%D0%B0%D1%8F-%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C-%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA-1736.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%D0%9E%D1%80%D1%81%D0%BA%D0%B0%D1%8F-%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C-%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA-1736.jpg/120px-%D0%9E%D1%80%D1%81%D0%BA%D0%B0%D1%8F-%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C-%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA-1736.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Оргская крепость, (1736)",
       "alt": "Оргская крепость, (1736)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/%D0%9A%D0%B0%D1%80%D0%B0%D0%B7%D0%B8%D0%BD%2C_%D0%91%D0%BE%D0%B9_%D1%81_%D0%BF%D1%83%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D1%86%D0%B0%D0%BC%D0%B8.jpg/1280px-%D0%9A%D0%B0%D1%80%D0%B0%D0%B7%D0%B8%D0%BD%2C_%D0%91%D0%BE%D0%B9_%D1%81_%D0%BF%D1%83%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D1%86%D0%B0%D0%BC%D0%B8.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/%D0%9A%D0%B0%D1%80%D0%B0%D0%B7%D0%B8%D0%BD%2C_%D0%91%D0%BE%D0%B9_%D1%81_%D0%BF%D1%83%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D1%86%D0%B0%D0%BC%D0%B8.jpg/120px-%D0%9A%D0%B0%D1%80%D0%B0%D0%B7%D0%B8%D0%BD%2C_%D0%91%D0%BE%D0%B9_%D1%81_%D0%BF%D1%83%D0%B3%D0%B0%D1%87%D1%91%D0%B2%D1%86%D0%B0%D0%BC%D0%B8.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Бой с пугачёвцами",
       "alt": "Бой с пугачёвцами",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%D0%9E%D0%B1%D1%8A%D1%8F%D1%81%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B9_%D0%BA%D0%B8%D1%80%D0%B3%D0%B8%D0%B7-%D0%BA%D0%B0%D0%B9%D1%81%D0%B0%D1%86%D0%BA%D0%BE%D0%B9_%D0%BE%D1%80%D0%B4%D1%8B._%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BA%D0%B0%D0%B7._1824.jpg/1280px-%D0%9E%D0%B1%D1%8A%D1%8F%D1%81%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B9_%D0%BA%D0%B8%D1%80%D0%B3%D0%B8%D0%B7-%D0%BA%D0%B0%D0%B9%D1%81%D0%B0%D1%86%D0%BA%D0%BE%D0%B9_%D0%BE%D1%80%D0%B4%D1%8B._%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BA%D0%B0%D0%B7._1824.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%D0%9E%D0%B1%D1%8A%D1%8F%D1%81%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B9_%D0%BA%D0%B8%D1%80%D0%B3%D0%B8%D0%B7-%D0%BA%D0%B0%D0%B9%D1%81%D0%B0%D1%86%D0%BA%D0%BE%D0%B9_%D0%BE%D1%80%D0%B4%D1%8B._%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BA%D0%B0%D0%B7._1824.jpg/120px-%D0%9E%D0%B1%D1%8A%D1%8F%D1%81%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B9_%D0%BA%D0%B8%D1%80%D0%B3%D0%B8%D0%B7-%D0%BA%D0%B0%D0%B9%D1%81%D0%B0%D1%86%D0%BA%D0%BE%D0%B9_%D0%BE%D1%80%D0%B4%D1%8B._%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BA%D0%B0%D0%B7._1824.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Объясачение Средней орды. Царский указ. 1824 год",
       "alt": "Объясачение Средней орды. Царский указ. 1824 год",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%9D%D0%B0%D0%B1%D0%B5%D0%B3_%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D1%83%D0%B7%D0%B5%D0%BC%D1%86%D0%B5%D0%B2.png/1280px-%D0%9D%D0%B0%D0%B1%D0%B5%D0%B3_%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D1%83%D0%B7%D0%B5%D0%BC%D1%86%D0%B5%D0%B2.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%9D%D0%B0%D0%B1%D0%B5%D0%B3_%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D1%83%D0%B7%D0%B5%D0%BC%D1%86%D0%B5%D0%B2.png/120px-%D0%9D%D0%B0%D0%B1%D0%B5%D0%B3_%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D1%83%D0%B7%D0%B5%D0%BC%D1%86%D0%B5%D0%B2.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Набег казаков на поселение туземцев",
       "alt": "Набег казаков на поселение туземцев",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Battle_Cossacks_with_Kyrgyz_1826.JPG/1280px-Battle_Cossacks_with_Kyrgyz_1826.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Battle_Cossacks_with_Kyrgyz_1826.JPG/120px-Battle_Cossacks_with_Kyrgyz_1826.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Орловский А . «Сражение между казаками и киргизами» (русские называли казахов «киргизами», киргиз-кайсаками ), литография, 1826",
       "alt": "Орловский А. «Сражение между казаками и киргизами»[99] (русские называли казахов «киргизами», киргиз-кайсаками), литография, 1826",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Alikhan_Bukeikhanov.jpg/1280px-Alikhan_Bukeikhanov.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Alikhan_Bukeikhanov.jpg/120px-Alikhan_Bukeikhanov.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Алихан Букейханов",
       "alt": "Алихан Букейханов",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/%D0%90%D0%BB%D0%B0%D1%88%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F.jpg/1280px-%D0%90%D0%BB%D0%B0%D1%88%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/%D0%90%D0%BB%D0%B0%D1%88%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F.jpg/250px-%D0%90%D0%BB%D0%B0%D1%88%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Карта Алашской автономии, составленная деятелями партии «Алаш». Хранится в фонде Государственного архива России в Москве",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%D0%90%D0%9B%D0%96%D0%98%D0%A0%2C_%D0%90%D0%BA%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C_%D0%B6%D1%91%D0%BD_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D1%8B.jpg/1280px-%D0%90%D0%9B%D0%96%D0%98%D0%A0%2C_%D0%90%D0%BA%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C_%D0%B6%D1%91%D0%BD_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D1%8B.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%D0%90%D0%9B%D0%96%D0%98%D0%A0%2C_%D0%90%D0%BA%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C_%D0%B6%D1%91%D0%BD_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D1%8B.jpg/330px-%D0%90%D0%9B%D0%96%D0%98%D0%A0%2C_%D0%90%D0%BA%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C_%D0%B6%D1%91%D0%BD_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D1%8B.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "АЛЖИР (Акмолинский лагерь жён изменников Родины) . Один из коммунистических лагерей в системе ГУЛАГ , созданный по приказу Сталина 1938 году.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Egemen_Archive_Momyshuly_Margulan.jpg/1280px-Egemen_Archive_Momyshuly_Margulan.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Egemen_Archive_Momyshuly_Margulan.jpg/250px-Egemen_Archive_Momyshuly_Margulan.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Слева направо: Бауыржан Момышулы (с тростью в руках), Алькей Маргулан и Мекемтас Мырзахметулы на съезде Союза писателей Казахстана",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/International_conference_on_Primary_Health_Care_-_Conferencia_Internacional_sobre_Atenci%C3%B3n_Primaria_de_Salud_-_Almaty_-1978.jpg/1280px-International_conference_on_Primary_Health_Care_-_Conferencia_Internacional_sobre_Atenci%C3%B3n_Primaria_de_Salud_-_Almaty_-1978.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/International_conference_on_Primary_Health_Care_-_Conferencia_Internacional_sobre_Atenci%C3%B3n_Primaria_de_Salud_-_Almaty_-1978.jpg/250px-International_conference_on_Primary_Health_Care_-_Conferencia_Internacional_sobre_Atenci%C3%B3n_Primaria_de_Salud_-_Almaty_-1978.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Международная конференция по первичной медико-санитарной помощи в 1978 году, известная как Алма-Атинская декларация",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/c/cc/Monument_of_Independence%2C_Republic_Square%2C_Almaty.JPG/1280px-Monument_of_Independence%2C_Republic_Square%2C_Almaty.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/c/cc/Monument_of_Independence%2C_Republic_Square%2C_Almaty.JPG/250px-Monument_of_Independence%2C_Republic_Square%2C_Almaty.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Монумент независимости , площадь Республики , Алма-Ата",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Kazakhstan_Population_Pyramid_-_January_1%2C_2020.svg/1280px-Kazakhstan_Population_Pyramid_-_January_1%2C_2020.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Kazakhstan_Population_Pyramid_-_January_1%2C_2020.svg/250px-Kazakhstan_Population_Pyramid_-_January_1%2C_2020.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Демографическая пирамида Казахстана на 2020 год",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Central_Asia_Ethnic_en.svg/1280px-Central_Asia_Ethnic_en.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Central_Asia_Ethnic_en.svg/250px-Central_Asia_Ethnic_en.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Распределение этнических групп в Средней Азии, 1992 год (англ.)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Zenkov_Cathedral_Winter.jpg/1280px-Zenkov_Cathedral_Winter.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Zenkov_Cathedral_Winter.jpg/250px-Zenkov_Cathedral_Winter.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Вознесенский собор в Алма-Ате",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0%2C_%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%94%D0%B5%D0%B2%D1%8B_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_%D0%A4%D0%B0%D1%82%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9.jpg/1280px-%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0%2C_%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%94%D0%B5%D0%B2%D1%8B_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_%D0%A4%D0%B0%D1%82%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0%2C_%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%94%D0%B5%D0%B2%D1%8B_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_%D0%A4%D0%B0%D1%82%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9.jpg/250px-%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0%2C_%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%94%D0%B5%D0%B2%D1%8B_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_%D0%A4%D0%B0%D1%82%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Собор Пресвятой Девы Марии Фатимской — самый большой католический храм в Центральной Азии",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/f/f4/Rustam_Minnikhanov_in_Kazakhstan_%282023-09-25%29_68.JPG/1280px-Rustam_Minnikhanov_in_Kazakhstan_%282023-09-25%29_68.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/f/f4/Rustam_Minnikhanov_in_Kazakhstan_%282023-09-25%29_68.JPG/250px-Rustam_Minnikhanov_in_Kazakhstan_%282023-09-25%29_68.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Акорда , президентская резиденция",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/4/44/Kazakh_Parliament_Astana.JPG/1280px-Kazakh_Parliament_Astana.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/4/44/Kazakh_Parliament_Astana.JPG/250px-Kazakh_Parliament_Astana.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Курултай Казахстана",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/7/78/Nur_Otan_Astana.jpg/1280px-Nur_Otan_Astana.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/7/78/Nur_Otan_Astana.jpg/250px-Nur_Otan_Astana.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Штаб правящей партии ӘDILET в столице Казахстана",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/10th_summit_of_the_Organization_of_Turkic_States_in_Astana_04.jpg/1280px-10th_summit_of_the_Organization_of_Turkic_States_in_Astana_04.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/10th_summit_of_the_Organization_of_Turkic_States_in_Astana_04.jpg/250px-10th_summit_of_the_Organization_of_Turkic_States_in_Astana_04.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Лидеры стран Организации тюркских государств на саммите в Астане , 2023 год",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/President_Donald_Trump_meets_with_President_of_the_Republic_of_Kazakhstan_Kassym-Jomart_Tokayev_in_the_Oval_Office%2C_Thursday%2C_November_6%2C_2025_%28P20251106DT-0012%29.jpg/1280px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/President_Donald_Trump_meets_with_President_of_the_Republic_of_Kazakhstan_Kassym-Jomart_Tokayev_in_the_Oval_Office%2C_Thursday%2C_November_6%2C_2025_%28P20251106DT-0012%29.jpg/250px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Касым-Жомарт Токаев и Дональд Трамп в овальном кабинете, 6 ноября 2025 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_2025-11-12_%2812%29.jpg/1280px-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_2025-11-12_%2812%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_2025-11-12_%2812%29.jpg/250px-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_2025-11-12_%2812%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Президент Касым-Жомарт Токаев с президентом России Владимиром Путиным в 2025 году",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/2006Kazakhstani_exports.PNG/1280px-2006Kazakhstani_exports.PNG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/2006Kazakhstani_exports.PNG/330px-2006Kazakhstani_exports.PNG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Карта казахстанского импорта , 2013",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%B2_2007-2025_%D0%B3%D0%B3.jpg/1280px-%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%B2_2007-2025_%D0%B3%D0%B3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%B2_2007-2025_%D0%B3%D0%B3.jpg/250px-%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%B2_2007-2025_%D0%B3%D0%B3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Экспорт товаров Казахстана в 2007—2025 гг.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Expo_2017_%22Nur_Alem%22_Pavilion_Glass_Pathway_2.jpg/1280px-Expo_2017_%22Nur_Alem%22_Pavilion_Glass_Pathway_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Expo_2017_%22Nur_Alem%22_Pavilion_Glass_Pathway_2.jpg/250px-Expo_2017_%22Nur_Alem%22_Pavilion_Glass_Pathway_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Павильон выставки ЭКСПО-2017 «Нур Алем», Астана",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%D0%9F%D0%B5%D1%81%D0%BD%D1%8F_%D0%B6%D0%B0%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0%283264-2448%29.jpg/1280px-%D0%9F%D0%B5%D1%81%D0%BD%D1%8F_%D0%B6%D0%B0%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0%283264-2448%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%D0%9F%D0%B5%D1%81%D0%BD%D1%8F_%D0%B6%D0%B0%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0%283264-2448%29.jpg/250px-%D0%9F%D0%B5%D1%81%D0%BD%D1%8F_%D0%B6%D0%B0%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0%283264-2448%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Пшеничные поля возле Кокшетау",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ekibastuz_GRES-1.jpg/1280px-Ekibastuz_GRES-1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ekibastuz_GRES-1.jpg/250px-Ekibastuz_GRES-1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Экибастузская ГРЭС-1 является крупнейшей тепловой электростанцией в стране",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Railway_Map_of_Kazakhstan_%28kk%29.png/1280px-Railway_Map_of_Kazakhstan_%28kk%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Railway_Map_of_Kazakhstan_%28kk%29.png/250px-Railway_Map_of_Kazakhstan_%28kk%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Карта железнодорожной сети Казахстана",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD._%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%2C_%D0%B2%D0%B8%D0%B4_%D1%81_%D0%91%D0%BE%D0%BB%D0%B5%D0%BA%D1%82%D0%B0%D1%83%2C_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C%2C_%D0%B2%D0%B5%D1%87%D0%B5%D1%80.jpg/1280px-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD._%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%2C_%D0%B2%D0%B8%D0%B4_%D1%81_%D0%91%D0%BE%D0%BB%D0%B5%D0%BA%D1%82%D0%B0%D1%83%2C_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C%2C_%D0%B2%D0%B5%D1%87%D0%B5%D1%80.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD._%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%2C_%D0%B2%D0%B8%D0%B4_%D1%81_%D0%91%D0%BE%D0%BB%D0%B5%D0%BA%D1%82%D0%B0%D1%83%2C_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C%2C_%D0%B2%D0%B5%D1%87%D0%B5%D1%80.jpg/330px-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD._%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%2C_%D0%B2%D0%B8%D0%B4_%D1%81_%D0%91%D0%BE%D0%BB%D0%B5%D0%BA%D1%82%D0%B0%D1%83%2C_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C%2C_%D0%B2%D0%B5%D1%87%D0%B5%D1%80.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Боровое , вид с горы Болектау, осень",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%B3%D0%BE%D1%80%D1%8B_%D1%81%D0%BE_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%BA%D0%B0%D0%BD%D0%B0%D1%82%D0%BD%D0%BE%D0%B9_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8_%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%82%D0%B0_%D0%A7%D0%B8%D0%BC%D0%B1%D1%83%D0%BB%D0%B0%D0%BA.JPG/1280px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%B3%D0%BE%D1%80%D1%8B_%D1%81%D0%BE_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%BA%D0%B0%D0%BD%D0%B0%D1%82%D0%BD%D0%BE%D0%B9_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8_%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%82%D0%B0_%D0%A7%D0%B8%D0%BC%D0%B1%D1%83%D0%BB%D0%B0%D0%BA.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%B3%D0%BE%D1%80%D1%8B_%D1%81%D0%BE_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%BA%D0%B0%D0%BD%D0%B0%D1%82%D0%BD%D0%BE%D0%B9_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8_%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%82%D0%B0_%D0%A7%D0%B8%D0%BC%D0%B1%D1%83%D0%BB%D0%B0%D0%BA.JPG/250px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%B3%D0%BE%D1%80%D1%8B_%D1%81%D0%BE_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%BA%D0%B0%D0%BD%D0%B0%D1%82%D0%BD%D0%BE%D0%B9_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8_%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%82%D0%B0_%D0%A7%D0%B8%D0%BC%D0%B1%D1%83%D0%BB%D0%B0%D0%BA.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Горнолыжный курорт в Алма-Ате",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_10000-%D0%BE%D1%81.jpg/1280px-%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_10000-%D0%BE%D1%81.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_10000-%D0%BE%D1%81.jpg/250px-%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_10000-%D0%BE%D1%81.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Банкнота достоинством в 10000 тенге (ноябрь 2023)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/MAX_5113.jpg/1280px-MAX_5113.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/MAX_5113.jpg/250px-MAX_5113.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Алма-Ата",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Soyuz_expedition_19_launch_pad.jpg/1280px-Soyuz_expedition_19_launch_pad.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Soyuz_expedition_19_launch_pad.jpg/330px-Soyuz_expedition_19_launch_pad.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Космодром Байконур является старейшим и крупнейшим в мире оперативным космическим комплексом",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/KazNPU_imeni_Abaya.JPG/1280px-KazNPU_imeni_Abaya.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/KazNPU_imeni_Abaya.JPG/250px-KazNPU_imeni_Abaya.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Национальный педагогический университет",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Equestrian_heritage%2C_Kazakhstan.JPEG/1280px-Equestrian_heritage%2C_Kazakhstan.JPEG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Equestrian_heritage%2C_Kazakhstan.JPEG/250px-Equestrian_heritage%2C_Kazakhstan.JPEG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Казахский исполнитель демонстрирует многолетнее конное наследие в рамках гала-концерта во время церемонии открытия Центральноазиатского миротворческого батальона",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nyetta_With_Her_%22Yurt%2C_Sweet_Yurt%22_%287508105280%29.jpg/1280px-Nyetta_With_Her_%22Yurt%2C_Sweet_Yurt%22_%287508105280%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nyetta_With_Her_%22Yurt%2C_Sweet_Yurt%22_%287508105280%29.jpg/250px-Nyetta_With_Her_%22Yurt%2C_Sweet_Yurt%22_%287508105280%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Юрта в Астане",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5_%D0%B2_%D1%81%D1%82%D0%B5%D0%BF%D0%B8_%D1%83_%D0%AD%D0%BC%D0%B1%D1%8B_-_panoramio.jpg/1280px-%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5_%D0%B2_%D1%81%D1%82%D0%B5%D0%BF%D0%B8_%D1%83_%D0%AD%D0%BC%D0%B1%D1%8B_-_panoramio.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5_%D0%B2_%D1%81%D1%82%D0%B5%D0%BF%D0%B8_%D1%83_%D0%AD%D0%BC%D0%B1%D1%8B_-_panoramio.jpg/250px-%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5_%D0%B2_%D1%81%D1%82%D0%B5%D0%BF%D0%B8_%D1%83_%D0%AD%D0%BC%D0%B1%D1%8B_-_panoramio.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Кладбище в степи у Эмбы",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Wikiwyprawa_2015_IGP2128.jpg/1280px-Wikiwyprawa_2015_IGP2128.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Wikiwyprawa_2015_IGP2128.jpg/250px-Wikiwyprawa_2015_IGP2128.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Мечеть Коркембая в каньоне Манашы, памятник архитектуры Мангистау XIX века",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0_-_panoramio_%284%29.jpg/1280px-%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0_-_panoramio_%284%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0_-_panoramio_%284%29.jpg/330px-%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0_-_panoramio_%284%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Детская больница в Зачаганске",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Aktobe_New_Buildings.jpg/1280px-Aktobe_New_Buildings.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Aktobe_New_Buildings.jpg/250px-Aktobe_New_Buildings.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Новостройки Актобе",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Stamp_of_Kazakhstan_659.jpg/1280px-Stamp_of_Kazakhstan_659.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Stamp_of_Kazakhstan_659.jpg/250px-Stamp_of_Kazakhstan_659.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Наурыз на марке Казахстана",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%D0%94%D0%B0%D0%BD%D1%8D%D0%BB%D0%B8%D1%8F_%D0%A2%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2%D0%B0_%28%D0%B4%D0%B5%D0%BD%D1%8C_1%29_%D0%BD%D0%B0_%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BD%D0%B5_2015.jpg/1280px-%D0%94%D0%B0%D0%BD%D1%8D%D0%BB%D0%B8%D1%8F_%D0%A2%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2%D0%B0_%28%D0%B4%D0%B5%D0%BD%D1%8C_1%29_%D0%BD%D0%B0_%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BD%D0%B5_2015.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%D0%94%D0%B0%D0%BD%D1%8D%D0%BB%D0%B8%D1%8F_%D0%A2%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2%D0%B0_%28%D0%B4%D0%B5%D0%BD%D1%8C_1%29_%D0%BD%D0%B0_%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BD%D0%B5_2015.jpg/250px-%D0%94%D0%B0%D0%BD%D1%8D%D0%BB%D0%B8%D1%8F_%D0%A2%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2%D0%B0_%28%D0%B4%D0%B5%D0%BD%D1%8C_1%29_%D0%BD%D0%B0_%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BD%D0%B5_2015.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Данэлия Тулешова представляла Казахстан на Детском Евровидении — 2018",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/USSR_stamp_A.Qunanbayuli_1965_4k.jpg/1280px-USSR_stamp_A.Qunanbayuli_1965_4k.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/USSR_stamp_A.Qunanbayuli_1965_4k.jpg/250px-USSR_stamp_A.Qunanbayuli_1965_4k.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Марка почты СССР в честь казахского эссеиста и поэта Абая Кунанбаева",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nikolay_Khludov_%E2%80%94_Wool_Beating_%281889%29.jpg/1280px-Nikolay_Khludov_%E2%80%94_Wool_Beating_%281889%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nikolay_Khludov_%E2%80%94_Wool_Beating_%281889%29.jpg/250px-Nikolay_Khludov_%E2%80%94_Wool_Beating_%281889%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Николай Хлудов . «Битьё шерсти». Российская империя, Степное генерал-губернаторство , Семиреченская область , Верненский уезд , аул на реке Чилик , 1889 г. Центральный Государственный музей Казахстана .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Kidnapping_of_a_girl.jpg/1280px-Kidnapping_of_a_girl.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Kidnapping_of_a_girl.jpg/250px-Kidnapping_of_a_girl.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Абылхан Кастеев . «Похищение невесты». СССР , РСФСР , Москва , художественная студия имени Н. К. Крупской, 1937 г. Государственный музей искусств Республики Казахстан имени Абылхана Кастеева .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Alexey_Bortnikov_%E2%80%94_Nikolay_Gavrilovich_Khludov_on_Yayla_%281960%29.jpg/1280px-Alexey_Bortnikov_%E2%80%94_Nikolay_Gavrilovich_Khludov_on_Yayla_%281960%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Alexey_Bortnikov_%E2%80%94_Nikolay_Gavrilovich_Khludov_on_Yayla_%281960%29.jpg/250px-Alexey_Bortnikov_%E2%80%94_Nikolay_Gavrilovich_Khludov_on_Yayla_%281960%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Алексей Бортников. « Николай Гаврилович Хлудов на жайлау». СССР, КазССР , Алма-Ата , 1960 г. Государственный музей искусств Республики Казахстан имени Абылхана Кастеева.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Gulfayrus_Ismailova_%E2%80%94_Self_Portrait_with_the_Family_%281978%29.jpg/1280px-Gulfayrus_Ismailova_%E2%80%94_Self_Portrait_with_the_Family_%281978%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Gulfayrus_Ismailova_%E2%80%94_Self_Portrait_with_the_Family_%281978%29.jpg/250px-Gulfayrus_Ismailova_%E2%80%94_Self_Portrait_with_the_Family_%281978%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Гульфайрус Исмаилова . «Автопортрет с мужем Евгением Сидоркиным и сыном Вадимом». СССР, КазССР, Алма-Ата, 1978 г. Государственный музей искусств Республики Казахстан имени Абылхана Кастеева.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg/1280px-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg/250px-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Центральный концертный зал «Казахстан»",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B8%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_II_%D0%91%D0%91_%28498%29.JPG/1280px-%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B8%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_II_%D0%91%D0%91_%28498%29.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B8%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_II_%D0%91%D0%91_%28498%29.JPG/250px-%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B8%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_II_%D0%91%D0%91_%28498%29.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Благотворительный бал в Алма-Ате",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Red_Carpet_at_AIAFF.jpg/1280px-Red_Carpet_at_AIAFF.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Red_Carpet_at_AIAFF.jpg/250px-Red_Carpet_at_AIAFF.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Фестиваль экшн-фильмов в Астане, 2010",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Museum_of_Folk_Instruments%2C_Almaty.jpg/1280px-Museum_of_Folk_Instruments%2C_Almaty.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Museum_of_Folk_Instruments%2C_Almaty.jpg/250px-Museum_of_Folk_Instruments%2C_Almaty.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Музей казахских народных музыкальных инструментов имени Ыкыласа",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Makhambet_Otemisuly_Mausoleum.jpg/1280px-Makhambet_Otemisuly_Mausoleum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Makhambet_Otemisuly_Mausoleum.jpg/250px-Makhambet_Otemisuly_Mausoleum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Мавзолей Махамбета Утемисова в Индерском районе Атырауской области",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2016_Brussels_Cycling_Classic_032.jpg/1280px-2016_Brussels_Cycling_Classic_032.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2016_Brussels_Cycling_Classic_032.jpg/250px-2016_Brussels_Cycling_Classic_032.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Astana Pro Team , профессиональная велокоманда, представляющая Казахстан и спонсируемая государственными компаниями Казахстана",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/FC_Astana_vs._Celtic_FC_UCL_2017.jpg/1280px-FC_Astana_vs._Celtic_FC_UCL_2017.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/FC_Astana_vs._Celtic_FC_UCL_2017.jpg/250px-FC_Astana_vs._Celtic_FC_UCL_2017.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "« Астана Арена », открытая в 2009 году",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Dusan_Petronijevic.jpg/1280px-Dusan_Petronijevic.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Dusan_Petronijevic.jpg/250px-Dusan_Petronijevic.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Игроки ФК « Шахтёр », Караганда",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Barys_Arena.jpg/1280px-Barys_Arena.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Barys_Arena.jpg/250px-Barys_Arena.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Барыс Арена в 2015 году",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Timur_Bekmambetov_by_Gage_Skidmore.jpg/1280px-Timur_Bekmambetov_by_Gage_Skidmore.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Timur_Bekmambetov_by_Gage_Skidmore.jpg/250px-Timur_Bekmambetov_by_Gage_Skidmore.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Тимур Бекмамбетов , известный казахстанский режиссёр",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Kazakh_beshbarmak.jpg/1280px-Kazakh_beshbarmak.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Kazakh_beshbarmak.jpg/250px-Kazakh_beshbarmak.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Казахский бешбармак с картофелем",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Kazakistan_nevruz.jpg/1280px-Kazakistan_nevruz.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Kazakistan_nevruz.jpg/250px-Kazakistan_nevruz.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Празднование Наурыза",
+      "alt": null,
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Panfilov_Street.jpg/1280px-Panfilov_Street.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Panfilov_Street.jpg/330px-Panfilov_Street.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Улица Панфилова в Алма-Ате",
       "alt": "Улица Панфилова в Алма-Ате",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Altynemel_dune.jpg/1280px-Altynemel_dune.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Altynemel_dune.jpg/250px-Altynemel_dune.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "« Алтын-Эмель ». Долина реки Или , Алматинская область",
       "alt": "«Алтын-Эмель». Долина реки Или, Алматинская область",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Mountain_Hut_-_panoramio.jpg/1280px-Mountain_Hut_-_panoramio.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Mountain_Hut_-_panoramio.jpg/250px-Mountain_Hut_-_panoramio.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Горный приют, Туркестанская область",
       "alt": "Горный приют, Туркестанская область",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Buddatemple1.JPG/1280px-Buddatemple1.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Buddatemple1.JPG/250px-Buddatemple1.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Урочище Тамгалы-Тас , Алматинская область",
       "alt": "Урочище Тамгалы-Тас, Алматинская область",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%D0%9C%D0%B0%D1%83%D0%B7%D0%BE%D0%BB%D0%B5%D1%98_%D0%A5%D0%BE%D0%B4%D0%B6%D0%B5_%D0%90%D1%85%D0%BC%D0%B5%D0%B4%D0%B0_%D0%88%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%98%D0%B0_%28%D0%B3%D1%80%D0%B0%D0%B4_%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%29.jpg/1280px-%D0%9C%D0%B0%D1%83%D0%B7%D0%BE%D0%BB%D0%B5%D1%98_%D0%A5%D0%BE%D0%B4%D0%B6%D0%B5_%D0%90%D1%85%D0%BC%D0%B5%D0%B4%D0%B0_%D0%88%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%98%D0%B0_%28%D0%B3%D1%80%D0%B0%D0%B4_%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%D0%9C%D0%B0%D1%83%D0%B7%D0%BE%D0%BB%D0%B5%D1%98_%D0%A5%D0%BE%D0%B4%D0%B6%D0%B5_%D0%90%D1%85%D0%BC%D0%B5%D0%B4%D0%B0_%D0%88%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%98%D0%B0_%28%D0%B3%D1%80%D0%B0%D0%B4_%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%29.jpg/330px-%D0%9C%D0%B0%D1%83%D0%B7%D0%BE%D0%BB%D0%B5%D1%98_%D0%A5%D0%BE%D0%B4%D0%B6%D0%B5_%D0%90%D1%85%D0%BC%D0%B5%D0%B4%D0%B0_%D0%88%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%98%D0%B0_%28%D0%B3%D1%80%D0%B0%D0%B4_%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Мавзолей Ходжи Ахмеда Ясави в городе Туркестан",
       "alt": "Мавзолей Ходжи Ахмеда Ясави в городе Туркестан",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/9/93/Ostrovskiy_theatre.JPG/1280px-Ostrovskiy_theatre.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/9/93/Ostrovskiy_theatre.JPG/250px-Ostrovskiy_theatre.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Уральский драматический театр",
       "alt": "Уральский драматический театр",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/%D0%A0%D0%BE%D1%81%D0%BA%D0%BE%D1%88%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%D0%B8%2C_%D0%BF%D0%BE%D1%80%D0%B0%D0%B6%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%81%D0%B2%D0%BE%D0%B5%D0%B9_%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E.jpg/1280px-%D0%A0%D0%BE%D1%81%D0%BA%D0%BE%D1%88%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%D0%B8%2C_%D0%BF%D0%BE%D1%80%D0%B0%D0%B6%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%81%D0%B2%D0%BE%D0%B5%D0%B9_%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/%D0%A0%D0%BE%D1%81%D0%BA%D0%BE%D1%88%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%D0%B8%2C_%D0%BF%D0%BE%D1%80%D0%B0%D0%B6%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%81%D0%B2%D0%BE%D0%B5%D0%B9_%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E.jpg/330px-%D0%A0%D0%BE%D1%81%D0%BA%D0%BE%D1%88%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%D0%B8%2C_%D0%BF%D0%BE%D1%80%D0%B0%D0%B6%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%81%D0%B2%D0%BE%D0%B5%D0%B9_%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Мангистауская область , Каракиянский район",
       "alt": "Мангистауская область, Каракиянский район",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Kazakhs.jpg/1280px-Kazakhs.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Kazakhs.jpg/330px-Kazakhs.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Казахи-егеря. Маркакольский заповедник , Алтай",
       "alt": "Казахи-егеря. Маркакольский заповедник, Алтай",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%D0%97%D0%BD%D0%B0%D0%BC%D1%8F_%D0%A1%D0%A1%D0%9E_%D0%92%D0%A1_%D0%A0%D0%9A.jpg/1280px-%D0%97%D0%BD%D0%B0%D0%BC%D1%8F_%D0%A1%D0%A1%D0%9E_%D0%92%D0%A1_%D0%A0%D0%9A.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%D0%97%D0%BD%D0%B0%D0%BC%D1%8F_%D0%A1%D0%A1%D0%9E_%D0%92%D0%A1_%D0%A0%D0%9A.jpg/250px-%D0%97%D0%BD%D0%B0%D0%BC%D1%8F_%D0%A1%D0%A1%D0%9E_%D0%92%D0%A1_%D0%A0%D0%9A.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Силы специальных операций Вооружённых сил Республики Казахстан",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8_%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D0%B8%D0%BB_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD.jpg/1280px-%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8_%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D0%B8%D0%BB_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8_%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D0%B8%D0%BB_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD.jpg/250px-%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8_%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D0%B8%D0%BB_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Военная полиция Вооружённых сил Республики Казахстан",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%D0%91%D1%80%D0%BE%D0%BD%D0%B5%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_SandCat.JPG/1280px-%D0%91%D1%80%D0%BE%D0%BD%D0%B5%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_SandCat.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%D0%91%D1%80%D0%BE%D0%BD%D0%B5%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_SandCat.JPG/250px-%D0%91%D1%80%D0%BE%D0%BD%D0%B5%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_SandCat.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Бронеразведывательная машина SandCat на параде в Астане",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_MVD_KZ_new.png/1280px-Logo_MVD_KZ_new.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_MVD_KZ_new.png/250px-Logo_MVD_KZ_new.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Эмблема Министерства внутренних дел Казахстана",
+      "alt": null,
       "source": "article_text"
     },
     {

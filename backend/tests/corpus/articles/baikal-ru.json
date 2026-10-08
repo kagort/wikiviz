@@ -830,192 +830,346 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Baikal.A2001296.0420.250m-NASA.jpg/1280px-Baikal.A2001296.0420.250m-NASA.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Baikal.A2001296.0420.250m-NASA.jpg/250px-Baikal.A2001296.0420.250m-NASA.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Байкал из космоса , левее расположено озеро Хубсугул на территории Монголии",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB.png/1280px-%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB.png/250px-%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Байкал с прилегающими заповедниками и национальными парками",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%BE%D0%B7%D1%91%D1%80_20251116.png/1280px-%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%BE%D0%B7%D1%91%D1%80_20251116.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%BE%D0%B7%D1%91%D1%80_20251116.png/250px-%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%BE%D0%B7%D1%91%D1%80_20251116.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Глубина Байкала в сравнении с глубинами Каспийского моря и озера Танганьика",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ruchey_vpadayuschij_v_Bajkal_01.jpg/1280px-Ruchey_vpadayuschij_v_Bajkal_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ruchey_vpadayuschij_v_Bajkal_01.jpg/250px-Ruchey_vpadayuschij_v_Bajkal_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Один из ручьёв, впадающих в Байкал",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%92%D0%BD%D1%83%D1%87%D0%BA%D0%B0.jpg/1280px-%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%92%D0%BD%D1%83%D1%87%D0%BA%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%92%D0%BD%D1%83%D1%87%D0%BA%D0%B0.jpg/500px-%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%92%D0%BD%D1%83%D1%87%D0%BA%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Байкальская вода",
       "alt": "Байкальская вода",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%B5_%D0%BA%D0%B0%D0%BC%D1%83%D1%88%D0%BA%D0%B8.jpg/1280px-%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%B5_%D0%BA%D0%B0%D0%BC%D1%83%D1%88%D0%BA%D0%B8.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%B5_%D0%BA%D0%B0%D0%BC%D1%83%D1%88%D0%BA%D0%B8.jpg/500px-%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%B5_%D0%BA%D0%B0%D0%BC%D1%83%D1%88%D0%BA%D0%B8.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "«Золотые камушки»",
       "alt": "«Золотые камушки»",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pavel_Gurenchuk_2015_-_panoramio_%288%29.jpg/1280px-Pavel_Gurenchuk_2015_-_panoramio_%288%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pavel_Gurenchuk_2015_-_panoramio_%288%29.jpg/1280px-Pavel_Gurenchuk_2015_-_panoramio_%288%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Озеро Байкал зимой",
+      "alt": null,
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D1%8B.jpg/1280px-%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D1%8B.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D1%8B.jpg/500px-%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D1%8B.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "«Байкальский бриллиант»",
       "alt": "«Байкальский бриллиант»",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%D0%9B%D0%B8%D1%81%D1%82%D0%B26.jpg/1280px-%D0%9B%D0%B8%D1%81%D1%82%D0%B26.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%D0%9B%D0%B8%D1%81%D1%82%D0%B26.jpg/500px-%D0%9B%D0%B8%D1%81%D1%82%D0%B26.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Кристальный лёд",
       "alt": "Кристальный лёд",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Baikal_ice_on_sunset_4.jpg/1280px-Baikal_ice_on_sunset_4.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Baikal_ice_on_sunset_4.jpg/500px-Baikal_ice_on_sunset_4.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Ледяная гладь",
       "alt": "Ледяная гладь",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Lago_Baikal_en_Invierno.jpg/1280px-Lago_Baikal_en_Invierno.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Lago_Baikal_en_Invierno.jpg/330px-Lago_Baikal_en_Invierno.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Голубые глыбы",
       "alt": "Голубые глыбы",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.png/1280px-%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.png/250px-%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Профиль озера Байкал от села Онгурён до мыса Горевой утёс (ширина 72 км, глубина 1612 м.)",
+      "alt": "реальный профиль озера Байкал",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9E%D0%B3%D0%BE%D0%B9.jpg/1280px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9E%D0%B3%D0%BE%D0%B9.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9E%D0%B3%D0%BE%D0%B9.jpg/330px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9E%D0%B3%D0%BE%D0%B9.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Огой",
       "alt": "Огой",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Olkhon_2014-06-13_10-25-47_IMG_6933-47-2-2_%2832730479665%29.jpg/1280px-Olkhon_2014-06-13_10-25-47_IMG_6933-47-2-2_%2832730479665%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Olkhon_2014-06-13_10-25-47_IMG_6933-47-2-2_%2832730479665%29.jpg/960px-Olkhon_2014-06-13_10-25-47_IMG_6933-47-2-2_%2832730479665%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Ольхон",
       "alt": "Ольхон",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/%D0%A2%D0%B0%D0%BC_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D1%8B%D1%85_%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BA%D0%B0%D1%85_%D1%81%D0%BB%D0%B5%D0%B4%D1%8B_%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2..._%D0%BE%D0%B7._%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D1%85%D0%BE%D0%BD%D0%B0.jpg/1280px-%D0%A2%D0%B0%D0%BC_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D1%8B%D1%85_%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BA%D0%B0%D1%85_%D1%81%D0%BB%D0%B5%D0%B4%D1%8B_%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2..._%D0%BE%D0%B7._%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D1%85%D0%BE%D0%BD%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/%D0%A2%D0%B0%D0%BC_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D1%8B%D1%85_%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BA%D0%B0%D1%85_%D1%81%D0%BB%D0%B5%D0%B4%D1%8B_%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2..._%D0%BE%D0%B7._%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D1%85%D0%BE%D0%BD%D0%B0.jpg/500px-%D0%A2%D0%B0%D0%BC_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D1%8B%D1%85_%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BA%D0%B0%D1%85_%D1%81%D0%BB%D0%B5%D0%B4%D1%8B_%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2..._%D0%BE%D0%B7._%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D1%85%D0%BE%D0%BD%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Остров",
       "alt": "Остров",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B5%D1%80%D0%BF%D1%8B_%D0%B1%D0%BB%D0%B8%D0%B7_%D0%A3%D1%88%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_01.jpg/1280px-%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B5%D1%80%D0%BF%D1%8B_%D0%B1%D0%BB%D0%B8%D0%B7_%D0%A3%D1%88%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B5%D1%80%D0%BF%D1%8B_%D0%B1%D0%BB%D0%B8%D0%B7_%D0%A3%D1%88%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_01.jpg/500px-%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B5%D1%80%D0%BF%D1%8B_%D0%B1%D0%BB%D0%B8%D0%B7_%D0%A3%D1%88%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Ушканьи острова",
       "alt": "Ушканьи острова",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C.jpg/1280px-%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C.jpg/500px-%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Белый Камень",
       "alt": "Белый Камень",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%A1%D1%83%D1%85%D0%BE%D0%B9.jpg/1280px-%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%A1%D1%83%D1%85%D0%BE%D0%B9.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%A1%D1%83%D1%85%D0%BE%D0%B9.jpg/250px-%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%A1%D1%83%D1%85%D0%BE%D0%B9.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Берег Байкала у села Сухая (Бурятия)",
+      "alt": null,
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Lake_Baikal_%2815849200456%29.jpg/1280px-Lake_Baikal_%2815849200456%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Lake_Baikal_%2815849200456%29.jpg/500px-Lake_Baikal_%2815849200456%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Лето на Байкале",
       "alt": "Лето на Байкале",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%D0%9F%D0%BE_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5_%D0%BA_%22%D0%B2%D1%80%D0%B0%D1%82%D0%B0%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8%22%21.jpg/1280px-%D0%9F%D0%BE_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5_%D0%BA_%22%D0%B2%D1%80%D0%B0%D1%82%D0%B0%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8%22%21.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%D0%9F%D0%BE_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5_%D0%BA_%22%D0%B2%D1%80%D0%B0%D1%82%D0%B0%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8%22%21.jpg/330px-%D0%9F%D0%BE_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5_%D0%BA_%22%D0%B2%D1%80%D0%B0%D1%82%D0%B0%D0%BC_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8%22%21.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "с. Байкальское",
       "alt": "с. Байкальское",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%BF%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D0%B0%D1%8F._%D0%92%D0%B8%D0%B4_%D1%81_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0..jpg/1280px-%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%BF%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D0%B0%D1%8F._%D0%92%D0%B8%D0%B4_%D1%81_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0..jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%BF%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D0%B0%D1%8F._%D0%92%D0%B8%D0%B4_%D1%81_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0..jpg/330px-%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%BF%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D0%B0%D1%8F._%D0%92%D0%B8%D0%B4_%D1%81_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0..jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Бухта",
       "alt": "Бухта",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%93%D1%83%D0%B1%D0%B0_%D0%90%D1%8F%D1%8F%2C_%D0%92%D0%B8%D0%B4_%D1%81_%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%BA%D0%B0%D0%BB%D1%8B_%28%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%29.jpg/1280px-%D0%93%D1%83%D0%B1%D0%B0_%D0%90%D1%8F%D1%8F%2C_%D0%92%D0%B8%D0%B4_%D1%81_%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%BA%D0%B0%D0%BB%D1%8B_%28%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%93%D1%83%D0%B1%D0%B0_%D0%90%D1%8F%D1%8F%2C_%D0%92%D0%B8%D0%B4_%D1%81_%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%BA%D0%B0%D0%BB%D1%8B_%28%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%29.jpg/960px-%D0%93%D1%83%D0%B1%D0%B0_%D0%90%D1%8F%D1%8F%2C_%D0%92%D0%B8%D0%B4_%D1%81_%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%BA%D0%B0%D0%BB%D1%8B_%28%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Озеро Байкал, губа Аяя",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Baikal_140629_0112.jpg/1280px-Baikal_140629_0112.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Baikal_140629_0112.jpg/250px-Baikal_140629_0112.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Саранка",
+      "alt": null,
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Chayki_v_Chivyrkuyskom_zalive.JPG/1280px-Chayki_v_Chivyrkuyskom_zalive.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Chayki_v_Chivyrkuyskom_zalive.JPG/500px-Chayki_v_Chivyrkuyskom_zalive.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Чайки в Чивыркуйском заливе",
       "alt": "Чайки в Чивыркуйском заливе",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Flowers_Gorechavka_2009_-_panoramio_%281%29.jpg/1280px-Flowers_Gorechavka_2009_-_panoramio_%281%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Flowers_Gorechavka_2009_-_panoramio_%281%29.jpg/250px-Flowers_Gorechavka_2009_-_panoramio_%281%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Горечавка",
       "alt": "Горечавка",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Baikal-seal_4747-pho.jpg/1280px-Baikal-seal_4747-pho.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Baikal-seal_4747-pho.jpg/960px-Baikal-seal_4747-pho.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Байкальская нерпа",
       "alt": "Байкальская нерпа",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%D0%A6%D0%B2%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D0%B0%D0%B3%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0.jpg/1280px-%D0%A6%D0%B2%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D0%B0%D0%B3%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%D0%A6%D0%B2%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D0%B0%D0%B3%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0.jpg/500px-%D0%A6%D0%B2%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D0%B0%D0%B3%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Багульник",
       "alt": "Багульник",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Widok_na_Bolszyje_Koty_05.JPG/1280px-Widok_na_Bolszyje_Koty_05.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Widok_na_Bolszyje_Koty_05.JPG/250px-Widok_na_Bolszyje_Koty_05.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Посёлок Большие Коты на берегу",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Baikal_panorama.jpg/1280px-Baikal_panorama.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Baikal_panorama.jpg/3840px-Baikal_panorama.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Панорама юго-западной оконечности Байкала. Залив Култук у одноимённого посёлка",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%D0%A7%D0%B5%D1%80%D1%82%D0%B5%D0%B6_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8_%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0.jpg/1280px-%D0%A7%D0%B5%D1%80%D1%82%D0%B5%D0%B6_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8_%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%D0%A7%D0%B5%D1%80%D1%82%D0%B5%D0%B6_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8_%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0.jpg/250px-%D0%A7%D0%B5%D1%80%D1%82%D0%B5%D0%B6_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8_%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Чертёж Иркутска и окрестностей, сделанный в 1699—1701 годах С. У. Ремезовым",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%281897%29.jpg/1280px-%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%281897%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%281897%29.jpg/250px-%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%281897%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Гидрографическая карта Байкала, составленная в 1897 году",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%D0%91%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D1%8B%2C_%D0%97%D0%B0%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%2C_%D0%91%D1%83%D1%80%D1%8F%D1%82%D0%B8%D1%8F.jpg/1280px-%D0%91%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D1%8B%2C_%D0%97%D0%B0%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%2C_%D0%91%D1%83%D1%80%D1%8F%D1%82%D0%B8%D1%8F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%D0%91%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D1%8B%2C_%D0%97%D0%B0%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%2C_%D0%91%D1%83%D1%80%D1%8F%D1%82%D0%B8%D1%8F.jpg/1920px-%D0%91%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D1%8B%2C_%D0%97%D0%B0%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%2C_%D0%91%D1%83%D1%80%D1%8F%D1%82%D0%B8%D1%8F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Полуостров Святой Нос",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Baikal_lake_Crack_in_the_ice.jpg/1280px-Baikal_lake_Crack_in_the_ice.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Baikal_lake_Crack_in_the_ice.jpg/250px-Baikal_lake_Crack_in_the_ice.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Обследование ледового покрова на СВП Хивус-10",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Bajkalsj%C3%B6ns_strand_2006._Skr%C3%A4p_p%C3%A5_stranden.jpg/1280px-Bajkalsj%C3%B6ns_strand_2006._Skr%C3%A4p_p%C3%A5_stranden.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Bajkalsj%C3%B6ns_strand_2006._Skr%C3%A4p_p%C3%A5_stranden.jpg/250px-Bajkalsj%C3%B6ns_strand_2006._Skr%C3%A4p_p%C3%A5_stranden.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Мусор после туристов",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Baikalsk_pulp_and_paper_mill.jpg/1280px-Baikalsk_pulp_and_paper_mill.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Baikalsk_pulp_and_paper_mill.jpg/250px-Baikalsk_pulp_and_paper_mill.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "БЦБК загрязнял воду и атмосферу Прибайкалья",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Irkutsk_ISS011-E-9913.jpg/1280px-Irkutsk_ISS011-E-9913.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Irkutsk_ISS011-E-9913.jpg/250px-Irkutsk_ISS011-E-9913.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Иркутская ГЭС",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/38_%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D0%AD%D0%9F1-339_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0._%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%81%D0%B8%D0%B1._%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%BD_%D0%A3%D1%82%D1%83%D0%BB%D0%B8%D0%BA_-_%D0%A1%D0%BB%D1%8E%D0%B4%D1%8F%D0%BD%D0%BA%D0%B0-I.jpg/1280px-38_%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D0%AD%D0%9F1-339_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0._%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%81%D0%B8%D0%B1._%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%BD_%D0%A3%D1%82%D1%83%D0%BB%D0%B8%D0%BA_-_%D0%A1%D0%BB%D1%8E%D0%B4%D1%8F%D0%BD%D0%BA%D0%B0-I.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/38_%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D0%AD%D0%9F1-339_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0._%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%81%D0%B8%D0%B1._%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%BD_%D0%A3%D1%82%D1%83%D0%BB%D0%B8%D0%BA_-_%D0%A1%D0%BB%D1%8E%D0%B4%D1%8F%D0%BD%D0%BA%D0%B0-I.jpg/250px-38_%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D0%AD%D0%9F1-339_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0._%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%81%D0%B8%D0%B1._%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%BD_%D0%A3%D1%82%D1%83%D0%BB%D0%B8%D0%BA_-_%D0%A1%D0%BB%D1%8E%D0%B4%D1%8F%D0%BD%D0%BA%D0%B0-I.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Транссиб",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bezymyannaya.jpg/1280px-Bezymyannaya.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bezymyannaya.jpg/250px-Bezymyannaya.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Парус",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Dawn_in_Russia%2C_over_Baikal.jpg/1280px-Dawn_in_Russia%2C_over_Baikal.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Dawn_in_Russia%2C_over_Baikal.jpg/250px-Dawn_in_Russia%2C_over_Baikal.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Заря над Байкалом",
+      "alt": null,
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Tunnel_34%2C_Circum-Baikal_Railway_by_trolleway%2C_2009_%2831394905684%29.jpg/1280px-Tunnel_34%2C_Circum-Baikal_Railway_by_trolleway%2C_2009_%2831394905684%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Tunnel_34%2C_Circum-Baikal_Railway_by_trolleway%2C_2009_%2831394905684%29.jpg/500px-Tunnel_34%2C_Circum-Baikal_Railway_by_trolleway%2C_2009_%2831394905684%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Кругобайкальская железная дорога",
       "alt": "Кругобайкальская железная дорога",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Great_Baikal_Trail_near_Bolshie_Koty_in_July_2009.JPG/1280px-Great_Baikal_Trail_near_Bolshie_Koty_in_July_2009.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Great_Baikal_Trail_near_Bolshie_Koty_in_July_2009.JPG/330px-Great_Baikal_Trail_near_Bolshie_Koty_in_July_2009.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Большая Байкальская тропа",
       "alt": "Большая Байкальская тропа",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%8B_%D0%BD%D0%B0_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg/1280px-%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%8B_%D0%BD%D0%B0_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%8B_%D0%BD%D0%B0_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg/330px-%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%8B_%D0%BD%D0%B0_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Туристы на льду Байкала",
       "alt": "Туристы на льду Байкала",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%BF%D0%BE_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg/1280px-%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%BF%D0%BE_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%BF%D0%BE_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg/330px-%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%BF%D0%BE_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Дорога по льду Байкала",
       "alt": "Дорога по льду Байкала зимой",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%D0%9D%D0%BE%D1%87%D1%8C_%D0%BD%D0%B0_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg/1280px-%D0%9D%D0%BE%D1%87%D1%8C_%D0%BD%D0%B0_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%D0%9D%D0%BE%D1%87%D1%8C_%D0%BD%D0%B0_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg/500px-%D0%9D%D0%BE%D1%87%D1%8C_%D0%BD%D0%B0_%D0%BB%D1%8C%D0%B4%D1%83_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Туристы ночуют на льду Байкала",
       "alt": "Туристы ночуют на льду Байкала",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%D0%91%D0%B0%D1%80%D0%B3%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg/1280px-%D0%91%D0%B0%D1%80%D0%B3%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%D0%91%D0%B0%D1%80%D0%B3%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg/500px-%D0%91%D0%B0%D1%80%D0%B3%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Баргузинский залив",
       "alt": "Баргузинский залив",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%9F%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D0%B0%D1%8F%2C_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%B1%D1%83%D1%85%D1%82%D1%83.jpg/1280px-%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%9F%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D0%B0%D1%8F%2C_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%B1%D1%83%D1%85%D1%82%D1%83.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%9F%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D0%B0%D1%8F%2C_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%B1%D1%83%D1%85%D1%82%D1%83.jpg/500px-%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%9F%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D0%B0%D1%8F%2C_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%B1%D1%83%D1%85%D1%82%D1%83.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Бухта Песчаная",
       "alt": "Бухта Песчаная",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Baikal.Zmeinaya_buhta.JPG/1280px-Baikal.Zmeinaya_buhta.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Baikal.Zmeinaya_buhta.JPG/500px-Baikal.Zmeinaya_buhta.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Бухта Змеиная в Чивыркуйском заливе",
       "alt": "Бухта Змеиная в Чивыркуйском заливе",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/%D0%A8%D0%B0%D0%BC%D0%B0%D0%BD-%D1%81%D0%BA%D0%B0%D0%BB%D0%B0.JPG/1280px-%D0%A8%D0%B0%D0%BC%D0%B0%D0%BD-%D1%81%D0%BA%D0%B0%D0%BB%D0%B0.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/%D0%A8%D0%B0%D0%BC%D0%B0%D0%BD-%D1%81%D0%BA%D0%B0%D0%BB%D0%B0.JPG/330px-%D0%A8%D0%B0%D0%BC%D0%B0%D0%BD-%D1%81%D0%BA%D0%B0%D0%BB%D0%B0.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "мыс Скала Шаманка на острове Ольхон",
       "alt": "мыс Скала Шаманка на острове Ольхон",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D0%BE._%D0%9E%D0%BB%D1%8C%D1%85%D0%BE%D0%BD._%D0%9C%D1%8B%D1%81_%D0%9A%D0%BE%D0%B1%D1%8B%D0%BB%D1%8C%D1%8F_%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0.jpg/1280px-%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D0%BE._%D0%9E%D0%BB%D1%8C%D1%85%D0%BE%D0%BD._%D0%9C%D1%8B%D1%81_%D0%9A%D0%BE%D0%B1%D1%8B%D0%BB%D1%8C%D1%8F_%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D0%BE._%D0%9E%D0%BB%D1%8C%D1%85%D0%BE%D0%BD._%D0%9C%D1%8B%D1%81_%D0%9A%D0%BE%D0%B1%D1%8B%D0%BB%D1%8C%D1%8F_%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0.jpg/1280px-%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%2C_%D0%BE._%D0%9E%D0%BB%D1%8C%D1%85%D0%BE%D0%BD._%D0%9C%D1%8B%D1%81_%D0%9A%D0%BE%D0%B1%D1%8B%D0%BB%D1%8C%D1%8F_%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Мыс Кобылья Голова",
+      "alt": null,
       "source": "article_text"
     },
     {

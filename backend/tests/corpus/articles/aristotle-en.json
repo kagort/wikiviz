@@ -450,7 +450,7 @@
   "tables": [
     {
       "id": "table-0",
-      "title": "One of Aristotle'stypes of syllogism",
+      "title": "One of Aristotle's types of syllogism",
       "columns": [
         "In words",
         "In terms",
@@ -518,7 +518,7 @@
     },
     {
       "id": "table-2",
-      "title": "Aristotle'sScala naturae(highest to lowest)",
+      "title": "Aristotle's Scala naturae (highest to lowest)",
       "columns": [
         "Group",
         "Examples (given by Aristotle)",
@@ -764,114 +764,268 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/20160518_092_mieza_nympheum.jpg/1280px-20160518_092_mieza_nympheum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/20160518_092_mieza_nympheum.jpg/330px-20160518_092_mieza_nympheum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "School of Aristotle in Mieza , Macedonia, Greece",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Universal_manual_of_ready_reference_-_antiquities%2C_history%2C_geography%2C_biography%2C_government%2C_law%2C_politics%2C_industry%2C_invention%2C_science%2C_religion%2C_literature%2C_art%2C_education_and_miscellany_%281904%29_%2814590266027%29.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Universal_manual_of_ready_reference_-_antiquities%2C_history%2C_geography%2C_biography%2C_government%2C_law%2C_politics%2C_industry%2C_invention%2C_science%2C_religion%2C_literature%2C_art%2C_education_and_miscellany_%281904%29_%2814590266027%29.jpg/250px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "\"Aristotle tutoring Alexander\" (1895) by Jean Leon Gerome Ferris",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Aristoteles_Louvre.jpg/1280px-Aristoteles_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Aristoteles_Louvre.jpg/250px-Aristoteles_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Portrait bust of Aristotle; an Imperial Roman (1st or 2nd century AD) copy of a lost bronze sculpture made by Lysippos",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sanzio_01_Plato_Aristotle.jpg/1280px-Sanzio_01_Plato_Aristotle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sanzio_01_Plato_Aristotle.jpg/250px-Sanzio_01_Plato_Aristotle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Plato (left) and Aristotle in Raphael 's 1509 fresco, The School of Athens . Aristotle holds his Nicomachean Ethics and gestures to the earth, representing his view in immanent realism, whilst Plato gestures to the heavens, indicating his Theory of Forms, and holds his Timaeus .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Platonic_and_Aristotelian_Forms.svg/1280px-Platonic_and_Aristotelian_Forms.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Platonic_and_Aristotelian_Forms.svg/500px-Platonic_and_Aristotelian_Forms.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Plato's forms exist as universals , like the ideal form of an apple. For Aristotle, both matter and form belong to the individual thing ( hylomorphism ).",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Flute-player_dolphin_Alcesti_Group_MAN.jpg/1280px-Flute-player_dolphin_Alcesti_Group_MAN.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Flute-player_dolphin_Alcesti_Group_MAN.jpg/250px-Flute-player_dolphin_Alcesti_Group_MAN.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Aristotle argued that a capability like playing the flute could be acquired — the potential made actual — by learning.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Four_Classical_Elements_in_Burning_Log.svg/1280px-Four_Classical_Elements_in_Burning_Log.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Four_Classical_Elements_in_Burning_Log.svg/250px-Four_Classical_Elements_in_Burning_Log.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The four classical elements (fire, air, water, earth) of Empedocles and Aristotle illustrated with a burning log. The log releases all four elements as it is destroyed.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Aristotle%27s_laws_of_motion.svg/1280px-Aristotle%27s_laws_of_motion.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Aristotle%27s_laws_of_motion.svg/500px-Aristotle%27s_laws_of_motion.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Aristotle's laws of motion. In Physics he states that objects fall at a speed proportional to their weight and inversely proportional to the density of the fluid they are immersed in. This is a correct approximation for objects in Earth's gravitational field moving in air or water.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Aristotle%27s_Four_Causes_of_a_Table.svg/1280px-Aristotle%27s_Four_Causes_of_a_Table.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Aristotle%27s_Four_Causes_of_a_Table.svg/500px-Aristotle%27s_Four_Causes_of_a_Table.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Aristotle argued by analogy with woodwork that a thing takes its form from four causes : in the case of a table, the wood used (material cause), its design (formal cause), the tools and techniques used (efficient cause), and its decorative or practical purpose (final cause).",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/1280px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/250px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Aristotle noted that the ground level of the Aeolian islands changed before a volcanic eruption .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Tremoctopus_violaceus5.jpg/1280px-Tremoctopus_violaceus5.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Tremoctopus_violaceus5.jpg/250px-Tremoctopus_violaceus5.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Among many pioneering zoological observations, Aristotle described the reproductive hectocotyl arm of the octopus (bottom left).",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Two_of_Aristotle%27s_Growth_Laws.svg/1280px-Two_of_Aristotle%27s_Growth_Laws.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Two_of_Aristotle%27s_Growth_Laws.svg/330px-Two_of_Aristotle%27s_Growth_Laws.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Aristotle inferred growth laws from his observations on animals, including that brood size decreases with body mass, whereas gestation period increases.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/FMIB_46109_Foetal_Picked_Dogfish%2C_with_the_ovum_attached_%28no_label%29.jpeg/1280px-FMIB_46109_Foetal_Picked_Dogfish%2C_with_the_ovum_attached_%28no_label%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/FMIB_46109_Foetal_Picked_Dogfish%2C_with_the_ovum_attached_%28no_label%29.jpeg/250px-FMIB_46109_Foetal_Picked_Dogfish%2C_with_the_ovum_attached_%28no_label%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Aristotle recorded that the embryo (fetus pictured) of a dogfish was attached by a cord to a kind of placenta (the yolk sac ), like a higher animal; this formed an exception to the linear scale from highest to lowest.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Aristotelian_Soul.png/1280px-Aristotelian_Soul.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Aristotelian_Soul.png/500px-Aristotelian_Soul.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Aristotle proposed a three-part structure for souls of plants, animals, and humans, making humans unique in having all three types of soul.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Aristotle_Senses_Perception_Memory_Dreams_Action.svg/1280px-Aristotle_Senses_Perception_Memory_Dreams_Action.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Aristotle_Senses_Perception_Memory_Dreams_Action.svg/500px-Aristotle_Senses_Perception_Memory_Dreams_Action.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Senses, perception, memory, dreams, action in Aristotle's psychology. Impressions are stored in the sensorium (the heart), linked by his laws of association (similarity, contrast, and contiguity ).",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Aristotle%27s_constitutions.svg/1280px-Aristotle%27s_constitutions.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Aristotle%27s_constitutions.svg/500px-Aristotle%27s_constitutions.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Aristotle's classification of political constitutions",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/B%C3%A9nigne_Gagneraux%2C_The_Blind_Oedipus_Commending_his_Children_to_the_Gods.jpg/1280px-B%C3%A9nigne_Gagneraux%2C_The_Blind_Oedipus_Commending_his_Children_to_the_Gods.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/B%C3%A9nigne_Gagneraux%2C_The_Blind_Oedipus_Commending_his_Children_to_the_Gods.jpg/500px-B%C3%A9nigne_Gagneraux%2C_The_Blind_Oedipus_Commending_his_Children_to_the_Gods.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Blind Oedipus Commending his Children to the Gods (1784) by Bénigne Gagneraux . In his Poetics , Aristotle uses the tragedy Oedipus Tyrannus by Sophocles as an example of how the perfect tragedy should be structured, with a generally good protagonist who starts the play prosperous, but loses everything through some hamartia (fault).",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/John_Argyropoulos%2C_Preface_to_Aristotle%E2%80%99s_Physics.jpg/1280px-John_Argyropoulos%2C_Preface_to_Aristotle%E2%80%99s_Physics.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/John_Argyropoulos%2C_Preface_to_Aristotle%E2%80%99s_Physics.jpg/250px-John_Argyropoulos%2C_Preface_to_Aristotle%E2%80%99s_Physics.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Preface to Argyropoulos 's 15th century Latin translation of Aristotle's Physics",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/161Theophrastus_161_frontespizio.jpg/1280px-161Theophrastus_161_frontespizio.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/161Theophrastus_161_frontespizio.jpg/250px-161Theophrastus_161_frontespizio.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Frontispiece to a 1644 version of Theophrastus 's Historia Plantarum , originally written c. 300 BC",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ibn_Bakht%C4%ABsh%C5%AB%CA%BF%2C_Kit%C4%81b_na%CA%BFt_al-%E1%B8%A5ayaw%C4%81n_probably_Baghdad%2C_c._1225._London%2C_British_Library%2C_Or._2784%2C_A_student_sitting_with_Aristotle_%28right%29.jpg/1280px-Ibn_Bakht%C4%ABsh%C5%AB%CA%BF%2C_Kit%C4%81b_na%CA%BFt_al-%E1%B8%A5ayaw%C4%81n_probably_Baghdad%2C_c._1225._London%2C_British_Library%2C_Or._2784%2C_A_student_sitting_with_Aristotle_%28right%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ibn_Bakht%C4%ABsh%C5%AB%CA%BF%2C_Kit%C4%81b_na%CA%BFt_al-%E1%B8%A5ayaw%C4%81n_probably_Baghdad%2C_c._1225._London%2C_British_Library%2C_Or._2784%2C_A_student_sitting_with_Aristotle_%28right%29.jpg/250px-Ibn_Bakht%C4%ABsh%C5%AB%CA%BF%2C_Kit%C4%81b_na%CA%BFt_al-%E1%B8%A5ayaw%C4%81n_probably_Baghdad%2C_c._1225._London%2C_British_Library%2C_Or._2784%2C_A_student_sitting_with_Aristotle_%28right%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Islamic portrayal of Aristotle (right) in the Kitāb naʿt al-ḥayawān , c. 1220 .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Aristotelis_De_Moribus_ad_Nicomachum.jpg/1280px-Aristotelis_De_Moribus_ad_Nicomachum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Aristotelis_De_Moribus_ad_Nicomachum.jpg/250px-Aristotelis_De_Moribus_ad_Nicomachum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "First page of a 1566 edition of the Nicomachean Ethics in Greek and Latin",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/William_Harvey_%281578-1657%29_Venenbild.jpg/1280px-William_Harvey_%281578-1657%29_Venenbild.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/William_Harvey_%281578-1657%29_Venenbild.jpg/250px-William_Harvey_%281578-1657%29_Venenbild.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "William Harvey 's De Motu Cordis , 1628, showed that the blood circulated , contrary to classical thinking.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Philosophenmosaik_k%C3%B6ln_Aristoteles_%28cropped%29.jpg/1280px-Philosophenmosaik_k%C3%B6ln_Aristoteles_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Philosophenmosaik_k%C3%B6ln_Aristoteles_%28cropped%29.jpg/250px-Philosophenmosaik_k%C3%B6ln_Aristoteles_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Aristotle , mosaic from a Roman villa in Cologne",
       "alt": "Aristotle, mosaic from a Roman villa in Cologne",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_in_Nuremberg_Chronicle.jpg/1280px-Aristotle_in_Nuremberg_Chronicle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_in_Nuremberg_Chronicle.jpg/250px-Aristotle_in_Nuremberg_Chronicle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Nuremberg Chronicle anachronistically shows Aristotle in a medieval scholar's clothing. Ink and watercolour on paper, 1493",
       "alt": "Nuremberg Chronicle anachronistically shows Aristotle in a medieval scholar's clothing. Ink and watercolour on paper, 1493",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Gent%2C_Justus_van_-_Aristotle_-_c._1476.jpg/1280px-Gent%2C_Justus_van_-_Aristotle_-_c._1476.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Gent%2C_Justus_van_-_Aristotle_-_c._1476.jpg/250px-Gent%2C_Justus_van_-_Aristotle_-_c._1476.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Aristotle by Justus van Gent . Oil on panel, c. 1476",
       "alt": "Aristotle by Justus van Gent. Oil on panel, c. 1476",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Lucas_Cranach_d.%C3%84._-_Phyllis_und_Aristotle_%281530%29.jpg/1280px-Lucas_Cranach_d.%C3%84._-_Phyllis_und_Aristotle_%281530%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Lucas_Cranach_d.%C3%84._-_Phyllis_und_Aristotle_%281530%29.jpg/250px-Lucas_Cranach_d.%C3%84._-_Phyllis_und_Aristotle_%281530%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Phyllis and Aristotle by Lucas Cranach the Elder . Oil on panel, 1530",
       "alt": "Phyllis and Aristotle by Lucas Cranach the Elder. Oil on panel, 1530",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Biblioteka_Marciana%2C_Aristotel.jpg/1280px-Biblioteka_Marciana%2C_Aristotel.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Biblioteka_Marciana%2C_Aristotel.jpg/250px-Biblioteka_Marciana%2C_Aristotel.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Aristotle by Paolo Veronese . Oil on canvas, 1560s",
       "alt": "Aristotle by Paolo Veronese. Oil on canvas, 1560s",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Turchi-AristoteIMG_1713.JPG/1280px-Turchi-AristoteIMG_1713.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Turchi-AristoteIMG_1713.JPG/330px-Turchi-AristoteIMG_1713.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Aristotle and Campaspe , Alessandro Turchi (attrib.) Oil on canvas, 1713",
       "alt": "Aristotle and Campaspe,[P] Alessandro Turchi (attrib.) Oil on canvas, 1713",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Aristotle_by_Jusepe_de_Ribera.jpg/1280px-Aristotle_by_Jusepe_de_Ribera.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Aristotle_by_Jusepe_de_Ribera.jpg/250px-Aristotle_by_Jusepe_de_Ribera.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Aristotle by Jusepe de Ribera . Oil on canvas, 1637",
       "alt": "Aristotle by Jusepe de Ribera. Oil on canvas, 1637",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Rembrandt_-_Aristotle_with_a_Bust_of_Homer_-_WGA19232.jpg/1280px-Rembrandt_-_Aristotle_with_a_Bust_of_Homer_-_WGA19232.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Rembrandt_-_Aristotle_with_a_Bust_of_Homer_-_WGA19232.jpg/250px-Rembrandt_-_Aristotle_with_a_Bust_of_Homer_-_WGA19232.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Aristotle with a Bust of Homer by Rembrandt . Oil on canvas, 1653",
       "alt": "Aristotle with a Bust of Homer by Rembrandt. Oil on canvas, 1653",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Johann_Jakob_Dorner_d_%C3%84_%28attr%29_Aristoteles.jpg/1280px-Johann_Jakob_Dorner_d_%C3%84_%28attr%29_Aristoteles.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Johann_Jakob_Dorner_d_%C3%84_%28attr%29_Aristoteles.jpg/250px-Johann_Jakob_Dorner_d_%C3%84_%28attr%29_Aristoteles.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Aristotle by Johann Jakob Dorner the Elder . Oil on canvas, 1813",
       "alt": "Aristotle by Johann Jakob Dorner the Elder. Oil on canvas, 1813",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%28Venice%29_Aristotele_by_Francesco_Hayez_in_gallerie_Accademia_Venice.jpg/1280px-%28Venice%29_Aristotele_by_Francesco_Hayez_in_gallerie_Accademia_Venice.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%28Venice%29_Aristotele_by_Francesco_Hayez_in_gallerie_Accademia_Venice.jpg/250px-%28Venice%29_Aristotele_by_Francesco_Hayez_in_gallerie_Accademia_Venice.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Aristotle by Francesco Hayez . Oil on canvas, 1811",
       "alt": "Aristotle by Francesco Hayez. Oil on canvas, 1811",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Alexander_and_Aristotle.jpg/1280px-Alexander_and_Aristotle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Alexander_and_Aristotle.jpg/330px-Alexander_and_Aristotle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "By Charles Laplante [ fr ] \"That most enduring of romantic images, Aristotle tutoring the future conqueror Alexander\". 1866",
       "alt": "By Charles Laplante [fr] \"That most enduring of romantic images, Aristotle tutoring the future conqueror Alexander\".[168] 1866",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/P1070330_Louvre_Aristote_Ma80bis_rwk.JPG/1280px-P1070330_Louvre_Aristote_Ma80bis_rwk.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/P1070330_Louvre_Aristote_Ma80bis_rwk.JPG/250px-P1070330_Louvre_Aristote_Ma80bis_rwk.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Roman copy of 1st or 2nd century from original bronze by Lysippos . Louvre Museum",
       "alt": "Roman copy of 1st or 2nd century from original bronze by Lysippos. Louvre Museum",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/DSC00218_-_Aristotele_-_Copia_romana_del_117-138_dC._-_Foto_di_G._Dall%27Orto.jpg/1280px-DSC00218_-_Aristotele_-_Copia_romana_del_117-138_dC._-_Foto_di_G._Dall%27Orto.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/DSC00218_-_Aristotele_-_Copia_romana_del_117-138_dC._-_Foto_di_G._Dall%27Orto.jpg/250px-DSC00218_-_Aristotele_-_Copia_romana_del_117-138_dC._-_Foto_di_G._Dall%27Orto.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Roman copy of 117–138 AD of Greek original. Palermo Regional Archeology Museum",
       "alt": "Roman copy of 117–138 AD of Greek original. Palermo Regional Archeology Museum",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Formella_21%2C_platone_e_aristotele_o_la_filosofia%2C_luca_della_robbia%2C_1437-1439.JPG/1280px-Formella_21%2C_platone_e_aristotele_o_la_filosofia%2C_luca_della_robbia%2C_1437-1439.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Formella_21%2C_platone_e_aristotele_o_la_filosofia%2C_luca_della_robbia%2C_1437-1439.JPG/250px-Formella_21%2C_platone_e_aristotele_o_la_filosofia%2C_luca_della_robbia%2C_1437-1439.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Relief of Aristotle and Plato by Luca della Robbia , Florence Cathedral , 1437–1439",
       "alt": "Relief of Aristotle and Plato by Luca della Robbia, Florence Cathedral, 1437–1439",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Llyfrgell_Sant_Deiniol_and_Gladstone%27s_Library_Hawarden_Penarl%C3%A2g_05.JPG/1280px-Llyfrgell_Sant_Deiniol_and_Gladstone%27s_Library_Hawarden_Penarl%C3%A2g_05.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Llyfrgell_Sant_Deiniol_and_Gladstone%27s_Library_Hawarden_Penarl%C3%A2g_05.JPG/250px-Llyfrgell_Sant_Deiniol_and_Gladstone%27s_Library_Hawarden_Penarl%C3%A2g_05.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Stone statue in niche, Gladstone's Library , Hawarden , Wales, 1899",
       "alt": "Stone statue in niche, Gladstone's Library, Hawarden, Wales, 1899",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Uni_Freiburg_-_Philosophen_4.jpg/1280px-Uni_Freiburg_-_Philosophen_4.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Uni_Freiburg_-_Philosophen_4.jpg/250px-Uni_Freiburg_-_Philosophen_4.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Bronze statue, University of Freiburg , Germany, 1915",
       "alt": "Bronze statue, University of Freiburg, Germany, 1915",
       "source": "article_text"
     },

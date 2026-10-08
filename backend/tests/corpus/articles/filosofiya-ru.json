@@ -520,9 +520,107 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Philly_Thinker.JPG/1280px-Philly_Thinker.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Philly_Thinker.JPG/330px-Philly_Thinker.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Скульптура «Мыслитель» ( фр. Le Penseur ) Огюста Родена , которая часто используется в качестве символа философии",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Huike_thinking.jpg/1280px-Huike_thinking.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Huike_thinking.jpg/330px-Huike_thinking.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Буддийский философ Хуэйкэ в размышлениях, гравюра китайского художника Ши Кэ [кит.] , X век",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Almeida_J%C3%BAnior_-_Mo%C3%A7a_com_Livro.jpg/1280px-Almeida_J%C3%BAnior_-_Mo%C3%A7a_com_Livro.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Almeida_J%C3%BAnior_-_Mo%C3%A7a_com_Livro.jpg/330px-Almeida_J%C3%BAnior_-_Mo%C3%A7a_com_Livro.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "«Каждый человек хотя бы изредка занимается философией». Картина Алмейды Жуниора «Девушка с книгой», XIX век",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F_%28%D0%BF%D0%BE_%D0%A1._%D0%9B._%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%83%29.png/1280px-%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F_%28%D0%BF%D0%BE_%D0%A1._%D0%9B._%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%83%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F_%28%D0%BF%D0%BE_%D0%A1._%D0%9B._%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%83%29.png/250px-%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F_%28%D0%BF%D0%BE_%D0%A1._%D0%9B._%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%83%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Схема философии по С. Л. Франку",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Systematik-Philosophie.png/1280px-Systematik-Philosophie.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Systematik-Philosophie.png/330px-Systematik-Philosophie.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Классическое разделение философии на предметы, дополненное современными разделами",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Universum.jpg/1280px-Universum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Universum.jpg/250px-Universum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "« Средневековый философ , заглядывающий за завесу небес». Гравюра из книги Фламмариона , 1888 г.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Wat_Tha_Thanon_01.jpg/1280px-Wat_Tha_Thanon_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Wat_Tha_Thanon_01.jpg/250px-Wat_Tha_Thanon_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Паринирвана — высшее счастье с точки зрения буддийской философии . Современная картина в храме провинции Уттарадит , Таиланд",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sanzio_01_Plato_Aristotle.jpg/1280px-Sanzio_01_Plato_Aristotle.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sanzio_01_Plato_Aristotle.jpg/250px-Sanzio_01_Plato_Aristotle.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Платон и Аристотель , фрагмент фрески Рафаеля « Афинская школа », Ватиканский дворец . Платон (слева) указывает на небо как на источник знаний, согласно своей теории идей [англ.] * , а Аристотель (справа) указывает на землю, демонстрируя свою приверженность получению знаний эмпирическим путём",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/1280px-Gandhara_Buddha_%28tnm%29.jpeg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/250px-Gandhara_Buddha_%28tnm%29.jpeg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Статуя Будды , Гандхара , I в н. э.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/1280px-Confucius_Tang_Dynasty.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/120px-Confucius_Tang_Dynasty.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Конфуций , гравюра У Даоцзы , период династии Тан",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sughrat.jpg/1280px-Sughrat.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sughrat.jpg/250px-Sughrat.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "« Сократ с учениками» в представлении сельджукского иллюстратора к переводу Платона , XIII век",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/LifeAndWorksOfConfucius1687.jpg/1280px-LifeAndWorksOfConfucius1687.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/LifeAndWorksOfConfucius1687.jpg/250px-LifeAndWorksOfConfucius1687.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Перевод Четверокнижия Конфуция на латынь , Париж , 1687 г.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Kant_Kritik_der_reinen_Venunft_1781.jpg/1280px-Kant_Kritik_der_reinen_Venunft_1781.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Kant_Kritik_der_reinen_Venunft_1781.jpg/250px-Kant_Kritik_der_reinen_Venunft_1781.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Титульный лист первого издания « Критики чистого разума », 1781 г.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%9C%D0%B0%D1%80%D0%BA%D1%811.jpg/1280px-%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%9C%D0%B0%D1%80%D0%BA%D1%811.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%9C%D0%B0%D1%80%D0%BA%D1%811.jpg/250px-%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%9C%D0%B0%D1%80%D0%BA%D1%811.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Советское издание « Капитала » — самого фундаментального произведения Карла Маркса",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Volition-of-the-Cosmos.jpg/1280px-Volition-of-the-Cosmos.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Volition-of-the-Cosmos.jpg/250px-Volition-of-the-Cosmos.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Книга Циолковского с изложением принципов космизма",
       "alt": null,
       "source": "article_text"
     },

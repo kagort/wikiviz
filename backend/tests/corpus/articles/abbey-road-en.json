@@ -949,6 +949,8 @@
           "12,000,000 ^"
         ],
         [
+          "Summaries",
+          "Summaries",
           "Summaries"
         ],
         [
@@ -1035,22 +1037,37 @@
           "7791512"
         ],
         [
+          "Worldwide reissue",
+          "27 September 2019",
+          "Apple, Universal Music Group International",
           "LP+ (picture disc)",
           "804888"
         ],
         [
+          "Worldwide reissue",
+          "27 September 2019",
+          "Apple, Universal Music Group International",
           "3×LP",
           "800744"
         ],
         [
+          "Worldwide reissue",
+          "27 September 2019",
+          "Apple, Universal Music Group International",
           "CD",
           "800743"
         ],
         [
+          "Worldwide reissue",
+          "27 September 2019",
+          "Apple, Universal Music Group International",
           "2×CD",
           "7791507"
         ],
         [
+          "Worldwide reissue",
+          "27 September 2019",
+          "Apple, Universal Music Group International",
           "3×CD+Blu-ray box set",
           "7792112"
         ]
@@ -1066,6 +1083,15 @@
       "date": "1969-09-26",
       "date_precision": "day",
       "title": "Released",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "1969-08-20",
+      "date_precision": "day",
+      "title": "Recorded",
       "description": null,
       "source": "infobox",
       "confidence": 1.0
@@ -1157,6 +1183,41 @@
   "works": [],
   "relations": [],
   "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg/1280px-TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg/250px-TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "An EMI TG mixing desk, similar to this one, was used in the production of Abbey Road .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Moog_Modular_55_img2.jpg/1280px-Moog_Modular_55_img2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Moog_Modular_55_img2.jpg/250px-Moog_Modular_55_img2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "John Lennon played the Moog synthesiser 's white noise generator to create the \"wind\" sounds at the end of \"I Want You (She's So Heavy)\".",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/The_Beatles_The_End_final_lyrics_plaque.jpg/1280px-The_Beatles_The_End_final_lyrics_plaque.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/The_Beatles_The_End_final_lyrics_plaque.jpg/250px-The_Beatles_The_End_final_lyrics_plaque.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The medley of songs on side two finished with \" The End \".",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/98/The_Beatles%2C_8_Aug_1969.jpg/1280px-The_Beatles%2C_8_Aug_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/98/The_Beatles%2C_8_Aug_1969.jpg/250px-The_Beatles%2C_8_Aug_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Only six session photos were taken by Macmillan ; three in which the band walked across the zebra crossing to the right, and three to the left",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Cassini_team_Abbey_road.jpg/1280px-Cassini_team_Abbey_road.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Cassini_team_Abbey_road.jpg/250px-Cassini_team_Abbey_road.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Imitating the cover of Abbey Road has become popular with fans (pictured is the Cassini–Huygens team, with Carolyn Porco in white).",
+      "alt": null,
+      "source": "article_text"
+    },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Beatles_Abbey_Road_album_cover.jpg/1280px-The_Beatles_Abbey_Road_album_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Beatles_Abbey_Road_album_cover.jpg/250px-The_Beatles_Abbey_Road_album_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",

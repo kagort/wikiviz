@@ -245,7 +245,7 @@
   "tables": [
     {
       "id": "table-0",
-      "title": "Panthera tigris tigris(Linnaeus, 1758)",
+      "title": "Panthera tigris tigris (Linnaeus, 1758)",
       "columns": [
         "Population",
         "Description",
@@ -288,7 +288,7 @@
     },
     {
       "id": "table-1",
-      "title": "Panthera tigris sondaica(Temminck, 1844)",
+      "title": "Panthera tigris sondaica (Temminck, 1844)",
       "columns": [
         "Population",
         "Description",
@@ -392,6 +392,41 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/TigerSkelLyd1.png/1280px-TigerSkelLyd1.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/TigerSkelLyd1.png/250px-TigerSkelLyd1.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Tiger skeleton from Royal Natural History Volume 1 (1839)",
+      "alt": "Drawing of tiger skeleton",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Tiger_Stripes_%2829808869755%29.jpg/1280px-Tiger_Stripes_%2829808869755%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Tiger_Stripes_%2829808869755%29.jpg/250px-Tiger_Stripes_%2829808869755%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Siberian tiger coat on flank (side)",
+      "alt": "Close up of a tiger's fur",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/White_tiger_Nandankanan.jpeg/1280px-White_tiger_Nandankanan.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/White_tiger_Nandankanan.jpeg/250px-White_tiger_Nandankanan.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Pseudo-melanistic white tiger in Nandankanan Zoological Park",
+      "alt": "White tiger with thickened stripes lying down",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Tigress_Anna_Savelevna_01.jpg/1280px-Tigress_Anna_Savelevna_01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Tigress_Anna_Savelevna_01.jpg/250px-Tigress_Anna_Savelevna_01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Camera trap of a Siberian tiger in Russia",
+      "alt": "Picture of tiger in forest at night",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Tigerwater_edit2.jpg/1280px-Tigerwater_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Tigerwater_edit2.jpg/250px-Tigerwater_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Tiger bathing",
+      "alt": "Tiger in water",
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tiger_spray_marking._DavidRaju_1.jpg/1280px-Tiger_spray_marking._DavidRaju_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tiger_spray_marking._DavidRaju_1.jpg/330px-Tiger_spray_marking._DavidRaju_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Bengal tigers spraying urine (above) and rubbing against a tree to mark territory",
@@ -401,8 +436,71 @@
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Panthera_tigris_altaica_28_-_Buffalo_Zoo_%281%29.jpg/1280px-Panthera_tigris_altaica_28_-_Buffalo_Zoo_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Panthera_tigris_altaica_28_-_Buffalo_Zoo_%281%29.jpg/250px-Panthera_tigris_altaica_28_-_Buffalo_Zoo_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Siberian tiger baring teeth as a sign of aggression",
       "alt": "Image of tiger barring teeth",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/RANTHAMBORE_TIGER_RESERVE.jpg/1280px-RANTHAMBORE_TIGER_RESERVE.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/RANTHAMBORE_TIGER_RESERVE.jpg/250px-RANTHAMBORE_TIGER_RESERVE.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Bengal tiger attacking a sambar deer in Ranthambore Tiger Reserve",
+      "alt": "Tiger attacking a sambar deer from behind, pulling on its back",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tiger%27s_killing_wild_boar.jpg/1280px-Tiger%27s_killing_wild_boar.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tiger%27s_killing_wild_boar.jpg/250px-Tiger%27s_killing_wild_boar.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Two Bengal tigers attacking a wild boar in Kanha Tiger Reserve",
+      "alt": "Two tigers attacking a boar",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Tigerdholes.jpg/1280px-Tigerdholes.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Tigerdholes.jpg/250px-Tigerdholes.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "An 1807 illustration of dholes attacking a tiger",
+      "alt": "Painting of dhole pack attacking a tiger",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Tigress_with_cubs_in_Kanha_Tiger_reserve.jpg/1280px-Tigress_with_cubs_in_Kanha_Tiger_reserve.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Tigress_with_cubs_in_Kanha_Tiger_reserve.jpg/250px-Tigress_with_cubs_in_Kanha_Tiger_reserve.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A Bengal tiger family in Kanha Tiger Reserve",
+      "alt": "Tiger with cubs",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpg/1280px-Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpg/250px-Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A Siberian tigress with her cub at Buffalo Zoo",
+      "alt": "Tigress with cub in snow",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/COLLECTIE_TROPENMUSEUM_Een_jager_poseert_bij_de_huid_van_een_geschoten_tijger_bij_Kalitapakdoewoer_TMnr_10024166.jpg/1280px-COLLECTIE_TROPENMUSEUM_Een_jager_poseert_bij_de_huid_van_een_geschoten_tijger_bij_Kalitapakdoewoer_TMnr_10024166.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/COLLECTIE_TROPENMUSEUM_Een_jager_poseert_bij_de_huid_van_een_geschoten_tijger_bij_Kalitapakdoewoer_TMnr_10024166.jpg/250px-COLLECTIE_TROPENMUSEUM_Een_jager_poseert_bij_de_huid_van_een_geschoten_tijger_bij_Kalitapakdoewoer_TMnr_10024166.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A Javan tiger skin, 1915",
+      "alt": "Tiger rug displayed on wall behind a man with a gun",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Wild_Sumatran_tiger.jpg/1280px-Wild_Sumatran_tiger.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Wild_Sumatran_tiger.jpg/250px-Wild_Sumatran_tiger.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Wild Sumatran tiger caught by camera trap",
+      "alt": "Night shot of a tiger face close to the camera",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ElephantbackTigerHunt.jpg/1280px-ElephantbackTigerHunt.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ElephantbackTigerHunt.jpg/250px-ElephantbackTigerHunt.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Tiger hunting on elephant-back in India, 1808",
+      "alt": "Painting of people hunting tigers on elephant-back",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Sundarban_Tiger.jpg/1280px-Sundarban_Tiger.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Sundarban_Tiger.jpg/250px-Sundarban_Tiger.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A Bengal tiger in the Sundarbans",
+      "alt": "Tiger standing along the banks of a mangrove swamp",
       "source": "article_text"
     },
     {
@@ -410,6 +508,20 @@
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Clean_Toes_are_a_Tiger%27s_Friend_%2815588882074%29.jpg/250px-Clean_Toes_are_a_Tiger%27s_Friend_%2815588882074%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Tiger at Big Cat Rescue in 2014",
       "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Bronze_Tiger_Tally_%22Jie%22_with_Gold_Inlay_from_Tomb_of_Zhao_Mo.jpg/1280px-Bronze_Tiger_Tally_%22Jie%22_with_Gold_Inlay_from_Tomb_of_Zhao_Mo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Bronze_Tiger_Tally_%22Jie%22_with_Gold_Inlay_from_Tomb_of_Zhao_Mo.jpg/250px-Bronze_Tiger_Tally_%22Jie%22_with_Gold_Inlay_from_Tomb_of_Zhao_Mo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Tiger-shaped jie (badge of authority) with gold inlays, from the tomb of Zhao Mo",
+      "alt": "Badge of black tiger with golden stripes",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Durga_Mahisasuramardini.JPG/1280px-Durga_Mahisasuramardini.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Durga_Mahisasuramardini.JPG/250px-Durga_Mahisasuramardini.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Hindu goddess Durga riding a tiger. Guler school, early 18th century",
+      "alt": "Painting of an eight-armed goddess riding a tiger biting a buffalo demon",
       "source": "article_text"
     }
   ],

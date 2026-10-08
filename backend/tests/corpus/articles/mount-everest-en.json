@@ -901,6 +901,15 @@
   ],
   "events": [
     {
+      "id": "event-0",
+      "date": "1953-05-29",
+      "date_precision": "day",
+      "title": "First ascent",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "1960-05-25",
       "date_precision": "day",
@@ -929,6 +938,15 @@
     },
     {
       "id": "text-event-3",
+      "date": "2020-01-20",
+      "date_precision": "day",
+      "title": "Meteorology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
       "date": "1924-06-08",
       "date_precision": "day",
       "title": "Early attempts",
@@ -937,7 +955,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-4",
+      "id": "text-event-5",
       "date": "1999-05-01",
       "date_precision": "day",
       "title": "Early attempts",
@@ -946,7 +964,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-5",
+      "id": "text-event-6",
       "date": "1953-05-26",
       "date_precision": "day",
       "title": "First successful ascent by Tenzing and Hillary, 1953",
@@ -955,7 +973,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-6",
+      "id": "text-event-7",
       "date": "1953-05-29",
       "date_precision": "day",
       "title": "First successful ascent by Tenzing and Hillary, 1953",
@@ -964,7 +982,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-7",
+      "id": "text-event-8",
       "date": "1956-05-23",
       "date_precision": "day",
       "title": "1950s–60s",
@@ -973,7 +991,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-8",
+      "id": "text-event-9",
       "date": "1963-05-01",
       "date_precision": "day",
       "title": "1950s–60s",
@@ -982,7 +1000,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-9",
+      "id": "text-event-10",
       "date": "1996-05-11",
       "date_precision": "day",
       "title": "1996 disaster",
@@ -991,7 +1009,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-10",
+      "id": "text-event-11",
       "date": "2007-05-21",
       "date_precision": "day",
       "title": "2007",
@@ -1000,7 +1018,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-11",
+      "id": "text-event-12",
       "date": "2010-05-23",
       "date_precision": "day",
       "title": "Ascent statistics up to 2010 season",
@@ -1009,7 +1027,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-12",
+      "id": "text-event-13",
       "date": "2011-05-15",
       "date_precision": "day",
       "title": "2010s",
@@ -1018,7 +1036,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-13",
+      "id": "text-event-14",
       "date": "2014-04-18",
       "date_precision": "day",
       "title": "2014 avalanche",
@@ -1027,7 +1045,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-14",
+      "id": "text-event-15",
       "date": "2015-04-25",
       "date_precision": "day",
       "title": "2015 avalanche and earthquake",
@@ -1036,7 +1054,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-15",
+      "id": "text-event-16",
       "date": "2021-05-10",
       "date_precision": "day",
       "title": "Permits",
@@ -1045,7 +1063,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-16",
+      "id": "text-event-17",
       "date": "1988-09-26",
       "date_precision": "day",
       "title": "1988: First climb and glide",
@@ -1054,7 +1072,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-17",
+      "id": "text-event-18",
       "date": "2011-05-21",
       "date_precision": "day",
       "title": "2011: Paraglide off summit",
@@ -1063,7 +1081,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-18",
+      "id": "text-event-19",
       "date": "2011-06-27",
       "date_precision": "day",
       "title": "2011: Paraglide off summit",
@@ -1115,6 +1133,62 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg/1280px-Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg/250px-Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "North Face of Everest as seen from the path to North Base Camp",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Mount_Everest_morning.jpg/1280px-Mount_Everest_morning.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Mount_Everest_morning.jpg/250px-Mount_Everest_morning.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "View from the south (Nepal) shows Everest rising behind the ridge connecting Nuptse and Lhotse ; in the foreground are Thamserku , Kangtega , and Ama Dablam",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%22Papers_relating_to_the_Himalaya_and_Mount_Everest%22_in_Proceedings_of_the_Royal_Geographical_Society_of_London%2C_Vol._I_%281857%29%2C_p._346.jpg/1280px-%22Papers_relating_to_the_Himalaya_and_Mount_Everest%22_in_Proceedings_of_the_Royal_Geographical_Society_of_London%2C_Vol._I_%281857%29%2C_p._346.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%22Papers_relating_to_the_Himalaya_and_Mount_Everest%22_in_Proceedings_of_the_Royal_Geographical_Society_of_London%2C_Vol._I_%281857%29%2C_p._346.jpg/250px-%22Papers_relating_to_the_Himalaya_and_Mount_Everest%22_in_Proceedings_of_the_Royal_Geographical_Society_of_London%2C_Vol._I_%281857%29%2C_p._346.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The name \"Mount Everest\" was first proposed in this 1856 speech, later published in 1857, in which the mountain was first confirmed as the world's highest.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Gaurisankar_1890.jpg/1280px-Gaurisankar_1890.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Gaurisankar_1890.jpg/250px-Gaurisankar_1890.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "1890 graphic with the Himalayas, including Gaurisankar (Mount Everest) in the distance",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/MountEverestRelief.png/1280px-MountEverestRelief.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/MountEverestRelief.png/500px-MountEverestRelief.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Mount Everest relief map",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Tibetan_Plateau_and_Mount_Everest.png/1280px-Tibetan_Plateau_and_Mount_Everest.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Tibetan_Plateau_and_Mount_Everest.png/250px-Tibetan_Plateau_and_Mount_Everest.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Profiles of the full elevation of Mount Everest",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/CH-NP_79-80_Bdy_Map50.jpg/1280px-CH-NP_79-80_Bdy_Map50.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/CH-NP_79-80_Bdy_Map50.jpg/250px-CH-NP_79-80_Bdy_Map50.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Published by the Survey of Nepal , this is Map 50 of the 57 map set at 1:50,000 scale \"attached to the main text on the First Joint Inspection Survey, 1979–80, Nepal -China border.\" At the top centre, a boundary line, identified as separating \"China\" and \"Nepal\", passes through the summit contour. The boundary here and for much of the China–Nepal border follows the main Himalayan watershed divide.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/ISS004E8852_everest.jpg/1280px-ISS004E8852_everest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/ISS004E8852_everest.jpg/250px-ISS004E8852_everest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Kangshung Face (the east face) as seen from orbit",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Everest-3D-Map-Type-EN.jpg/1280px-Everest-3D-Map-Type-EN.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Everest-3D-Map-Type-EN.jpg/960px-Everest-3D-Map-Type-EN.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "3D rendering of Mount Everest and surrounding terrain",
@@ -1132,6 +1206,202 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Close_Up_View_of_Mount_Everest_from_Kala_Patthar_%285644_m%29_in_2023-IMG-3485.jpg/1280px-Close_Up_View_of_Mount_Everest_from_Kala_Patthar_%285644_m%29_in_2023-IMG-3485.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Close_Up_View_of_Mount_Everest_from_Kala_Patthar_%285644_m%29_in_2023-IMG-3485.jpg/1280px-Close_Up_View_of_Mount_Everest_from_Kala_Patthar_%285644_m%29_in_2023-IMG-3485.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Mount Everest with snow melted, showing upper geologic layers in bands",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Yak_at_third_lake_in_Gokyo.jpg/1280px-Yak_at_third_lake_in_Gokyo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Yak_at_third_lake_in_Gokyo.jpg/250px-Yak_at_third_lake_in_Gokyo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A yak at around 4,790 m (15,720 ft)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Climbing_through_the_Yellow_Band%2C_Mt._Everest%2C_-May_2007_a.jpg/1280px-Climbing_through_the_Yellow_Band%2C_Mt._Everest%2C_-May_2007_a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Climbing_through_the_Yellow_Band%2C_Mt._Everest%2C_-May_2007_a.jpg/250px-Climbing_through_the_Yellow_Band%2C_Mt._Everest%2C_-May_2007_a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Climbers below the Geneva Spur",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/1963_reunion_of_the_1953_Everest-climbing_expedition.jpg/1280px-1963_reunion_of_the_1953_Everest-climbing_expedition.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/1963_reunion_of_the_1953_Everest-climbing_expedition.jpg/250px-1963_reunion_of_the_1953_Everest-climbing_expedition.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Reunion of the 1953 British team",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Condor_Films_1952.jpg/1280px-Condor_Films_1952.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Condor_Films_1952.jpg/250px-Condor_Films_1952.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "1952 documentary",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Edmund_Hillary_and_Tenzing_Norgay.jpg/1280px-Edmund_Hillary_and_Tenzing_Norgay.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Edmund_Hillary_and_Tenzing_Norgay.jpg/250px-Edmund_Hillary_and_Tenzing_Norgay.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Edmund Hillary and Tenzing Norgay",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mount_Everest_winter_1980_cert.jpg/1280px-Mount_Everest_winter_1980_cert.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mount_Everest_winter_1980_cert.jpg/250px-Mount_Everest_winter_1980_cert.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Confirmation of the summit obtained by Nepal's Ministry of Tourism",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Avalanche_on_Everest.jpg/1280px-Avalanche_on_Everest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Avalanche_on_Everest.jpg/250px-Avalanche_on_Everest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Small avalanche on Everest, 2006",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/EverestAscents.svg/1280px-EverestAscents.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/EverestAscents.svg/250px-EverestAscents.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Ascents of Mount Everest by year through 2010",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Sunrise_over_Everest.jpg/1280px-Sunrise_over_Everest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Sunrise_over_Everest.jpg/250px-Sunrise_over_Everest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The sun rising on Everest in 2011",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Andreas_Breitfuss_Mt_Everest_Summit.jpg/1280px-Andreas_Breitfuss_Mt_Everest_Summit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Andreas_Breitfuss_Mt_Everest_Summit.jpg/250px-Andreas_Breitfuss_Mt_Everest_Summit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Selfie on the summit, 2012",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Everest3d_qbd_2014116.jpg/1280px-Everest3d_qbd_2014116.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Everest3d_qbd_2014116.jpg/500px-Everest3d_qbd_2014116.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The location of the fatal ice avalanche on the 2014 route, and the revised 2015 route through the Khumbu",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Hillary_Step_near_Everest_top_%28retouched%29.jpg/1280px-Hillary_Step_near_Everest_top_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Hillary_Step_near_Everest_top_%28retouched%29.jpg/250px-Hillary_Step_near_Everest_top_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Looking up along the southern ridgeline in 2010, the face of the Hillary Step is visible. The top of the Southwest Face is on the left in shadow, and to the right is the top of the East/Kangshung Face. In 2016 and 2017 there were reports the Hillary Step was changed, which triggered discussion in the climbing community.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/The_World%E2%80%99s_Tallest_Mountain_%2815473492788%29.jpg/1280px-The_World%E2%80%99s_Tallest_Mountain_%2815473492788%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/The_World%E2%80%99s_Tallest_Mountain_%2815473492788%29.jpg/250px-The_World%E2%80%99s_Tallest_Mountain_%2815473492788%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Top down view showing the location of the summit, and its three main faces/sides",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Everest_Base_Camp_on_a_Stormy_Day.jpg/1280px-Everest_Base_Camp_on_a_Stormy_Day.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Everest_Base_Camp_on_a_Stormy_Day.jpg/250px-Everest_Base_Camp_on_a_Stormy_Day.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Everest Base Camp",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Gorakshep%2C_Everest_Zone%2C_Nepal.jpg/1280px-Gorakshep%2C_Everest_Zone%2C_Nepal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Gorakshep%2C_Everest_Zone%2C_Nepal.jpg/250px-Gorakshep%2C_Everest_Zone%2C_Nepal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Gorak Shep is about a three-hour walk to South EBC (Everest Base Camp).",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/STS058-101-12_2.JPG/1280px-STS058-101-12_2.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/STS058-101-12_2.JPG/250px-STS058-101-12_2.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Overview South Col route and North Col/Ridge route",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Inside_Khumbu-Icefall.jpg/1280px-Inside_Khumbu-Icefall.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Inside_Khumbu-Icefall.jpg/250px-Inside_Khumbu-Icefall.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Climber traversing Khumbu Icefall",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Mount_Everest_North_Face.jpg/1280px-Mount_Everest_North_Face.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Mount_Everest_North_Face.jpg/250px-Mount_Everest_North_Face.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Mount Everest North Face from Rongbuk in Tibet",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Amanecer_desde_la_cima_del_Everest_por_Carlos_Pauner.JPG/1280px-Amanecer_desde_la_cima_del_Everest_por_Carlos_Pauner.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Amanecer_desde_la_cima_del_Everest_por_Carlos_Pauner.JPG/250px-Amanecer_desde_la_cima_del_Everest_por_Carlos_Pauner.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A view from the summit of Mount Everest in May 2013",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Everest_Peace_Project_-_Everest_summit.jpg/1280px-Everest_Peace_Project_-_Everest_summit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Everest_Peace_Project_-_Everest_summit.jpg/250px-Everest_Peace_Project_-_Everest_summit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The summit of Mount Everest from the North side",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Everest-fromKalarPatar.jpg/1280px-Everest-fromKalarPatar.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Everest-fromKalarPatar.jpg/250px-Everest-fromKalarPatar.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "From Kala Patthar , Nepal",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Iv%C3%A1n_Ernesto_G%C3%B3mez_Carrasco_en_la_cima_del_Monte_Everest.jpg/1280px-Iv%C3%A1n_Ernesto_G%C3%B3mez_Carrasco_en_la_cima_del_Monte_Everest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Iv%C3%A1n_Ernesto_G%C3%B3mez_Carrasco_en_la_cima_del_Monte_Everest.jpg/250px-Iv%C3%A1n_Ernesto_G%C3%B3mez_Carrasco_en_la_cima_del_Monte_Everest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Climber at the summit wearing an oxygen mask",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Everest_Oxygen_Graph.jpg/1280px-Everest_Oxygen_Graph.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Everest_Oxygen_Graph.jpg/250px-Everest_Oxygen_Graph.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Available oxygen at Everest",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Mount_Everest_as_seen_from_Drukair.jpg/1280px-Mount_Everest_as_seen_from_Drukair.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Mount_Everest_as_seen_from_Drukair.jpg/250px-Mount_Everest_as_seen_from_Drukair.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Everest in September 2006",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/KhumbuIcefall.jpg/1280px-KhumbuIcefall.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/KhumbuIcefall.jpg/250px-KhumbuIcefall.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Khumbu Icefall in 2005",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Western_Cwm_-_14th_May_2011.jpg/1280px-Western_Cwm_-_14th_May_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Western_Cwm_-_14th_May_2011.jpg/250px-Western_Cwm_-_14th_May_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Western Cwm (\"Coom\"), with Everest on the left and Lhotse to the right",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Eurocopter_AS-350B-3_Ecureuil_AN0980259.jpg/1280px-Eurocopter_AS-350B-3_Ecureuil_AN0980259.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Eurocopter_AS-350B-3_Ecureuil_AN0980259.jpg/250px-Eurocopter_AS-350B-3_Ecureuil_AN0980259.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Photo of a Eurocopter AS350 B3 \"Squirrel\"",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Rongbuk_Monastery_Everest.jpg/1280px-Rongbuk_Monastery_Everest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Rongbuk_Monastery_Everest.jpg/250px-Rongbuk_Monastery_Everest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Rongbuk Monastery , with Mount Everest in the background",
       "alt": null,
       "source": "article_text"
     },

@@ -112,7 +112,8 @@
           "15"
         ],
         [
-          "Воронежская область"
+          "Воронежская область",
+          "15"
         ],
         [
           "Дагестан",
@@ -355,7 +356,8 @@
           "6"
         ],
         [
-          "Ульяновская область"
+          "Ульяновская область",
+          "6"
         ],
         [
           "Хабаровский край",
@@ -423,112 +425,112 @@
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Lubyanka_CDM_view_from_Panoramic_view_point_05-2015_img06.jpg/1280px-Lubyanka_CDM_view_from_Panoramic_view_point_05-2015_img06.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Lubyanka_CDM_view_from_Panoramic_view_point_05-2015_img06.jpg/500px-Lubyanka_CDM_view_from_Panoramic_view_point_05-2015_img06.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Москва",
       "alt": "Москва",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Spb_Views_from_Isaac_Cathedral_May2012_05.jpg/1280px-Spb_Views_from_Isaac_Cathedral_May2012_05.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Spb_Views_from_Isaac_Cathedral_May2012_05.jpg/500px-Spb_Views_from_Isaac_Cathedral_May2012_05.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Санкт-Петербург",
       "alt": "Санкт-Петербург",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Novosibirsk_view.jpg/1280px-Novosibirsk_view.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Novosibirsk_view.jpg/500px-Novosibirsk_view.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Новосибирск",
       "alt": "Новосибирск",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Yekaterinburg_skyline2.jpg/1280px-Yekaterinburg_skyline2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Yekaterinburg_skyline2.jpg/330px-Yekaterinburg_skyline2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Екатеринбург",
       "alt": "Екатеринбург",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Kazan_skyline_view.jpg/1280px-Kazan_skyline_view.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Kazan_skyline_view.jpg/500px-Kazan_skyline_view.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Казань",
       "alt": "Казань",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Aerial_view_of_Krasnoyarsk_%28city_centre%29.jpg/1280px-Aerial_view_of_Krasnoyarsk_%28city_centre%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Aerial_view_of_Krasnoyarsk_%28city_centre%29.jpg/330px-Aerial_view_of_Krasnoyarsk_%28city_centre%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Красноярск",
       "alt": "Красноярск",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Nizhny_Novgorod_View_2.jpg/1280px-Nizhny_Novgorod_View_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Nizhny_Novgorod_View_2.jpg/500px-Nizhny_Novgorod_View_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Нижний Новгород",
       "alt": "Нижний Новгород",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA_14.10.2008.jpg/1280px-%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA_14.10.2008.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA_14.10.2008.jpg/960px-%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA_14.10.2008.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Челябинск",
       "alt": "Челябинск",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ufa01.jpg/1280px-Ufa01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ufa01.jpg/330px-Ufa01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Уфа",
       "alt": "Уфа",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Krasnodar_004.JPG/1280px-Krasnodar_004.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Krasnodar_004.JPG/330px-Krasnodar_004.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Краснодар",
       "alt": "Краснодар",
       "source": "article_text"
     },
     {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Samara_8-01-2009.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Samara_8-01-2009.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "caption": null,
+      "caption": "Самара",
       "alt": "Самара",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/View_Rostov.jpg/1280px-View_Rostov.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/View_Rostov.jpg/500px-View_Rostov.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Ростов-на-Дону",
       "alt": "Ростов-на-Дону",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Omsk_%284%29.jpg/1280px-Omsk_%284%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Omsk_%284%29.jpg/330px-Omsk_%284%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Омск",
       "alt": "Омск",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%9F%D0%B5%D1%82%D1%80%D1%83_1.JPG/1280px-%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%9F%D0%B5%D1%82%D1%80%D1%83_1.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%9F%D0%B5%D1%82%D1%80%D1%83_1.JPG/330px-%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%9F%D0%B5%D1%82%D1%80%D1%83_1.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Воронеж",
       "alt": "Воронеж",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Perm%2C_Russia.jpg/1280px-Perm%2C_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Perm%2C_Russia.jpg/960px-Perm%2C_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Пермь",
       "alt": "Пермь",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Volgograd_bridge_construction_2007.jpg/1280px-Volgograd_bridge_construction_2007.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Volgograd_bridge_construction_2007.jpg/330px-Volgograd_bridge_construction_2007.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Волгоград",
       "alt": "Волгоград",
       "source": "article_text"
     }

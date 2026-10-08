@@ -1296,9 +1296,233 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Albert_Einstein_age_3.jpg/1280px-Albert_Einstein_age_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Albert_Einstein_age_3.jpg/250px-Albert_Einstein_age_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein in 1882, age 3",
+      "alt": "A young boy with short hair and a round face, wearing a white collar and large bow, with vest, coat, skirt, and high boots. He is leaning against an ornate chair.",
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hermann_einstein.jpg/1280px-Hermann_einstein.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hermann_einstein.jpg/250px-Hermann_einstein.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Einstein's parents, Hermann and Pauline",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert_Einstein_as_a_child.jpg/1280px-Albert_Einstein_as_a_child.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert_Einstein_as_a_child.jpg/250px-Albert_Einstein_as_a_child.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein in 1893, age 14",
+      "alt": "Studio photo of a boy seated in a relaxed posture and wearing a suit, posed in front of a backdrop of scenery.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Albert_Einstein%27s_exam_of_maturity_grades_%28color2%29.jpg/1280px-Albert_Einstein%27s_exam_of_maturity_grades_%28color2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Albert_Einstein%27s_exam_of_maturity_grades_%28color2%29.jpg/250px-Albert_Einstein%27s_exam_of_maturity_grades_%28color2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein's Matura certificate from canton of Aargau , 1896",
+      "alt": "Einstein's matriculation certificate at the age of 17. The heading translates as \"The Education Committee of the Canton of Aargau\". His scores were German 5, French 3, Italian 5, History 6, Geography 4, Algebra 6, Geometry 6, Descriptive Geometry 6, Physics 6, Chemistry 5, Natural History 5, Art Drawing 4, Technical Drawing 4. 6 = very good, 5 = good, 4 = sufficient, 3 = insufficient, 2 = poor, 1 = very poor.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Albert_Einstein_and_his_wife_Mileva_Maric.jpg/1280px-Albert_Einstein_and_his_wife_Mileva_Maric.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Albert_Einstein_and_his_wife_Mileva_Maric.jpg/250px-Albert_Einstein_and_his_wife_Mileva_Maric.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Albert Einstein and Mileva Marić Einstein, 1912",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Einstein_Albert_Elsa_LOC_32096u.jpg/1280px-Einstein_Albert_Elsa_LOC_32096u.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Einstein_Albert_Elsa_LOC_32096u.jpg/250px-Einstein_Albert_Elsa_LOC_32096u.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Albert and Elsa Einstein arriving in New York, 1921",
+      "alt": "Einstein, looking relaxed and holding a pipe, stands next to a smiling, well-dressed Elsa who is wearing a fancy hat and fur wrap. She is looking at him.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Einstein_patentoffice_full_%28cropped%29.jpg/1280px-Einstein_patentoffice_full_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Einstein_patentoffice_full_%28cropped%29.jpg/250px-Einstein_patentoffice_full_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein at the Swiss Patent Office , 1904",
+      "alt": "Head and shoulders shot of a young, mustached man with dark, curly hair wearing a plaid suit and vest, striped shirt, and a dark tie.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Einstein_thesis.png/1280px-Einstein_thesis.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Einstein_thesis.png/250px-Einstein_thesis.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein's 1905 dissertation, Eine neue Be­stimm­ung der Mol­e­kül­di­men­si­onen (\"A new deter­mi­na­tion of mo­lec­u­lar di­men­sions\")",
+      "alt": "Cover image of the PhD dissertation of Albert Einstein",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/ETH-BIB-Einstein%2C_Albert_und_Kollegen_am_Physik-Labor_ETH-Portrait-Portr_10750.tif/lossy-page1-330px-ETH-BIB-Einstein%2C_Albert_und_Kollegen_am_Physik-Labor_ETH-Portrait-Portr_10750.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/ETH-BIB-Einstein%2C_Albert_und_Kollegen_am_Physik-Labor_ETH-Portrait-Portr_10750.tif/lossy-page1-330px-ETH-BIB-Einstein%2C_Albert_und_Kollegen_am_Physik-Labor_ETH-Portrait-Portr_10750.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein with colleagues at the ETH Zurich , 1913",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Berliner_Physiker_u_Chemiker_1920.jpg/1280px-Berliner_Physiker_u_Chemiker_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Berliner_Physiker_u_Chemiker_1920.jpg/330px-Berliner_Physiker_u_Chemiker_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein with other physicists and chemists at the Kaiser Wilhelm Institute , Berlin, 1920",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/19191125_A_New_Physics_Based_on_Einstein_-_The_New_York_Times.png/1280px-19191125_A_New_Physics_Based_on_Einstein_-_The_New_York_Times.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/19191125_A_New_Physics_Based_on_Einstein_-_The_New_York_Times.png/250px-19191125_A_New_Physics_Based_on_Einstein_-_The_New_York_Times.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The New York Times reported confirmation of the bending of light by gravitation after observations (made in Príncipe and Sobral ) of the 29 May 1919 eclipse were presented to a joint meeting in London of the Royal Society and the Royal Astronomical Society on 6 November 1919.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Albert_Einstein_%28Nobel%29.png/1280px-Albert_Einstein_%28Nobel%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Albert_Einstein_%28Nobel%29.png/250px-Albert_Einstein_%28Nobel%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein's official portrait after receiving the 1921 Nobel Prize for Physics",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/League_of_Nations_Commission_067.tif/lossy-page1-250px-League_of_Nations_Commission_067.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/League_of_Nations_Commission_067.tif/lossy-page1-250px-League_of_Nations_Commission_067.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein at a session of the International Committee on Intellectual Cooperation ( League of Nations ) of which he was a member from 1922 to 1932",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Albert_Einstein_writing_on_a_blackboard_in_Pasadena_%281931%29.jpg/1280px-Albert_Einstein_writing_on_a_blackboard_in_Pasadena_%281931%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Albert_Einstein_writing_on_a_blackboard_in_Pasadena_%281931%29.jpg/250px-Albert_Einstein_writing_on_a_blackboard_in_Pasadena_%281931%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein in Pasadena, California , 1931",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Albert_Einstein_and_Charlie_Chaplin_City_Lights_premiere_1931.jpg/1280px-Albert_Einstein_and_Charlie_Chaplin_City_Lights_premiere_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Albert_Einstein_and_Charlie_Chaplin_City_Lights_premiere_1931.jpg/250px-Albert_Einstein_and_Charlie_Chaplin_City_Lights_premiere_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein with Charlie Chaplin at the Hollywood premiere of Chaplin's City Lights , January 1931",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/C._R._Macauley_-_Einstein_takes_up_the_sword%2C_circa_1933.jpg/1280px-C._R._Macauley_-_Einstein_takes_up_the_sword%2C_circa_1933.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/C._R._Macauley_-_Einstein_takes_up_the_sword%2C_circa_1933.jpg/250px-C._R._Macauley_-_Einstein_takes_up_the_sword%2C_circa_1933.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Cartoon of Einstein after shedding his \"pacifism\" wings ( Charles R. Macauley , c. 1933 )",
+      "alt": "Cartoon of Einstein, who has shed his \"Pacifism\" wings, standing next to a pillar labeled \"World Peace\". He is rolling up his sleeves and holding a sword labeled \"Preparedness\".",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Einstein%27s_landing_card_%285706142737%29.jpg/1280px-Einstein%27s_landing_card_%285706142737%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Einstein%27s_landing_card_%285706142737%29.jpg/250px-Einstein%27s_landing_card_%285706142737%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Landing card for Einstein's 26 May 1933 arrival in Dover , England from Ostend , Belgium, enroute to Oxford",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Churchill_and_Einstein_in_1933.jpg/1280px-Churchill_and_Einstein_in_1933.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Churchill_and_Einstein_in_1933.jpg/250px-Churchill_and_Einstein_in_1933.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Winston Churchill and Einstein at Chartwell House, 31 May 1933",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Einstein-formal_portrait-35_%28cropped%29.jpg/1280px-Einstein-formal_portrait-35_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Einstein-formal_portrait-35_%28cropped%29.jpg/250px-Einstein-formal_portrait-35_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Portrait of Einstein taken in 1935 at Princeton",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Einstein-Roosevelt-letter.png/1280px-Einstein-Roosevelt-letter.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Einstein-Roosevelt-letter.png/500px-Einstein-Roosevelt-letter.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Facsimile of the Einstein–Szilard letter",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Citizen-Einstein.jpg/1280px-Citizen-Einstein.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Citizen-Einstein.jpg/250px-Citizen-Einstein.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein accepting a US citizenship certificate from judge Phillip Forman in 1940",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Einstein_Apr.1921_SS_Rotterdam_32099.jpg/1280px-Einstein_Apr.1921_SS_Rotterdam_32099.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Einstein_Apr.1921_SS_Rotterdam_32099.jpg/250px-Einstein_Apr.1921_SS_Rotterdam_32099.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Albert Einstein and Elsa Einstein arriving in New York in 1921. Accompanying them are Zionist leaders Chaim Weizmann (future president of Israel), Weizmann's wife Vera Weizmann , Menahem Ussishkin , and Ben-Zion Mossinson.",
+      "alt": "Casual group shot of four men and two women standing on a brick pavement.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Wanda_von_Debschitz-Kunowski_Albert_Einstein_beim_Geigenspiel_1927.jpg/1280px-Wanda_von_Debschitz-Kunowski_Albert_Einstein_beim_Geigenspiel_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Wanda_von_Debschitz-Kunowski_Albert_Einstein_beim_Geigenspiel_1927.jpg/330px-Wanda_von_Debschitz-Kunowski_Albert_Einstein_beim_Geigenspiel_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein playing the violin, 1927",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1919_eclipse_positive.jpg/1280px-1919_eclipse_positive.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/1919_eclipse_positive.jpg/250px-1919_eclipse_positive.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Eddington 's photo of a solar eclipse",
+      "alt": "Black circle covering the sun, rays visible around it, in a dark sky.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/MillikanLemaitreEinstein.jpg/1280px-MillikanLemaitreEinstein.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/MillikanLemaitreEinstein.jpg/250px-MillikanLemaitreEinstein.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Robert A. Millikan , Georges Lemaître and Einstein at the California Institute of Technology in January 1933",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Albert_Einstein_photo_1920.jpg/1280px-Albert_Einstein_photo_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Albert_Einstein_photo_1920.jpg/250px-Albert_Einstein_photo_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein at his office, University of Berlin , 1920",
+      "alt": "Einstein, sitting at a table, looks up from the papers he is reading and into the camera.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Photoelectric_effect_in_a_solid_-_diagram.svg/1280px-Photoelectric_effect_in_a_solid_-_diagram.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Photoelectric_effect_in_a_solid_-_diagram.svg/250px-Photoelectric_effect_in_a_solid_-_diagram.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The photoelectric effect. Incoming photons on the left strike a metal plate (bottom), and eject electrons, depicted as flying off to the right.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Albert_Einstein_1921_%28re-cropped%29.jpg/1280px-Albert_Einstein_1921_%28re-cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Albert_Einstein_1921_%28re-cropped%29.jpg/250px-Albert_Einstein_1921_%28re-cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein in 1921, by Harris & Ewing studio",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/NYT_May_4%2C_1935.jpg/1280px-NYT_May_4%2C_1935.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/NYT_May_4%2C_1935.jpg/250px-NYT_May_4%2C_1935.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Newspaper headline on 4 May 1935",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Niels_Bohr_Albert_Einstein4_by_Ehrenfest_cr.jpg/1280px-Niels_Bohr_Albert_Einstein4_by_Ehrenfest_cr.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Niels_Bohr_Albert_Einstein4_by_Ehrenfest_cr.jpg/250px-Niels_Bohr_Albert_Einstein4_by_Ehrenfest_cr.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Einstein and Niels Bohr , 1925",
+      "alt": "Two men sitting, looking relaxed. A dark-haired Bohr is talking while Einstein looks skeptical.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Solvay_conference_1927.jpg/1280px-Solvay_conference_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Solvay_conference_1927.jpg/250px-Solvay_conference_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The 1927 Solvay Conference in Brussels, a gathering of the world's top physicists. Einstein is in the center.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Einstein-Oslofjord_%28cropped%29.jpg/1280px-Einstein-Oslofjord_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Einstein-Oslofjord_%28cropped%29.jpg/250px-Einstein-Oslofjord_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Left-right: Heinrich Goldschmidt , Einstein, Ole Colbjørnsen , Jørgen Vogt , and Ilse Einstein at a picnic in Oslo in 1920.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Albert_Einstein_sticks_his_tongue.jpg/1280px-Albert_Einstein_sticks_his_tongue.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Albert_Einstein_sticks_his_tongue.jpg/250px-Albert_Einstein_sticks_his_tongue.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The famous image of Einstein taken by Arthur Sasse in 1951, sitting in a car on his 72nd birthday, having been asked to smile for the camera once again.",
       "alt": null,
       "source": "article_text"
     },

@@ -51,6 +51,15 @@
   "locations": [],
   "events": [
     {
+      "id": "event-0",
+      "date": "1838-07-04",
+      "date_precision": "day",
+      "title": "Royal assent",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "1838-07-04",
       "date_precision": "day",

@@ -394,3 +394,66 @@ def test_tables_without_full_width_rows_have_empty_notes():
     """
 
     assert extract_tables(html)[0].notes == []
+
+
+# --- rowspan/colspan в строках данных, пробелы в caption (сессия 2б) ----------
+
+
+def test_rowspan_in_data_rows_is_repeated_in_each_row():
+    # Julius Caesar, сражения: "Gallic Wars" объединена на несколько строк.
+    html = """
+    <table class="wikitable">
+        <tr><th>Date</th><th>War</th><th>Action</th></tr>
+        <tr><th>58 BC</th><td rowspan="3">Gallic Wars</td><td>Arar</td></tr>
+        <tr><th>58 BC</th><td>Bibracte</td></tr>
+        <tr><th>57 BC</th><td>Axona</td></tr>
+        <tr><th>49 BC</th><td>Civil War</td><td>Ilerda</td></tr>
+    </table>
+    """
+
+    assert extract_tables(html)[0].rows == [
+        ["58 BC", "Gallic Wars", "Arar"],
+        ["58 BC", "Gallic Wars", "Bibracte"],
+        ["57 BC", "Gallic Wars", "Axona"],
+        ["49 BC", "Civil War", "Ilerda"],
+    ]
+
+
+def test_colspan_in_data_row_is_repeated_across_columns():
+    html = """
+    <table class="wikitable">
+        <tr><th>Team</th><th>2014</th><th>2018</th></tr>
+        <tr><td>A</td><td colspan="2">Did not qualify</td></tr>
+        <tr><td>B</td><td>Group</td><td>Final</td></tr>
+    </table>
+    """
+
+    assert extract_tables(html)[0].rows == [
+        ["A", "Did not qualify", "Did not qualify"],
+        ["B", "Group", "Final"],
+    ]
+
+
+def test_rowspan_beyond_last_row_is_clipped():
+    html = """
+    <table class="wikitable">
+        <tr><th>A</th><th>B</th></tr>
+        <tr><td rowspan="5">x</td><td>1</td></tr>
+        <tr><td>2</td></tr>
+    </table>
+    """
+
+    assert extract_tables(html)[0].rows == [["x", "1"], ["x", "2"]]
+
+
+def test_caption_keeps_spaces_between_inline_elements():
+    # Tiger: "<i>Panthera tigris tigris</i> <span>(Linnaeus, 1758)</span>".
+    html = """
+    <table class="wikitable">
+        <caption><i>Panthera tigris tigris</i> <span>(Linnaeus, 1758)</span><sup class="reference"><a>[2]</a></sup>
+        </caption>
+        <tr><th>A</th></tr><tr><td>1</td></tr>
+    </table>
+    """
+
+    assert extract_tables(html)[0].title == "Panthera tigris tigris (Linnaeus, 1758)"

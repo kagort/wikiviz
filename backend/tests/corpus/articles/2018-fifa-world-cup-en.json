@@ -670,20 +670,28 @@
           "Abdulrahman Al-Jassim ( Qatar )"
         ],
         [
+          "AFC",
           "Ravshan Irmatov ( Uzbekistan )",
-          "Abdukhamidullo Rasulov ( Uzbekistan ) Jakhongir Saidov ( Uzbekistan )"
+          "Abdukhamidullo Rasulov ( Uzbekistan ) Jakhongir Saidov ( Uzbekistan )",
+          "Abdulrahman Al-Jassim ( Qatar )"
         ],
         [
+          "AFC",
           "Mohammed Abdulla Hassan Mohamed ( United Arab Emirates )",
-          "Mohamed Al Hammadi ( United Arab Emirates ) Hasan Al Mahri ( United Arab Emirates )"
+          "Mohamed Al Hammadi ( United Arab Emirates ) Hasan Al Mahri ( United Arab Emirates )",
+          "Abdulrahman Al-Jassim ( Qatar )"
         ],
         [
+          "AFC",
           "Ryuji Sato ( Japan )",
-          "Toru Sagara ( Japan ) Hiroshi Yamauchi ( Japan )"
+          "Toru Sagara ( Japan ) Hiroshi Yamauchi ( Japan )",
+          "Abdulrahman Al-Jassim ( Qatar )"
         ],
         [
+          "AFC",
           "Nawaf Shukralla ( Bahrain )",
-          "Yaser Tulefat ( Bahrain ) Taleb Al Maari ( Qatar )"
+          "Yaser Tulefat ( Bahrain ) Taleb Al Maari ( Qatar )",
+          "Abdulrahman Al-Jassim ( Qatar )"
         ],
         [
           "CAF",
@@ -692,23 +700,33 @@
           ""
         ],
         [
+          "CAF",
           "Malang Diedhiou ( Senegal )",
-          "Djibril Camara ( Senegal ) El Hadji Samba ( Senegal )"
+          "Djibril Camara ( Senegal ) El Hadji Samba ( Senegal )",
+          ""
         ],
         [
+          "CAF",
           "Bakary Gassama ( Gambia )",
-          "Jean Claude Birumushahu ( Burundi ) Abdelhak Etchiali ( Algeria )"
+          "Jean Claude Birumushahu ( Burundi ) Abdelhak Etchiali ( Algeria )",
+          ""
         ],
         [
+          "CAF",
           "Gehad Grisha ( Egypt )",
-          "Redouane Achik ( Morocco ) Waleed Ahmed ( Sudan )"
+          "Redouane Achik ( Morocco ) Waleed Ahmed ( Sudan )",
+          ""
         ],
         [
+          "CAF",
           "Janny Sikazwe ( Zambia )",
-          "Jerson Dos Santos ( Angola ) Zakhele Siwela ( South Africa )"
+          "Jerson Dos Santos ( Angola ) Zakhele Siwela ( South Africa )",
+          ""
         ],
         [
+          "CAF",
           "Bamlak Tessema Weyesa ( Ethiopia )",
+          "",
           ""
         ],
         [
@@ -718,24 +736,34 @@
           ""
         ],
         [
+          "CONCACAF",
           "Mark Geiger ( United States )",
-          "Frank Anderson ( United States ) Joe Fletcher ( Canada )"
-        ],
-        [
-          "Jair Marrufo ( United States )",
-          "Corey Rockwell ( United States )"
-        ],
-        [
-          "Ricardo Montero ( Costa Rica )",
+          "Frank Anderson ( United States ) Joe Fletcher ( Canada )",
           ""
         ],
         [
-          "John Pitti ( Panama )",
-          "Gabriel Victoria ( Panama )"
+          "CONCACAF",
+          "Jair Marrufo ( United States )",
+          "Corey Rockwell ( United States )",
+          ""
         ],
         [
+          "CONCACAF",
+          "Ricardo Montero ( Costa Rica )",
+          "",
+          ""
+        ],
+        [
+          "CONCACAF",
+          "John Pitti ( Panama )",
+          "Gabriel Victoria ( Panama )",
+          ""
+        ],
+        [
+          "CONCACAF",
           "César Arturo Ramos ( Mexico )",
-          "Marvin Torrentera ( Mexico ) Miguel Hernández ( Mexico )"
+          "Marvin Torrentera ( Mexico ) Miguel Hernández ( Mexico )",
+          ""
         ],
         [
           "CONMEBOL",
@@ -744,24 +772,34 @@
           "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
+          "CONMEBOL",
           "Enrique Cáceres ( Paraguay )",
-          "Eduardo Cardozo ( Paraguay ) Juan Zorrilla ( Paraguay )"
+          "Eduardo Cardozo ( Paraguay ) Juan Zorrilla ( Paraguay )",
+          "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
+          "CONMEBOL",
           "Andrés Cunha ( Uruguay )",
-          "Nicolás Taran ( Uruguay ) Mauricio Espinosa ( Uruguay )"
+          "Nicolás Taran ( Uruguay ) Mauricio Espinosa ( Uruguay )",
+          "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
+          "CONMEBOL",
           "Néstor Pitana ( Argentina )",
-          "Hernán Maidana ( Argentina ) Juan Pablo Belatti ( Argentina )"
+          "Hernán Maidana ( Argentina ) Juan Pablo Belatti ( Argentina )",
+          "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
+          "CONMEBOL",
           "Sandro Ricci ( Brazil )",
-          "Emerson de Carvalho ( Brazil ) Marcelo Van Gasse ( Brazil )"
+          "Emerson de Carvalho ( Brazil ) Marcelo Van Gasse ( Brazil )",
+          "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
+          "CONMEBOL",
           "Wilmar Roldán ( Colombia )",
-          "Alexander Guzmán ( Colombia ) Cristian de la Cruz ( Colombia )"
+          "Alexander Guzmán ( Colombia ) Cristian de la Cruz ( Colombia )",
+          "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
           "OFC",
@@ -770,8 +808,10 @@
           ""
         ],
         [
+          "OFC",
           "Norbert Hauata ( Tahiti )",
-          "Bertrand Brial ( New Caledonia )"
+          "Bertrand Brial ( New Caledonia )",
+          ""
         ],
         [
           "UEFA",
@@ -780,40 +820,58 @@
           "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Cüneyt Çakır ( Turkey )",
-          "Bahattin Duran ( Turkey ) Tarık Ongun ( Turkey )"
+          "Bahattin Duran ( Turkey ) Tarık Ongun ( Turkey )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Sergei Karasev ( Russia )",
-          "Anton Averianov ( Russia ) Tikhon Kalugin ( Russia )"
+          "Anton Averianov ( Russia ) Tikhon Kalugin ( Russia )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Björn Kuipers ( Netherlands )",
-          "Sander van Roekel ( Netherlands ) Erwin Zeinstra ( Netherlands )"
+          "Sander van Roekel ( Netherlands ) Erwin Zeinstra ( Netherlands )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Szymon Marciniak ( Poland )",
-          "Paweł Sokolnicki ( Poland ) Tomasz Listkiewicz ( Poland )"
+          "Paweł Sokolnicki ( Poland ) Tomasz Listkiewicz ( Poland )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Antonio Mateu Lahoz ( Spain )",
-          "Pau Cebrián Devís ( Spain ) Roberto Díaz Pérez ( Spain )"
+          "Pau Cebrián Devís ( Spain ) Roberto Díaz Pérez ( Spain )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Milorad Mažić ( Serbia )",
-          "Milovan Ristić ( Serbia ) Dalibor Đurđević ( Serbia )"
+          "Milovan Ristić ( Serbia ) Dalibor Đurđević ( Serbia )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Gianluca Rocchi ( Italy )",
-          "Elenito Di Liberatore ( Italy ) Mauro Tonolini ( Italy )"
+          "Elenito Di Liberatore ( Italy ) Mauro Tonolini ( Italy )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Damir Skomina ( Slovenia )",
-          "Jure Praprotnik ( Slovenia ) Robert Vukan ( Slovenia )"
+          "Jure Praprotnik ( Slovenia ) Robert Vukan ( Slovenia )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Clément Turpin ( France )",
-          "Cyril Gringore ( France ) Nicolas Danos ( France )"
+          "Cyril Gringore ( France ) Nicolas Danos ( France )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ]
       ],
       "notes": [],
@@ -952,7 +1010,8 @@
           "8",
           "4",
           "+4",
-          "6"
+          "6",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -977,7 +1036,8 @@
           "2",
           "6",
           "−4",
-          "0"
+          "0",
+          ""
         ]
       ],
       "notes": [],
@@ -1023,7 +1083,8 @@
           "5",
           "4",
           "+1",
-          "5"
+          "5",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1048,7 +1109,8 @@
           "2",
           "4",
           "−2",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1094,7 +1156,8 @@
           "2",
           "1",
           "+1",
-          "5"
+          "5",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1119,7 +1182,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1165,7 +1229,8 @@
           "3",
           "5",
           "−2",
-          "4"
+          "4",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1190,7 +1255,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1236,7 +1302,8 @@
           "5",
           "4",
           "+1",
-          "5"
+          "5",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1261,7 +1328,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1307,7 +1375,8 @@
           "3",
           "4",
           "−1",
-          "6"
+          "6",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1332,7 +1401,8 @@
           "2",
           "4",
           "−2",
-          "3"
+          "3",
+          ""
         ]
       ],
       "notes": [],
@@ -1378,7 +1448,8 @@
           "8",
           "3",
           "+5",
-          "6"
+          "6",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1403,7 +1474,8 @@
           "2",
           "11",
           "−9",
-          "0"
+          "0",
+          ""
         ]
       ],
       "notes": [],
@@ -1449,7 +1521,8 @@
           "4",
           "4",
           "0",
-          "4"
+          "4",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1474,7 +1547,8 @@
           "2",
           "5",
           "−3",
-          "3"
+          "3",
+          ""
         ]
       ],
       "notes": [],
@@ -1719,7 +1793,8 @@
           "8",
           "3",
           "+5",
-          "10"
+          "10",
+          "Eliminated in quarter-finals"
         ],
         [
           "7",
@@ -1732,7 +1807,8 @@
           "6",
           "4",
           "+2",
-          "9"
+          "9",
+          "Eliminated in quarter-finals"
         ],
         [
           "8",
@@ -1745,7 +1821,8 @@
           "11",
           "7",
           "+4",
-          "8"
+          "8",
+          "Eliminated in quarter-finals"
         ],
         [
           "",
@@ -1786,7 +1863,8 @@
           "7",
           "6",
           "+1",
-          "6"
+          "6",
+          "Eliminated in round of 16"
         ],
         [
           "11",
@@ -1799,7 +1877,8 @@
           "3",
           "2",
           "+1",
-          "6"
+          "6",
+          "Eliminated in round of 16"
         ],
         [
           "12",
@@ -1812,7 +1891,8 @@
           "3",
           "6",
           "−3",
-          "6"
+          "6",
+          "Eliminated in round of 16"
         ],
         [
           "13",
@@ -1825,7 +1905,8 @@
           "6",
           "6",
           "0",
-          "5"
+          "5",
+          "Eliminated in round of 16"
         ],
         [
           "14",
@@ -1838,7 +1919,8 @@
           "5",
           "5",
           "0",
-          "5"
+          "5",
+          "Eliminated in round of 16"
         ],
         [
           "15",
@@ -1851,7 +1933,8 @@
           "6",
           "7",
           "−1",
-          "4"
+          "4",
+          "Eliminated in round of 16"
         ],
         [
           "16",
@@ -1864,7 +1947,8 @@
           "6",
           "9",
           "−3",
-          "4"
+          "4",
+          "Eliminated in round of 16"
         ],
         [
           "",
@@ -1905,7 +1989,8 @@
           "2",
           "2",
           "0",
-          "4"
+          "4",
+          "Eliminated in group stage"
         ],
         [
           "19",
@@ -1918,7 +2003,8 @@
           "3",
           "3",
           "0",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "20",
@@ -1931,7 +2017,8 @@
           "2",
           "2",
           "0",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "21",
@@ -1944,7 +2031,8 @@
           "3",
           "4",
           "−1",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "=22",
@@ -1957,7 +2045,8 @@
           "2",
           "4",
           "−2",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "=22",
@@ -1970,7 +2059,8 @@
           "2",
           "4",
           "−2",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "24",
@@ -1983,7 +2073,8 @@
           "5",
           "8",
           "−3",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "25",
@@ -1996,7 +2087,8 @@
           "2",
           "5",
           "−3",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "26",
@@ -2009,7 +2101,8 @@
           "2",
           "7",
           "−5",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "27",
@@ -2022,7 +2115,8 @@
           "2",
           "4",
           "−2",
-          "1"
+          "1",
+          "Eliminated in group stage"
         ],
         [
           "=28",
@@ -2035,7 +2129,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          "Eliminated in group stage"
         ],
         [
           "=28",
@@ -2048,7 +2143,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          "Eliminated in group stage"
         ],
         [
           "=28",
@@ -2061,7 +2157,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          "Eliminated in group stage"
         ],
         [
           "31",
@@ -2074,7 +2171,8 @@
           "2",
           "6",
           "−4",
-          "0"
+          "0",
+          "Eliminated in group stage"
         ],
         [
           "32",
@@ -2087,7 +2185,8 @@
           "2",
           "11",
           "−9",
-          "0"
+          "0",
+          "Eliminated in group stage"
         ]
       ],
       "notes": [],
@@ -2233,6 +2332,7 @@
           "128"
         ],
         [
+          "Total",
           "Total",
           "400"
         ]
@@ -2798,6 +2898,195 @@
   "works": [],
   "relations": [],
   "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Russia_2018_World_Cup.jpeg/1280px-Russia_2018_World_Cup.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Russia_2018_World_Cup.jpeg/250px-Russia_2018_World_Cup.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Andrey Arshavin with Russian bid personnel celebrate the awarding of the 2018 World Cup to Russia on 2 December 2010.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Russia_100_Rubles_2018_FIFA_World_Cup.jpg/1280px-Russia_100_Rubles_2018_FIFA_World_Cup.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Russia_100_Rubles_2018_FIFA_World_Cup.jpg/250px-Russia_100_Rubles_2018_FIFA_World_Cup.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The 100- ruble commemorative banknote celebrates the 2018 FIFA World Cup. It features an image of Soviet goalkeeper Lev Yashin .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2018_FIFA_World_Cup_qualification_map.png/1280px-2018_FIFA_World_Cup_qualification_map.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2018_FIFA_World_Cup_qualification_map.png/500px-2018_FIFA_World_Cup_qualification_map.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Qualified Did not qualify Disqualified Not a FIFA member",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Fabio_Cannavaro_2017.jpg/1280px-Fabio_Cannavaro_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Fabio_Cannavaro_2017.jpg/250px-Fabio_Cannavaro_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Italian World Cup winner Fabio Cannavaro in Moscow at the 2018 World Cup draw",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/EstadioCentral2017-01-26.jpg/1280px-EstadioCentral2017-01-26.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/EstadioCentral2017-01-26.jpg/250px-EstadioCentral2017-01-26.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Reconstruction of the Yekaterinburg Central Stadium in January 2017",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Scale_model_of_Volgograd_Arena.jpg/1280px-Scale_model_of_Volgograd_Arena.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Scale_model_of_Volgograd_Arena.jpg/250px-Scale_model_of_Volgograd_Arena.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Scale model of the Volgograd Arena whose construction began in 2015.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Bel-Tun_%283%29.jpg/1280px-Bel-Tun_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Bel-Tun_%283%29.jpg/250px-Bel-Tun_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Volunteer flag bearers on the field prior to Belgium 's (flag depicted) group stage match against Tunisia",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%94%D0%BE_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%93_1000_%D0%B4%D0%BD%D0%B5%D0%B9_01.jpg/1280px-%D0%94%D0%BE_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%93_1000_%D0%B4%D0%BD%D0%B5%D0%B9_01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%94%D0%BE_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%93_1000_%D0%B4%D0%BD%D0%B5%D0%B9_01.jpg/250px-%D0%94%D0%BE_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%93_1000_%D0%B4%D0%BD%D0%B5%D0%B9_01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Launching of the 1,000 days countdown in Moscow",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Robbie_Williams_Aida_Garifullina_2018_FIFA_World_Cup.jpg/1280px-Robbie_Williams_Aida_Garifullina_2018_FIFA_World_Cup.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Robbie_Williams_Aida_Garifullina_2018_FIFA_World_Cup.jpg/250px-Robbie_Williams_Aida_Garifullina_2018_FIFA_World_Cup.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Soprano Aida Garifullina and pop singer Robbie Williams singing \" Angels \" at the opening ceremony",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2018_world_cup.png/1280px-2018_world_cup.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2018_world_cup.png/500px-2018_world_cup.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Champion Runner-up Third place Fourth place Quarter-finals Round of 16 Group stage",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/2018_FIFA_World_Cup_opening_ceremony_%282018-06-14%29_15.jpg/1280px-2018_FIFA_World_Cup_opening_ceremony_%282018-06-14%29_15.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/2018_FIFA_World_Cup_opening_ceremony_%282018-06-14%29_15.jpg/250px-2018_FIFA_World_Cup_opening_ceremony_%282018-06-14%29_15.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Pre-match ceremony prior to the opening game, Russia v Saudi Arabia",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Iran_and_Portugal_match_at_the_FIFA_World_Cup_2018_3.jpg/1280px-Iran_and_Portugal_match_at_the_FIFA_World_Cup_2018_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Iran_and_Portugal_match_at_the_FIFA_World_Cup_2018_3.jpg/250px-Iran_and_Portugal_match_at_the_FIFA_World_Cup_2018_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Iran v Portugal",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%A0%D0%BE%D0%B1%D0%B1%D0%B8_%D0%9A%D1%80%D1%83%D0%B7_2018.jpg/1280px-%D0%A0%D0%BE%D0%B1%D0%B1%D0%B8_%D0%9A%D1%80%D1%83%D0%B7_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%A0%D0%BE%D0%B1%D0%B1%D0%B8_%D0%9A%D1%80%D1%83%D0%B7_2018.jpg/250px-%D0%A0%D0%BE%D0%B1%D0%B1%D0%B8_%D0%9A%D1%80%D1%83%D0%B7_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Australia v Peru",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ISL-HRV_%289%29.jpg/1280px-ISL-HRV_%289%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ISL-HRV_%289%29.jpg/250px-ISL-HRV_%289%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Iceland v Croatia",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bra-Cos_%287%29.jpg/1280px-Bra-Cos_%287%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bra-Cos_%287%29.jpg/250px-Bra-Cos_%287%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Brazil v Costa Rica",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Ger-Mex_%2816%29.jpg/1280px-Ger-Mex_%2816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Ger-Mex_%2816%29.jpg/250px-Ger-Mex_%2816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Germany v Mexico",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bel-Tun_%286%29.jpg/1280px-Bel-Tun_%286%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bel-Tun_%286%29.jpg/250px-Bel-Tun_%286%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Belgium v Tunisia",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/JAP-POL_%2813%29.jpg/1280px-JAP-POL_%2813%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/JAP-POL_%2813%29.jpg/250px-JAP-POL_%2813%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Japan v Poland",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%D0%9C%D0%BE%D0%B4%D1%80%D0%B8%D1%87_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%94%D0%B7%D1%8E%D0%B1%D1%8B_%D0%A7%D0%9C_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018.jpg/1280px-%D0%9C%D0%BE%D0%B4%D1%80%D0%B8%D1%87_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%94%D0%B7%D1%8E%D0%B1%D1%8B_%D0%A7%D0%9C_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%D0%9C%D0%BE%D0%B4%D1%80%D0%B8%D1%87_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%94%D0%B7%D1%8E%D0%B1%D1%8B_%D0%A7%D0%9C_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018.jpg/250px-%D0%9C%D0%BE%D0%B4%D1%80%D0%B8%D1%87_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%94%D0%B7%D1%8E%D0%B1%D1%8B_%D0%A7%D0%9C_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Russia v Croatia",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Luka_Modri%C4%87_receives_the_golden_ball_prize_at_the_hands_of_Russian_President_Vladimir_Putin.jpg/1280px-Luka_Modri%C4%87_receives_the_golden_ball_prize_at_the_hands_of_Russian_President_Vladimir_Putin.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Luka_Modri%C4%87_receives_the_golden_ball_prize_at_the_hands_of_Russian_President_Vladimir_Putin.jpg/250px-Luka_Modri%C4%87_receives_the_golden_ball_prize_at_the_hands_of_Russian_President_Vladimir_Putin.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Luka Modrić accepting the Golden Ball award from Vladimir Putin",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kylian_Mbapp%C3%A9_receives_the_best_young_player_award_at_the_2018_Football_World_Cup_Russia.jpg/1280px-Kylian_Mbapp%C3%A9_receives_the_best_young_player_award_at_the_2018_Football_World_Cup_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kylian_Mbapp%C3%A9_receives_the_best_young_player_award_at_the_2018_Football_World_Cup_Russia.jpg/250px-Kylian_Mbapp%C3%A9_receives_the_best_young_player_award_at_the_2018_Football_World_Cup_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Kylian Mbappé receiving the World Cup best young player award from Emmanuel Macron",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Dusha_typeface_sample2.tiff/lossless-page1-250px-Dusha_typeface_sample2.tiff.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Dusha_typeface_sample2.tiff/lossless-page1-250px-Dusha_typeface_sample2.tiff.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The typeface \"Dusha\" used for branding",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Rus-IvoryCoast_%2813%29.jpg/1280px-Rus-IvoryCoast_%2813%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Rus-IvoryCoast_%2813%29.jpg/250px-Rus-IvoryCoast_%2813%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Tournament mascot, wolf Zabivaka",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Adidas_Telstar_18_in_Russia_vs._Argentina.jpg/1280px-Adidas_Telstar_18_in_Russia_vs._Argentina.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Adidas_Telstar_18_in_Russia_vs._Argentina.jpg/250px-Adidas_Telstar_18_in_Russia_vs._Argentina.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Match ball \"Telstar 18\"",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Adidas_Telstar_Mechta_Ball_On_the_Handover_Ceremony_of_the_2022_FIFA_World_Cup_host_mantle.jpg/1280px-Adidas_Telstar_Mechta_Ball_On_the_Handover_Ceremony_of_the_2022_FIFA_World_Cup_host_mantle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Adidas_Telstar_Mechta_Ball_On_the_Handover_Ceremony_of_the_2022_FIFA_World_Cup_host_mantle.jpg/250px-Adidas_Telstar_Mechta_Ball_On_the_Handover_Ceremony_of_the_2022_FIFA_World_Cup_host_mantle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Match ball for the knockout stage, \"Telstar Mechta\"",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_FIFA_World_Cup_opening_ceremony_%282018-06-14%29_11.jpg/1280px-2018_FIFA_World_Cup_opening_ceremony_%282018-06-14%29_11.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_FIFA_World_Cup_opening_ceremony_%282018-06-14%29_11.jpg/250px-2018_FIFA_World_Cup_opening_ceremony_%282018-06-14%29_11.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Facilities–such as the refurbished Luzhniki Stadium (pictured)–were one aspect of Russia's perceived success.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/3434Everyday_Fanfest.jpg/1280px-3434Everyday_Fanfest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/3434Everyday_Fanfest.jpg/250px-3434Everyday_Fanfest.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Hyundai was one of the sponsors of FIFA World Cup 2018.",
+      "alt": null,
+      "source": "article_text"
+    },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/1280px-2018_FIFA_World_Cup.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/250px-2018_FIFA_World_Cup.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",

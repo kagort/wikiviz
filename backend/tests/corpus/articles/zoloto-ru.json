@@ -512,6 +512,9 @@
           "196 Pt"
         ],
         [
+          "196 Au",
+          "синт.",
+          "6,183 сут",
           "β −",
           "196 Hg"
         ],
@@ -911,52 +914,185 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/250px-Gold-crystals.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Кристаллы чистого золота (99,99 %), выращенные газотранспортным методом [англ.] в атмосфере хлора",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Blattgold%2C_2010_%2801%29.jpg/1280px-Blattgold%2C_2010_%2801%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Blattgold%2C_2010_%2801%29.jpg/250px-Blattgold%2C_2010_%2801%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Лист сусального золота на бумажной подложке",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Image-Metal-reflectance-ru.svg/1280px-Image-Metal-reflectance-ru.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Image-Metal-reflectance-ru.svg/500px-Image-Metal-reflectance-ru.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Спектральный коэффициент отражения золота (Au) и для сравнения алюминия (Al) и серебра (Ag)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/GoldNuggetUSGOV.jpg/1280px-GoldNuggetUSGOV.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/GoldNuggetUSGOV.jpg/250px-GoldNuggetUSGOV.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Самородок золота",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Arsenopyrite-Gold-3d58c.jpg/1280px-Arsenopyrite-Gold-3d58c.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Arsenopyrite-Gold-3d58c.jpg/250px-Arsenopyrite-Gold-3d58c.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Вкрапления самородного золота в арсенопирите",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Nagyagite-tr502c.jpg/1280px-Nagyagite-tr502c.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Nagyagite-tr502c.jpg/250px-Nagyagite-tr502c.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Нагиагит",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Carbon_Leader_Gold_Ore%2C_South_Africa_3.jpg/1280px-Carbon_Leader_Gold_Ore%2C_South_Africa_3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Carbon_Leader_Gold_Ore%2C_South_Africa_3.jpg/250px-Carbon_Leader_Gold_Ore%2C_South_Africa_3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Вкрапления самородного золота в уранините",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Petzite.jpg/1280px-Petzite.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Petzite.jpg/250px-Petzite.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Петцит",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Auriferous_greenschist%2C_Homestake_Mine_SD.jpg/1280px-Auriferous_greenschist%2C_Homestake_Mine_SD.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Auriferous_greenschist%2C_Homestake_Mine_SD.jpg/250px-Auriferous_greenschist%2C_Homestake_Mine_SD.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Вкрапления самородного золота в породе",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%D0%A2%D0%B0%D1%80%D0%B5%D0%BB%D0%BA%D0%B0_%D1%81_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC_%D0%BF%D0%B5%D1%81%D0%BA%D0%BE%D0%BC.jpg/1280px-%D0%A2%D0%B0%D1%80%D0%B5%D0%BB%D0%BA%D0%B0_%D1%81_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC_%D0%BF%D0%B5%D1%81%D0%BA%D0%BE%D0%BC.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%D0%A2%D0%B0%D1%80%D0%B5%D0%BB%D0%BA%D0%B0_%D1%81_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC_%D0%BF%D0%B5%D1%81%D0%BA%D0%BE%D0%BC.jpg/250px-%D0%A2%D0%B0%D1%80%D0%B5%D0%BB%D0%BA%D0%B0_%D1%81_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%BC_%D0%BF%D0%B5%D1%81%D0%BA%D0%BE%D0%BC.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Золотой песок в промывочном лотке XIX века",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Gold-russia-mdm.jpg/1280px-Gold-russia-mdm.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Gold-russia-mdm.jpg/250px-Gold-russia-mdm.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Золото в слитках",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Or_Venezuela.jpg/1280px-Or_Venezuela.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Or_Venezuela.jpg/250px-Or_Venezuela.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Золотой самородок",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Wiki-Uralelectromed_MG19642.jpg/1280px-Wiki-Uralelectromed_MG19642.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Wiki-Uralelectromed_MG19642.jpg/250px-Wiki-Uralelectromed_MG19642.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Розлив золота на заводе « Уралэлектромедь »",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Earrings_from_Shulgi.JPG/1280px-Earrings_from_Shulgi.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Earrings_from_Shulgi.JPG/500px-Earrings_from_Shulgi.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Пара шумерских серёжек с клинописными надписями; 2093—2046 годы до н. э.; Музей Сулеймании [англ.] ( Сулеймания , Ирак)",
       "alt": "Пара шумерских серёжек с клинописными надписями; 2093—2046 годы до н. э.; Музей Сулеймании[англ.] (Сулеймания, Ирак)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Statuette_of_Amun_MET_DT553.jpg/1280px-Statuette_of_Amun_MET_DT553.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Statuette_of_Amun_MET_DT553.jpg/250px-Statuette_of_Amun_MET_DT553.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Древнеегипетская статуэтка Амона ; 945—715 годы до н. э.; золото; 17,5 × 4,7 см; Метрополитен-музей (Нью-Йорк)",
       "alt": "Древнеегипетская статуэтка Амона; 945—715 годы до н. э.; золото; 17,5 × 4,7 см; Метрополитен-музей (Нью-Йорк)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Indian_gold_tribute_donor_Apadana.jpg/1280px-Indian_gold_tribute_donor_Apadana.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Indian_gold_tribute_donor_Apadana.jpg/250px-Indian_gold_tribute_donor_Apadana.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Индийский податель дани в Ападане , из ахеменидской сатрапии Хиндуш [англ.] , несущий золото на коромысле, около 500 года до н. э.",
       "alt": "Индийский податель дани в Ападане, из ахеменидской сатрапии Хиндуш[англ.], несущий золото на коромысле, около 500 года до н. э.[58]",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Gold_stater_MET_DP138743.jpg/1280px-Gold_stater_MET_DP138743.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Gold_stater_MET_DP138743.jpg/330px-Gold_stater_MET_DP138743.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Древнегреческий статер ; 323—315 годы до н. э.; 18 мм; Метрополитен-музей",
       "alt": "Древнегреческий статер; 323—315 годы до н. э.; 18 мм; Метрополитен-музей",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Monnaie_de_Bactriane%2C_Eucratide_I%2C_2_faces.jpg/1280px-Monnaie_de_Bactriane%2C_Eucratide_I%2C_2_faces.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Monnaie_de_Bactriane%2C_Eucratide_I%2C_2_faces.jpg/960px-Monnaie_de_Bactriane%2C_Eucratide_I%2C_2_faces.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Золотая монета Эвкратида I (171—145 до н. э.), одного из эллинистических правителей древнего Ай-Ханума . Это самая большая известная золотая монета, отчеканенная в древности (169,20 г; 58 мм)",
       "alt": "Золотая монета Эвкратида I (171—145 до н. э.), одного из эллинистических правителей древнего Ай-Ханума. Это самая большая известная золотая монета, отчеканенная в древности (169,20 г; 58 мм)[59]",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Gold_aureus_of_Hadrian_MET_DP104782b.jpg/1280px-Gold_aureus_of_Hadrian_MET_DP104782b.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Gold_aureus_of_Hadrian_MET_DP104782b.jpg/330px-Gold_aureus_of_Hadrian_MET_DP104782b.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Римский ауреус Адриан ; 134—138 годы; 7,4 г ; Метрополитен-музей",
       "alt": "Римский ауреус Адриан; 134—138 годы; 7,4 г; Метрополитен-музей",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Box_with_scene_depicting_Roman_hero_Gaius_Mucius_Scaevola_before_the_Etruscan_king_Lars_Porsena_MET_DP170836_%28cropped%29.jpg/1280px-Box_with_scene_depicting_Roman_hero_Gaius_Mucius_Scaevola_before_the_Etruscan_king_Lars_Porsena_MET_DP170836_%28cropped%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Box_with_scene_depicting_Roman_hero_Gaius_Mucius_Scaevola_before_the_Etruscan_king_Lars_Porsena_MET_DP170836_%28cropped%29.jpg/500px-Box_with_scene_depicting_Roman_hero_Gaius_Mucius_Scaevola_before_the_Etruscan_king_Lars_Porsena_MET_DP170836_%28cropped%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Английская неоклассическая шкатулка; 1741; общая: 4,4 × 11,6 × 9,2 см; Метрополитен-музей",
       "alt": "Английская неоклассическая шкатулка; 1741; общая: 4,4 × 11,6 × 9,2 см; Метрополитен-музей",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/0/02/Gold_price2000-2010.gif/1280px-Gold_price2000-2010.gif?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/0/02/Gold_price2000-2010.gif/330px-Gold_price2000-2010.gif?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "График изменения цены на золото с 2000 по 2010 годы — отображена цена спот вечернего фиксинга (PM Fixing) на золото на Лондонской бирже металлов (LME)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Gold_-_world_production_trend.svg/1280px-Gold_-_world_production_trend.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Gold_-_world_production_trend.svg/330px-Gold_-_world_production_trend.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Производство золота",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Gold_Price_%281968-2008%29.gif/1280px-Gold_Price_%281968-2008%29.gif?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Gold_Price_%281968-2008%29.gif/330px-Gold_Price_%281968-2008%29.gif?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Цены на золото после краха Бреттон-Вудской системы , с 1968 года по 2008 год",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gold_Inflation_Adjusted.png/1280px-Gold_Inflation_Adjusted.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gold_Inflation_Adjusted.png/250px-Gold_Inflation_Adjusted.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Цены на золото с учётом инфляции",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Gold_price_%281992-2015%29.png/1280px-Gold_price_%281992-2015%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Gold_price_%281992-2015%29.png/250px-Gold_price_%281992-2015%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Цены на золото в 1992—2015 годах",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Goldreserven2006-ru.svg/1280px-Goldreserven2006-ru.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Goldreserven2006-ru.svg/330px-Goldreserven2006-ru.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Предполагаемые золотые резервы стран мира в 2006",
+      "alt": null,
       "source": "article_text"
     }
   ],

@@ -698,34 +698,49 @@
         [
           "Москва",
           "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
           "Саранск"
         ],
         [
           "Спартак",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
           "Мордовия Арена"
         ],
         [
           "Вместимость: 44 190",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
           "Вместимость: 41 685"
         ],
         [
           "",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
           ""
         ],
         [
           "Самара",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
           "Сочи"
         ],
         [
           "Самара Арена",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
           "Фишт"
         ],
         [
           "Вместимость: 41 970",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
           "Вместимость: 44 287"
         ],
         [
           "",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
+          "Москва Санкт-Петербург Калининград Нижний Новгород Казань Самара Волгоград Саранск Сочи Ростов-на-Дону Екатеринбург",
           ""
         ],
         [
@@ -811,6 +826,9 @@
           "Нигерия"
         ],
         [
+          "",
+          "",
+          "",
           ""
         ],
         [
@@ -887,7 +905,8 @@
           "8",
           "4",
           "+4",
-          "6"
+          "6",
+          "Выход в плей-офф"
         ],
         [
           "3",
@@ -912,7 +931,8 @@
           "2",
           "6",
           "−4",
-          "0"
+          "0",
+          ""
         ]
       ],
       "notes": [],
@@ -958,7 +978,8 @@
           "5",
           "4",
           "+1",
-          "5"
+          "5",
+          "Выход в плей-офф"
         ],
         [
           "3",
@@ -983,7 +1004,8 @@
           "2",
           "4",
           "−2",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1029,7 +1051,8 @@
           "2",
           "1",
           "+1",
-          "5"
+          "5",
+          "Выход в плей-офф"
         ],
         [
           "3",
@@ -1054,7 +1077,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1100,7 +1124,8 @@
           "3",
           "5",
           "−2",
-          "4"
+          "4",
+          "Выход в плей-офф"
         ],
         [
           "3",
@@ -1125,7 +1150,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1171,7 +1197,8 @@
           "5",
           "4",
           "+1",
-          "5"
+          "5",
+          "Выход в плей-офф"
         ],
         [
           "3",
@@ -1196,7 +1223,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1242,7 +1270,8 @@
           "3",
           "4",
           "−1",
-          "6"
+          "6",
+          "Выход в плей-офф"
         ],
         [
           "3",
@@ -1267,7 +1296,8 @@
           "2",
           "4",
           "−2",
-          "3"
+          "3",
+          ""
         ]
       ],
       "notes": [],
@@ -1313,7 +1343,8 @@
           "8",
           "3",
           "+5",
-          "6"
+          "6",
+          "Выход в плей-офф"
         ],
         [
           "3",
@@ -1338,7 +1369,8 @@
           "2",
           "11",
           "−9",
-          "0"
+          "0",
+          ""
         ]
       ],
       "notes": [],
@@ -1384,7 +1416,8 @@
           "4",
           "4",
           "0",
-          "4"
+          "4",
+          "Выход в плей-офф"
         ],
         [
           "3",
@@ -1409,7 +1442,8 @@
           "2",
           "5",
           "−3",
-          "3"
+          "3",
+          ""
         ]
       ],
       "notes": [],
@@ -3026,6 +3060,24 @@
   "locations": [],
   "events": [
     {
+      "id": "event-0",
+      "date": "2018-06-14",
+      "date_precision": "day",
+      "title": "Сроки турнира",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "2018-07-15",
+      "date_precision": "day",
+      "title": "Сроки финального турнира",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "2018-07-15",
       "date_precision": "day",
@@ -3964,338 +4016,401 @@
   "relations": [],
   "images": [
     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%9B%D1%83%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_2017_5.jpg/1280px-%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%9B%D1%83%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_2017_5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%9B%D1%83%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_2017_5.jpg/500px-%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%9B%D1%83%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_2017_5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
-      "alt": "Церемония старта тура Кубка чемпионата мира по футболу 2018 года. Стадион «Лужники», сентябрь 2017 года.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Russia_2018_World_Cup.jpeg/1280px-Russia_2018_World_Cup.jpeg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Russia_2018_World_Cup.jpeg/250px-Russia_2018_World_Cup.jpeg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Российская делегация после объявления результатов голосования. На переднем плане (слева направо): Ринат Дасаев , Виталий Мутко , Андрей Аршавин , Игорь Шувалов , Вячеслав Колосков",
+      "alt": null,
       "source": "article_text"
     },
     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Vladimir_Putin_FIFA_World_Cup_Trophy_Tour_kick-off_ceremony.jpg/1280px-Vladimir_Putin_FIFA_World_Cup_Trophy_Tour_kick-off_ceremony.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Vladimir_Putin_FIFA_World_Cup_Trophy_Tour_kick-off_ceremony.jpg/500px-Vladimir_Putin_FIFA_World_Cup_Trophy_Tour_kick-off_ceremony.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
-      "alt": "Президент России Владимир Путин на церемонии держит в руках трофей чемпионата мира по футболу — Кубок мира ФИФА.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Football_fans_at_Nikolskaya_street_in_Moscow.jpg/1280px-Football_fans_at_Nikolskaya_street_in_Moscow.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Football_fans_at_Nikolskaya_street_in_Moscow.jpg/330px-Football_fans_at_Nikolskaya_street_in_Moscow.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Аргентинские и хорватские болельщики на Никольской улице в Москве, которая стала местом притяжения для болельщиков со всего мира в дни проведения чемпионата мира по футболу",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Rus-IvoryCoast_%2813%29.jpg/1280px-Rus-IvoryCoast_%2813%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Rus-IvoryCoast_%2813%29.jpg/250px-Rus-IvoryCoast_%2813%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Забивака",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Adidas_Telstar_18_in_Russia_vs._Argentina.jpg/1280px-Adidas_Telstar_18_in_Russia_vs._Argentina.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Adidas_Telstar_18_in_Russia_vs._Argentina.jpg/250px-Adidas_Telstar_18_in_Russia_vs._Argentina.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Мяч «Telstar 18»",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2018_world_cup.png/1280px-2018_world_cup.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2018_world_cup.png/500px-2018_world_cup.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Чемпион Серебряный призёр Бронзовый призёр 4-е место Четвертьфиналисты 1/8 финала Групповой этап",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Luka_Modri%C4%87_receives_the_golden_ball_prize_at_the_hands_of_Russian_President_Vladimir_Putin.jpg/1280px-Luka_Modri%C4%87_receives_the_golden_ball_prize_at_the_hands_of_Russian_President_Vladimir_Putin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Luka_Modri%C4%87_receives_the_golden_ball_prize_at_the_hands_of_Russian_President_Vladimir_Putin.jpg/250px-Luka_Modri%C4%87_receives_the_golden_ball_prize_at_the_hands_of_Russian_President_Vladimir_Putin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Лука Модрич получает Золотой мяч от Владимира Путина",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kylian_Mbapp%C3%A9_receives_the_best_young_player_award_at_the_2018_Football_World_Cup_Russia.jpg/1280px-Kylian_Mbapp%C3%A9_receives_the_best_young_player_award_at_the_2018_Football_World_Cup_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kylian_Mbapp%C3%A9_receives_the_best_young_player_award_at_the_2018_Football_World_Cup_Russia.jpg/250px-Kylian_Mbapp%C3%A9_receives_the_best_young_player_award_at_the_2018_Football_World_Cup_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Килиан Мбаппе получает Приз лучшему молодому игроку от Эмманюэля Макрона",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/France_champion_of_the_Football_World_Cup_Russia_2018.jpg/1280px-France_champion_of_the_Football_World_Cup_Russia_2018.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/France_champion_of_the_Football_World_Cup_Russia_2018.jpg/250px-France_champion_of_the_Football_World_Cup_Russia_2018.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Франция поднимает Кубок мира ФИФА",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%94%D0%BE_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%93_1000_%D0%B4%D0%BD%D0%B5%D0%B9_01.jpg/1280px-%D0%94%D0%BE_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%93_1000_%D0%B4%D0%BD%D0%B5%D0%B9_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%94%D0%BE_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%93_1000_%D0%B4%D0%BD%D0%B5%D0%B9_01.jpg/330px-%D0%94%D0%BE_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%93_1000_%D0%B4%D0%BD%D0%B5%D0%B9_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Церемония запуска обратного отсчёта 1000 дней до чемпионата мира по футболу в России. Москва, Красная площадь , 18 сентября 2015 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/FIFA_Fan_Fest_entrance_in_Moscow%2C_26.06.2018.jpg/1280px-FIFA_Fan_Fest_entrance_in_Moscow%2C_26.06.2018.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/FIFA_Fan_Fest_entrance_in_Moscow%2C_26.06.2018.jpg/330px-FIFA_Fan_Fest_entrance_in_Moscow%2C_26.06.2018.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Вход в фан-зону (FIFA Fan Fest) у МГУ на Воробьёвых горах, июнь 2018 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/e/e5/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%9C%D0%B0%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB._%D0%A7%D0%9C2018_IMG_5882_e1t.JPG/1280px-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%9C%D0%B0%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB._%D0%A7%D0%9C2018_IMG_5882_e1t.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/e/e5/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%9C%D0%B0%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB._%D0%A7%D0%9C2018_IMG_5882_e1t.JPG/330px-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%9C%D0%B0%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB._%D0%A7%D0%9C2018_IMG_5882_e1t.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Москва. Болельщики на Манежной площади во время чемпионата",
+      "alt": null,
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/RUSMARKA-2000.jpg/1280px-RUSMARKA-2000.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/RUSMARKA-2000.jpg/120px-RUSMARKA-2000.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Почтовый блок, Россия, 2015",
       "alt": "Почтовый блок, Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/RUSMARKA-2008.jpg/1280px-RUSMARKA-2008.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/RUSMARKA-2008.jpg/120px-RUSMARKA-2008.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Выступление 1958 г., Россия, 2015",
       "alt": "Выступление 1958 г., Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/RUSMARKA-2009.jpg/1280px-RUSMARKA-2009.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/RUSMARKA-2009.jpg/120px-RUSMARKA-2009.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Выступление 1962 г., Россия, 2015",
       "alt": "Выступление 1962 г., Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/RUSMARKA-2010.jpg/1280px-RUSMARKA-2010.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/RUSMARKA-2010.jpg/120px-RUSMARKA-2010.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Выступление 1966 г., Россия, 2015",
       "alt": "Выступление 1966 г., Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/RUSMARKA-2011.jpg/1280px-RUSMARKA-2011.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/RUSMARKA-2011.jpg/120px-RUSMARKA-2011.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Выступление 1970 г., Россия, 2015",
       "alt": "Выступление 1970 г., Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/RUSMARKA-2012.jpg/1280px-RUSMARKA-2012.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/RUSMARKA-2012.jpg/120px-RUSMARKA-2012.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Выступление 1982 г., Россия, 2015",
       "alt": "Выступление 1982 г., Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/RUSMARKA-2013.jpg/1280px-RUSMARKA-2013.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/RUSMARKA-2013.jpg/120px-RUSMARKA-2013.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Выступление 1986 г., Россия, 2015",
       "alt": "Выступление 1986 г., Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/RUSMARKA-2032.jpg/1280px-RUSMARKA-2032.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/RUSMARKA-2032.jpg/120px-RUSMARKA-2032.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Стадион «Фишт». Сочи, Россия, 2015",
       "alt": "Стадион «Фишт». Сочи, Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/RUSMARKA-2033.jpg/1280px-RUSMARKA-2033.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/RUSMARKA-2033.jpg/120px-RUSMARKA-2033.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Стадион «Лужники». Москва, Россия, 2015",
       "alt": "Стадион «Лужники». Москва, Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/RUSMARKA-2034.jpg/1280px-RUSMARKA-2034.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/RUSMARKA-2034.jpg/120px-RUSMARKA-2034.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Стадион «Спартак». Москва, Россия, 2015",
       "alt": "Стадион «Спартак». Москва, Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/RUSMARKA-2035.jpg/1280px-RUSMARKA-2035.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/RUSMARKA-2035.jpg/120px-RUSMARKA-2035.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Стадион «Казань арена». Казань, Россия, 2015",
       "alt": "Стадион «Казань арена». Казань, Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/RUSMARKA-2042.jpg/1280px-RUSMARKA-2042.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/RUSMARKA-2042.jpg/120px-RUSMARKA-2042.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Г. Д. Качалин (1911—1995), Россия, 2015",
       "alt": "Г. Д. Качалин (1911—1995), Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/RUSMARKA-2043.jpg/1280px-RUSMARKA-2043.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/RUSMARKA-2043.jpg/120px-RUSMARKA-2043.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "В. Б. Бубукин (1933—2008), Россия, 2015",
       "alt": "В. Б. Бубукин (1933—2008), Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/RUSMARKA-2044.jpg/1280px-RUSMARKA-2044.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/RUSMARKA-2044.jpg/120px-RUSMARKA-2044.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Ю. Н. Войнов (1931—2003), Россия, 2015",
       "alt": "Ю. Н. Войнов (1931—2003), Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/RUSMARKA-2045.jpg/1280px-RUSMARKA-2045.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/RUSMARKA-2045.jpg/120px-RUSMARKA-2045.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "В. К. Иванов (1934—2011), Россия, 2015",
       "alt": "В. К. Иванов (1934—2011), Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/RUSMARKA-2046.jpg/1280px-RUSMARKA-2046.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/RUSMARKA-2046.jpg/120px-RUSMARKA-2046.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "С. С. Сальников (1925—1984), Россия, 2015",
       "alt": "С. С. Сальников (1925—1984), Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/RUSMARKA-2047.jpg/1280px-RUSMARKA-2047.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/RUSMARKA-2047.jpg/120px-RUSMARKA-2047.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Э. А. Стрельцов (1937—1990), Россия, 2015",
       "alt": "Э. А. Стрельцов (1937—1990), Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/RUSMARKA-2048.jpg/1280px-RUSMARKA-2048.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/RUSMARKA-2048.jpg/120px-RUSMARKA-2048.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Л. И. Яшин (1929—1990), Россия, 2015",
       "alt": "Л. И. Яшин (1929—1990), Россия, 2015",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Stamp-russia2017-fifa-talisman-2018-block.png/1280px-Stamp-russia2017-fifa-talisman-2018-block.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Stamp-russia2017-fifa-talisman-2018-block.png/120px-Stamp-russia2017-fifa-talisman-2018-block.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Талисман Забивака . Почтовый блок, Россия, 2017",
       "alt": "Талисман Забивака. Почтовый блок, Россия, 2017",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/RUSMARKA-2294.jpg/1280px-RUSMARKA-2294.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/RUSMARKA-2294.jpg/120px-RUSMARKA-2294.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Талисман Забивака, Россия, 2017",
       "alt": "Талисман Забивака, Россия, 2017",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Stamp_of_Russia_2017_No_2295_2018_FIFA_World_Cup_mascot.jpg/1280px-Stamp_of_Russia_2017_No_2295_2018_FIFA_World_Cup_mascot.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Stamp_of_Russia_2017_No_2295_2018_FIFA_World_Cup_mascot.jpg/120px-Stamp_of_Russia_2017_No_2295_2018_FIFA_World_Cup_mascot.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Талисман Забивака, Россия, 2017",
       "alt": "Талисман Забивака, Россия, 2017",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Stamp_of_Russia_2017_No_2296_2018_FIFA_World_Cup_mascot.jpg/1280px-Stamp_of_Russia_2017_No_2296_2018_FIFA_World_Cup_mascot.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Stamp_of_Russia_2017_No_2296_2018_FIFA_World_Cup_mascot.jpg/120px-Stamp_of_Russia_2017_No_2296_2018_FIFA_World_Cup_mascot.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Талисман Забивака, Россия, 2017",
       "alt": "Талисман Забивака, Россия, 2017",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/RUSMARKA-2303.jpg/1280px-RUSMARKA-2303.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/RUSMARKA-2303.jpg/120px-RUSMARKA-2303.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Футбол в искусстве. Памятник В. Боброву (2002), Россия, 2017",
       "alt": "Футбол в искусстве. Памятник В. Боброву (2002), Россия, 2017",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/RUSMARKA-2304.jpg/1280px-RUSMARKA-2304.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/RUSMARKA-2304.jpg/120px-RUSMARKA-2304.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Футбол в искусстве. Барельеф «Футболист» (1953), Россия, 2017",
       "alt": "Футбол в искусстве. Барельеф «Футболист» (1953), Россия, 2017",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/RUSMARKA-2305.jpg/1280px-RUSMARKA-2305.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/RUSMARKA-2305.jpg/120px-RUSMARKA-2305.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Футбол в искусстве. А. А. Дейнека «Футбол» (1928), Россия, 2017",
       "alt": "Футбол в искусстве. А. А. Дейнека «Футбол» (1928), Россия, 2017",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/RUSMARKA-2306.jpg/1280px-RUSMARKA-2306.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/RUSMARKA-2306.jpg/120px-RUSMARKA-2306.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Футбол в искусстве. Ю. И. Пименов «Футбол» (1926), Россия, 2017",
       "alt": "Футбол в искусстве. Ю. И. Пименов «Футбол» (1926), Россия, 2017",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Stamp_of_Russia_2018_No_2359.jpg/1280px-Stamp_of_Russia_2018_No_2359.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Stamp_of_Russia_2018_No_2359.jpg/120px-Stamp_of_Russia_2018_No_2359.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Почтовый блок, Россия, 2018",
       "alt": "Почтовый блок, Россия, 2018",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Stamp_of_Armenia_-_2018_-_Colnect_800210_-_Football_World_Cup_2010_Russia.jpeg/1280px-Stamp_of_Armenia_-_2018_-_Colnect_800210_-_Football_World_Cup_2010_Russia.jpeg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Stamp_of_Armenia_-_2018_-_Colnect_800210_-_Football_World_Cup_2010_Russia.jpeg/120px-Stamp_of_Armenia_-_2018_-_Colnect_800210_-_Football_World_Cup_2010_Russia.jpeg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Храм Василия Блаженного и Кубок мира ФИФА , Армения, 2018",
       "alt": "Храм Василия Блаженного и Кубок мира ФИФА, Армения, 2018",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Russia_stamp_2018_%E2%84%96_2345.jpg/1280px-Russia_stamp_2018_%E2%84%96_2345.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Russia_stamp_2018_%E2%84%96_2345.jpg/250px-Russia_stamp_2018_%E2%84%96_2345.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Группа А",
       "alt": "Группа А",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Russia_stamp_2018_%E2%84%96_2346.jpg/1280px-Russia_stamp_2018_%E2%84%96_2346.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Russia_stamp_2018_%E2%84%96_2346.jpg/250px-Russia_stamp_2018_%E2%84%96_2346.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Группа В",
       "alt": "Группа В",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Russia_stamp_2018_%E2%84%96_2347.jpg/1280px-Russia_stamp_2018_%E2%84%96_2347.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Russia_stamp_2018_%E2%84%96_2347.jpg/250px-Russia_stamp_2018_%E2%84%96_2347.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Группа C",
       "alt": "Группа C",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Russia_stamp_2018_%E2%84%96_2348.jpg/1280px-Russia_stamp_2018_%E2%84%96_2348.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Russia_stamp_2018_%E2%84%96_2348.jpg/250px-Russia_stamp_2018_%E2%84%96_2348.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Группа D",
       "alt": "Группа D",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Russia_stamp_2018_%E2%84%96_2349.jpg/1280px-Russia_stamp_2018_%E2%84%96_2349.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Russia_stamp_2018_%E2%84%96_2349.jpg/250px-Russia_stamp_2018_%E2%84%96_2349.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Группа E",
       "alt": "Группа E",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Russia_stamp_2018_%E2%84%96_2350.jpg/1280px-Russia_stamp_2018_%E2%84%96_2350.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Russia_stamp_2018_%E2%84%96_2350.jpg/250px-Russia_stamp_2018_%E2%84%96_2350.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Группа F",
       "alt": "Группа F",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Russia_stamp_2018_%E2%84%96_2351.jpg/1280px-Russia_stamp_2018_%E2%84%96_2351.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Russia_stamp_2018_%E2%84%96_2351.jpg/250px-Russia_stamp_2018_%E2%84%96_2351.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Группа G",
       "alt": "Группа G",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Russia_stamp_2018_%E2%84%96_2352.jpg/1280px-Russia_stamp_2018_%E2%84%96_2352.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Russia_stamp_2018_%E2%84%96_2352.jpg/250px-Russia_stamp_2018_%E2%84%96_2352.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Группа H",
       "alt": "Группа H",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/RR5111-0349_3_%D1%80%D1%83%D0%B1%D0%BB%D1%8F_2016_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE_%D0%B0%D0%B2%D0%B5%D1%80%D1%81.png/1280px-RR5111-0349_3_%D1%80%D1%83%D0%B1%D0%BB%D1%8F_2016_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE_%D0%B0%D0%B2%D0%B5%D1%80%D1%81.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/RR5111-0349_3_%D1%80%D1%83%D0%B1%D0%BB%D1%8F_2016_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE_%D0%B0%D0%B2%D0%B5%D1%80%D1%81.png/120px-RR5111-0349_3_%D1%80%D1%83%D0%B1%D0%BB%D1%8F_2016_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE_%D0%B0%D0%B2%D0%B5%D1%80%D1%81.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Рельефное изображение Кубка Чемпионата мира по футболу FIFA, 3 рубля, серебро, 2016",
       "alt": "Рельефное изображение Кубка Чемпионата мира по футболу FIFA, 3 рубля, серебро, 2016",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/RR5216-0112.png/1280px-RR5216-0112.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/RR5216-0112.png/120px-RR5216-0112.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Рельефное изображение Кубка Чемпионата мира по футболу FIFA, 50 рублей, золото, 2016",
       "alt": "Рельефное изображение Кубка Чемпионата мира по футболу FIFA, 50 рублей, золото, 2016",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/RR5111-0350R.png/1280px-RR5111-0350R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/RR5111-0350R.png/120px-RR5111-0350R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Дом Н. И. Севастьянова , Екатеринбург , 3 рубля, серебро, 2016",
       "alt": "Дом Н. И. Севастьянова, Екатеринбург, 3 рубля, серебро, 2016",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/RR5111-0351R.png/1280px-RR5111-0351R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/RR5111-0351R.png/120px-RR5111-0351R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Памятник дракону Зиланту , Казань , 3 рубля, серебро, 2016",
       "alt": "Памятник дракону Зиланту, Казань, 3 рубля, серебро, 2016",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/RR5111-0352R.png/1280px-RR5111-0352R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/RR5111-0352R.png/120px-RR5111-0352R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Кафедральный собор , Калининград , 3 рубля, серебро, 2016",
       "alt": "Кафедральный собор, Калининград, 3 рубля, серебро, 2016",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/RR5111-0353R.png/1280px-RR5111-0353R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/RR5111-0353R.png/120px-RR5111-0353R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Кафедральный собор святого праведного воина Феодора Ушакова , Саранск , 3 рубля, серебро, 2016",
       "alt": "Кафедральный собор святого праведного воина Феодора Ушакова, Саранск, 3 рубля, серебро, 2016",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/RR5015-0016R.png/1280px-RR5015-0016R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/RR5015-0016R.png/120px-RR5015-0016R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Выполненное в цвете изображение официальной эмблемы Чемпионата мира по футболу FIFA 2018 года, 25 рублей, медно-никелевый сплав, 2016",
       "alt": "Выполненное в цвете изображение официальной эмблемы Чемпионата мира по футболу FIFA 2018 года, 25 рублей, медно-никелевый сплав, 2016",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/RR5015-0015R.png/1280px-RR5015-0015R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/RR5015-0015R.png/120px-RR5015-0015R.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Рельефное изображение официальной эмблемы Чемпионата мира по футболу FIFA 2018 года, 25 рублей, медно-никелевый сплав, 2016",
       "alt": "Рельефное изображение официальной эмблемы Чемпионата мира по футболу FIFA 2018 года, 25 рублей, медно-никелевый сплав, 2016",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/100_fotball_rubles_2018_obverse.jpg/1280px-100_fotball_rubles_2018_obverse.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/100_fotball_rubles_2018_obverse.jpg/60px-100_fotball_rubles_2018_obverse.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Памятная банкнота Банка России образца 2018 года номиналом 100 рублей, лицевая сторона",
       "alt": "Памятная банкнота Банка России образца 2018 года номиналом 100 рублей, лицевая сторона",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/100_fotball_rubles_2018_reverse.jpg/1280px-100_fotball_rubles_2018_reverse.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/100_fotball_rubles_2018_reverse.jpg/60px-100_fotball_rubles_2018_reverse.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Памятная банкнота Банка России образца 2018 года номиналом 100 рублей, оборотная сторона",
       "alt": "Памятная банкнота Банка России образца 2018 года номиналом 100 рублей, оборотная сторона",
       "source": "article_text"
     },

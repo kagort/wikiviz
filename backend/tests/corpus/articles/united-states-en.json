@@ -723,6 +723,105 @@
       "description": null,
       "source": "infobox",
       "confidence": 1.0
+    },
+    {
+      "id": "text-event-0",
+      "date": "1776-07-02",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1776-01-02",
+      "date_precision": "day",
+      "title": "Etymology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "1776-04-06",
+      "date_precision": "day",
+      "title": "Etymology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1776-06-11",
+      "date_precision": "day",
+      "title": "Etymology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "1776-07-04",
+      "date_precision": "day",
+      "title": "Etymology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "1776-06-28",
+      "date_precision": "day",
+      "title": "American Revolution and the early republic (1765–1800)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "1776-07-04",
+      "date_precision": "day",
+      "title": "American Revolution and the early republic (1765–1800)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "1863-01-01",
+      "date_precision": "day",
+      "title": "Westward expansion and Civil War (1800–1865)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "1946-07-04",
+      "date_precision": "day",
+      "title": "Reconstruction, Gilded Age, and Progressive Era (1866–1917)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "2020-04-01",
+      "date_precision": "day",
+      "title": "Population",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "2024-07-01",
+      "date_precision": "day",
+      "title": "Population",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
     }
   ],
   "numbers": [
@@ -992,10 +1091,87 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Extreme_Makeover%2C_Mesa_Verde_Edition_-_panoramio.jpg/1280px-Extreme_Makeover%2C_Mesa_Verde_Edition_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Extreme_Makeover%2C_Mesa_Verde_Edition_-_panoramio.jpg/250px-Extreme_Makeover%2C_Mesa_Verde_Edition_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Cliff Palace , a settlement of ancestors of the Native American Pueblo peoples in present-day Montezuma County, Colorado , built between c. 1200 and 1275",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Nouvelle-France_map-en.svg/1280px-Nouvelle-France_map-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Nouvelle-France_map-en.svg/330px-Nouvelle-France_map-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The colonial possessions of Britain (the Thirteen Colonies in pink and others in purple), France (in blue), and Spain (in orange) in North America, 1750",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/1280px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/250px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Declaration of Independence portrait depicts the Committee of Five presenting the Declaration to the Continental Congress on June 28, 1776, in Philadelphia .",
+      "alt": "See caption.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Territorial_Acquisitions.png/1280px-U.S._Territorial_Acquisitions.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Territorial_Acquisitions.png/330px-U.S._Territorial_Acquisitions.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Territorial expansion of the United States",
+      "alt": "Historical territorial expansion of the United States",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/US_SlaveFree1858.gif/1280px-US_SlaveFree1858.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/US_SlaveFree1858.gif/330px-US_SlaveFree1858.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Slave states and free states in 1858",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg/1280px-Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg/250px-Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Raising the Flag on Iwo Jima (1945), depicting U.S. marines during the Battle of Iwo Jima in World War II",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/1280px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/250px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Civil rights activists during the March on Washington for Jobs and Freedom in Washington, D.C. in August 1963",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/250px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Twin Towers in Lower Manhattan during the September 11 attacks of 2001",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg/1280px-Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg/330px-Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Glacier Point in Yosemite National Park , California",
       "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Uspaintedrelief.png/1280px-Uspaintedrelief.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Uspaintedrelief.png/250px-Uspaintedrelief.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A topographic map of the United States",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/K%C3%B6ppen_Climate_Types_US_50.png/1280px-K%C3%B6ppen_Climate_Types_US_50.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/K%C3%B6ppen_Climate_Types_US_50.png/250px-K%C3%B6ppen_Climate_Types_US_50.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Köppen climate types of the United States",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/1280px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/250px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The bald eagle has been the national emblem of the United States since 1782, and was officially declared the national bird in 2024.",
+      "alt": "A bald eagle",
       "source": "article_text"
     },
     {
@@ -1010,6 +1186,209 @@
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/250px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Donald Trump President",
       "alt": "Donald Trump",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/United_States_%28%2Boverseas%29%2C_administrative_divisions_-_en_-_colored_%28zoom%29.svg/1280px-United_States_%28%2Boverseas%29%2C_administrative_divisions_-_en_-_colored_%28zoom%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/United_States_%28%2Boverseas%29%2C_administrative_divisions_-_en_-_colored_%28zoom%29.svg/330px-United_States_%28%2Boverseas%29%2C_administrative_divisions_-_en_-_colored_%28zoom%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Territories of the United States include American Samoa , Guam , the Northern Mariana Islands , Puerto Rico , and the U.S. Virgin Islands .",
+      "alt": "Territories of the United States",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Indian_Reservations.png/1280px-Indian_Reservations.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Indian_Reservations.png/250px-Indian_Reservations.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Map of the 326 Indian reservations in the United States; 231 recognized Alaska Native tribes are not shown.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_USA_with_state_and_territory_names_2.png/1280px-Map_of_USA_with_state_and_territory_names_2.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_USA_with_state_and_territory_names_2.png/960px-Map_of_USA_with_state_and_territory_names_2.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/US_state_Legislature_and_Governor_Control.svg/1280px-US_state_Legislature_and_Governor_Control.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/US_state_Legislature_and_Governor_Control.svg/250px-US_state_Legislature_and_Governor_Control.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "States and territories by partisan control, as of February 2025: Democratic Party Republican Party New Progressive Party Divided partisan control",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/American_MNNA_and_NATO_allies.svg/1280px-American_MNNA_and_NATO_allies.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/American_MNNA_and_NATO_allies.svg/500px-American_MNNA_and_NATO_allies.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The United States and its key allies: United States NATO members , excluding the U.S. itself Major non-NATO allies Former major non-NATO ally",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Pentagon%2C_Headquarters_of_the_US_Department_of_Defense_%28cropped2%29.jpg/1280px-The_Pentagon%2C_Headquarters_of_the_US_Department_of_Defense_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Pentagon%2C_Headquarters_of_the_US_Department_of_Defense_%28cropped2%29.jpg/250px-The_Pentagon%2C_Headquarters_of_the_US_Department_of_Defense_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Pentagon , the headquarters of the U.S. Department of Defense in Arlington County, Virginia , is one of the world's largest office buildings with over 6.5 million square feet (600,000 m 2 ) of floor space .",
+      "alt": "The Pentagon",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/FBI_Headquarters_-_J._Edgar_Hoover_Building_%2853840035941%29_b.jpg/1280px-FBI_Headquarters_-_J._Edgar_Hoover_Building_%2853840035941%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/FBI_Headquarters_-_J._Edgar_Hoover_Building_%2853840035941%29_b.jpg/250px-FBI_Headquarters_-_J._Edgar_Hoover_Building_%2853840035941%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "J. Edgar Hoover Building , the headquarters of the Federal Bureau of Investigation (FBI), in Washington, D.C.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Obverse_of_the_series_2021_%241_Federal_Reserve_Note.jpg/1280px-Obverse_of_the_series_2021_%241_Federal_Reserve_Note.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Obverse_of_the_series_2021_%241_Federal_Reserve_Note.jpg/250px-Obverse_of_the_series_2021_%241_Federal_Reserve_Note.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The U.S. dollar is the most-used currency in international transactions and the world's foremost reserve currency .",
+      "alt": "Obverse of a US$1 bill",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/250px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "New York City is the world's principal financial center , and its metropolitan area is the world's largest metropolitan economy .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Gaming-Wall-Street_BTS_Prodigium-266.jpg/1280px-Gaming-Wall-Street_BTS_Prodigium-266.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Gaming-Wall-Street_BTS_Prodigium-266.jpg/250px-Gaming-Wall-Street_BTS_Prodigium-266.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The New York Stock Exchange on Wall Street , the world's largest stock exchange by market capitalization",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1280px-Aerial_view_of_Apple_Park_dllu.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/250px-Aerial_view_of_Apple_Park_dllu.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Apple Park in California's Silicon Valley , the largest and foremost technology and innovation hub in the world",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/1280px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/250px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Astronaut Buzz Aldrin (with Neil Armstrong seen in visor reflection) during the 1969 Apollo 11 mission, the first of six crewed Moon landings . The United States is the only country to have landed humans on the Moon.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/45intoI-10_2.jpg/1280px-45intoI-10_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/45intoI-10_2.jpg/250px-45intoI-10_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Interchange between Interstate 10 and Interstate 45 in Houston , Texas",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Hartsfield2026.jpg/1280px-Hartsfield2026.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Hartsfield2026.jpg/250px-Hartsfield2026.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Hartsfield–Jackson Atlanta International Airport , serving the Atlanta metropolitan area , is the world's busiest airport by passenger traffic with over 75 million passengers as of 2021.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Belmont_Court%2C_Monroe%2C_NJ_08831.jpg/1280px-Belmont_Court%2C_Monroe%2C_NJ_08831.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Belmont_Court%2C_Monroe%2C_NJ_08831.jpg/250px-Belmont_Court%2C_Monroe%2C_NJ_08831.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Most Americans live in suburbs and exurbs , such as Monroe Township , New Jersey , in the New York metropolitan area .",
+      "alt": "Houses near farmland",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Languages_cp-02.svg/1280px-Languages_cp-02.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Languages_cp-02.svg/250px-Languages_cp-02.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Most spoken languages in the U.S.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Border_USA_Mexico.jpg/1280px-Border_USA_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Border_USA_Mexico.jpg/250px-Border_USA_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Mexico–United States border wall between San Diego (left) and Tijuana (right)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_medical_center.jpg/1280px-Texas_medical_center.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_medical_center.jpg/250px-Texas_medical_center.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Texas Medical Center in Houston is the largest medical complex in the world. In 2018, it employed 120,000 people and treated 10 million patients.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/University_of_Virginia_Rotunda_in_2006.jpg/1280px-University_of_Virginia_Rotunda_in_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/University_of_Virginia_Rotunda_in_2006.jpg/250px-University_of_Virginia_Rotunda_in_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Some 77% of American college students attend public institutions such as the University of Virginia , founded by Thomas Jefferson in 1819.",
+      "alt": "Photograph of the University of Virginia",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Statue_of_Liberty%2C_New_York_City%2C_20231001_1034_0847.jpg/1280px-Statue_of_Liberty%2C_New_York_City%2C_20231001_1034_0847.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Statue_of_Liberty%2C_New_York_City%2C_20231001_1034_0847.jpg/250px-Statue_of_Liberty%2C_New_York_City%2C_20231001_1034_0847.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Statue of Liberty on Liberty Island in New York Harbor was an 1886 gift from France that has become an iconic symbol of the American Dream .",
+      "alt": "The Statue of Liberty, a large teal bronze sculpture on a stone pedestal",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/1280px-Mark_Twain_by_AF_Bradley.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/250px-Mark_Twain_by_AF_Bradley.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Mark Twain , whom William Faulkner called \"the father of American literature\"",
+      "alt": "Photograph of Mark Twain",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Comcast_Philly.JPG/1280px-Comcast_Philly.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Comcast_Philly.JPG/250px-Comcast_Philly.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Comcast Center in Philadelphia , headquarters of Comcast , one of the world's largest telecommunications companies and media conglomerates",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Various_Pictures_from_New_York_City_-_September%2C_2025.jpg/1280px-Various_Pictures_from_New_York_City_-_September%2C_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Various_Pictures_from_New_York_City_-_September%2C_2025.jpg/250px-Various_Pictures_from_New_York_City_-_September%2C_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Broadway theaters in Theater District, Manhattan",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg/1280px-Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg/250px-Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "American Gothic (1930) by Grant Wood is one of the most famous American paintings and is widely parodied .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Country_Music_Hall_of_Fame_2022a.jpg/1280px-Country_Music_Hall_of_Fame_2022a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Country_Music_Hall_of_Fame_2022a.jpg/250px-Country_Music_Hall_of_Fame_2022a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Country Music Hall of Fame and Museum in Nashville, Tennessee",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Carolina_Herrera_AW14_12.jpg/1280px-Carolina_Herrera_AW14_12.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Carolina_Herrera_AW14_12.jpg/250px-Carolina_Herrera_AW14_12.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Haute couture fashion models on the catwalk during New York Fashion Week",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/1280px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/250px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Hollywood Sign in the Hollywood Hills , often regarded as the symbol of the American film industry",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2019-11-28_14_46_15_A_single_serving_of_Thanksgiving_Dinner_in_the_Parkway_Village_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-2019-11-28_14_46_15_A_single_serving_of_Thanksgiving_Dinner_in_the_Parkway_Village_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2019-11-28_14_46_15_A_single_serving_of_Thanksgiving_Dinner_in_the_Parkway_Village_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/250px-2019-11-28_14_46_15_A_single_serving_of_Thanksgiving_Dinner_in_the_Parkway_Village_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A Thanksgiving dinner with roast turkey , mashed potatoes , pickles , corn , candied yams , cranberry jelly , shrimps , stuffing , green peas , deviled eggs , green salad , and apple sauce",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/121229-F-PB123-001_%288343236202%29.jpg/1280px-121229-F-PB123-001_%288343236202%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/121229-F-PB123-001_%288343236202%29.jpg/250px-121229-F-PB123-001_%288343236202%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A collegiate-level game of American football , the most popular sport in the U.S.",
+      "alt": null,
       "source": "article_text"
     },
     {

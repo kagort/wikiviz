@@ -26,8 +26,10 @@ def extract_tables(html: str) -> list[Table]:
     tables = []
     for index, raw_table in enumerate(raw_tables):
         caption_tag = raw_table.find("caption")
+        # Текст склеивается как в исходном HTML, лишние пробелы сжимаются:
+        # пробел между "<i>…</i> <span>(Linnaeus, 1758)</span>" сохраняется.
         title = (
-            "".join(t.strip() for t in strings_without_footnotes(caption_tag))
+            " ".join("".join(strings_without_footnotes(caption_tag)).split())
             if caption_tag
             else None
         )
@@ -63,13 +65,7 @@ def extract_tables(html: str) -> list[Table]:
             end -= 1
         trailing = [_cell_text(tr.find(["th", "td"])) for tr in all_rows[end:]]
 
-        rows = []
-        for tr in all_rows[header_end:end]:
-            cells = tr.find_all(["td", "th"])
-            if not cells:
-                continue
-            row = [_cell_text(cell) for cell in cells]
-            rows.append(row)
+        rows = _data_rows(all_rows[header_end:end])
 
         tables.append(
             Table(
@@ -164,6 +160,44 @@ def _header_columns(header_rows) -> list[str]:
                 parts.append(text)
         columns.append(" — ".join(parts))
     return columns
+
+
+def _data_rows(trs) -> list[list[str]]:
+    """
+    Строки данных с раскрытыми объединёнными ячейками: значение ячейки
+    с rowspan повторяется в следующих строках (Julius Caesar: "Gallic
+    Wars" на 12 строк), с colspan - в соседних колонках, как в
+    стандартных инструментах разбора таблиц. Без этого значения
+    съезжали в чужие колонки. rowspan за пределы таблицы обрезается.
+    """
+    rows: list[list[str]] = []
+    # Колонка -> (текст, сколько ещё строк занимает) от rowspan сверху.
+    carried: dict[int, tuple[str, int]] = {}
+    for tr in trs:
+        cells = tr.find_all(["td", "th"])
+        if not cells and not carried:
+            continue
+        row: dict[int, str] = {}
+        for column, (text, remaining) in list(carried.items()):
+            row[column] = text
+            if remaining > 1:
+                carried[column] = (text, remaining - 1)
+            else:
+                del carried[column]
+        column = 0
+        for cell in cells:
+            while column in row:
+                column += 1
+            text = _cell_text(cell)
+            rowspan = _span(cell, "rowspan")
+            for c in range(column, column + _span(cell, "colspan")):
+                row[c] = text
+                if rowspan > 1:
+                    carried[c] = (text, rowspan - 1)
+            column += _span(cell, "colspan")
+        if row:
+            rows.append([row.get(c, "") for c in range(max(row) + 1)])
+    return rows
 
 
 def _is_hidden(node, cell) -> bool:

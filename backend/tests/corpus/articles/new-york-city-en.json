@@ -1464,6 +1464,186 @@
       "description": null,
       "source": "infobox",
       "confidence": 1.0
+    },
+    {
+      "id": "text-event-0",
+      "date": "1673-08-24",
+      "date_precision": "day",
+      "title": "English rule",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1776-08-27",
+      "date_precision": "day",
+      "title": "American Revolution",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "1776-09-11",
+      "date_precision": "day",
+      "title": "American Revolution",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1861-04-19",
+      "date_precision": "day",
+      "title": "American Civil War",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "1969-06-28",
+      "date_precision": "day",
+      "title": "Late 20th and early 21st centuries",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "2011-09-17",
+      "date_precision": "day",
+      "title": "Late 20th and early 21st centuries",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "2026-07-02",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "2016-02-14",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "1936-07-09",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "1934-02-09",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "1917-12-30",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-11",
+      "date": "1903-07-02",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-12",
+      "date": "2012-10-29",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-13",
+      "date": "2011-06-24",
+      "date_precision": "day",
+      "title": "Sexual orientation and gender identity",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-14",
+      "date": "2011-07-23",
+      "date_precision": "day",
+      "title": "Sexual orientation and gender identity",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-15",
+      "date": "2020-06-14",
+      "date_precision": "day",
+      "title": "Sexual orientation and gender identity",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-16",
+      "date": "2011-12-19",
+      "date_precision": "day",
+      "title": "Tech and biotech",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-17",
+      "date": "1904-10-27",
+      "date_precision": "day",
+      "title": "Rail",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-18",
+      "date": "2016-07-12",
+      "date_precision": "day",
+      "title": "Streets and highways",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-19",
+      "date": "2026-01-01",
+      "date_precision": "day",
+      "title": "Politics",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
     }
   ],
   "numbers": [
@@ -1635,13 +1815,6 @@
   "relations": [],
   "images": [
     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
-      "alt": "Midtown Manhattan",
-      "source": "article_text"
-    },
-    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg/1280px-Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg/250px-Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "The Castello Plan , a 1660 map of New Amsterdam in Lower Manhattan",
@@ -1656,9 +1829,121 @@
       "source": "article_text"
     },
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/BattleofLongisland.jpg/1280px-BattleofLongisland.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/BattleofLongisland.jpg/250px-BattleofLongisland.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Battle of Long Island , one of the largest battles of the American Revolutionary War , which took place in Brooklyn on August 27, 1776",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ramon_Elorriaga_-_Inauguration_of_George_Washington.jpg/1280px-Ramon_Elorriaga_-_Inauguration_of_George_Washington.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ramon_Elorriaga_-_Inauguration_of_George_Washington.jpg/250px-Ramon_Elorriaga_-_Inauguration_of_George_Washington.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A portrait of the first inauguration of George Washington in 1789",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hippolyte_Sebron_-_Rue_De_New-York_En_1840.jpg/1280px-Hippolyte_Sebron_-_Rue_De_New-York_En_1840.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hippolyte_Sebron_-_Rue_De_New-York_En_1840.jpg/250px-Hippolyte_Sebron_-_Rue_De_New-York_En_1840.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Broadway , which follows the Native American Wecquaesgeek Trail through Manhattan, 1840",
+      "alt": "A painting of a snowy city street with horse-drawn sleds and a 19th-century fire truck under blue sky",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Departure_of_the_7th_Regiment.jpg/1280px-The_Departure_of_the_7th_Regiment.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Departure_of_the_7th_Regiment.jpg/250px-The_Departure_of_the_7th_Regiment.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Departure of the 7th New York Militia Regiment for the defense of Washington, D.C., April 19, 1861",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/New_York_Draft_Riots_Harpers_colored_asylum.jpg/1280px-New_York_Draft_Riots_Harpers_colored_asylum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/New_York_Draft_Riots_Harpers_colored_asylum.jpg/250px-New_York_Draft_Riots_Harpers_colored_asylum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Colored Orphan Asylum , looted and burned during the Draft Riots of 1863",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Mulberry_Street_NYC_c1900_LOC_3g04637u_edit.jpg/1280px-Mulberry_Street_NYC_c1900_LOC_3g04637u_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Mulberry_Street_NYC_c1900_LOC_3g04637u_edit.jpg/250px-Mulberry_Street_NYC_c1900_LOC_3g04637u_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Manhattan's Little Italy c. 1900",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Old_timer_structural_worker2.jpg/1280px-Old_timer_structural_worker2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Old_timer_structural_worker2.jpg/250px-Old_timer_structural_worker2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A construction worker atop the Empire State Building during its construction in 1930. The Chrysler Building is visible to the right.",
+      "alt": "A man working on a steel girder high above a city skyline.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Stonewall_Inn_5_pride_weekend_2016.jpg/1280px-Stonewall_Inn_5_pride_weekend_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Stonewall_Inn_5_pride_weekend_2016.jpg/250px-Stonewall_Inn_5_pride_weekend_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Stonewall Inn in Greenwich Village , the site of the June 1969 Stonewall riots and the cradle of the modern LGBTQ+ rights movement",
+      "alt": "A two-story building with brick on the first floor, with two arched doorways, and gray stucco on the second floor, off of which hang numerous rainbow flags.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/77/Ford_to_City.PNG/1280px-Ford_to_City.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/77/Ford_to_City.PNG/250px-Ford_to_City.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "October 1975 New York Daily News front page on President Ford's refusal to help the city avert bankruptcy",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/North_face_south_tower_after_plane_strike_9-11.jpg/1280px-North_face_south_tower_after_plane_strike_9-11.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/North_face_south_tower_after_plane_strike_9-11.jpg/250px-North_face_south_tower_after_plane_strike_9-11.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The World Trade Center , in Lower Manhattan , during the September 11 attacks in 2001",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Core_of_New_York_City_by_Sentinel-2.jpg/1280px-Core_of_New_York_City_by_Sentinel-2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Core_of_New_York_City_by_Sentinel-2.jpg/250px-Core_of_New_York_City_by_Sentinel-2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Aerial view of the New York City metropolitan area with Manhattan at its center",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/5_Boroughs_Labels_New_York_City_Map.svg/1280px-5_Boroughs_Labels_New_York_City_Map.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/5_Boroughs_Labels_New_York_City_Map.svg/250px-5_Boroughs_Labels_New_York_City_Map.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "1. Manhattan (New York County) 2. Brooklyn (Kings County) 3. Queens (Queens County) 4. The Bronx (Bronx County) 5. Staten Island (Richmond County)",
+      "alt": "A map showing five boroughs in different colors.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Statue_of_Liberty%2C_NY.jpg/1280px-Statue_of_Liberty%2C_NY.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Statue_of_Liberty%2C_NY.jpg/250px-Statue_of_Liberty%2C_NY.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Statue of Liberty on Liberty Island in New York Harbor , a global symbol of the United States and its ideals of liberty, freedom, and opportunity",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Central_Park_-_The_Pond_%2848377220157%29.jpg/1280px-Central_Park_-_The_Pond_%2848377220157%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Central_Park_-_The_Pond_%2848377220157%29.jpg/250px-Central_Park_-_The_Pond_%2848377220157%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Pond and Midtown Manhattan as seen from Gapstow Bridge in Central Park",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Recycling_combine_-_Sunset_Pk%2C_NYC_05.jpg/1280px-Recycling_combine_-_Sunset_Pk%2C_NYC_05.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Recycling_combine_-_Sunset_Pk%2C_NYC_05.jpg/250px-Recycling_combine_-_Sunset_Pk%2C_NYC_05.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Sunset Park Material Recovery Facility is the largest commingled recycling facility in the United States.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Chinatown%2C_New_York_%2818076448908%29.jpg/1280px-Chinatown%2C_New_York_%2818076448908%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Chinatown%2C_New_York_%2818076448908%29.jpg/250px-Chinatown%2C_New_York_%2818076448908%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Little Fuzhou , Manhattan",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/NYC_Pride_2019_26.jpg/1280px-NYC_Pride_2019_26.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/NYC_Pride_2019_26.jpg/250px-NYC_Pride_2019_26.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The NYC Pride March is the largest pride parade in the world .",
       "alt": null,
       "source": "article_text"
     },
@@ -1670,9 +1955,149 @@
       "source": "article_text"
     },
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Midtown_Manhattan_from_Weehawken_September_2021_001.jpg/1280px-Midtown_Manhattan_from_Weehawken_September_2021_001.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Midtown_Manhattan_from_Weehawken_September_2021_001.jpg/250px-Midtown_Manhattan_from_Weehawken_September_2021_001.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Midtown Manhattan is the world's largest central business district.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Lower_Manhattan_skyline_from_Upper_New_York_Bay%2C_20231001_1031_0838.jpg/1280px-Lower_Manhattan_skyline_from_Upper_New_York_Bay%2C_20231001_1031_0838.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Lower_Manhattan_skyline_from_Upper_New_York_Bay%2C_20231001_1031_0838.jpg/250px-Lower_Manhattan_skyline_from_Upper_New_York_Bay%2C_20231001_1031_0838.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Lower Manhattan , including Wall Street , the world's principal financial center, and One World Trade Center , the tallest skyscraper in the Western Hemisphere",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Gaming-Wall-Street_BTS_Prodigium-266.jpg/1280px-Gaming-Wall-Street_BTS_Prodigium-266.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Gaming-Wall-Street_BTS_Prodigium-266.jpg/250px-Gaming-Wall-Street_BTS_Prodigium-266.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The New York Stock Exchange is the world's largest stock exchange per total market capitalization of its listed companies .",
+      "alt": "A large flag is stretched over Roman-style columns on the front of a large building.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Flatiron_District.jpg/1280px-Flatiron_District.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Flatiron_District.jpg/250px-Flatiron_District.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Flatiron District is the cradle of Silicon Alley, initially metonymous for the New York metropolitan region's high tech sector.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Cornell_Tech_buildings_%2841991%29.jpg/1280px-Cornell_Tech_buildings_%2841991%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Cornell_Tech_buildings_%2841991%29.jpg/250px-Cornell_Tech_buildings_%2841991%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Cornell Tech on Roosevelt Island",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/5th_Avenue_9304.JPG/1280px-5th_Avenue_9304.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/5th_Avenue_9304.JPG/250px-5th_Avenue_9304.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Fifth Avenue in Midtown Manhattan is the most expensive shopping street in the world.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Times_Square%2C_Broadway%2C_May_2016.jpg/1280px-Times_Square%2C_Broadway%2C_May_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Times_Square%2C_Broadway%2C_May_2016.jpg/250px-Times_Square%2C_Broadway%2C_May_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Times Square is one of the world's leading tourist attractions with 50 million tourists annually.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/New_York%2C_2019_%2848621790492%29.jpg/1280px-New_York%2C_2019_%2848621790492%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/New_York%2C_2019_%2848621790492%29.jpg/250px-New_York%2C_2019_%2848621790492%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Rockefeller Center , one of Manhattan's leading media and entertainment hubs",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Freedom_Of_Speech_%28256854761%29.jpeg/1280px-Freedom_Of_Speech_%28256854761%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Freedom_Of_Speech_%28256854761%29.jpeg/250px-Freedom_Of_Speech_%28256854761%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The headquarters of the New York Times Company , publisher of The New York Times",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Low_Memorial_Library_Columbia_University_College_Walk_Court_Yard_05.jpg/1280px-Low_Memorial_Library_Columbia_University_College_Walk_Court_Yard_05.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Low_Memorial_Library_Columbia_University_College_Walk_Court_Yard_05.jpg/250px-Low_Memorial_Library_Columbia_University_College_Walk_Court_Yard_05.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Low Memorial Library at Columbia University",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Facade_of_the_New_York_Public_Library_Main_Branch_2.jpg/1280px-Facade_of_the_New_York_Public_Library_Main_Branch_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Facade_of_the_New_York_Public_Library_Main_Branch_2.jpg/250px-Facade_of_the_New_York_Public_Library_Main_Branch_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Stephen A. Schwarzman Headquarters Building of the New York Public Library",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/NYC_-_Guggenheim_Museum.jpg/1280px-NYC_-_Guggenheim_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/NYC_-_Guggenheim_Museum.jpg/250px-NYC_-_Guggenheim_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Solomon R. Guggenheim Museum seen from Fifth Avenue",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Broadway_%289075158922%29.jpg/1280px-Broadway_%289075158922%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Broadway_%289075158922%29.jpg/250px-Broadway_%289075158922%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "New York is typically characterized by its fast pace of life, which has spawned the term New York minute .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Various_Pictures_from_New_York_City_-_September%2C_2025.jpg/1280px-Various_Pictures_from_New_York_City_-_September%2C_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Various_Pictures_from_New_York_City_-_September%2C_2025.jpg/250px-Various_Pictures_from_New_York_City_-_September%2C_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Golden ; Jacobs ; Schoenfeld ; and Booth theaters in the Theater District",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/1232-42_Dean_Street_Crown_Heights.jpg/1280px-1232-42_Dean_Street_Crown_Heights.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/1232-42_Dean_Street_Crown_Heights.jpg/250px-1232-42_Dean_Street_Crown_Heights.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Row houses in Crown Heights North Historic District , Brooklyn",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Midtown_Manhattan_from_Weehawken_September_2021_HDR_panorama.jpg/1280px-Midtown_Manhattan_from_Weehawken_September_2021_HDR_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Midtown_Manhattan_from_Weehawken_September_2021_HDR_panorama.jpg/1280px-Midtown_Manhattan_from_Weehawken_September_2021_HDR_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "High-resolution panorama of Midtown Manhattan , taken from Weehawken, New Jersey , on September 2021",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Lincoln_Center_at_dawn.jpg/1280px-Lincoln_Center_at_dawn.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Lincoln_Center_at_dawn.jpg/250px-Lincoln_Center_at_dawn.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Lincoln Center : David H. Koch Theater (left), home of the NY City Ballet ; Metropolitan Opera House (center), home of the Metropolitan Opera ; and David Geffen Hall (right), home of the NY Philharmonic",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/1280px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/250px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Metropolitan Museum of Art , the largest art museum in the Americas",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Lox-and-bagel-02.jpg/1280px-Lox-and-bagel-02.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Lox-and-bagel-02.jpg/250px-Lox-and-bagel-02.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "New York–style bagel with lox",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Carolina_Herrera_AW14_12.jpg/1280px-Carolina_Herrera_AW14_12.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Carolina_Herrera_AW14_12.jpg/250px-Carolina_Herrera_AW14_12.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Haute couture fashion models walk the runway during NYFW .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Macy%27s_Thanksgiving_Day_Parade_2022_New_York_City_%2852523112564%29.jpg/1280px-Macy%27s_Thanksgiving_Day_Parade_2022_New_York_City_%2852523112564%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Macy%27s_Thanksgiving_Day_Parade_2022_New_York_City_%2852523112564%29.jpg/250px-Macy%27s_Thanksgiving_Day_Parade_2022_New_York_City_%2852523112564%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The annual Macy's Thanksgiving Day Parade , the world's largest parade",
       "alt": null,
       "source": "article_text"
     },
@@ -1681,6 +2106,104 @@
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Arthur_ashe_stadium_interior.jpg/250px-Arthur_ashe_stadium_interior.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "The US Open Tennis Championships in Flushing Meadows–Corona Park in Queens",
       "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/NewYorkPresbyterian-Cornell.jpg/1280px-NewYorkPresbyterian-Cornell.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/NewYorkPresbyterian-Cornell.jpg/250px-NewYorkPresbyterian-Cornell.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "New York-Presbyterian Hospital , affiliated with Columbia University and Cornell University , is the largest hospital and largest private employer in New York City and one of the world's busiest hospitals.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/My_picture_of_NYPD_officers.jpg/1280px-My_picture_of_NYPD_officers.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/My_picture_of_NYPD_officers.jpg/250px-My_picture_of_NYPD_officers.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "New York Police Department (NYPD) police officers in Brooklyn",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/FDNY_Tower_Ladder_1_%28897367891%29.jpg/1280px-FDNY_Tower_Ladder_1_%28897367891%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/FDNY_Tower_Ladder_1_%28897367891%29.jpg/250px-FDNY_Tower_Ladder_1_%28897367891%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Fire Department of New York (FDNY), the largest municipal fire department in the United States",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Port-authority-terminal.jpg/1280px-Port-authority-terminal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Port-authority-terminal.jpg/250px-Port-authority-terminal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Port Authority Bus Terminal , the world's busiest bus station, at Eighth Avenue and 42nd Street",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Image-Grand_central_Station_Outside_Night_2.jpg/1280px-Image-Grand_central_Station_Outside_Night_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Image-Grand_central_Station_Outside_Night_2.jpg/250px-Image-Grand_central_Station_Outside_Night_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "New York City is home to the two busiest train stations in the United States, Grand Central Terminal (pictured) and New York Penn Station .",
+      "alt": "A row of yellow taxis in front of a multi-story ornate stone building with three huge arched windows.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/R160_E_enters_42nd_Street.jpg/1280px-R160_E_enters_42nd_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/R160_E_enters_42nd_Street.jpg/250px-R160_E_enters_42nd_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The New York City Subway , one of the world's largest metro systems.",
+      "alt": "The front end of a subway train, with a red E on a LED display on the top. To the right of the train is a platform with a group of people waiting for their train.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/1280px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/250px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "John F. Kennedy Airport in Queens",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Spirit_of_America_-_Staten_Island_Ferry.jpg/1280px-Spirit_of_America_-_Staten_Island_Ferry.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Spirit_of_America_-_Staten_Island_Ferry.jpg/250px-Spirit_of_America_-_Staten_Island_Ferry.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Staten Island Ferry shuttles commuters between Manhattan and Staten Island .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Citi_bike_%2810414610734%29.jpg/1280px-Citi_bike_%2810414610734%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Citi_bike_%2810414610734%29.jpg/250px-Citi_bike_%2810414610734%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Citi Bike bike share service, which started in May 2013",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Manhattanhenge_2016-07-12-FRD.png/1280px-Manhattanhenge_2016-07-12-FRD.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Manhattanhenge_2016-07-12-FRD.png/250px-Manhattanhenge_2016-07-12-FRD.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Tourists observing Manhattanhenge on 42nd Street on July 12, 2016",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Manhattan_and_Brooklyn_bridges_on_the_East_River%2C_New_York_City%2C_1981.jpg/1280px-Manhattan_and_Brooklyn_bridges_on_the_East_River%2C_New_York_City%2C_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Manhattan_and_Brooklyn_bridges_on_the_East_River%2C_New_York_City%2C_1981.jpg/250px-Manhattan_and_Brooklyn_bridges_on_the_East_River%2C_New_York_City%2C_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Manhattan Bridge and Brooklyn Bridge on the East River",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Lincoln_Manh_portal_9-38_jeh.JPG/1280px-Lincoln_Manh_portal_9-38_jeh.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Lincoln_Manh_portal_9-38_jeh.JPG/250px-Lincoln_Manh_portal_9-38_jeh.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Lincoln Tunnel",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/New_York_City_Hall_exterior%2C_October_2016.jpg/1280px-New_York_City_Hall_exterior%2C_October_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/New_York_City_Hall_exterior%2C_October_2016.jpg/250px-New_York_City_Hall_exterior%2C_October_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "New York City Hall",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Zohran_Mamdani_05.25.25_%28b%29_%28cropped%29.jpg/1280px-Zohran_Mamdani_05.25.25_%28b%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Zohran_Mamdani_05.25.25_%28b%29_%28cropped%29.jpg/250px-Zohran_Mamdani_05.25.25_%28b%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Zohran Mamdani , the current and 112th Mayor of New York City",
+      "alt": "Mayor Zohran Mamdani wearing a black suit and smiling",
       "source": "article_text"
     }
   ],

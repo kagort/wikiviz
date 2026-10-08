@@ -202,3 +202,52 @@ def test_infobox_dates_found_even_with_other_tables_present():
 
     assert len(events) == 1
     assert events[0].date == "1879-03-14"
+
+
+# --- Даты инфобокса без ISO-записи (сессия 2б) ---------------------------------
+
+
+def _row(label, value):
+    return f'<table class="infobox"><tr><th class="infobox-label">{label}</th><td class="infobox-data">{value}</td></tr></table>'
+
+
+def test_text_date_without_iso_is_extracted():
+    # Brazil: "• Declaration | 7 September 1822" - ISO-записи нет.
+    events = extract_dates(_row("• Declaration", "7 September 1822"))
+
+    assert [(e.title, e.date, e.date_precision.value) for e in events] == [("• Declaration", "1822-09-07", "day")]
+
+
+def test_russian_text_date_without_iso_is_extracted():
+    events = extract_dates(_row("Основано", "18 января 1871 года (Германская империя)"))
+
+    assert [(e.date, e.date_precision.value) for e in events] == [("1871-01-18", "day")]
+
+
+def test_us_format_date_without_iso_is_extracted():
+    events = extract_dates(_row("Founded", "September 4, 1998; 27 years ago"))
+
+    assert [e.date for e in events] == ["1998-09-04"]
+
+
+def test_range_takes_first_full_date():
+    # World War II: "1 September 1939 – 2 September 1945".
+    events = extract_dates(_row("Date", "1 September 1939 – 2 September 1945 (6 years, 1 day)"))
+
+    assert [e.date for e in events] == ["1939-09-01"]
+
+
+def test_iso_is_preferred_over_text_date():
+    events = extract_dates(_row("Born", "14 March 1879 (1879-03-14) Ulm"))
+
+    assert [e.date for e in events] == ["1879-03-14"]
+
+
+def test_bce_year_without_day_still_works():
+    events = extract_dates(_row("Дата рождения", "около 469 до н. э."))
+
+    assert [(e.date, e.date_precision.value) for e in events] == [("-0469", "year")]
+
+
+def test_value_without_any_date_gives_no_event():
+    assert extract_dates(_row("Capital", "Paris")) == []

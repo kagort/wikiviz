@@ -264,6 +264,15 @@
   "locations": [],
   "events": [
     {
+      "id": "event-0",
+      "date": "1939-09-01",
+      "date_precision": "day",
+      "title": "Date",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "1939-09-01",
       "date_precision": "day",
@@ -658,9 +667,261 @@
   "relations": [],
   "images": [
     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/1280px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/250px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_Bild_102-09042%2C_Genf%2C_V%C3%B6lkerbund%2C_Sitzungssaal.jpg/1280px-Bundesarchiv_Bild_102-09042%2C_Genf%2C_V%C3%B6lkerbund%2C_Sitzungssaal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_Bild_102-09042%2C_Genf%2C_V%C3%B6lkerbund%2C_Sitzungssaal.jpg/250px-Bundesarchiv_Bild_102-09042%2C_Genf%2C_V%C3%B6lkerbund%2C_Sitzungssaal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The League of Nations assembly, held in Geneva , Switzerland (1930)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/N%C3%BCrnberg_Reichsparteitag_Hitler_retouched.jpg/1280px-N%C3%BCrnberg_Reichsparteitag_Hitler_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/N%C3%BCrnberg_Reichsparteitag_Hitler_retouched.jpg/250px-N%C3%BCrnberg_Reichsparteitag_Hitler_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Adolf Hitler at a German Nazi political rally in Nuremberg , August 1933",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Mussolini_truppe_Etiopia.jpg/1280px-Mussolini_truppe_Etiopia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Mussolini_truppe_Etiopia.jpg/250px-Mussolini_truppe_Etiopia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Benito Mussolini inspecting troops during the Italo-Ethiopian War , 1935",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Taierzhuang.jpg/1280px-Taierzhuang.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Taierzhuang.jpg/250px-Taierzhuang.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Chinese soldiers battle the Imperial Japanese Army in Taierzhuang , 1938",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Munich_Agreement_Bundesarchiv_Bild_183-R69173.jpg/1280px-Munich_Agreement_Bundesarchiv_Bild_183-R69173.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Munich_Agreement_Bundesarchiv_Bild_183-R69173.jpg/250px-Munich_Agreement_Bundesarchiv_Bild_183-R69173.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "From left to right: Chamberlain , Daladier , Hitler , Mussolini , and Ciano pictured just before signing the Munich Agreement , 29 September 1938",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bundesarchiv_Bild_183-H27337%2C_Moskau%2C_Stalin_und_Ribbentrop_im_Kreml.jpg/1280px-Bundesarchiv_Bild_183-H27337%2C_Moskau%2C_Stalin_und_Ribbentrop_im_Kreml.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bundesarchiv_Bild_183-H27337%2C_Moskau%2C_Stalin_und_Ribbentrop_im_Kreml.jpg/250px-Bundesarchiv_Bild_183-H27337%2C_Moskau%2C_Stalin_und_Ribbentrop_im_Kreml.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "German Foreign Minister Joachim von Ribbentrop (right) and the Soviet leader Joseph Stalin after signing the Molotov–Ribbentrop Pact , 23 August 1939",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Danzig_Police_at_Polish_Border_%281939-09-01%29.jpg/1280px-Danzig_Police_at_Polish_Border_%281939-09-01%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Danzig_Police_at_Polish_Border_%281939-09-01%29.jpg/250px-Danzig_Police_at_Polish_Border_%281939-09-01%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A German propaganda photograph reenacting the removal of the Polish border crossing in Sopot",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Karelian_Isthmus_13_March_1940.png/1280px-Karelian_Isthmus_13_March_1940.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Karelian_Isthmus_13_March_1940.png/250px-Karelian_Isthmus_13_March_1940.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Mannerheim Line and Karelian Isthmus on the last day of the Winter War , 13 March 1940",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/WWIIEuropeMay40.gif/1280px-WWIIEuropeMay40.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/WWIIEuropeMay40.gif/500px-WWIIEuropeMay40.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "German advance into Belgium and Northern France, 10 May – 4 June 1940, sweeping past the Maginot Line (shown in dark red)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/St_Paul_destroyed.jpg/1280px-St_Paul_destroyed.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/St_Paul_destroyed.jpg/250px-St_Paul_destroyed.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "London's St Paul's Cathedral after the German Blitz on 29 December 1940",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bundesarchiv_Bild_101I-783-0109-11%2C_Nordafrika%2C_Panzer_III_in_Fahrt.jpg/1280px-Bundesarchiv_Bild_101I-783-0109-11%2C_Nordafrika%2C_Panzer_III_in_Fahrt.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bundesarchiv_Bild_101I-783-0109-11%2C_Nordafrika%2C_Panzer_III_in_Fahrt.jpg/250px-Bundesarchiv_Bild_101I-783-0109-11%2C_Nordafrika%2C_Panzer_III_in_Fahrt.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "German Panzer III of the Afrika Korps advancing across the North African desert, April 1941",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Second_world_war_europe_animation_large_de.gif/1280px-Second_world_war_europe_animation_large_de.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Second_world_war_europe_animation_large_de.gif/330px-Second_world_war_europe_animation_large_de.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "European theatre of World War II animation map, 1939–1945 – Red: Western Allies and the Soviet Union after 1941; Green: Soviet Union before 1941; Blue: Axis powers",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Einsatzgruppen_murder_Jews_in_Ivanhorod%2C_Ukraine%2C_1942.jpg/1280px-Einsatzgruppen_murder_Jews_in_Ivanhorod%2C_Ukraine%2C_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Einsatzgruppen_murder_Jews_in_Ivanhorod%2C_Ukraine%2C_1942.jpg/250px-Einsatzgruppen_murder_Jews_in_Ivanhorod%2C_Ukraine%2C_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Members of the Einsatzgruppen prepares to shoot a Jewish mother holding her child, Ivangorod , Ukraine",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/RIAN_archive_2153_After_bombing.jpg/1280px-RIAN_archive_2153_After_bombing.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/RIAN_archive_2153_After_bombing.jpg/250px-RIAN_archive_2153_After_bombing.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Russian civilians leaving destroyed houses after a German bombardment during the siege of Leningrad ( Saint Petersburg ), 10 December 1942",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/228_regiment_in_HK.jpg/1280px-228_regiment_in_HK.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/228_regiment_in_HK.jpg/250px-228_regiment_in_HK.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Japanese soldiers entering Hong Kong , 8 December 1941",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/The_USS_Arizona_%28BB-39%29_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg/1280px-The_USS_Arizona_%28BB-39%29_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/The_USS_Arizona_%28BB-39%29_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg/250px-The_USS_Arizona_%28BB-39%29_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The USS Arizona was a total loss in the Japanese surprise air attack on the United States Pacific Fleet at Pearl Harbor , Sunday 7 December 1941",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Second_world_war_asia_1937-1942_map_en6.png/1280px-Second_world_war_asia_1937-1942_map_en6.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Second_world_war_asia_1937-1942_map_en6.png/500px-Second_world_war_asia_1937-1942_map_en6.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Map of Japanese military advances through mid-1942",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Japanese_torpedo_bombers_fly_past_USS_Yorktown_%28CV-5%29_on_4_June_1942.jpg/1280px-Japanese_torpedo_bombers_fly_past_USS_Yorktown_%28CV-5%29_on_4_June_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Japanese_torpedo_bombers_fly_past_USS_Yorktown_%28CV-5%29_on_4_June_1942.jpg/250px-Japanese_torpedo_bombers_fly_past_USS_Yorktown_%28CV-5%29_on_4_June_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Japanese torpedo bombers fly past the USS Yorktown during the Battle of Midway , 4 June 1942",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/RIAN_archive_44732_Soviet_soldiers_attack_house.jpg/1280px-RIAN_archive_44732_Soviet_soldiers_attack_house.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/RIAN_archive_44732_Soviet_soldiers_attack_house.jpg/500px-RIAN_archive_44732_Soviet_soldiers_attack_house.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Red Army soldiers on the counterattack during the Battle of Stalingrad , February 1943",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/410th_Bombardment_Squadron_-_B-17_Flying_Fortress.jpg/1280px-410th_Bombardment_Squadron_-_B-17_Flying_Fortress.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/410th_Bombardment_Squadron_-_B-17_Flying_Fortress.jpg/250px-410th_Bombardment_Squadron_-_B-17_Flying_Fortress.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "American Eighth Air Force Boeing B-17 Flying Fortress bombing raid on the Focke-Wulf factory in Germany, 9 October 1943",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/SBD_VB-16_over_USS_Washington_1943.jpg/1280px-SBD_VB-16_over_USS_Washington_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/SBD_VB-16_over_USS_Washington_1943.jpg/250px-SBD_VB-16_over_USS_Washington_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "US Navy SBD-5 scout / dive bomber flying patrol over USS Washington and USS Lexington during the Gilbert and Marshall Islands campaign , 1943",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Soviet_troops_and_T-34_tanks_counterattacking_Kursk_Voronezh_Front_July_1943.jpg/1280px-Soviet_troops_and_T-34_tanks_counterattacking_Kursk_Voronezh_Front_July_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Soviet_troops_and_T-34_tanks_counterattacking_Kursk_Voronezh_Front_July_1943.jpg/250px-Soviet_troops_and_T-34_tanks_counterattacking_Kursk_Voronezh_Front_July_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Red Army troops behind T34/76 (1942 variant) in a counter-offensive on German positions at the Battle of Kursk , July 1943",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Approaching_Omaha.jpg/1280px-Approaching_Omaha.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Approaching_Omaha.jpg/250px-Approaching_Omaha.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "American troops approaching Omaha Beach during the invasion of Normandy on D-Day , 6 June 1944",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Douglas_MacArthur_lands_Leyte1.jpg/1280px-Douglas_MacArthur_lands_Leyte1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Douglas_MacArthur_lands_Leyte1.jpg/250px-Douglas_MacArthur_lands_Leyte1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "General Douglas MacArthur returns to the Philippines during the Battle of Leyte , 20 October 1944",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg/1280px-Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg/250px-Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Yalta Conference held in February 1945, with Winston Churchill , Franklin D. Roosevelt , and Joseph Stalin",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Japanese_atrocities._Philippines%2C_China%2C_Burma%2C_Japan_-_NARA_-_292598.jpg/1280px-Japanese_atrocities._Philippines%2C_China%2C_Burma%2C_Japan_-_NARA_-_292598.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Japanese_atrocities._Philippines%2C_China%2C_Burma%2C_Japan_-_NARA_-_292598.jpg/250px-Japanese_atrocities._Philippines%2C_China%2C_Burma%2C_Japan_-_NARA_-_292598.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A Filipino woman and child killed by Japanese troops in Manila , 1945",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg/1280px-Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg/250px-Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Japanese foreign affairs minister Mamoru Shigemitsu signs the Japanese Instrument of Surrender on board USS Missouri , 2 September 1945",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Proces_Neurenberg%2C_Bestanddeelnr_901-2065.jpg/1280px-Proces_Neurenberg%2C_Bestanddeelnr_901-2065.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Proces_Neurenberg%2C_Bestanddeelnr_901-2065.jpg/250px-Proces_Neurenberg%2C_Bestanddeelnr_901-2065.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Defendants at the Nuremberg trials , where the Allied forces prosecuted prominent members of the political, military, judicial, and economic leadership of Nazi Germany for crimes against humanity",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/EasternBloc_BorderChange38-48.svg/1280px-EasternBloc_BorderChange38-48.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/EasternBloc_BorderChange38-48.svg/250px-EasternBloc_BorderChange38-48.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Post-war border changes in Central Europe and creation of the communist Eastern Bloc",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Nanking_bodies_1937.jpg/1280px-Nanking_bodies_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Nanking_bodies_1937.jpg/250px-Nanking_bodies_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Bodies of Chinese civilians killed by the Imperial Japanese Army during the Nanjing massacre in December 1937",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Czeslawa_Kwoka_-_Brasse.jpg/1280px-Czeslawa_Kwoka_-_Brasse.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Czeslawa_Kwoka_-_Brasse.jpg/250px-Czeslawa_Kwoka_-_Brasse.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Prisoner identity photograph of a Polish girl taken by the German SS in Auschwitz . Approximately 230,000 children were held prisoner and used in forced labour and Nazi medical experiments .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Liberation_of_Bergen-belsen_Concentration_Camp%2C_April_1945_BU4031.jpg/1280px-The_Liberation_of_Bergen-belsen_Concentration_Camp%2C_April_1945_BU4031.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Liberation_of_Bergen-belsen_Concentration_Camp%2C_April_1945_BU4031.jpg/250px-The_Liberation_of_Bergen-belsen_Concentration_Camp%2C_April_1945_BU4031.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Schutzstaffel (SS) women camp guards removing prisoners' bodies from lorries and carrying them to a mass grave, inside the German Bergen-Belsen concentration camp , 1945",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Palmiry_before_execution.jpg/1280px-Palmiry_before_execution.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Palmiry_before_execution.jpg/250px-Palmiry_before_execution.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Polish civilians wearing blindfolds photographed just before being massacred by German soldiers in Palmiry forest , 1940",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Bundesarchiv_Bild_101I-031-2436-03A%2C_Russland%2C_Hinrichtung_von_Partisanen_retouched.jpg/1280px-Bundesarchiv_Bild_101I-031-2436-03A%2C_Russland%2C_Hinrichtung_von_Partisanen_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Bundesarchiv_Bild_101I-031-2436-03A%2C_Russland%2C_Hinrichtung_von_Partisanen_retouched.jpg/250px-Bundesarchiv_Bild_101I-031-2436-03A%2C_Russland%2C_Hinrichtung_von_Partisanen_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Soviet partisans hanged by the German army. The Russian Academy of Sciences reported in 1995 that civilian victims in the Soviet Union at German hands totalled 13.7 million dead, twenty per cent of the 68 million people in the occupied Soviet Union.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/World_War_II_Allies_to_Axis_GDP_Ratio.svg/1280px-World_War_II_Allies_to_Axis_GDP_Ratio.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/World_War_II_Allies_to_Axis_GDP_Ratio.svg/500px-World_War_II_Allies_to_Axis_GDP_Ratio.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Allies to Axis GDP ratio throughout the war",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Bundesarchiv_Bild_146-1978-Anh.026-01%2C_Peenem%C3%BCnde%2C_V2_beim_Start.jpg/1280px-Bundesarchiv_Bild_146-1978-Anh.026-01%2C_Peenem%C3%BCnde%2C_V2_beim_Start.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Bundesarchiv_Bild_146-1978-Anh.026-01%2C_Peenem%C3%BCnde%2C_V2_beim_Start.jpg/250px-Bundesarchiv_Bild_146-1978-Anh.026-01%2C_Peenem%C3%BCnde%2C_V2_beim_Start.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A V-2 rocket launched from a fixed site in Peenemünde , 21 June 1943",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Trinity_device_readied.jpg/1280px-Trinity_device_readied.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Trinity_device_readied.jpg/250px-Trinity_device_readied.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Nuclear Gadget being raised to the top of the detonation \"shot tower\", at Alamogordo Bombing Range ; Trinity nuclear test , New Mexico , July 1945",
       "alt": null,
       "source": "article_text"
     }

@@ -11,11 +11,12 @@ function loadFixture(filename: string): NormalizedArticleModel {
 }
 
 describe('GalleryWidgetView', () => {
-  test('отображает превью для каждого изображения (Токио: 3 картинки)', () => {
+  test('отображает превью для каждого изображения (Токио)', () => {
     const data = loadFixture('tokyo-ru.json')
+    expect(data.images.length).toBeGreaterThan(1)
     const { container } = render(<GalleryWidgetView images={data.images} />)
     const imgs = container.querySelectorAll('img')
-    expect(imgs).toHaveLength(3)
+    expect(imgs).toHaveLength(data.images.length)
     expect(imgs[0].src).toBe(data.images[0].thumbnail_url)
   })
 
@@ -33,18 +34,31 @@ describe('GalleryWidgetView', () => {
     expect(container.querySelectorAll('img')[0].alt).toBe(data.images[0].caption)
   })
 
-  test('и caption, и alt равны null (Python) - alt становится пустой строкой, без сбоя', () => {
-    const data = loadFixture('python.json')
-    const { container } = render(<GalleryWidgetView images={data.images} />)
+  test('и caption, и alt равны null - alt становится пустой строкой, без сбоя', () => {
+    // Явное изображение, а не "первое в фикстуре": набор картинок живой
+    // статьи меняется вместе с extractor'ом.
+    const image: Image = {
+      url: 'https://example.org/full.jpg',
+      thumbnail_url: 'https://example.org/thumb.jpg',
+      caption: null,
+      alt: null,
+      source: SourceType.ArticleText,
+    }
+    const { container } = render(<GalleryWidgetView images={[image]} />)
     const img = container.querySelector('img')
     expect(img?.alt).toBe('')
     expect(screen.queryByRole('figure')?.querySelector('figcaption')).toBeNull()
   })
 
-  test('url и thumbnail_url могут совпадать (Токио, второе изображение) - рендер не падает', () => {
-    const data = loadFixture('tokyo-ru.json')
-    const image = data.images[1]
-    expect(image.url).toBe(image.thumbnail_url)
+  test('url и thumbnail_url могут совпадать - рендер не падает', () => {
+    // Бывает у картинок, превью которых уже крупнее 1280px.
+    const image: Image = {
+      url: 'https://example.org/1280px-map.png',
+      thumbnail_url: 'https://example.org/1280px-map.png',
+      caption: 'Map',
+      alt: null,
+      source: SourceType.ArticleText,
+    }
     const { container } = render(<GalleryWidgetView images={[image]} />)
     expect(container.querySelector('img')?.src).toBe(image.thumbnail_url)
   })

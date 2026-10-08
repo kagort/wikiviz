@@ -238,6 +238,8 @@
           "Указ Президента России № 309 от 24.12.1991"
         ],
         [
+          "1",
+          "Борис Юрьевич Кузнецов",
           "губернатор Пермской области",
           "6 октября 1994 — 6 января 1996",
           "Должность переименована согласно Уставу Пермской области от 6.10.1994 № 88-9"
@@ -250,6 +252,9 @@
           "Указ президента РФ № 32 от 12.01.1996"
         ],
         [
+          "2",
+          "Геннадий Вячеславович Игумнов",
+          "губернатор Пермской области",
           "12 декабря 1996 — 14 декабря 2000",
           "Результат выборов губернатора Пермской области. Победа во втором туре голосования, 64,6 % голосов. (первый тур — 42,4 %)"
         ],
@@ -400,6 +405,24 @@
     }
   ],
   "events": [
+    {
+      "id": "event-0",
+      "date": "1938-10-03",
+      "date_precision": "day",
+      "title": "Дата образования",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "2005-12-01",
+      "date_precision": "day",
+      "title": "Дата упразднения",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
     {
       "id": "text-event-0",
       "date": "1938-10-03",
@@ -559,7 +582,22 @@
   "organizations": [],
   "works": [],
   "relations": [],
-  "images": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.png/1280px-%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.png/330px-%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Физическая карта Пермской области",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Russia_stamp_2003_%E2%84%96_826.jpg/1280px-Russia_stamp_2003_%E2%84%96_826.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Russia_stamp_2003_%E2%84%96_826.jpg/250px-Russia_stamp_2003_%E2%84%96_826.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Почтовая марка, 2003 год",
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
   "links": [],
   "metadata": {}
 }

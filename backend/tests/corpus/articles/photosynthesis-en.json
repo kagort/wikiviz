@@ -229,11 +229,13 @@
         [
           "2",
           "Transfer of electrons in photochemical reactions",
+          "Thylakoid membranes in the chloroplasts",
           "Picosecond to nanosecond"
         ],
         [
           "3",
           "Electron transport chain and ATP synthesis",
+          "Thylakoid membranes in the chloroplasts",
           "Microsecond to millisecond"
         ],
         [
@@ -256,10 +258,101 @@
   "relations": [],
   "images": [
     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Metabolic_Metro_Map_%28no_legends%29.svg/1280px-Metabolic_Metro_Map_%28no_legends%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Metabolic_Metro_Map_%28no_legends%29.svg/960px-Metabolic_Metro_Map_%28no_legends%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
-      "alt": "Metro-style map of major metabolic pathways",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Photosynthesis_en.svg/1280px-Photosynthesis_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Photosynthesis_en.svg/500px-Photosynthesis_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Schematic of photosynthesis in plants. The carbohydrates produced are stored in or used by the plant.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Seawifs_global_biosphere.jpg/1280px-Seawifs_global_biosphere.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Seawifs_global_biosphere.jpg/500px-Seawifs_global_biosphere.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Composite image showing the global distribution of photosynthesis, including both oceanic phytoplankton and terrestrial vegetation . Dark red and blue-green indicate regions of high photosynthetic activity in the ocean and on land, respectively.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Simple_photosynthesis_overview.svg/1280px-Simple_photosynthesis_overview.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Simple_photosynthesis_overview.svg/250px-Simple_photosynthesis_overview.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Photosynthesis changes sunlight into chemical energy, splits water to liberate O 2 , and fixes CO 2 into sugar.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Chloroplast.svg/1280px-Chloroplast.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Chloroplast.svg/500px-Chloroplast.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Chloroplast ultrastructure : outer membrane intermembrane space inner membrane (1+2+3: envelope) stroma (aqueous fluid) thylakoid lumen (inside of thylakoid) thylakoid membrane granum (stack of thylakoids) thylakoid (lamella) starch ribosome plastidial DNA plastoglobule (drop of lipids)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Thylakoid_membrane_3.svg/1280px-Thylakoid_membrane_3.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Thylakoid_membrane_3.svg/500px-Thylakoid_membrane_3.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Light-dependent reactions of photosynthesis at the thylakoid membrane",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Z-scheme.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Z-scheme.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "caption": "The \"Z scheme\"",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Calvin_Cycle_5.svg/1280px-Calvin_Cycle_5.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Calvin_Cycle_5.svg/500px-Calvin_Cycle_5.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Overview of the Calvin cycle and carbon fixation",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/HatchSlackpathway2.svg/1280px-HatchSlackpathway2.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/HatchSlackpathway2.svg/500px-HatchSlackpathway2.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Overview of C4 carbon fixation . (This image mistakenly shows lactic acid instead of pyruvate , and all the species ending in \"-ate\" are shown as unionized acids, such as malic acid and so on).",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Plagiomnium_affine_laminazellen.jpeg/1280px-Plagiomnium_affine_laminazellen.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Plagiomnium_affine_laminazellen.jpeg/250px-Plagiomnium_affine_laminazellen.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Plant cells with visible chloroplasts (from a moss, Plagiomnium affine )",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Jan_Baptist_van_Helmont_portrait.jpg/1280px-Jan_Baptist_van_Helmont_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Jan_Baptist_van_Helmont_portrait.jpg/250px-Jan_Baptist_van_Helmont_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Portrait of Jan Baptist van Helmont by Mary Beale , c. 1674",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Melvin_Calvin.jpg/1280px-Melvin_Calvin.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Melvin_Calvin.jpg/250px-Melvin_Calvin.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Melvin Calvin works in his photosynthesis laboratory.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Leaf_1_web.jpg/1280px-Leaf_1_web.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Leaf_1_web.jpg/250px-Leaf_1_web.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The leaf is the primary site of photosynthesis in plants.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Chlorophyll_ab_spectra-en.svg/1280px-Chlorophyll_ab_spectra-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Chlorophyll_ab_spectra-en.svg/250px-Chlorophyll_ab_spectra-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Absorbance spectra of free chlorophyll a ( blue ) and b ( red ) in a solvent. The action spectra of chlorophyll molecules are slightly modified in vivo depending on specific pigment–protein interactions.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Photorespiration.svg/1280px-Photorespiration.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Photorespiration.svg/500px-Photorespiration.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Photorespiration",
+      "alt": null,
       "source": "article_text"
     }
   ],

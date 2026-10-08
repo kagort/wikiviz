@@ -46,7 +46,15 @@
   "organizations": [],
   "works": [],
   "relations": [],
-  "images": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Toyota_RAV_4_EV.jpg/1280px-Toyota_RAV_4_EV.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Toyota_RAV_4_EV.jpg/330px-Toyota_RAV_4_EV.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Toyota RAV4 EV",
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
   "links": [],
   "metadata": {}
 }
