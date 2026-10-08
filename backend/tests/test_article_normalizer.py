@@ -1,4 +1,4 @@
-﻿from app.extractors.article_normalizer import normalize_article
+from app.extractors.article_normalizer import normalize_article
 from app.wikipedia.models import RawArticle
 
 
