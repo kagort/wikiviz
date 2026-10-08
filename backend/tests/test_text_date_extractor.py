@@ -260,3 +260,33 @@ def test_section_after_excluded_subtree_is_included_again():
         ("1990-07-14", "Legacy"),
         ("1995-03-03", "Memorials"),
     ]
+
+
+def test_us_format_date_is_recognized():
+    # "Month Day, Year": статьи на американском английском (United States, Google).
+    html = """
+    <h2>History</h2>
+    <p>The Declaration of Independence was adopted on July 4, 1776, in Philadelphia.</p>
+    """
+
+    events = extract_text_dates(html)
+
+    assert [(e.date, e.date_precision.value) for e in events] == [("1776-07-04", "day")]
+
+
+def test_us_format_bc_date_keeps_only_negative_year():
+    html = """
+    <h2>Death</h2>
+    <p>He was killed on March 15, 44 BC.</p>
+    """
+
+    assert [(e.date, e.date_precision.value) for e in extract_text_dates(html)] == [("-0044", "year")]
+
+
+def test_mixed_formats_keep_order_of_appearance():
+    html = """
+    <h2>Timeline</h2>
+    <p>Founded on September 4, 1998; incorporated 4 September 1999; listed on August 19, 2004.</p>
+    """
+
+    assert [e.date for e in extract_text_dates(html)] == ["1998-09-04", "1999-09-04", "2004-08-19"]

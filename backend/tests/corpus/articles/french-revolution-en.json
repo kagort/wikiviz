@@ -306,6 +306,15 @@
   "locations": [],
   "events": [
     {
+      "id": "event-0",
+      "date": "1789-05-05",
+      "date_precision": "day",
+      "title": "Date",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "1799-11-09",
       "date_precision": "day",

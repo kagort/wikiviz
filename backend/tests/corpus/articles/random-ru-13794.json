@@ -401,6 +401,24 @@
   ],
   "events": [
     {
+      "id": "event-0",
+      "date": "1938-10-03",
+      "date_precision": "day",
+      "title": "Дата образования",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "2005-12-01",
+      "date_precision": "day",
+      "title": "Дата упразднения",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "1938-10-03",
       "date_precision": "day",

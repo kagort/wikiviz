@@ -723,6 +723,105 @@
       "description": null,
       "source": "infobox",
       "confidence": 1.0
+    },
+    {
+      "id": "text-event-0",
+      "date": "1776-07-02",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1776-01-02",
+      "date_precision": "day",
+      "title": "Etymology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "1776-04-06",
+      "date_precision": "day",
+      "title": "Etymology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1776-06-11",
+      "date_precision": "day",
+      "title": "Etymology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "1776-07-04",
+      "date_precision": "day",
+      "title": "Etymology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "1776-06-28",
+      "date_precision": "day",
+      "title": "American Revolution and the early republic (1765–1800)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "1776-07-04",
+      "date_precision": "day",
+      "title": "American Revolution and the early republic (1765–1800)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "1863-01-01",
+      "date_precision": "day",
+      "title": "Westward expansion and Civil War (1800–1865)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "1946-07-04",
+      "date_precision": "day",
+      "title": "Reconstruction, Gilded Age, and Progressive Era (1866–1917)",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "2020-04-01",
+      "date_precision": "day",
+      "title": "Population",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "2024-07-01",
+      "date_precision": "day",
+      "title": "Population",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
     }
   ],
   "numbers": [

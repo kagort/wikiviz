@@ -497,7 +497,80 @@
       "confidence": 1.0
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1890-11-29",
+      "date_precision": "day",
+      "title": "Modern era",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1945-09-02",
+      "date_precision": "day",
+      "title": "Modern era",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "2011-03-11",
+      "date_precision": "day",
+      "title": "Modern era",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "2019-05-01",
+      "date_precision": "day",
+      "title": "Modern era",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "2025-08-05",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "2007-10-04",
+      "date_precision": "day",
+      "title": "Science and technology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "2009-06-11",
+      "date_precision": "day",
+      "title": "Science and technology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "2019-04-01",
+      "date_precision": "day",
+      "title": "Demographics",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
   "numbers": [
     {
       "label": "Area — Total",

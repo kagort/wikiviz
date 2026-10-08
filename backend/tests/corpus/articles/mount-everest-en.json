@@ -901,6 +901,15 @@
   ],
   "events": [
     {
+      "id": "event-0",
+      "date": "1953-05-29",
+      "date_precision": "day",
+      "title": "First ascent",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "1960-05-25",
       "date_precision": "day",
@@ -929,6 +938,15 @@
     },
     {
       "id": "text-event-3",
+      "date": "2020-01-20",
+      "date_precision": "day",
+      "title": "Meteorology",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
       "date": "1924-06-08",
       "date_precision": "day",
       "title": "Early attempts",
@@ -937,7 +955,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-4",
+      "id": "text-event-5",
       "date": "1999-05-01",
       "date_precision": "day",
       "title": "Early attempts",
@@ -946,7 +964,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-5",
+      "id": "text-event-6",
       "date": "1953-05-26",
       "date_precision": "day",
       "title": "First successful ascent by Tenzing and Hillary, 1953",
@@ -955,7 +973,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-6",
+      "id": "text-event-7",
       "date": "1953-05-29",
       "date_precision": "day",
       "title": "First successful ascent by Tenzing and Hillary, 1953",
@@ -964,7 +982,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-7",
+      "id": "text-event-8",
       "date": "1956-05-23",
       "date_precision": "day",
       "title": "1950s–60s",
@@ -973,7 +991,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-8",
+      "id": "text-event-9",
       "date": "1963-05-01",
       "date_precision": "day",
       "title": "1950s–60s",
@@ -982,7 +1000,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-9",
+      "id": "text-event-10",
       "date": "1996-05-11",
       "date_precision": "day",
       "title": "1996 disaster",
@@ -991,7 +1009,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-10",
+      "id": "text-event-11",
       "date": "2007-05-21",
       "date_precision": "day",
       "title": "2007",
@@ -1000,7 +1018,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-11",
+      "id": "text-event-12",
       "date": "2010-05-23",
       "date_precision": "day",
       "title": "Ascent statistics up to 2010 season",
@@ -1009,7 +1027,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-12",
+      "id": "text-event-13",
       "date": "2011-05-15",
       "date_precision": "day",
       "title": "2010s",
@@ -1018,7 +1036,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-13",
+      "id": "text-event-14",
       "date": "2014-04-18",
       "date_precision": "day",
       "title": "2014 avalanche",
@@ -1027,7 +1045,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-14",
+      "id": "text-event-15",
       "date": "2015-04-25",
       "date_precision": "day",
       "title": "2015 avalanche and earthquake",
@@ -1036,7 +1054,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-15",
+      "id": "text-event-16",
       "date": "2021-05-10",
       "date_precision": "day",
       "title": "Permits",
@@ -1045,7 +1063,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-16",
+      "id": "text-event-17",
       "date": "1988-09-26",
       "date_precision": "day",
       "title": "1988: First climb and glide",
@@ -1054,7 +1072,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-17",
+      "id": "text-event-18",
       "date": "2011-05-21",
       "date_precision": "day",
       "title": "2011: Paraglide off summit",
@@ -1063,7 +1081,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-18",
+      "id": "text-event-19",
       "date": "2011-06-27",
       "date_precision": "day",
       "title": "2011: Paraglide off summit",

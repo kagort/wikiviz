@@ -356,9 +356,27 @@
     },
     {
       "id": "text-event-10",
+      "date": "1921-05-20",
+      "date_precision": "day",
+      "title": "Postwar years",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-11",
       "date": "1934-07-04",
       "date_precision": "day",
       "title": "Death",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-12",
+      "date": "2011-11-07",
+      "date_precision": "day",
+      "title": "Commemorations",
       "description": null,
       "source": "article_text",
       "confidence": 0.6

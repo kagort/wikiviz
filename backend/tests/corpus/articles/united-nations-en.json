@@ -971,6 +971,15 @@
     },
     {
       "id": "text-event-30",
+      "date": "2025-03-21",
+      "date_precision": "day",
+      "title": "Awards",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-31",
       "date": "1949-10-01",
       "date_precision": "day",
       "title": "Exclusion of nations",
@@ -979,7 +988,7 @@
       "confidence": 0.6
     },
     {
-      "id": "text-event-31",
+      "id": "text-event-32",
       "date": "1971-10-24",
       "date_precision": "day",
       "title": "Hymn to the United Nations",

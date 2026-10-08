@@ -393,6 +393,15 @@
       "confidence": 1.0
     },
     {
+      "id": "event-2",
+      "date": "1961-04-12",
+      "date_precision": "day",
+      "title": "Экспедиции",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "1934-03-09",
       "date_precision": "day",

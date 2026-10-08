@@ -1147,6 +1147,15 @@
   "locations": [],
   "events": [
     {
+      "id": "event-0",
+      "date": "1871-01-18",
+      "date_precision": "day",
+      "title": "Основано",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "2025-05-06",
       "date_precision": "day",

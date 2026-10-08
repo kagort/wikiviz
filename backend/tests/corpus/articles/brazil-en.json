@@ -658,6 +658,42 @@
   ],
   "events": [
     {
+      "id": "event-0",
+      "date": "1822-09-07",
+      "date_precision": "day",
+      "title": "•Declaration",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "1825-08-29",
+      "date_precision": "day",
+      "title": "•Recognition",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-2",
+      "date": "1889-11-15",
+      "date_precision": "day",
+      "title": "•Republic",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-3",
+      "date": "1988-10-05",
+      "date_precision": "day",
+      "title": "•Current constitution",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "1500-04-22",
       "date_precision": "day",

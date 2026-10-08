@@ -1071,6 +1071,15 @@
       "confidence": 1.0
     },
     {
+      "id": "event-1",
+      "date": "1969-08-20",
+      "date_precision": "day",
+      "title": "Recorded",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "1969-09-26",
       "date_precision": "day",

@@ -677,6 +677,33 @@
   ],
   "events": [
     {
+      "id": "event-0",
+      "date": "0843-08-10",
+      "date_precision": "day",
+      "title": "•Kingdom of the West Franks—Treaty of Verdun",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "1792-09-22",
+      "date_precision": "day",
+      "title": "•French Republic—French First Republic",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-2",
+      "date": "1958-10-04",
+      "date_precision": "day",
+      "title": "•Current constitution—French Fifth Republic",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "1789-07-14",
       "date_precision": "day",

@@ -20,6 +20,12 @@ _EN_DATE_RE = re.compile(
     re.IGNORECASE,
 )
 
+# Американский формат "Month Day, Year": "July 4, 1776".
+_US_DATE_RE = re.compile(
+    r"\b(?P<month>" + "|".join(_EN_MONTHS) + r")\s+(?P<day>\d{1,2}),\s+(?P<year>\d{1,4})\b",
+    re.IGNORECASE,
+)
+
 _RU_DATE_RE = re.compile(
     r"\b(?P<day>\d{1,2})\s+(?P<month>" + "|".join(_RU_MONTHS) + r")\s+(?P<year>\d{1,4})\s*(?:года?|г\.)?",
     re.IGNORECASE,
@@ -72,42 +78,52 @@ def _lead_text(soup: BeautifulSoup) -> str:
     return _strip_tables(fragment_html)
 
 
+def parse_text_dates(text: str) -> list[tuple[str, DatePrecision]]:
+    """
+    Полные даты в тексте в порядке появления: "14 March 1879",
+    "July 4, 1776", "14 марта 1879 года". Дата с маркером эпохи
+    до н. э. сохраняется только годом ("-0044", precision=year, ТЗ §16.2).
+    Используется и для текста статьи, и для ячеек инфобокса без ISO-записи.
+    """
+    matches = []
+    for pattern in (_EN_DATE_RE, _US_DATE_RE, _RU_DATE_RE):
+        for match in pattern.finditer(text):
+            month = _month_number(match.group("month"))
+            day = int(match.group("day"))
+            if month is None or not (1 <= day <= 31):
+                continue
+            matches.append((match.start(), match, month, day))
+
+    result = []
+    for _, match, month, day in sorted(matches, key=lambda item: item[0]):
+        year = int(match.group("year"))
+        if _BCE_MARKER_RE.match(text, match.end()):
+            # До н. э. хранится только год (ТЗ §16.2): день и месяц
+            # в таких датах часто неоднозначны ("12 or 13 July 100 BC").
+            result.append((f"-{year:04d}", DatePrecision.YEAR))
+        else:
+            result.append((f"{year:04d}-{month:02d}-{day:02d}", DatePrecision.DAY))
+    return result
+
+
 def _find_dates_in_text(text: str, title: str) -> list[Event]:
     events: list[Event] = []
     seen: set[str] = set()
 
-    for pattern in (_EN_DATE_RE, _RU_DATE_RE):
-        for match in pattern.finditer(text):
-            month = _month_number(match.group("month"))
-            if month is None:
-                continue
-            day = int(match.group("day"))
-            year = int(match.group("year"))
-            if not (1 <= day <= 31):
-                continue
-
-            if _BCE_MARKER_RE.match(text, match.end()):
-                # До н. э. хранится только год (ТЗ §16.2): день и месяц
-                # в таких датах часто неоднозначны ("12 or 13 July 100 BC").
-                date_str = f"-{year:04d}"
-                precision = DatePrecision.YEAR
-            else:
-                date_str = f"{year:04d}-{month:02d}-{day:02d}"
-                precision = DatePrecision.DAY
-            if date_str in seen:
-                continue
-            seen.add(date_str)
-
-            events.append(
-                Event(
-                    id="pending",
-                    date=date_str,
-                    date_precision=precision,
-                    title=title,
-                    source=SourceType.ARTICLE_TEXT,
-                    confidence=_TEXT_CONFIDENCE,
-                )
+    for date_str, precision in parse_text_dates(text):
+        if date_str in seen:
+            continue
+        seen.add(date_str)
+        events.append(
+            Event(
+                id="pending",
+                date=date_str,
+                date_precision=precision,
+                title=title,
+                source=SourceType.ARTICLE_TEXT,
+                confidence=_TEXT_CONFIDENCE,
             )
+        )
 
     return events
 

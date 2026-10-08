@@ -433,6 +433,15 @@
       "confidence": 1.0
     },
     {
+      "id": "event-1",
+      "date": "2026-09-30",
+      "date_precision": "day",
+      "title": "Stable release",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "2018-07-12",
       "date_precision": "day",

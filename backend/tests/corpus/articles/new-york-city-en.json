@@ -1464,6 +1464,186 @@
       "description": null,
       "source": "infobox",
       "confidence": 1.0
+    },
+    {
+      "id": "text-event-0",
+      "date": "1673-08-24",
+      "date_precision": "day",
+      "title": "English rule",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1776-08-27",
+      "date_precision": "day",
+      "title": "American Revolution",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "1776-09-11",
+      "date_precision": "day",
+      "title": "American Revolution",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1861-04-19",
+      "date_precision": "day",
+      "title": "American Civil War",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "1969-06-28",
+      "date_precision": "day",
+      "title": "Late 20th and early 21st centuries",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "2011-09-17",
+      "date_precision": "day",
+      "title": "Late 20th and early 21st centuries",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "2026-07-02",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "2016-02-14",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "1936-07-09",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "1934-02-09",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "1917-12-30",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-11",
+      "date": "1903-07-02",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-12",
+      "date": "2012-10-29",
+      "date_precision": "day",
+      "title": "Climate",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-13",
+      "date": "2011-06-24",
+      "date_precision": "day",
+      "title": "Sexual orientation and gender identity",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-14",
+      "date": "2011-07-23",
+      "date_precision": "day",
+      "title": "Sexual orientation and gender identity",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-15",
+      "date": "2020-06-14",
+      "date_precision": "day",
+      "title": "Sexual orientation and gender identity",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-16",
+      "date": "2011-12-19",
+      "date_precision": "day",
+      "title": "Tech and biotech",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-17",
+      "date": "1904-10-27",
+      "date_precision": "day",
+      "title": "Rail",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-18",
+      "date": "2016-07-12",
+      "date_precision": "day",
+      "title": "Streets and highways",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-19",
+      "date": "2026-01-01",
+      "date_precision": "day",
+      "title": "Politics",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
     }
   ],
   "numbers": [

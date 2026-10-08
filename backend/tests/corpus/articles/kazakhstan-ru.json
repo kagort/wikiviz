@@ -1214,6 +1214,15 @@
   "locations": [],
   "events": [
     {
+      "id": "event-0",
+      "date": "1991-12-16",
+      "date_precision": "day",
+      "title": "Дата независимости",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "2019-03-20",
       "date_precision": "day",

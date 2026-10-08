@@ -3026,6 +3026,24 @@
   "locations": [],
   "events": [
     {
+      "id": "event-0",
+      "date": "2018-06-14",
+      "date_precision": "day",
+      "title": "Сроки турнира",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "event-1",
+      "date": "2018-07-15",
+      "date_precision": "day",
+      "title": "Сроки финального турнира",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
       "id": "text-event-0",
       "date": "2018-07-15",
       "date_precision": "day",
