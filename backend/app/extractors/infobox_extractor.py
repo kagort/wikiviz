@@ -63,11 +63,22 @@ def _cell_text(cell: Tag, separator: str = ", ") -> str:
     """
     parts: list[str] = []
     _collect(cell, parts)
-    pieces = (
+    pieces = [
         " ".join(piece.replace("﻿", "").split()).strip(" ,;")
         for piece in "".join(parts).split(_SEPARATOR)
-    )
-    return separator.join(piece for piece in pieces if piece)
+    ]
+    text = ""
+    for piece in pieces:
+        if not piece:
+            continue
+        if not text:
+            text = piece
+        elif text.endswith(":"):
+            # "Several, including:" + список: двоеточие уже вводит перечисление.
+            text += " " + piece
+        else:
+            text += separator + piece
+    return text
 
 
 def _make_key(group: Optional[str], label: str, used: set[str]) -> str:
@@ -157,7 +168,14 @@ def extract_infobox(html: str) -> dict[str, InfoboxField]:
             if classes & _HEADER_CLASSES:
                 header, header_has_bullets, parent_label = text or None, False, None
                 previous_was_header = True
-            elif after_header and text and header and not classes & _SERVICE_CLASSES:
+            elif (
+                after_header
+                and text
+                and header
+                and not classes & _SERVICE_CLASSES
+                # Картинка с подписью (Tokyo, "Символика": флаг) - не значение.
+                and cell.find("img") is None
+            ):
                 add(None, header, text)
                 header = None
             continue

@@ -286,3 +286,29 @@ def test_line_break_inside_label_is_a_space_not_a_list():
         (None, "Capital and largest city", "Paris"),
         (None, "Religion (2025)", "48% Christianity"),
     ]
+
+
+def test_full_width_image_row_under_header_is_not_a_value():
+    # Tokyo: под заголовком "Символика" - картинка флага с подписью.
+    html = """
+    <table class="infobox">
+        <tr><th class="infobox-header" colspan="2">Символика</th></tr>
+        <tr><td class="plainlist" colspan="2"><img src="flag.png" alt=""/><br/>Флаг префектуры</td></tr>
+        <tr><th class="plainlist">Дерево</th><td class="plainlist">Гинкго</td></tr>
+    </table>
+    """
+
+    assert _pairs(extract_infobox(html)) == [("Символика", "Дерево", "Гинкго")]
+
+
+def test_list_after_colon_is_not_separated_by_extra_comma():
+    # Julius Caesar, Conflicts: "Several, including:" и список под ним.
+    html = """
+    <table class="infobox">
+        <tr><th class="infobox-label">Conflicts</th><td class="infobox-data">Several, including:<div class="plainlist"><ul><li>Siege of Mytilene</li><li>Gallic Wars</li></ul></div></td></tr>
+    </table>
+    """
+
+    assert _pairs(extract_infobox(html)) == [
+        (None, "Conflicts", "Several, including: Siege of Mytilene, Gallic Wars"),
+    ]
