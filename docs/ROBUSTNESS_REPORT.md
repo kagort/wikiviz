@@ -7,6 +7,8 @@
 
 Файлы — `backend/tests/corpus/`. Цифры ниже пересчитываются без сети командой `python -m scripts.corpus_report` (полная выкладка — в приложении).
 
+> **Обновлено 2026-10-08 после сессии 2б.** Разделы 1–5 описывают исходное состояние, найденное проверкой. Что исправлено и как изменились цифры — в разделе 6; приложение пересобрано по состоянию после исправлений.
+
 ## Коротко
 
 1. **Ничего не падает.** Все 48 статей прошли через нормализатор без ошибок, включая самые длинные (United States, Казахстан), списки, статьи без инфобокса и заготовки.
@@ -153,60 +155,90 @@ World War II: из инфобокса получилось 2 поля, и оба
 
 ---
 
+---
+
+## 6. После исправлений (сессия 2б, 2026-10-08)
+
+| Что | До | После |
+|---|---|---|
+| Изображения в корпусе | 331 | **1310** |
+| …из них с подписью | 39 (12%) | **1267 (97%)** |
+| События из инфобоксов | 24 | **42** |
+| События из текста | 1217 | 1298 (+81 в формате «July 4, 1776») |
+| Таблицы со смещёнными строками (>30% строк) | 31 из 122 | **9 из 122** |
+| Падения нормализатора | 0 | 0 |
+
+**Исправлено:**
+1. **Иллюстрации (2.1).** Извлекаются `<figure typeof="mw:File…">` с подписью из `<figcaption>`; у галерей подпись берётся из `.gallerytext`; старый `div.thumb` поддерживается. Пропускаются аудио и видео, карты Kartographer, картинки в таблицах, навигации и служебных блоках. Фикстуры: France 2 → 39 изображений, Токио 3 → 35, Цезарь 9 → 35.
+2. **Даты (2.3).** Общая функция разбора дат понимает «14 March 1879», «July 4, 1776», «14 марта 1879 года» и маркер до н. э. Инфобокс без ISO-записи берёт первую полную дату ячейки (у диапазона — начало). Google: 0 → 32 даты из текста, New York City: 0 → 20, United States: 0 → 11, Japan: 0 → 8. Ни одна прежняя дата не потерялась.
+3. **Таблицы (2.4, 2.5).** `rowspan`/`colspan` в строках данных раскрываются: значение повторяется в покрытых строках и колонках. Названия таблиц сохраняют пробелы («Panthera tigris tigris (Linnaeus, 1758)»).
+
+**Не исправлено, осознанно:**
+- **Инфобокс World War II (2.2).** Разведка по корпусу: вёрстка с двумя параллельными колонками («Allies | Axis») и датой в широкой ячейке встретилась только в этой статье. В Tiger, Water и других пары `<td>` без классов — обычные строки «подпись — значение», они разобраны верно. По правилу сессии («исправлять, если вёрстка не единична») — оставлено; вернуться, если встретится в большем корпусе.
+- **Оставшиеся 9 смещённых таблиц:**
+  - 5 — таблицы вёрстки (спонсоры, стадионы с картами), пустая таблица и таблица высот Эвереста: это не ошибки разбора, а материал для правил отбора по форме таблицы;
+  - 4 таблицы посещаемости ЧМ-2018 (ru): строка-название `<th>` во всю ширину над шапкой из `<td>`. Это неотличимо от таблицы должностей Цезаря, где под такой строкой идут данные: любое правило испортит одну из двух.
+- **Диапазон без года у начала** («22 February – 20 August 1969») — в инфобоксе берётся конец; записано как ограничение.
+- **Неразрывные пробелы** в названиях таблиц теперь обычные пробелы (побочный эффект сжатия пробелов; для заголовков безвредно).
+
+**Что это меняет для правил отбора (сессия 3).** Данных стало больше, особенно изображений: у France теперь 39 картинок. Ограничение числа изображений и отбор по подписи становятся обязательными правилами. Шум в датах вырос вместе с полнотой (759 дат из текста не раньше 2000 года против 706) — главный признак шума по-прежнему «список против прозы».
+
+---
+
 ## Приложение. Выкладка `scripts.corpus_report`
 
-См. ниже: сгенерировано командой `python -m scripts.corpus_report` по состоянию корпуса на 2026-10-08.
+Сгенерировано командой `python -m scripts.corpus_report` по состоянию корпуса **после сессии 2б** (2026-10-08).
 
 ## Статьи корпуса
 
 | Файл | Тип | Разделы | Таблицы | Поля инфобокса | События (инфобокс / текст) | Числа | Изображения | Координаты |
 |---|---|---|---|---|---|---|---|---|
-| marie-curie-en | person-modern | 17 | 0 | 16 | 2 / 11 | 4 | 1 | 0 |
-| albert-einstein-en | person-modern | 70 | 1 | 15 | 2 / 67 | 8 | 2 | 0 |
-| aristotle-en | person-ancient | 57 | 4 | 10 | 2 / 0 | 2 | 17 | 0 |
-| japan-en | country | 39 | 0 | 28 | 0 / 0 | 13 | 5 | 2 |
-| brazil-en | country | 48 | 0 | 39 | 0 / 18 | 25 | 5 | 4 |
-| united-states-en | country | 54 | 0 | 39 | 4 / 0 | 37 | 4 | 3 |
-| london-en | city | 53 | 1 | 30 | 0 / 3 | 31 | 25 | 1 |
-| new-york-city-en | city | 58 | 6 | 33 | 3 / 0 | 23 | 7 | 1 |
-| world-war-ii-en | event | 38 | 0 | 2 | 0 / 43 | 0 | 1 | 0 |
-| french-revolution-en | event | 41 | 1 | 3 | 0 / 26 | 1 | 2 | 0 |
-| united-nations-en | organization | 43 | 3 | 11 | 2 / 32 | 2 | 1 | 0 |
-| google-en | organization | 59 | 6 | 15 | 1 / 0 | 4 | 1 | 0 |
-| democracy-en | concept | 68 | 0 | 0 | 0 / 2 | 0 | 0 | 0 |
-| photosynthesis-en | concept | 32 | 1 | 0 | 0 / 0 | 0 | 1 | 0 |
-| epistemology-en | concept | 25 | 0 | 0 | 0 / 0 | 0 | 1 | 0 |
-| war-and-peace-en | work | 29 | 0 | 13 | 0 / 4 | 3 | 1 | 0 |
-| abbey-road-en | work | 41 | 9 | 10 | 1 / 8 | 1 | 1 | 0 |
-| tiger-en | nature | 28 | 3 | 7 | 0 / 0 | 0 | 3 | 0 |
-| mount-everest-en | nature | 65 | 6 | 17 | 0 / 19 | 5 | 4 | 1 |
-| water-en | substance | 61 | 0 | 44 | 0 / 2 | 35 | 12 | 0 |
-| 2018-fifa-world-cup-en | sport | 63 | 23 | 16 | 0 / 52 | 7 | 1 | 0 |
-| list-of-largest-cities-en | list | 9 | 1 | 0 | 0 / 0 | 0 | 0 | 0 |
-| pushkin-ru | person-modern | 46 | 0 | 15 | 2 / 106 | 3 | 1 | 0 |
-| gagarin-ru | person-modern | 39 | 1 | 10 | 2 / 336 | 1 | 1 | 1 |
-| platon-ru | person-ancient | 50 | 0 | 13 | 2 / 1 | 2 | 1 | 0 |
-| germaniya-ru | country | 65 | 3 | 26 | 0 / 53 | 13 | 3 | 0 |
-| kazakhstan-ru | country | 79 | 7 | 27 | 0 / 59 | 15 | 15 | 0 |
-| sankt-peterburg-ru | city | 44 | 1 | 25 | 0 / 57 | 21 | 43 | 1 |
-| novosibirsk-ru | city | 88 | 4 | 28 | 0 / 106 | 15 | 16 | 1 |
-| war-1812-ru | event | 49 | 0 | 5 | 0 / 21 | 2 | 12 | 0 |
-| kulikovskaya-bitva-ru | event | 23 | 0 | 7 | 0 / 5 | 1 | 1 | 0 |
-| msu-ru | organization | 44 | 1 | 15 | 0 / 30 | 8 | 19 | 0 |
-| filosofiya-ru | concept | 67 | 1 | 5 | 0 / 3 | 0 | 4 | 0 |
-| ontologiya-ru | concept | 15 | 0 | 0 | 0 / 0 | 0 | 0 | 0 |
-| master-i-margarita-ru | work | 59 | 7 | 5 | 0 / 12 | 2 | 2 | 0 |
-| bereza-ru | nature | 42 | 0 | 5 | 0 / 0 | 8 | 15 | 0 |
-| baikal-ru | nature | 52 | 1 | 19 | 0 / 14 | 12 | 28 | 2 |
-| zoloto-ru | substance | 44 | 2 | 25 | 0 / 13 | 24 | 7 | 0 |
-| chm-2018-ru | sport | 71 | 22 | 23 | 0 / 94 | 12 | 49 | 0 |
+| marie-curie-en | person-modern | 17 | 0 | 16 | 2 / 13 | 4 | 21 | 0 |
+| albert-einstein-en | person-modern | 70 | 1 | 15 | 2 / 67 | 8 | 34 | 0 |
+| aristotle-en | person-ancient | 57 | 4 | 10 | 2 / 0 | 2 | 39 | 0 |
+| japan-en | country | 39 | 0 | 28 | 0 / 8 | 13 | 32 | 2 |
+| brazil-en | country | 48 | 0 | 39 | 4 / 18 | 25 | 51 | 4 |
+| united-states-en | country | 54 | 0 | 39 | 4 / 11 | 37 | 44 | 3 |
+| london-en | city | 53 | 1 | 30 | 0 / 3 | 31 | 50 | 1 |
+| new-york-city-en | city | 58 | 6 | 33 | 3 / 20 | 23 | 56 | 1 |
+| world-war-ii-en | event | 38 | 0 | 2 | 1 / 43 | 0 | 37 | 0 |
+| french-revolution-en | event | 41 | 1 | 3 | 1 / 26 | 1 | 28 | 0 |
+| united-nations-en | organization | 43 | 3 | 11 | 2 / 33 | 2 | 22 | 0 |
+| google-en | organization | 59 | 6 | 15 | 1 / 32 | 4 | 19 | 0 |
+| democracy-en | concept | 68 | 0 | 0 | 0 / 2 | 0 | 36 | 0 |
+| photosynthesis-en | concept | 32 | 1 | 0 | 0 / 0 | 0 | 14 | 0 |
+| epistemology-en | concept | 25 | 0 | 0 | 0 / 0 | 0 | 8 | 0 |
+| war-and-peace-en | work | 29 | 0 | 13 | 0 / 10 | 3 | 15 | 0 |
+| abbey-road-en | work | 41 | 9 | 10 | 2 / 8 | 1 | 6 | 0 |
+| tiger-en | nature | 28 | 3 | 7 | 0 / 0 | 0 | 19 | 0 |
+| mount-everest-en | nature | 65 | 6 | 17 | 1 / 20 | 5 | 40 | 1 |
+| water-en | substance | 61 | 0 | 44 | 0 / 2 | 35 | 38 | 0 |
+| 2018-fifa-world-cup-en | sport | 63 | 23 | 16 | 0 / 52 | 7 | 28 | 0 |
+| list-of-largest-cities-en | list | 9 | 1 | 0 | 0 / 0 | 0 | 1 | 0 |
+| pushkin-ru | person-modern | 46 | 0 | 15 | 2 / 106 | 3 | 33 | 0 |
+| gagarin-ru | person-modern | 39 | 1 | 10 | 3 / 336 | 1 | 26 | 1 |
+| platon-ru | person-ancient | 50 | 0 | 13 | 2 / 1 | 2 | 5 | 0 |
+| germaniya-ru | country | 65 | 3 | 26 | 1 / 53 | 13 | 50 | 0 |
+| kazakhstan-ru | country | 79 | 7 | 27 | 1 / 59 | 15 | 94 | 0 |
+| sankt-peterburg-ru | city | 44 | 1 | 25 | 0 / 57 | 21 | 67 | 1 |
+| novosibirsk-ru | city | 88 | 4 | 28 | 0 / 106 | 15 | 60 | 1 |
+| war-1812-ru | event | 49 | 0 | 5 | 1 / 21 | 2 | 46 | 0 |
+| kulikovskaya-bitva-ru | event | 23 | 0 | 7 | 1 / 5 | 1 | 16 | 0 |
+| msu-ru | organization | 44 | 1 | 15 | 0 / 30 | 8 | 30 | 0 |
+| filosofiya-ru | concept | 67 | 1 | 5 | 0 / 3 | 0 | 18 | 0 |
+| ontologiya-ru | concept | 15 | 0 | 0 | 0 / 0 | 0 | 2 | 0 |
+| master-i-margarita-ru | work | 59 | 7 | 5 | 0 / 12 | 2 | 25 | 0 |
+| bereza-ru | nature | 42 | 0 | 5 | 0 / 0 | 8 | 44 | 0 |
+| baikal-ru | nature | 52 | 1 | 19 | 0 / 14 | 12 | 50 | 2 |
+| zoloto-ru | substance | 44 | 2 | 25 | 0 / 13 | 24 | 26 | 0 |
+| chm-2018-ru | sport | 71 | 22 | 23 | 2 / 94 | 12 | 58 | 0 |
 | spisok-gorodov-rossii-ru | list | 6 | 1 | 0 | 0 / 1 | 0 | 16 | 0 |
 | random-en-jens-adler | random | 3 | 0 | 14 | 1 / 2 | 1 | 1 | 0 |
-| random-en-parsonages-amendment-act-1838 | random | 2 | 0 | 3 | 0 / 1 | 2 | 1 | 0 |
+| random-en-parsonages-amendment-act-1838 | random | 2 | 0 | 3 | 1 / 1 | 2 | 1 | 0 |
 | random-en-yellow-breasted-warbling-antbird | random | 10 | 0 | 8 | 0 / 0 | 0 | 0 | 0 |
-| random-ru-13794 | random | 17 | 5 | 13 | 0 / 13 | 5 | 0 | 1 |
+| random-ru-13794 | random | 17 | 5 | 13 | 2 / 13 | 5 | 2 | 1 |
 | random-ru-580420 | random | 4 | 1 | 13 | 0 / 1 | 7 | 1 | 1 |
-| random-ru-toyota-rav4-ev | random | 3 | 0 | 0 | 0 / 1 | 0 | 0 | 0 |
+| random-ru-toyota-rav4-ev | random | 3 | 0 | 0 | 0 / 1 | 0 | 1 | 0 |
 | stub-en-andrew-crosby | stub | 1 | 0 | 0 | 0 / 1 | 0 | 0 | 0 |
 | stub-ru-2801457 | stub | 1 | 0 | 0 | 0 / 0 | 0 | 0 | 0 |
 
@@ -216,20 +248,20 @@ World War II: из инфобокса получилось 2 поля, и оба
 
 - **всего таблиц**: 122
 - **без названия**: 91
-- **строки не совпадают с колонками (>30% строк)**: 31
-  - photosynthesis-en: (без названия)
-  - abbey-road-en: (без названия)
-  - mount-everest-en: Typical Nepal camp altitudes
-  - 2018-fifa-world-cup-en: (без названия)
 - **не больше одной строки данных**: 18
-  - aristotle-en: One of Aristotle'stypes of syllogism
+  - aristotle-en: One of Aristotle's types of syllogism
   - new-york-city-en: (без названия)
   - new-york-city-en: (без названия)
   - french-revolution-en: (без названия)
+- **строки не совпадают с колонками (>30% строк)**: 9
+  - mount-everest-en: Typical Nepal camp altitudes
+  - 2018-fifa-world-cup-en: (без названия)
+  - 2018-fifa-world-cup-en: (без названия)
+  - filosofiya-ru: (без названия)
 - **больше 30% пустых ячеек**: 8
-  - aristotle-en: One of Aristotle'stypes of syllogism
-  - tiger-en: Panthera tigris tigris(Linnaeus, 1758)
-  - tiger-en: Panthera tigris sondaica(Temminck, 1844)
+  - aristotle-en: One of Aristotle's types of syllogism
+  - tiger-en: Panthera tigris tigris (Linnaeus, 1758)
+  - tiger-en: Panthera tigris sondaica (Temminck, 1844)
   - mount-everest-en: Years in review summary
 - **одна колонка**: 7
   - new-york-city-en: (без названия)
@@ -238,8 +270,8 @@ World War II: из инфобокса получилось 2 поля, и оба
   - chm-2018-ru: (без названия)
 - **ячейка длиннее 300 символов**: 5
   - new-york-city-en: (без названия)
-  - tiger-en: Panthera tigris tigris(Linnaeus, 1758)
-  - tiger-en: Panthera tigris sondaica(Temminck, 1844)
+  - tiger-en: Panthera tigris tigris (Linnaeus, 1758)
+  - tiger-en: Panthera tigris sondaica (Temminck, 1844)
   - 2018-fifa-world-cup-en: (без названия)
 
 ## Инфобокс
@@ -260,28 +292,28 @@ World War II: из инфобокса получилось 2 поля, и оба
 
 ## Даты
 
-- **всего событий**: 1241
-- **из текста статьи**: 1217
-- **дата из текста не раньше 2000 года**: 706
+- **всего событий**: 1340
+- **из текста статьи**: 1298
+- **дата из текста не раньше 2000 года**: 759
+  - marie-curie-en: 2011-11-07 «Commemorations»
   - albert-einstein-en: 2014-12-05 «Scientific career»
   - albert-einstein-en: 2016-02-11 «Gravitational waves»
   - albert-einstein-en: 2015-09-14 «Gravitational waves»
-  - albert-einstein-en: 2006-03-10 «Scientific»
-- **одна дата в нескольких разделах**: 103
+- **одна дата в нескольких разделах**: 104
   - marie-curie-en: 1867-11-07 ×2
   - marie-curie-en: 1934-07-04 ×2
   - albert-einstein-en: 1879-03-14 ×2
   - albert-einstein-en: 1905-04-30 ×2
-- **меньше двух событий (шкала не покажется)**: 15
-  - japan-en
-  - google-en
-  - photosynthesis-en
-  - epistemology-en
 - **раздел, давший 10 и больше дат**: 13
   - albert-einstein-en: «Scientific» — 32
   - united-nations-en: «Cold War (1947–1991)» — 10
   - pushkin-ru: «Пушкин в культуре и искусстве» — 80
   - gagarin-ru: «Почётные звания и награды» — 257
+- **меньше двух событий (шкала не покажется)**: 12
+  - photosynthesis-en
+  - epistemology-en
+  - tiger-en
+  - list-of-largest-cities-en
 
 ## Числа
 
@@ -305,13 +337,13 @@ World War II: из инфобокса получилось 2 поля, и оба
 
 ## Изображения
 
-- **всего изображений**: 331
-- **без подписи**: 292
+- **всего изображений**: 1310
+- **без подписи**: 43
   - marie-curie-en: 1280px-Marie_Curie_c._1920s.jpg
   - albert-einstein-en: 1280px-Albert_Einstein_Head_cleaned.jpg
-  - aristotle-en: 1280px-Philosophenmosaik_k%C3%B6ln_Aristoteles_%28cropped%29
-  - aristotle-en: 1280px-Aristotle_in_Nuremberg_Chronicle.jpg
-- **флаг или герб**: 7
+  - aristotle-en: 1280px-Aristotle_Altemps_Inv8575.jpg
+  - japan-en: 1280px-Flag_of_Japan.svg.png
+- **флаг или герб**: 9
   - japan-en: 1280px-Flag_of_Japan.svg.png
   - brazil-en: 1280px-Flag_of_Brazil.svg.png
   - united-states-en: 1280px-Flag_of_the_United_States_%28DDD-F-416E_specification
