@@ -193,6 +193,7 @@ Dev-страницы (не для продакшена, закрыть в Phase 
   runpy.run_module(mod, run_name="__main__")
   ```
   Запуск из `backend`: `./venv/bin/python <путь>/run_with_ca.py scripts.export_fixtures`.
+- Запросы к Wikipedia из облака через прокси среды (curl, `urllib`, `httpx` с `trust_env=True`) получают `429 Too Many Requests` даже с правильным User-Agent. Работает прямой путь, как у `WikipediaClient`: `httpx` с `trust_env=False` и `verify=` контекстом с сертификатом `/root/.ccr/ca-bundle.crt`.
 - Визуальная проверка в облаке: `npx next dev -p 3000`, затем Playwright с `executablePath: '/opt/pw-browsers/chromium'`. `next dev` переписывает `frontend/AGENTS.md`; файл уже в репозитории, так и должно быть.
 
 ---
