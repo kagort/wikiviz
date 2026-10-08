@@ -670,20 +670,28 @@
           "Abdulrahman Al-Jassim ( Qatar )"
         ],
         [
+          "AFC",
           "Ravshan Irmatov ( Uzbekistan )",
-          "Abdukhamidullo Rasulov ( Uzbekistan ) Jakhongir Saidov ( Uzbekistan )"
+          "Abdukhamidullo Rasulov ( Uzbekistan ) Jakhongir Saidov ( Uzbekistan )",
+          "Abdulrahman Al-Jassim ( Qatar )"
         ],
         [
+          "AFC",
           "Mohammed Abdulla Hassan Mohamed ( United Arab Emirates )",
-          "Mohamed Al Hammadi ( United Arab Emirates ) Hasan Al Mahri ( United Arab Emirates )"
+          "Mohamed Al Hammadi ( United Arab Emirates ) Hasan Al Mahri ( United Arab Emirates )",
+          "Abdulrahman Al-Jassim ( Qatar )"
         ],
         [
+          "AFC",
           "Ryuji Sato ( Japan )",
-          "Toru Sagara ( Japan ) Hiroshi Yamauchi ( Japan )"
+          "Toru Sagara ( Japan ) Hiroshi Yamauchi ( Japan )",
+          "Abdulrahman Al-Jassim ( Qatar )"
         ],
         [
+          "AFC",
           "Nawaf Shukralla ( Bahrain )",
-          "Yaser Tulefat ( Bahrain ) Taleb Al Maari ( Qatar )"
+          "Yaser Tulefat ( Bahrain ) Taleb Al Maari ( Qatar )",
+          "Abdulrahman Al-Jassim ( Qatar )"
         ],
         [
           "CAF",
@@ -692,23 +700,33 @@
           ""
         ],
         [
+          "CAF",
           "Malang Diedhiou ( Senegal )",
-          "Djibril Camara ( Senegal ) El Hadji Samba ( Senegal )"
+          "Djibril Camara ( Senegal ) El Hadji Samba ( Senegal )",
+          ""
         ],
         [
+          "CAF",
           "Bakary Gassama ( Gambia )",
-          "Jean Claude Birumushahu ( Burundi ) Abdelhak Etchiali ( Algeria )"
+          "Jean Claude Birumushahu ( Burundi ) Abdelhak Etchiali ( Algeria )",
+          ""
         ],
         [
+          "CAF",
           "Gehad Grisha ( Egypt )",
-          "Redouane Achik ( Morocco ) Waleed Ahmed ( Sudan )"
+          "Redouane Achik ( Morocco ) Waleed Ahmed ( Sudan )",
+          ""
         ],
         [
+          "CAF",
           "Janny Sikazwe ( Zambia )",
-          "Jerson Dos Santos ( Angola ) Zakhele Siwela ( South Africa )"
+          "Jerson Dos Santos ( Angola ) Zakhele Siwela ( South Africa )",
+          ""
         ],
         [
+          "CAF",
           "Bamlak Tessema Weyesa ( Ethiopia )",
+          "",
           ""
         ],
         [
@@ -718,24 +736,34 @@
           ""
         ],
         [
+          "CONCACAF",
           "Mark Geiger ( United States )",
-          "Frank Anderson ( United States ) Joe Fletcher ( Canada )"
-        ],
-        [
-          "Jair Marrufo ( United States )",
-          "Corey Rockwell ( United States )"
-        ],
-        [
-          "Ricardo Montero ( Costa Rica )",
+          "Frank Anderson ( United States ) Joe Fletcher ( Canada )",
           ""
         ],
         [
-          "John Pitti ( Panama )",
-          "Gabriel Victoria ( Panama )"
+          "CONCACAF",
+          "Jair Marrufo ( United States )",
+          "Corey Rockwell ( United States )",
+          ""
         ],
         [
+          "CONCACAF",
+          "Ricardo Montero ( Costa Rica )",
+          "",
+          ""
+        ],
+        [
+          "CONCACAF",
+          "John Pitti ( Panama )",
+          "Gabriel Victoria ( Panama )",
+          ""
+        ],
+        [
+          "CONCACAF",
           "César Arturo Ramos ( Mexico )",
-          "Marvin Torrentera ( Mexico ) Miguel Hernández ( Mexico )"
+          "Marvin Torrentera ( Mexico ) Miguel Hernández ( Mexico )",
+          ""
         ],
         [
           "CONMEBOL",
@@ -744,24 +772,34 @@
           "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
+          "CONMEBOL",
           "Enrique Cáceres ( Paraguay )",
-          "Eduardo Cardozo ( Paraguay ) Juan Zorrilla ( Paraguay )"
+          "Eduardo Cardozo ( Paraguay ) Juan Zorrilla ( Paraguay )",
+          "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
+          "CONMEBOL",
           "Andrés Cunha ( Uruguay )",
-          "Nicolás Taran ( Uruguay ) Mauricio Espinosa ( Uruguay )"
+          "Nicolás Taran ( Uruguay ) Mauricio Espinosa ( Uruguay )",
+          "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
+          "CONMEBOL",
           "Néstor Pitana ( Argentina )",
-          "Hernán Maidana ( Argentina ) Juan Pablo Belatti ( Argentina )"
+          "Hernán Maidana ( Argentina ) Juan Pablo Belatti ( Argentina )",
+          "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
+          "CONMEBOL",
           "Sandro Ricci ( Brazil )",
-          "Emerson de Carvalho ( Brazil ) Marcelo Van Gasse ( Brazil )"
+          "Emerson de Carvalho ( Brazil ) Marcelo Van Gasse ( Brazil )",
+          "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
+          "CONMEBOL",
           "Wilmar Roldán ( Colombia )",
-          "Alexander Guzmán ( Colombia ) Cristian de la Cruz ( Colombia )"
+          "Alexander Guzmán ( Colombia ) Cristian de la Cruz ( Colombia )",
+          "Wilton Sampaio ( Brazil ) Gery Vargas ( Bolivia ) Mauro Vigliano ( Argentina )"
         ],
         [
           "OFC",
@@ -770,8 +808,10 @@
           ""
         ],
         [
+          "OFC",
           "Norbert Hauata ( Tahiti )",
-          "Bertrand Brial ( New Caledonia )"
+          "Bertrand Brial ( New Caledonia )",
+          ""
         ],
         [
           "UEFA",
@@ -780,40 +820,58 @@
           "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Cüneyt Çakır ( Turkey )",
-          "Bahattin Duran ( Turkey ) Tarık Ongun ( Turkey )"
+          "Bahattin Duran ( Turkey ) Tarık Ongun ( Turkey )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Sergei Karasev ( Russia )",
-          "Anton Averianov ( Russia ) Tikhon Kalugin ( Russia )"
+          "Anton Averianov ( Russia ) Tikhon Kalugin ( Russia )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Björn Kuipers ( Netherlands )",
-          "Sander van Roekel ( Netherlands ) Erwin Zeinstra ( Netherlands )"
+          "Sander van Roekel ( Netherlands ) Erwin Zeinstra ( Netherlands )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Szymon Marciniak ( Poland )",
-          "Paweł Sokolnicki ( Poland ) Tomasz Listkiewicz ( Poland )"
+          "Paweł Sokolnicki ( Poland ) Tomasz Listkiewicz ( Poland )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Antonio Mateu Lahoz ( Spain )",
-          "Pau Cebrián Devís ( Spain ) Roberto Díaz Pérez ( Spain )"
+          "Pau Cebrián Devís ( Spain ) Roberto Díaz Pérez ( Spain )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Milorad Mažić ( Serbia )",
-          "Milovan Ristić ( Serbia ) Dalibor Đurđević ( Serbia )"
+          "Milovan Ristić ( Serbia ) Dalibor Đurđević ( Serbia )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Gianluca Rocchi ( Italy )",
-          "Elenito Di Liberatore ( Italy ) Mauro Tonolini ( Italy )"
+          "Elenito Di Liberatore ( Italy ) Mauro Tonolini ( Italy )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Damir Skomina ( Slovenia )",
-          "Jure Praprotnik ( Slovenia ) Robert Vukan ( Slovenia )"
+          "Jure Praprotnik ( Slovenia ) Robert Vukan ( Slovenia )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ],
         [
+          "UEFA",
           "Clément Turpin ( France )",
-          "Cyril Gringore ( France ) Nicolas Danos ( France )"
+          "Cyril Gringore ( France ) Nicolas Danos ( France )",
+          "Bastian Dankert ( Germany ) Artur Soares Dias ( Portugal ) Paweł Gil ( Poland ) Massimiliano Irrati ( Italy ) Tiago Martins ( Portugal ) Danny Makkelie ( Netherlands ) Daniele Orsato ( Italy ) Paolo Valeri ( Italy ) Felix Zwayer ( Germany )"
         ]
       ],
       "notes": [],
@@ -952,7 +1010,8 @@
           "8",
           "4",
           "+4",
-          "6"
+          "6",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -977,7 +1036,8 @@
           "2",
           "6",
           "−4",
-          "0"
+          "0",
+          ""
         ]
       ],
       "notes": [],
@@ -1023,7 +1083,8 @@
           "5",
           "4",
           "+1",
-          "5"
+          "5",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1048,7 +1109,8 @@
           "2",
           "4",
           "−2",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1094,7 +1156,8 @@
           "2",
           "1",
           "+1",
-          "5"
+          "5",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1119,7 +1182,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1165,7 +1229,8 @@
           "3",
           "5",
           "−2",
-          "4"
+          "4",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1190,7 +1255,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1236,7 +1302,8 @@
           "5",
           "4",
           "+1",
-          "5"
+          "5",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1261,7 +1328,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          ""
         ]
       ],
       "notes": [],
@@ -1307,7 +1375,8 @@
           "3",
           "4",
           "−1",
-          "6"
+          "6",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1332,7 +1401,8 @@
           "2",
           "4",
           "−2",
-          "3"
+          "3",
+          ""
         ]
       ],
       "notes": [],
@@ -1378,7 +1448,8 @@
           "8",
           "3",
           "+5",
-          "6"
+          "6",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1403,7 +1474,8 @@
           "2",
           "11",
           "−9",
-          "0"
+          "0",
+          ""
         ]
       ],
       "notes": [],
@@ -1449,7 +1521,8 @@
           "4",
           "4",
           "0",
-          "4"
+          "4",
+          "Advance to knockout stage"
         ],
         [
           "3",
@@ -1474,7 +1547,8 @@
           "2",
           "5",
           "−3",
-          "3"
+          "3",
+          ""
         ]
       ],
       "notes": [],
@@ -1719,7 +1793,8 @@
           "8",
           "3",
           "+5",
-          "10"
+          "10",
+          "Eliminated in quarter-finals"
         ],
         [
           "7",
@@ -1732,7 +1807,8 @@
           "6",
           "4",
           "+2",
-          "9"
+          "9",
+          "Eliminated in quarter-finals"
         ],
         [
           "8",
@@ -1745,7 +1821,8 @@
           "11",
           "7",
           "+4",
-          "8"
+          "8",
+          "Eliminated in quarter-finals"
         ],
         [
           "",
@@ -1786,7 +1863,8 @@
           "7",
           "6",
           "+1",
-          "6"
+          "6",
+          "Eliminated in round of 16"
         ],
         [
           "11",
@@ -1799,7 +1877,8 @@
           "3",
           "2",
           "+1",
-          "6"
+          "6",
+          "Eliminated in round of 16"
         ],
         [
           "12",
@@ -1812,7 +1891,8 @@
           "3",
           "6",
           "−3",
-          "6"
+          "6",
+          "Eliminated in round of 16"
         ],
         [
           "13",
@@ -1825,7 +1905,8 @@
           "6",
           "6",
           "0",
-          "5"
+          "5",
+          "Eliminated in round of 16"
         ],
         [
           "14",
@@ -1838,7 +1919,8 @@
           "5",
           "5",
           "0",
-          "5"
+          "5",
+          "Eliminated in round of 16"
         ],
         [
           "15",
@@ -1851,7 +1933,8 @@
           "6",
           "7",
           "−1",
-          "4"
+          "4",
+          "Eliminated in round of 16"
         ],
         [
           "16",
@@ -1864,7 +1947,8 @@
           "6",
           "9",
           "−3",
-          "4"
+          "4",
+          "Eliminated in round of 16"
         ],
         [
           "",
@@ -1905,7 +1989,8 @@
           "2",
           "2",
           "0",
-          "4"
+          "4",
+          "Eliminated in group stage"
         ],
         [
           "19",
@@ -1918,7 +2003,8 @@
           "3",
           "3",
           "0",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "20",
@@ -1931,7 +2017,8 @@
           "2",
           "2",
           "0",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "21",
@@ -1944,7 +2031,8 @@
           "3",
           "4",
           "−1",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "=22",
@@ -1957,7 +2045,8 @@
           "2",
           "4",
           "−2",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "=22",
@@ -1970,7 +2059,8 @@
           "2",
           "4",
           "−2",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "24",
@@ -1983,7 +2073,8 @@
           "5",
           "8",
           "−3",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "25",
@@ -1996,7 +2087,8 @@
           "2",
           "5",
           "−3",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "26",
@@ -2009,7 +2101,8 @@
           "2",
           "7",
           "−5",
-          "3"
+          "3",
+          "Eliminated in group stage"
         ],
         [
           "27",
@@ -2022,7 +2115,8 @@
           "2",
           "4",
           "−2",
-          "1"
+          "1",
+          "Eliminated in group stage"
         ],
         [
           "=28",
@@ -2035,7 +2129,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          "Eliminated in group stage"
         ],
         [
           "=28",
@@ -2048,7 +2143,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          "Eliminated in group stage"
         ],
         [
           "=28",
@@ -2061,7 +2157,8 @@
           "2",
           "5",
           "−3",
-          "1"
+          "1",
+          "Eliminated in group stage"
         ],
         [
           "31",
@@ -2074,7 +2171,8 @@
           "2",
           "6",
           "−4",
-          "0"
+          "0",
+          "Eliminated in group stage"
         ],
         [
           "32",
@@ -2087,7 +2185,8 @@
           "2",
           "11",
           "−9",
-          "0"
+          "0",
+          "Eliminated in group stage"
         ]
       ],
       "notes": [],
@@ -2233,6 +2332,7 @@
           "128"
         ],
         [
+          "Total",
           "Total",
           "400"
         ]

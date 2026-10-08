@@ -450,7 +450,7 @@
   "tables": [
     {
       "id": "table-0",
-      "title": "One of Aristotle'stypes of syllogism",
+      "title": "One of Aristotle's types of syllogism",
       "columns": [
         "In words",
         "In terms",
@@ -518,7 +518,7 @@
     },
     {
       "id": "table-2",
-      "title": "Aristotle'sScala naturae(highest to lowest)",
+      "title": "Aristotle's Scala naturae (highest to lowest)",
       "columns": [
         "Group",
         "Examples (given by Aristotle)",

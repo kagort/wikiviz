@@ -245,7 +245,7 @@
   "tables": [
     {
       "id": "table-0",
-      "title": "Panthera tigris tigris(Linnaeus, 1758)",
+      "title": "Panthera tigris tigris (Linnaeus, 1758)",
       "columns": [
         "Population",
         "Description",
@@ -288,7 +288,7 @@
     },
     {
       "id": "table-1",
-      "title": "Panthera tigris sondaica(Temminck, 1844)",
+      "title": "Panthera tigris sondaica (Temminck, 1844)",
       "columns": [
         "Population",
         "Description",
