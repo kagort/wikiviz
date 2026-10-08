@@ -1,0 +1,286 @@
+{
+  "article": {
+    "id": 54158,
+    "title": "Куликовская битва",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Куликовская_битва",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Предыстория",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Соотношение и развёртывание сил",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Русские войска",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-3",
+              "title": "Численность",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-4",
+              "title": "Вооружение",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-5",
+          "title": "Войско Мамая",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "Битва",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-7",
+          "title": "Место битвы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Подготовка к битве",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-9",
+          "title": "Русское знамя",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-10",
+          "title": "Ход битвы",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "Оценки потерь",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-12",
+      "title": "После битвы",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-13",
+      "title": "Последствия",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-14",
+      "title": "История изучения",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-15",
+          "title": "Источники о битве",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-16",
+          "title": "Историческая оценка",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-17",
+      "title": "Память о битве",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-18",
+          "title": "День воинской славы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-19",
+          "title": "В популярной культуре",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-20",
+      "title": "Примечания",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-21",
+      "title": "Литература",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-22",
+      "title": "Ссылки",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "основной_конфликт_свержение_монголо_татарского_ига_дата": {
+      "key": "основной_конфликт_свержение_монголо_татарского_ига_дата",
+      "label": "Дата",
+      "group": "Основной конфликт: Свержение монголо-татарского ига",
+      "value": "8 сентября 1380",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "основной_конфликт_свержение_монголо_татарского_ига_место": {
+      "key": "основной_конфликт_свержение_монголо_татарского_ига_место",
+      "label": "Место",
+      "group": "Основной конфликт: Свержение монголо-татарского ига",
+      "value": "Куликово поле (ныне Тульская область)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "основной_конфликт_свержение_монголо_татарского_ига_итог": {
+      "key": "основной_конфликт_свержение_монголо_татарского_ига_итог",
+      "label": "Итог",
+      "group": "Основной конфликт: Свержение монголо-татарского ига",
+      "value": "Победа русских княжеств",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "противники": {
+      "key": "противники",
+      "label": "Противники",
+      "group": null,
+      "value": "Великое княжество Московское, Великое княжество Владимирское, Серпуховско-Боровское княжество, Белозерское княжество, Ярославское княжество, Ростовское княжество, Стародубское княжество, Трубчевское княжество, Мамаева Орда",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "командующие": {
+      "key": "командующие",
+      "label": "Командующие",
+      "group": null,
+      "value": "Дмитрий Донской, Дмитрий Боброк, Владимир Андреевич, Андрей Ольгердович, Дмитрий Ольгердович, Мамай, Булак † (умер или погиб)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "силы_сторон": {
+      "key": "силы_сторон",
+      "label": "Силы сторон",
+      "group": null,
+      "value": "20 тыс. воинов, Подробнее, не больше 30 тыс. воинов, Подробнее",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "потери": {
+      "key": "потери",
+      "label": "Потери",
+      "group": null,
+      "value": "Подробнее, Подробнее",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [],
+  "locations": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1380-09-08",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1380-08-15",
+      "date_precision": "day",
+      "title": "Русские войска",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "1995-03-13",
+      "date_precision": "day",
+      "title": "День воинской славы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1380-09-08",
+      "date_precision": "day",
+      "title": "День воинской славы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "1582-10-15",
+      "date_precision": "day",
+      "title": "День воинской славы",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Силы сторон — 20 тыс. воинов Подробнее ➤",
+      "value": 30000.0,
+      "unit": "воинов",
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Dmitry_Donskoy_in_the_Battle_of_Kulikovo.jpg/1280px-Dmitry_Donskoy_in_the_Battle_of_Kulikovo.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Dmitry_Donskoy_in_the_Battle_of_Kulikovo.jpg/330px-Dmitry_Donskoy_in_the_Battle_of_Kulikovo.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Адольф Ивон. «Куликовская битва». 1859 год",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": 6772535,
+    "title": "Parsonages (Amendment) Act 1838",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Parsonages_(Amendment)_Act_1838",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "References",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "act_of_parliament_long_title": {
+      "key": "act_of_parliament_long_title",
+      "label": "Long title",
+      "group": "Act of Parliament",
+      "value": "An Act to supply an Omission in an Act passed in the present Session of Parliament, intituled \"An Act to amend the Law for providing fit Houses for the beneficed Clergy.\"",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "act_of_parliament_citation": {
+      "key": "act_of_parliament_citation",
+      "label": "Citation",
+      "group": "Act of Parliament",
+      "value": "1 & 2 Vict. c. 29",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "dates_royal_assent": {
+      "key": "dates_royal_assent",
+      "label": "Royal assent",
+      "group": "Dates",
+      "value": "4 July 1838",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [],
+  "locations": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1838-07-04",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Citation",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Dates — Amends",
+      "value": 1838.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Coat_of_arms_of_the_United_Kingdom_%281837%29.svg/1280px-Coat_of_arms_of_the_United_Kingdom_%281837%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Coat_of_arms_of_the_United_Kingdom_%281837%29.svg/250px-Coat_of_arms_of_the_United_Kingdom_%281837%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "coat of arms",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

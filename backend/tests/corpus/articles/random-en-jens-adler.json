@@ -1,0 +1,199 @@
+{
+  "article": {
+    "id": 3254505,
+    "title": "Jens Adler",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Jens_Adler",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "References",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-2",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "personal_information_date_of_birth": {
+      "key": "personal_information_date_of_birth",
+      "label": "Date of birth",
+      "group": "Personal information",
+      "value": "25 April 1965",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "personal_information_place_of_birth": {
+      "key": "personal_information_place_of_birth",
+      "label": "Place of birth",
+      "group": "Personal information",
+      "value": "Halle, Bezirk Halle, East Germany",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "personal_information_height": {
+      "key": "personal_information_height",
+      "label": "Height",
+      "group": "Personal information",
+      "value": "1.82 m (6 ft 0 in)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "personal_information_position": {
+      "key": "personal_information_position",
+      "label": "Position",
+      "group": "Personal information",
+      "value": "Goalkeeper",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "team_information_current_team": {
+      "key": "team_information_current_team",
+      "label": "Current team",
+      "group": "Team information",
+      "value": "Hallescher FC (goalkeeper coach)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "youth_career_1974_1983": {
+      "key": "youth_career_1974_1983",
+      "label": "1974–1983",
+      "group": "Youth career",
+      "value": "Chemie Halle",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "senior_career_years": {
+      "key": "senior_career_years",
+      "label": "Years",
+      "group": "Senior career*",
+      "value": "Team",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "senior_career_1983_1993": {
+      "key": "senior_career_1983_1993",
+      "label": "1983–1993",
+      "group": "Senior career*",
+      "value": "Hallescher FC",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "senior_career_1994_1995": {
+      "key": "senior_career_1994_1995",
+      "label": "1994–1995",
+      "group": "Senior career*",
+      "value": "Stahl Brandenburg",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "senior_career_1995_1997": {
+      "key": "senior_career_1995_1997",
+      "label": "1995–1997",
+      "group": "Senior career*",
+      "value": "Hertha BSC",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "senior_career_1997_2000": {
+      "key": "senior_career_1997_2000",
+      "label": "1997–2000",
+      "group": "Senior career*",
+      "value": "VfL Halle 96",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "international_career_1990": {
+      "key": "international_career_1990",
+      "label": "1990",
+      "group": "International career",
+      "value": "East Germany",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "managerial_career_2001_2008": {
+      "key": "managerial_career_2001_2008",
+      "label": "2001–2008",
+      "group": "Managerial career",
+      "value": "Hallescher FC (goalkeeper coach)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "managerial_career_2012_2016": {
+      "key": "managerial_career_2012_2016",
+      "label": "2012–2016",
+      "group": "Managerial career",
+      "value": "Hallescher FC (goalkeeper coach)",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [],
+  "locations": [],
+  "events": [
+    {
+      "id": "event-0",
+      "date": "1965-04-25",
+      "date_precision": "day",
+      "title": "Date of birth",
+      "description": null,
+      "source": "infobox",
+      "confidence": 1.0
+    },
+    {
+      "id": "text-event-0",
+      "date": "1965-04-25",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1990-09-12",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Personal information — Height",
+      "value": 1.82,
+      "unit": "m",
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Bundesarchiv_Bild_183-1988-0910-016%2C_FDGB-Pokal%2C_Dynamo_Dresden_II_-_HFC_Chemie_1-2.jpg/1280px-Bundesarchiv_Bild_183-1988-0910-016%2C_FDGB-Pokal%2C_Dynamo_Dresden_II_-_HFC_Chemie_1-2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Bundesarchiv_Bild_183-1988-0910-016%2C_FDGB-Pokal%2C_Dynamo_Dresden_II_-_HFC_Chemie_1-2.jpg/250px-Bundesarchiv_Bild_183-1988-0910-016%2C_FDGB-Pokal%2C_Dynamo_Dresden_II_-_HFC_Chemie_1-2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

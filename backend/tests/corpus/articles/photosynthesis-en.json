@@ -1,0 +1,268 @@
+{
+  "article": {
+    "id": 24544,
+    "title": "Photosynthesis",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Overview",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Photosynthetic membranes and organelles",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-2",
+      "title": "Light-dependent reactions",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-3",
+          "title": "Z scheme",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Water photolysis",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "Light-independent reactions",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-6",
+          "title": "Calvin cycle",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Carbon concentrating mechanisms",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-8",
+              "title": "On land",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-9",
+              "title": "In water",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "Order and kinetics",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-11",
+      "title": "Efficiency",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-12",
+      "title": "Evolution",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-13",
+          "title": "Symbiosis and the origin of chloroplasts",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-14",
+          "title": "Photosynthetic eukaryotic lineages",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-15",
+          "title": "Photosynthetic prokaryotic lineages",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-16",
+          "title": "Cyanobacteria and the evolution of photosynthesis",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-17",
+      "title": "Experimental history",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-18",
+          "title": "Discovery",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-19",
+          "title": "Refinements",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-20",
+          "title": "Development of the concept",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "C3 : C4 photosynthesis research",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-22",
+      "title": "Factors",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-23",
+          "title": "Light intensity (irradiance), wavelength and temperature",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-24",
+          "title": "Carbon dioxide levels and photorespiration",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-25",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-26",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-27",
+      "title": "References",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-28",
+      "title": "Further reading",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-29",
+          "title": "Books",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-30",
+          "title": "Papers",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-31",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {},
+  "tables": [
+    {
+      "id": "table-0",
+      "title": null,
+      "columns": [
+        "Stage",
+        "Event",
+        "Site",
+        "Time scale"
+      ],
+      "rows": [
+        [
+          "1",
+          "Energy transfer in antenna chlorophyll",
+          "Thylakoid membranes in the chloroplasts",
+          "Femtosecond to picosecond"
+        ],
+        [
+          "2",
+          "Transfer of electrons in photochemical reactions",
+          "Picosecond to nanosecond"
+        ],
+        [
+          "3",
+          "Electron transport chain and ATP synthesis",
+          "Microsecond to millisecond"
+        ],
+        [
+          "4",
+          "Carbon fixation and export of stable products",
+          "Stroma of the chloroplasts and the cell cytosol",
+          "Millisecond to second"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    }
+  ],
+  "locations": [],
+  "events": [],
+  "numbers": [],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Metabolic_Metro_Map_%28no_legends%29.svg/1280px-Metabolic_Metro_Map_%28no_legends%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Metabolic_Metro_Map_%28no_legends%29.svg/960px-Metabolic_Metro_Map_%28no_legends%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Metro-style map of major metabolic pathways",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

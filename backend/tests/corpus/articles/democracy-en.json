@@ -1,0 +1,466 @@
+{
+  "article": {
+    "id": 7959,
+    "title": "Democracy",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Democracy",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Characteristics",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "History",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Origins",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-3",
+              "title": "Greece and Rome",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-4",
+              "title": "Ancient India",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-5",
+              "title": "Americas",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-6",
+              "title": "Africa",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-7",
+          "title": "Middle Ages",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Modern era",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-9",
+              "title": "Early modern period",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-10",
+              "title": "18th and 19th centuries",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-11",
+              "title": "20th and 21st centuries",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-12",
+      "title": "Theory",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-13",
+          "title": "Early theory",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-14",
+          "title": "Contemporary theory",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-15",
+              "title": "Aggregation",
+              "level": 4,
+              "children": [
+                {
+                  "id": "section-16",
+                  "title": "Median mandate",
+                  "level": 5,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "section-17",
+              "title": "Polyarchy",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-18",
+              "title": "Deliberation",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-19",
+              "title": "Types of governmental democracies",
+              "level": 4,
+              "children": [
+                {
+                  "id": "section-20",
+                  "title": "Basic forms",
+                  "level": 5,
+                  "children": [
+                    {
+                      "id": "section-21",
+                      "title": "Direct",
+                      "level": 6,
+                      "children": []
+                    },
+                    {
+                      "id": "section-22",
+                      "title": "Semi-direct",
+                      "level": 6,
+                      "children": []
+                    },
+                    {
+                      "id": "section-23",
+                      "title": "Lot system",
+                      "level": 6,
+                      "children": []
+                    },
+                    {
+                      "id": "section-24",
+                      "title": "Representative",
+                      "level": 6,
+                      "children": []
+                    },
+                    {
+                      "id": "section-25",
+                      "title": "Parliamentary",
+                      "level": 6,
+                      "children": []
+                    },
+                    {
+                      "id": "section-26",
+                      "title": "Presidential",
+                      "level": 6,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "section-27",
+              "title": "Typology",
+              "level": 4,
+              "children": [
+                {
+                  "id": "section-28",
+                  "title": "Constitutional monarchy",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-29",
+                  "title": "Republic",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-30",
+                  "title": "Liberal",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-31",
+                  "title": "Socialist",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-32",
+                  "title": "Marxist",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-33",
+                  "title": "Anarchist",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-34",
+                  "title": "Sortition",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-35",
+                  "title": "Consociational",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-36",
+                  "title": "Majoritarian",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-37",
+                  "title": "Consensus",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-38",
+                  "title": "Ethnic",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-39",
+                  "title": "Inclusive",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-40",
+                  "title": "Participatory",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-41",
+                  "title": "Procedural",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-42",
+                  "title": "Radical",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-43",
+                  "title": "Religious",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-44",
+                  "title": "Cosmopolitan",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-45",
+                  "title": "Creative",
+                  "level": 5,
+                  "children": []
+                },
+                {
+                  "id": "section-46",
+                  "title": "Guided",
+                  "level": 5,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "section-47",
+          "title": "Comparison",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-48",
+          "title": "Measurement of democracy",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-49",
+      "title": "Non-governmental democracy",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-50",
+          "title": "Shareholder democracy",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-51",
+      "title": "Justification",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-52",
+          "title": "Legitimacy",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-53",
+          "title": "Better decision-making",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-54",
+          "title": "Economic success",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-55",
+      "title": "Criticism",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-56",
+      "title": "Democratic transitions",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-57",
+          "title": "Democratization",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-58",
+              "title": "Democracy promotion",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-59",
+          "title": "Autocratization",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-60",
+              "title": "Disruption",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-61",
+      "title": "Influence of the media",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-62",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-63",
+      "title": "Footnotes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-64",
+      "title": "References",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-65",
+          "title": "Works cited",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-66",
+      "title": "Further reading",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-67",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {},
+  "tables": [],
+  "locations": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1791-05-03",
+      "date_precision": "day",
+      "title": "18th and 19th centuries",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1926-05-28",
+      "date_precision": "day",
+      "title": "Disruption",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [],
+  "links": [],
+  "metadata": {}
+}

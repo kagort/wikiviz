@@ -1,0 +1,418 @@
+{
+  "article": {
+    "id": 30075,
+    "title": "Tiger",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Tiger",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Etymology",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Taxonomy",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Subspecies",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Evolution",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Hybrids",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "Description",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-6",
+          "title": "Coat",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-7",
+              "title": "Colour variations",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "Distribution and habitat",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-9",
+          "title": "Population density",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "Behaviour and ecology",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-11",
+          "title": "Social spacing",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-12",
+          "title": "Communication",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-13",
+          "title": "Hunting and diet",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-14",
+          "title": "Competitors",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-15",
+          "title": "Reproduction and life cycle",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-16",
+          "title": "Health and diseases",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-17",
+      "title": "Threats",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-18",
+      "title": "Conservation",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-19",
+      "title": "Relationship with humans",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-20",
+          "title": "Hunting",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "Attacks",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-22",
+          "title": "Captivity",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-23",
+          "title": "Cultural significance",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-24",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-25",
+      "title": "References",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-26",
+          "title": "Bibliography",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-27",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "kingdom": {
+      "key": "kingdom",
+      "label": "Kingdom:",
+      "group": null,
+      "value": "Animalia",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "phylum": {
+      "key": "phylum",
+      "label": "Phylum:",
+      "group": null,
+      "value": "Chordata",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "class": {
+      "key": "class",
+      "label": "Class:",
+      "group": null,
+      "value": "Mammalia",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "order": {
+      "key": "order",
+      "label": "Order:",
+      "group": null,
+      "value": "Carnivora",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "family": {
+      "key": "family",
+      "label": "Family:",
+      "group": null,
+      "value": "Felidae",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "genus": {
+      "key": "genus",
+      "label": "Genus:",
+      "group": null,
+      "value": "Panthera",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "species": {
+      "key": "species",
+      "label": "Species:",
+      "group": null,
+      "value": "P. tigris",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [
+    {
+      "id": "table-0",
+      "title": "Panthera tigris tigris(Linnaeus, 1758)",
+      "columns": [
+        "Population",
+        "Description",
+        "Image"
+      ],
+      "rows": [
+        [
+          "Bengal tiger formerly P. t. tigris (Linnaeus, 1758)",
+          "This population inhabits the Indian subcontinent . The Bengal tiger has shorter fur than tigers further north, with a light tawny to orange-red colouration, and relatively long and narrow nostrils.",
+          ""
+        ],
+        [
+          "† Caspian tiger formerly P. t. virgata ( Illiger , 1815)",
+          "This population occurred from Turkey to around the Caspian Sea . It had bright rusty-red fur with thin and closely spaced brownish stripes, and a broad occipital bone . Genetic analysis revealed that it was closely related to the Siberian tiger. It has been extinct since the 1970s.",
+          ""
+        ],
+        [
+          "Siberian tiger formerly P. t. altaica ( Temminck , 1844)",
+          "This population lives in the Russian Far East , Northeast China and possibly North Korea . The Siberian tiger has long hair and dense fur. Its ground colour varies widely from ochre -yellow in winter to more reddish and vibrant after moulting. The skull is shorter and broader than the skulls of tigers further south.",
+          ""
+        ],
+        [
+          "South China tiger formerly P. t. amoyensis ( Hilzheimer , 1905)",
+          "This tiger historically lived in south-central China. The skulls of the five type specimens had shorter carnassials and molars than tigers from India, a smaller cranium, orbits set closer together and larger postorbital processes ; skins were yellowish with rhombus -like stripes. It has a unique mtDNA haplotype due to interbreeding with ancient tiger lineages. It is extinct in the wild as there has not been a confirmed sighting since the 1970s, and survives only in captivity.",
+          ""
+        ],
+        [
+          "Indochinese tiger formerly P. t. corbetti ( Mazák , 1968)",
+          "This tiger population occurs on the Indochinese Peninsula . Indochinese tiger specimens have smaller craniums than Bengal tigers and appear to have darker fur with somewhat thin stripes.",
+          ""
+        ],
+        [
+          "Malayan tiger formerly P. t. jacksoni (Luo et al., 2004)",
+          "The Malayan tiger was proposed as a distinct subspecies on the basis of mtDNA and micro-satellite sequences that differ from the Indochinese tiger. It does not differ significantly in fur colour or skull size from Indochinese tigers. There is no clear geographical barrier between tiger populations in northern Malaysia and southern Thailand .",
+          ""
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-1",
+      "title": "Panthera tigris sondaica(Temminck, 1844)",
+      "columns": [
+        "Population",
+        "Description",
+        "Image"
+      ],
+      "rows": [
+        [
+          "† Javan tiger formerly P. t. sondaica (Temminck, 1844)",
+          "This tiger was described based on an unspecified number of skins with short and smooth hair. Tigers from Java were small compared to tigers of the Asian mainland, had relatively elongated skulls compared to the Sumatran tiger and longer, thinner and more numerous stripes. The Javan tiger is thought to have gone extinct by the 1980s.",
+          ""
+        ],
+        [
+          "† Bali tiger formerly P. t. balica ( Schwarz , 1912)",
+          "This tiger occurred on Bali and had brighter fur and a smaller skull than the Javan tiger. A typical feature of Bali tiger skulls is the narrow occipital bone, which is similar to the Javan tiger's skull. This population went extinct in the 1940s.",
+          ""
+        ],
+        [
+          "Sumatran tiger formerly P. t. sumatrae ( Pocock , 1929)",
+          "The type specimen from Sumatra had dark fur. The Sumatran tiger has particularly long hair around the face, thick body stripes and a broader and smaller nasal bone than other island tigers.",
+          ""
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    },
+    {
+      "id": "table-2",
+      "title": "Global wild tiger population",
+      "columns": [
+        "Country",
+        "Year",
+        "Estimate"
+      ],
+      "rows": [
+        [
+          "India",
+          "2022",
+          "3,167–3,682"
+        ],
+        [
+          "Russia",
+          "2022",
+          "573–600"
+        ],
+        [
+          "Indonesia",
+          "2022",
+          "393"
+        ],
+        [
+          "Nepal",
+          "2022",
+          "316–355"
+        ],
+        [
+          "Thailand",
+          "2022",
+          "148–189"
+        ],
+        [
+          "Malaysia",
+          "2022",
+          "<150"
+        ],
+        [
+          "Bhutan",
+          "2022",
+          "131"
+        ],
+        [
+          "Bangladesh",
+          "2022",
+          "118–122"
+        ],
+        [
+          "China",
+          "2022",
+          ">60"
+        ],
+        [
+          "Myanmar",
+          "2022",
+          "28"
+        ],
+        [
+          "Total",
+          "",
+          "5,638–5,899"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    }
+  ],
+  "locations": [],
+  "events": [],
+  "numbers": [],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tiger_spray_marking._DavidRaju_1.jpg/1280px-Tiger_spray_marking._DavidRaju_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tiger_spray_marking._DavidRaju_1.jpg/330px-Tiger_spray_marking._DavidRaju_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Bengal tigers spraying urine (above) and rubbing against a tree to mark territory",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Panthera_tigris_altaica_28_-_Buffalo_Zoo_%281%29.jpg/1280px-Panthera_tigris_altaica_28_-_Buffalo_Zoo_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Panthera_tigris_altaica_28_-_Buffalo_Zoo_%281%29.jpg/250px-Panthera_tigris_altaica_28_-_Buffalo_Zoo_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Image of tiger barring teeth",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Clean_Toes_are_a_Tiger%27s_Friend_%2815588882074%29.jpg/1280px-Clean_Toes_are_a_Tiger%27s_Friend_%2815588882074%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Clean_Toes_are_a_Tiger%27s_Friend_%2815588882074%29.jpg/250px-Clean_Toes_are_a_Tiger%27s_Friend_%2815588882074%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Tiger at Big Cat Rescue in 2014",
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

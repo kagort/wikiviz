@@ -1,0 +1,1593 @@
+{
+  "article": {
+    "id": 45,
+    "title": "Санкт-Петербург",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Санкт-Петербург",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Физико-географическая характеристика",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-1",
+          "title": "Географическое положение",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-2",
+          "title": "Гидрография",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Климат",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Растительность",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "Экологические проблемы",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "История",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-7",
+          "title": "Предыстория, основание города и XVIII век",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Петербург в XIX веке",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-9",
+          "title": "Начало XX века и переименования",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-10",
+          "title": "Советский период",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-11",
+          "title": "Постсоветский период",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-12",
+          "title": "Этимология",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-13",
+          "title": "Награды",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-14",
+      "title": "Административно-территориальное устройство",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-15",
+          "title": "Органы власти",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-16",
+          "title": "Внешние связи",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Официальные символы города",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-18",
+          "title": "Городские праздники и памятные даты",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-19",
+      "title": "Население",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-20",
+      "title": "Религия",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-21",
+      "title": "Экономика",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-22",
+          "title": "Промышленность",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-23",
+          "title": "Потребительский рынок",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-24",
+          "title": "Строительство и инвестиции",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-25",
+          "title": "Туризм",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-26",
+          "title": "Коммунальное хозяйство",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-27",
+          "title": "Финансы, бюджет, кредитные рейтинги",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-28",
+              "title": "Таблица",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-29",
+              "title": "Диаграмма",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-30",
+              "title": "Рейтинги",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-31",
+      "title": "Транспорт",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-32",
+      "title": "Образование и наука",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-33",
+      "title": "Здравоохранение",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-34",
+      "title": "Преступность",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-35",
+      "title": "Культура",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-36",
+          "title": "Архитектура",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-37",
+          "title": "Отражения и влияние города в литературе и искусстве",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-38",
+      "title": "Физкультура и спорт",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-39",
+      "title": "Примечания",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-40",
+          "title": "Комментарии",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-41",
+          "title": "Источники",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-42",
+      "title": "Литература",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-43",
+      "title": "Ссылки",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "страна": {
+      "key": "страна",
+      "label": "Страна",
+      "group": null,
+      "value": "Россия",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "статус": {
+      "key": "статус",
+      "label": "Статус",
+      "group": null,
+      "value": "город федерального значения",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "внутреннее_деление": {
+      "key": "внутреннее_деление",
+      "label": "Внутреннее деление",
+      "group": null,
+      "value": "18 районов, 111 муниципальных образований (81 округ, 21 посёлок и 9 городов).",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "губернатор": {
+      "key": "губернатор",
+      "label": "Губернатор",
+      "group": null,
+      "value": "Александр Беглов",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_основан": {
+      "key": "история_и_география_основан",
+      "label": "Основан",
+      "group": "История и география",
+      "value": "16 (27) мая 1703",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_прежние_названия": {
+      "key": "история_и_география_прежние_названия",
+      "label": "Прежние названия",
+      "group": "История и география",
+      "value": "до 1914 — Санкт-Петербург, до 1924 — Петроград, до 1991 — Ленинград",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_город_федерального_значения_с": {
+      "key": "история_и_география_город_федерального_значения_с",
+      "label": "Город федерального значения с",
+      "group": "История и география",
+      "value": "1993 года",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_площадь": {
+      "key": "история_и_география_площадь",
+      "label": "Площадь",
+      "group": "История и география",
+      "value": "1439 км²",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_высота_центра": {
+      "key": "история_и_география_высота_центра",
+      "label": "Высота центра",
+      "group": "История и география",
+      "value": "1—5 м",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_тип_климата": {
+      "key": "история_и_география_тип_климата",
+      "label": "Тип климата",
+      "group": "История и география",
+      "value": "умеренный морской",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_население": {
+      "key": "население_население",
+      "label": "Население",
+      "group": "Население",
+      "value": "↗5 652 922 человека (2025)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_плотность": {
+      "key": "население_плотность",
+      "label": "Плотность",
+      "group": "Население",
+      "value": "4029,17 чел./км²",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_агломерация": {
+      "key": "население_агломерация",
+      "label": "Агломерация",
+      "group": "Население",
+      "value": "Санкт-Петербургская",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_население_агломерации": {
+      "key": "население_население_агломерации",
+      "label": "Население агломерации",
+      "group": "Население",
+      "value": "6,4-6,7 млн человек (2022)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_национальности": {
+      "key": "население_национальности",
+      "label": "Национальности",
+      "group": "Население",
+      "value": "русские — 92 %, украинцы — 2 %, белорусы — 1,27 %, евреи — 0,85 %, татары — 0,83 %, армяне — 0,45 %, азербайджанцы — 0,39 %, грузины — 0,24 %.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_конфессии": {
+      "key": "население_конфессии",
+      "label": "Конфессии",
+      "group": "Население",
+      "value": "христиане, преимущественно православные Московского патриархата, мусульмане, иудеи, буддисты и др.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_название_жителей": {
+      "key": "население_название_жителей",
+      "label": "Название жителей",
+      "group": "Население",
+      "value": "петербуржцы, петербуржец, петербурженка",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_официальный_язык": {
+      "key": "население_официальный_язык",
+      "label": "Официальный язык",
+      "group": "Население",
+      "value": "русский",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_телефонный_код": {
+      "key": "цифровые_идентификаторы_телефонный_код",
+      "label": "Телефонный код",
+      "group": "Цифровые идентификаторы",
+      "value": "+7 812",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_почтовые_индексы": {
+      "key": "цифровые_идентификаторы_почтовые_индексы",
+      "label": "Почтовые индексы",
+      "group": "Цифровые идентификаторы",
+      "value": "190000—199406.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_окато": {
+      "key": "цифровые_идентификаторы_окато",
+      "label": "ОКАТО",
+      "group": "Цифровые идентификаторы",
+      "value": "40",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_октмо": {
+      "key": "цифровые_идентификаторы_октмо",
+      "label": "ОКТМО",
+      "group": "Цифровые идентификаторы",
+      "value": "40000000",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_номер_в_гкгн": {
+      "key": "цифровые_идентификаторы_номер_в_гкгн",
+      "label": "Номер в ГКГН",
+      "group": "Цифровые идентификаторы",
+      "value": "0009207 и 0013572",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "прочее_день_города": {
+      "key": "прочее_день_города",
+      "label": "День города",
+      "group": "Прочее",
+      "value": "27 мая",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "прочее_неофициальные_названия": {
+      "key": "прочее_неофициальные_названия",
+      "label": "Неофициальные названия",
+      "group": "Прочее",
+      "value": "Петербург, СПб., Питер, Северная столица, Город на Неве, Город белых ночей, Культурная столица России, Окно в Европу, Град Петров, Петрополь, Северная Пальмира, Северная Венеция, Невоград, Город Ленина, Город-герой Ленинград, Город трёх революций",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [
+    {
+      "id": "table-0",
+      "title": "Климат Санкт-Петербурга (ИЦП, норма 1991—2020, рекорды за период наблюдений с 1881 по 2021 год)",
+      "columns": [
+        "Показатель",
+        "Янв.",
+        "Февр.",
+        "Март",
+        "Апр.",
+        "Май",
+        "Июнь",
+        "Июль",
+        "Авг.",
+        "Сент.",
+        "Окт.",
+        "Нояб.",
+        "Дек.",
+        "Год"
+      ],
+      "rows": [
+        [
+          "Абсолютный максимум, °C",
+          "8,7",
+          "10,2",
+          "16,1",
+          "26,7",
+          "33,0",
+          "35,9",
+          "35,3",
+          "37,1",
+          "30,4",
+          "21,0",
+          "12,3",
+          "10,9",
+          "37,1"
+        ],
+        [
+          "Средний суточный максимум, °C",
+          "−2,5",
+          "−2,4",
+          "2,3",
+          "9,5",
+          "16,3",
+          "20,5",
+          "23,3",
+          "21,4",
+          "15,9",
+          "8,7",
+          "2,8",
+          "−0,5",
+          "9,6"
+        ],
+        [
+          "Средняя температура, °C",
+          "−4,8",
+          "−5",
+          "−1",
+          "5,2",
+          "11,5",
+          "16,1",
+          "19,1",
+          "17,4",
+          "12,4",
+          "6,2",
+          "0,9",
+          "−2,5",
+          "6,3"
+        ],
+        [
+          "Средний суточный минимум, °C",
+          "−7,2",
+          "−7,6",
+          "−4",
+          "1,7",
+          "7,2",
+          "12,2",
+          "15,3",
+          "13,9",
+          "9,4",
+          "4,1",
+          "−0,9",
+          "−4,5",
+          "3,3"
+        ],
+        [
+          "Абсолютный минимум, °C",
+          "−35,9",
+          "−35,2",
+          "−29,9",
+          "−21,8",
+          "−6,6",
+          "0,1",
+          "4,9",
+          "1,3",
+          "−3,1",
+          "−12,9",
+          "−22,2",
+          "−34,4",
+          "−35,9"
+        ],
+        [
+          "Норма осадков, мм",
+          "46",
+          "36",
+          "36",
+          "37",
+          "47",
+          "69",
+          "84",
+          "87",
+          "57",
+          "64",
+          "56",
+          "51",
+          "670"
+        ]
+      ],
+      "notes": [
+        "Источник:"
+      ],
+      "source": "table"
+    }
+  ],
+  "locations": [
+    {
+      "id": "location-0",
+      "name": "Санкт-Петербург",
+      "latitude": 59.95,
+      "longitude": 30.316666666666666,
+      "description": null,
+      "source": "coordinate",
+      "confidence": 1.0
+    }
+  ],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1945-05-01",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "2012-07-01",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "2026-09-01",
+      "date_precision": "day",
+      "title": "Гидрография",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-3",
+      "date": "1924-09-23",
+      "date_precision": "day",
+      "title": "Гидрография",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-4",
+      "date": "2010-11-16",
+      "date_precision": "day",
+      "title": "Гидрография",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-5",
+      "date": "2007-01-10",
+      "date_precision": "day",
+      "title": "Гидрография",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-6",
+      "date": "2011-12-28",
+      "date_precision": "day",
+      "title": "Гидрография",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-7",
+      "date": "2010-07-03",
+      "date_precision": "day",
+      "title": "Гидрография",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-8",
+      "date": "1240-07-15",
+      "date_precision": "day",
+      "title": "Предыстория, основание города и XVIII век",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-9",
+      "date": "1719-03-17",
+      "date_precision": "day",
+      "title": "Предыстория, основание города и XVIII век",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-10",
+      "date": "1851-08-18",
+      "date_precision": "day",
+      "title": "Петербург в XIX веке",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-11",
+      "date": "1918-03-05",
+      "date_precision": "day",
+      "title": "Начало XX века и переименования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-12",
+      "date": "1924-01-26",
+      "date_precision": "day",
+      "title": "Начало XX века и переименования",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-13",
+      "date": "1924-09-23",
+      "date_precision": "day",
+      "title": "Советский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-14",
+      "date": "1934-12-01",
+      "date_precision": "day",
+      "title": "Советский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-15",
+      "date": "1941-09-08",
+      "date_precision": "day",
+      "title": "Советский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-16",
+      "date": "1943-01-18",
+      "date_precision": "day",
+      "title": "Советский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-17",
+      "date": "1944-01-27",
+      "date_precision": "day",
+      "title": "Советский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-18",
+      "date": "1955-11-15",
+      "date_precision": "day",
+      "title": "Советский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-19",
+      "date": "1965-05-06",
+      "date_precision": "day",
+      "title": "Советский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-20",
+      "date": "1945-05-01",
+      "date_precision": "day",
+      "title": "Советский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-21",
+      "date": "1991-09-06",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-22",
+      "date": "1992-04-21",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-23",
+      "date": "1993-12-25",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-24",
+      "date": "1991-06-12",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-25",
+      "date": "1996-03-13",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-26",
+      "date": "1991-05-25",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-27",
+      "date": "2003-06-01",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-28",
+      "date": "2004-12-15",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-29",
+      "date": "2006-07-17",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-30",
+      "date": "2011-08-31",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-31",
+      "date": "2019-09-08",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-32",
+      "date": "2018-10-03",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-33",
+      "date": "2021-07-25",
+      "date_precision": "day",
+      "title": "Постсоветский период",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-34",
+      "date": "1924-01-26",
+      "date_precision": "day",
+      "title": "Этимология",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-35",
+      "date": "1991-06-12",
+      "date_precision": "day",
+      "title": "Этимология",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-36",
+      "date": "1991-09-06",
+      "date_precision": "day",
+      "title": "Этимология",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-37",
+      "date": "1992-04-21",
+      "date_precision": "day",
+      "title": "Этимология",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-38",
+      "date": "1992-05-16",
+      "date_precision": "day",
+      "title": "Этимология",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-39",
+      "date": "1945-05-01",
+      "date_precision": "day",
+      "title": "Награды",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-40",
+      "date": "1965-05-08",
+      "date_precision": "day",
+      "title": "Награды",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-41",
+      "date": "1945-01-26",
+      "date_precision": "day",
+      "title": "Награды",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-42",
+      "date": "1957-06-21",
+      "date_precision": "day",
+      "title": "Награды",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-43",
+      "date": "1967-11-04",
+      "date_precision": "day",
+      "title": "Награды",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-44",
+      "date": "1919-12-05",
+      "date_precision": "day",
+      "title": "Награды",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-45",
+      "date": "2024-01-05",
+      "date_precision": "day",
+      "title": "Органы власти",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-46",
+      "date": "1998-01-14",
+      "date_precision": "day",
+      "title": "Органы власти",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-47",
+      "date": "1992-06-08",
+      "date_precision": "day",
+      "title": "Официальные символы города",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-48",
+      "date": "2003-05-13",
+      "date_precision": "day",
+      "title": "Официальные символы города",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-49",
+      "date": "2021-10-01",
+      "date_precision": "day",
+      "title": "Население",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-50",
+      "date": "2006-01-16",
+      "date_precision": "day",
+      "title": "Строительство и инвестиции",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-51",
+      "date": "2009-06-26",
+      "date_precision": "day",
+      "title": "Коммунальное хозяйство",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-52",
+      "date": "2021-03-01",
+      "date_precision": "day",
+      "title": "Финансы, бюджет, кредитные рейтинги",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-53",
+      "date": "2013-12-04",
+      "date_precision": "day",
+      "title": "Транспорт",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-54",
+      "date": "2015-02-04",
+      "date_precision": "day",
+      "title": "Транспорт",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-55",
+      "date": "2013-05-26",
+      "date_precision": "day",
+      "title": "Культура",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-56",
+      "date": "2022-12-28",
+      "date_precision": "day",
+      "title": "Физкультура и спорт",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Внутреннее деление",
+      "value": 18.0,
+      "unit": "районов",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Основан",
+      "value": 16.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Прежние названия",
+      "value": 1914.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Город федерального значения с",
+      "value": 1993.0,
+      "unit": "года",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Площадь",
+      "value": 1439.0,
+      "unit": "км²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Высота центра",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Население",
+      "value": 5652922.0,
+      "unit": "человека",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Плотность",
+      "value": 4029.17,
+      "unit": "чел./км²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Население агломерации",
+      "value": 6.4,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Национальности — украинцы —",
+      "value": 92.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Национальности — белорусы —",
+      "value": 2.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Национальности — евреи —",
+      "value": 1.27,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Национальности — татары —",
+      "value": 0.85,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Национальности — армяне —",
+      "value": 0.83,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Национальности — азербайджанцы —",
+      "value": 0.45,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Национальности — грузины —",
+      "value": 0.39,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — Телефонный код",
+      "value": 7812.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — Почтовые индексы",
+      "value": 190000.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — ОКАТО",
+      "value": 40.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — ОКТМО",
+      "value": 40000000.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — Номер в ГКГН",
+      "value": 9207.0,
+      "unit": "и",
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Catherine_park_in_Tsarskoe_Selo_02.jpg/1280px-Catherine_park_in_Tsarskoe_Selo_02.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Catherine_park_in_Tsarskoe_Selo_02.jpg/250px-Catherine_park_in_Tsarskoe_Selo_02.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Екатерининский парк в Пушкине",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/RUS-2016-Aerial-SPB-Grand_Menshikov_Palace.jpg/1280px-RUS-2016-Aerial-SPB-Grand_Menshikov_Palace.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/RUS-2016-Aerial-SPB-Grand_Menshikov_Palace.jpg/250px-RUS-2016-Aerial-SPB-Grand_Menshikov_Palace.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Большой (Меншиковский) дворец в Ораниенбауме",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Bolshoy_Obukhovsky_Bridge_SPB_%28img1%29.jpg/1280px-Bolshoy_Obukhovsky_Bridge_SPB_%28img1%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Bolshoy_Obukhovsky_Bridge_SPB_%28img1%29.jpg/250px-Bolshoy_Obukhovsky_Bridge_SPB_%28img1%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Большой Обуховский (вантовый) мост через Неву",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/RUS-2016-Aerial-SPB-Field_of_Mars.jpg/1280px-RUS-2016-Aerial-SPB-Field_of_Mars.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/RUS-2016-Aerial-SPB-Field_of_Mars.jpg/250px-RUS-2016-Aerial-SPB-Field_of_Mars.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Марсово поле",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Map_of_Saint-Petersburg_in_1720_%28Homann%29.jpg/1280px-Map_of_Saint-Petersburg_in_1720_%28Homann%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Map_of_Saint-Petersburg_in_1720_%28Homann%29.jpg/250px-Map_of_Saint-Petersburg_in_1720_%28Homann%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Генеральный план 1716–1717 годов, Доменико Трезини, 1716 г.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Summer_Garden_%28Zubov%29.jpg/1280px-Summer_Garden_%28Zubov%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Summer_Garden_%28Zubov%29.jpg/250px-Summer_Garden_%28Zubov%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Летний сад в 1716 году.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ruiterstandbeeld_van_Peter_de_Grote_in_Sint_Petersburg_Peter_stone_St._Petersburg_%28titel_op_object%29%2C_RP-F-F01212-4-1.jpg/1280px-Ruiterstandbeeld_van_Peter_de_Grote_in_Sint_Petersburg_Peter_stone_St._Petersburg_%28titel_op_object%29%2C_RP-F-F01212-4-1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ruiterstandbeeld_van_Peter_de_Grote_in_Sint_Petersburg_Peter_stone_St._Petersburg_%28titel_op_object%29%2C_RP-F-F01212-4-1.jpg/250px-Ruiterstandbeeld_van_Peter_de_Grote_in_Sint_Petersburg_Peter_stone_St._Petersburg_%28titel_op_object%29%2C_RP-F-F01212-4-1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Пётр I (Медный всадник)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Nevskii_prospect_and_Admiralty.jpg/1280px-Nevskii_prospect_and_Admiralty.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Nevskii_prospect_and_Admiralty.jpg/250px-Nevskii_prospect_and_Admiralty.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Проспект Адмиралтейства и окололежащих строений, 1753 г.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Nevskiy_old%282%29.jpg/1280px-Nevskiy_old%282%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Nevskiy_old%282%29.jpg/250px-Nevskiy_old%282%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Аничков дворец, усадьба И.И. Шувалов, 2-я половина XVIII века",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Perrot_View_of_the_Smolny_Convent_1841.jpg/1280px-Perrot_View_of_the_Smolny_Convent_1841.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Perrot_View_of_the_Smolny_Convent_1841.jpg/250px-Perrot_View_of_the_Smolny_Convent_1841.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Ф.-В. Перро. Вид Смольного монастыря. 1841 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Beloselsky-Belozersky_Palace_and_Anichkov_Bridge_St._Petersburg.jpg/1280px-Beloselsky-Belozersky_Palace_and_Anichkov_Bridge_St._Petersburg.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Beloselsky-Belozersky_Palace_and_Anichkov_Bridge_St._Petersburg.jpg/250px-Beloselsky-Belozersky_Palace_and_Anichkov_Bridge_St._Petersburg.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Аничков мост и дворец Белосельских-Белозерских, 1851–1860 годов, литография по рисунку И. Шарлеманя",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Kazanskiy.jpg/1280px-Kazanskiy.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Kazanskiy.jpg/250px-Kazanskiy.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Казанский собор в конце XIX века",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%D0%A1%D0%9F%D0%B1._%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C._%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B5_II_%D1%841901-1902%D0%B3%D0%B3_v1_file.php_e1.jpg/1280px-%D0%A1%D0%9F%D0%B1._%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C._%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B5_II_%D1%841901-1902%D0%B3%D0%B3_v1_file.php_e1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%D0%A1%D0%9F%D0%B1._%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C._%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B5_II_%D1%841901-1902%D0%B3%D0%B3_v1_file.php_e1.jpg/250px-%D0%A1%D0%9F%D0%B1._%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C._%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B5_II_%D1%841901-1902%D0%B3%D0%B3_v1_file.php_e1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Александринский театр и памятник Екатерине II",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%D0%A1%D0%9F%D0%B1._%D0%98%D1%81%D0%B0%D0%B0%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80.1860-%D0%B5_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%81_p624440_e1.jpg/1280px-%D0%A1%D0%9F%D0%B1._%D0%98%D1%81%D0%B0%D0%B0%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80.1860-%D0%B5_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%81_p624440_e1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%D0%A1%D0%9F%D0%B1._%D0%98%D1%81%D0%B0%D0%B0%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80.1860-%D0%B5_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%81_p624440_e1.jpg/250px-%D0%A1%D0%9F%D0%B1._%D0%98%D1%81%D0%B0%D0%B0%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80.1860-%D0%B5_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%81_p624440_e1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Исаакиевский собор, 1860-е годы",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Demonstration_of_the_War_Invalids%2C_Petrograd_%28April_1917%29_%2814576336083%29.jpg/1280px-Demonstration_of_the_War_Invalids%2C_Petrograd_%28April_1917%29_%2814576336083%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Demonstration_of_the_War_Invalids%2C_Petrograd_%28April_1917%29_%2814576336083%29.jpg/250px-Demonstration_of_the_War_Invalids%2C_Petrograd_%28April_1917%29_%2814576336083%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Петроград, Угол Невского проспекта и Садовой улицы. Демонстрация, апрель 1917 г.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%A1%D0%BC%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D0%B5_1918_%D0%B3%D0%BE%D0%B4%D0%B0.jpg/1280px-%D0%A1%D0%BC%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D0%B5_1918_%D0%B3%D0%BE%D0%B4%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%A1%D0%BC%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D0%B5_1918_%D0%B3%D0%BE%D0%B4%D0%B0.jpg/250px-%D0%A1%D0%BC%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D0%B5_1918_%D0%B3%D0%BE%D0%B4%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "У здания Смольного института Февраль 1918 года",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/RIAN_archive_5634_Antiaircrafters_guarding_the_sky_of_Leningrad.jpg/1280px-RIAN_archive_5634_Antiaircrafters_guarding_the_sky_of_Leningrad.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/RIAN_archive_5634_Antiaircrafters_guarding_the_sky_of_Leningrad.jpg/250px-RIAN_archive_5634_Antiaircrafters_guarding_the_sky_of_Leningrad.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Зенитчики на страже ленинградского неба. Октябрь 1941 года",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Kerk_van_de_verlosser_op_het_Bloed_aan_het_Gribojedovkanaal.jpg/1280px-Kerk_van_de_verlosser_op_het_Bloed_aan_het_Gribojedovkanaal.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Kerk_van_de_verlosser_op_het_Bloed_aan_het_Gribojedovkanaal.jpg/250px-Kerk_van_de_verlosser_op_het_Bloed_aan_het_Gribojedovkanaal.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Храм Спаса на Крови Июнь 1973 года",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Smolny_Monastery_0.jpg/1280px-Smolny_Monastery_0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Smolny_Monastery_0.jpg/250px-Smolny_Monastery_0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Смольный собор. 1991 год",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%9B%D0%B0%D0%B2%D1%80%D1%8B_06.jpg/1280px-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%9B%D0%B0%D0%B2%D1%80%D1%8B_06.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%9B%D0%B0%D0%B2%D1%80%D1%8B_06.jpg/250px-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%9B%D0%B0%D0%B2%D1%80%D1%8B_06.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Троицкий собор Александро-Невской лавры",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Grand_Choral_Synagogue_of_SPB.jpg/1280px-Grand_Choral_Synagogue_of_SPB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Grand_Choral_Synagogue_of_SPB.jpg/250px-Grand_Choral_Synagogue_of_SPB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Большая хоральная синагога",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D0%BB%D1%8E%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B5%D1%82%D1%80%D0%B0.jpg/1280px-%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D0%BB%D1%8E%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B5%D1%82%D1%80%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D0%BB%D1%8E%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B5%D1%82%D1%80%D0%B0.jpg/250px-%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D0%BB%D1%8E%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B5%D1%82%D1%80%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Лютеранская церковь Святых Петра и Павла",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Mosque_SPB.jpg/1280px-Mosque_SPB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Mosque_SPB.jpg/250px-Mosque_SPB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Соборная и кафедральная мечеть",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Datsan_Gunzechoinei_%28img1%29.jpg/1280px-Datsan_Gunzechoinei_%28img1%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Datsan_Gunzechoinei_%28img1%29.jpg/250px-Datsan_Gunzechoinei_%28img1%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Буддийский храм «Дацан Гунзэчойнэй»",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2026_%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A1%D0%B2._%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%8B%2C_%D0%A1%D0%9F%D0%B1%2C_1.jpg/1280px-2026_%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A1%D0%B2._%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%8B%2C_%D0%A1%D0%9F%D0%B1%2C_1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2026_%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A1%D0%B2._%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%8B%2C_%D0%A1%D0%9F%D0%B1%2C_1.jpg/250px-2026_%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A1%D0%B2._%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%8B%2C_%D0%A1%D0%9F%D0%B1%2C_1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Армянская Церковь Св. Екатерины, 1771—1776 годы",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Spb_06-2017_img26_Kirov_Plant.jpg/1280px-Spb_06-2017_img26_Kirov_Plant.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Spb_06-2017_img26_Kirov_Plant.jpg/250px-Spb_06-2017_img26_Kirov_Plant.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Кировский завод",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Spb_06-2017_img27_Northern_Shipyard.jpg/1280px-Spb_06-2017_img27_Northern_Shipyard.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Spb_06-2017_img27_Northern_Shipyard.jpg/250px-Spb_06-2017_img27_Northern_Shipyard.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Северная верфь",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%D0%92%D0%B5%D1%80%D1%84%D0%B8_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F.jpg/1280px-%D0%92%D0%B5%D1%80%D1%84%D0%B8_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%D0%92%D0%B5%D1%80%D1%84%D0%B8_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F.jpg/250px-%D0%92%D0%B5%D1%80%D1%84%D0%B8_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Адмиралтейские верфи",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Elektrosila_SPB_%28img1%29.jpg/1280px-Elektrosila_SPB_%28img1%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Elektrosila_SPB_%28img1%29.jpg/250px-Elektrosila_SPB_%28img1%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Завод «Электросила»",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Vitebsky_Rail_Terminal_SPB.jpg/1280px-Vitebsky_Rail_Terminal_SPB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Vitebsky_Rail_Terminal_SPB.jpg/250px-Vitebsky_Rail_Terminal_SPB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Витебский вокзал",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/%D0%AD%D0%A11-015%2C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3-%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28Trainpix_135503%29.jpg/1280px-%D0%AD%D0%A11-015%2C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3-%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28Trainpix_135503%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/%D0%AD%D0%A11-015%2C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3-%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28Trainpix_135503%29.jpg/250px-%D0%AD%D0%A11-015%2C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3-%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28Trainpix_135503%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Электропоезд Ласточка на Финляндском вокзале",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Metro_SPB_Line1_Avtovo.jpg/1280px-Metro_SPB_Line1_Avtovo.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Metro_SPB_Line1_Avtovo.jpg/250px-Metro_SPB_Line1_Avtovo.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Станция метро «Автово»",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/%D0%90%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82_%22%D0%9F%D1%83%D0%BB%D0%BA%D0%BE%D0%B2%D0%BE%22%2C_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3_2H1A3408WI.jpg/1280px-%D0%90%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82_%22%D0%9F%D1%83%D0%BB%D0%BA%D0%BE%D0%B2%D0%BE%22%2C_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3_2H1A3408WI.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/%D0%90%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82_%22%D0%9F%D1%83%D0%BB%D0%BA%D0%BE%D0%B2%D0%BE%22%2C_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3_2H1A3408WI.jpg/250px-%D0%90%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82_%22%D0%9F%D1%83%D0%BB%D0%BA%D0%BE%D0%B2%D0%BE%22%2C_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3_2H1A3408WI.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Аэропорт Пулково",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2018_SPb_Mikhailovsky_Palace_01.jpg/1280px-2018_SPb_Mikhailovsky_Palace_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2018_SPb_Mikhailovsky_Palace_01.jpg/250px-2018_SPb_Mikhailovsky_Palace_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Михайловский дворец — главное здание Русского музея",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Russian_National_Bibliotheque%2C_Saint_Petersburg.jpg/1280px-Russian_National_Bibliotheque%2C_Saint_Petersburg.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Russian_National_Bibliotheque%2C_Saint_Petersburg.jpg/250px-Russian_National_Bibliotheque%2C_Saint_Petersburg.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Российская национальная библиотека, здание на Московском проспекте",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80%2C_%D1%84%D0%B0%D1%81%D0%B0%D0%B4_%28edited_version%29.jpg/1280px-%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80%2C_%D1%84%D0%B0%D1%81%D0%B0%D0%B4_%28edited_version%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80%2C_%D1%84%D0%B0%D1%81%D0%B0%D0%B4_%28edited_version%29.jpg/250px-%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80%2C_%D1%84%D0%B0%D1%81%D0%B0%D0%B4_%28edited_version%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Мариинский театр",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Alexandrinsky_Theatre.jpg/1280px-Alexandrinsky_Theatre.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Alexandrinsky_Theatre.jpg/250px-Alexandrinsky_Theatre.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Александринский театр",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/1280px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/250px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Стадион «Петровский»",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Yubileyniy_in_SPB.jpg/1280px-Yubileyniy_in_SPB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Yubileyniy_in_SPB.jpg/250px-Yubileyniy_in_SPB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Спорткомплекс «Юбилейный»",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ice_Palace_%28Saint_Petersburg%29_%28cropped2%29.png/1280px-Ice_Palace_%28Saint_Petersburg%29_%28cropped2%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ice_Palace_%28Saint_Petersburg%29_%28cropped2%29.png/250px-Ice_Palace_%28Saint_Petersburg%29_%28cropped2%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Ледовый дворец",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/RUS-2016-Aerial-SPB-Krestovsky_Stadium_01.jpg/1280px-RUS-2016-Aerial-SPB-Krestovsky_Stadium_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/RUS-2016-Aerial-SPB-Krestovsky_Stadium_01.jpg/250px-RUS-2016-Aerial-SPB-Krestovsky_Stadium_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Стадион «Газпром Арена»",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%D0%A5%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%C2%AB%D0%A1%D0%9A%D0%90_%D0%90%D1%80%D0%B5%D0%BD%D0%B0%C2%BB%2C_9_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F_2023_%2817%29.jpg/1280px-%D0%A5%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%C2%AB%D0%A1%D0%9A%D0%90_%D0%90%D1%80%D0%B5%D0%BD%D0%B0%C2%BB%2C_9_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F_2023_%2817%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%D0%A5%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%C2%AB%D0%A1%D0%9A%D0%90_%D0%90%D1%80%D0%B5%D0%BD%D0%B0%C2%BB%2C_9_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F_2023_%2817%29.jpg/250px-%D0%A5%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%C2%AB%D0%A1%D0%9A%D0%90_%D0%90%D1%80%D0%B5%D0%BD%D0%B0%C2%BB%2C_9_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F_2023_%2817%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Хоккейная «СКА Арена» на месте бывшего СКК",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Palace_Bridge_SPB_%28img2%29_Crop.jpg/1280px-Palace_Bridge_SPB_%28img2%29_Crop.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Palace_Bridge_SPB_%28img2%29_Crop.jpg/330px-Palace_Bridge_SPB_%28img2%29_Crop.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

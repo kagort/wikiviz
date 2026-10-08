@@ -1,0 +1,40 @@
+{
+  "article": {
+    "id": 13862851,
+    "title": "Andrew Crosby",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Andrew_Crosby",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "References",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {},
+  "tables": [],
+  "locations": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1965-11-05",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [],
+  "links": [],
+  "metadata": {}
+}

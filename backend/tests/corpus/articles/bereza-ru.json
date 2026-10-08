@@ -1,0 +1,486 @@
+{
+  "article": {
+    "id": 94596,
+    "title": "Берёза",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Берёза",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Название",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Классификация",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Таксономическое положение",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Синонимы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Виды берёз",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "Ботаническое описание",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-6",
+      "title": "Распространение",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-7",
+          "title": "Естественные условия произрастания",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-8",
+          "title": "Грибы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-9",
+          "title": "Деформации",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-10",
+          "title": "Болезни и вредители",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-11",
+          "title": "Культивирование",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-12",
+      "title": "Химический состав",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-13",
+      "title": "Свойства и характеристики древесины",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-14",
+      "title": "Значение и применение",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-15",
+          "title": "Промышленность",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-16",
+          "title": "Берёста",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Берёзовый сок",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-18",
+          "title": "Дёготь",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-19",
+          "title": "В медицине",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-20",
+          "title": "В пище",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "Кормовое значение",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-22",
+      "title": "В мифологии",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-23",
+          "title": "Славяне",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-24",
+          "title": "Финно-угры",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-25",
+          "title": "Германцы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-26",
+          "title": "Индоиранские народы",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-27",
+          "title": "Кельты",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-28",
+          "title": "Тюрки",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-29",
+          "title": "Монгольские народы",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-30",
+      "title": "В культуре",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-31",
+          "title": "В прозе и поэзии",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-32",
+          "title": "В поговорках, пословицах и загадках",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-33",
+          "title": "В идиоматике",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-34",
+          "title": "В живописи",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-35",
+          "title": "В геральдике",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-36",
+          "title": "В топонимике",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-37",
+      "title": "Примечания",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-38",
+          "title": "Комментарии",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-39",
+          "title": "Источники",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-40",
+      "title": "Литература",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-41",
+      "title": "Ссылки",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "научная_классификация": {
+      "key": "научная_классификация",
+      "label": "Научная классификация",
+      "group": null,
+      "value": "Домен: Эукариоты, Царство: Растения, Подцарство: Зелёные растения, Клада: Высшие растения, Клада: Сосудистые растения, Клада: Семенные растения, Отдел: Цветковые, Клада: Срединные покрытосеменные, Клада: Эвдикоты, Клада: Пятилепестковые, Клада: Суперрозиды, Клада: Розиды, Клада: Фабиды, Порядок: Букоцветные, Семейство: Берёзовые, Род: Берёза",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "международное_научное_название": {
+      "key": "международное_научное_название",
+      "label": "Международное научное название",
+      "group": null,
+      "value": "Betula L., 1753",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "синонимы": {
+      "key": "синонимы",
+      "label": "Синонимы",
+      "group": null,
+      "value": "См. текст",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "типовой_вид": {
+      "key": "типовой_вид",
+      "label": "Типовой вид",
+      "group": null,
+      "value": "Betula pubescens Ehrh., 1789",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "виды": {
+      "key": "виды",
+      "label": "Виды",
+      "group": null,
+      "value": "См. текст",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [],
+  "locations": [],
+  "events": [],
+  "numbers": [
+    {
+      "label": "Ареал — ITIS",
+      "value": 19478.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ареал — NCBI",
+      "value": 3504.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ареал — EOL",
+      "value": 44475.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ареал — GRIN",
+      "value": 1437.0,
+      "unit": "year",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ареал — IPNI",
+      "value": 13475.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ареал — POWO",
+      "value": 328387.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ареал — WFO",
+      "value": 4000004547.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ареал — FW",
+      "value": 55294.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Levitan_Zolotaya_Osen.jpg/1280px-Levitan_Zolotaya_Osen.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Levitan_Zolotaya_Osen.jpg/500px-Levitan_Zolotaya_Osen.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Исаак Левитан, «Золотая осень», 1895 г.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Savrasov_rasputitsa.JPG/1280px-Savrasov_rasputitsa.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Savrasov_rasputitsa.JPG/330px-Savrasov_rasputitsa.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Алексей Саврасов, «Распутица», 1894",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7_1891.jpg/1280px-%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7_1891.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7_1891.jpg/330px-%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7_1891.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Николай Богданов-Бельский, «Виртуоз», 1891",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/RylovAA_VLesu115x138_KIR.jpg/1280px-RylovAA_VLesu115x138_KIR.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/RylovAA_VLesu115x138_KIR.jpg/330px-RylovAA_VLesu115x138_KIR.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Аркадий Рылов, «В лесу», 1905",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Edvard_Munch_-_Birch_Trunks_-_Woll_1118.jpg/1280px-Edvard_Munch_-_Birch_Trunks_-_Woll_1118.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Edvard_Munch_-_Birch_Trunks_-_Woll_1118.jpg/500px-Edvard_Munch_-_Birch_Trunks_-_Woll_1118.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Эдвард Мунк, «Берёзовые стволы», 1914–1915 гг.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Anton%C3%ADn_Chittussi_-_Jezero_v_Ermenonville_%281882%29.jpg/1280px-Anton%C3%ADn_Chittussi_-_Jezero_v_Ermenonville_%281882%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Anton%C3%ADn_Chittussi_-_Jezero_v_Ermenonville_%281882%29.jpg/500px-Anton%C3%ADn_Chittussi_-_Jezero_v_Ermenonville_%281882%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Антонин Хитусси, «Озеро в Эрменонвилле», 1882 г.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Anton_Braith_Sch%C3%A4fer_mit_Herde_1874.jpg/1280px-Anton_Braith_Sch%C3%A4fer_mit_Herde_1874.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Anton_Braith_Sch%C3%A4fer_mit_Herde_1874.jpg/500px-Anton_Braith_Sch%C3%A4fer_mit_Herde_1874.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Антон Брайт, «Пастух со стадом», 1874 г.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kuybyshevskiy_rayon_COA_%282011%29.jpg/1280px-Kuybyshevskiy_rayon_COA_%282011%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kuybyshevskiy_rayon_COA_%282011%29.jpg/120px-Kuybyshevskiy_rayon_COA_%282011%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Герб Куйбышевского района (Калужская область, Россия)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Coat_of_Arms_of_Beryozovsky_rayon_%28Khanty-Mansyisky_AO%29.png/1280px-Coat_of_Arms_of_Beryozovsky_rayon_%28Khanty-Mansyisky_AO%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Coat_of_Arms_of_Beryozovsky_rayon_%28Khanty-Mansyisky_AO%29.png/120px-Coat_of_Arms_of_Beryozovsky_rayon_%28Khanty-Mansyisky_AO%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Герб Берёзовского района (ХМАО, Россия)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Coat_of_Arms_of_Berezovsky_rayon.jpg/1280px-Coat_of_Arms_of_Berezovsky_rayon.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Coat_of_Arms_of_Berezovsky_rayon.jpg/120px-Coat_of_Arms_of_Berezovsky_rayon.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Герб Берёзовского района (Пермский край, Россия)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Coat_of_Arms_of_Berezovsky_rayon_%28old%29.png/1280px-Coat_of_Arms_of_Berezovsky_rayon_%28old%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Coat_of_Arms_of_Berezovsky_rayon_%28old%29.png/120px-Coat_of_Arms_of_Berezovsky_rayon_%28old%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Герб Берёзовского сельского поселения (Пермский край, Россия)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Jalasj%C3%A4rvi.vaakuna.svg/1280px-Jalasj%C3%A4rvi.vaakuna.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Jalasj%C3%A4rvi.vaakuna.svg/120px-Jalasj%C3%A4rvi.vaakuna.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Герб округа Яласъярви (Южная Похьянмаа, Финляндия)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berezna_COA_%28Chernigov_Governorate%29_%281782%29.png/1280px-Berezna_COA_%28Chernigov_Governorate%29_%281782%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berezna_COA_%28Chernigov_Governorate%29_%281782%29.png/120px-Berezna_COA_%28Chernigov_Governorate%29_%281782%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Герб посёлка Березна (Черниговская область, Украина)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Karjalohja.vaakuna.svg/1280px-Karjalohja.vaakuna.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Karjalohja.vaakuna.svg/120px-Karjalohja.vaakuna.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Герб общины Карьялохья (Финляндия)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Silver_Birch_%28Betula_pendula%29_-_Oslo%2C_Norway_2020-08-04.jpg/1280px-Silver_Birch_%28Betula_pendula%29_-_Oslo%2C_Norway_2020-08-04.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Silver_Birch_%28Betula_pendula%29_-_Oslo%2C_Norway_2020-08-04.jpg/330px-Silver_Birch_%28Betula_pendula%29_-_Oslo%2C_Norway_2020-08-04.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Берёза повислая",
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

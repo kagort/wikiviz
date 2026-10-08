@@ -1,0 +1,308 @@
+{
+  "article": {
+    "id": 580420,
+    "title": "Зельрайн",
+    "language": "ru",
+    "url": "https://ru.wikipedia.org/wiki/Зельрайн",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Население",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "Политическая ситуация",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-2",
+      "title": "Примечания",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-3",
+      "title": "Ссылки",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "страна": {
+      "key": "страна",
+      "label": "Страна",
+      "group": null,
+      "value": "Австрия",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "федеральная_земля": {
+      "key": "федеральная_земля",
+      "label": "Федеральная земля",
+      "group": null,
+      "value": "Тироль",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "округ": {
+      "key": "округ",
+      "label": "Округ",
+      "group": null,
+      "value": "Инсбрук (округ)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "бургомистр": {
+      "key": "бургомистр",
+      "label": "Бургомистр",
+      "group": null,
+      "value": "Норберт Йордан, (АНП)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_площадь": {
+      "key": "история_и_география_площадь",
+      "label": "Площадь",
+      "group": "История и география",
+      "value": "62 км²",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_высота_центра": {
+      "key": "история_и_география_высота_центра",
+      "label": "Высота центра",
+      "group": "История и география",
+      "value": "909 м",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "история_и_география_часовой_пояс": {
+      "key": "история_и_география_часовой_пояс",
+      "label": "Часовой пояс",
+      "group": "История и география",
+      "value": "UTC+1:00, летом UTC+2:00",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_население": {
+      "key": "население_население",
+      "label": "Население",
+      "group": "Население",
+      "value": "1338 человек (2005)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "население_официальный_язык": {
+      "key": "население_официальный_язык",
+      "label": "Официальный язык",
+      "group": "Население",
+      "value": "немецкий",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_телефонный_код": {
+      "key": "цифровые_идентификаторы_телефонный_код",
+      "label": "Телефонный код",
+      "group": "Цифровые идентификаторы",
+      "value": "+43 5230",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_почтовый_индекс": {
+      "key": "цифровые_идентификаторы_почтовый_индекс",
+      "label": "Почтовый индекс",
+      "group": "Цифровые идентификаторы",
+      "value": "6181",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_автомобильный_код": {
+      "key": "цифровые_идентификаторы_автомобильный_код",
+      "label": "Автомобильный код",
+      "group": "Цифровые идентификаторы",
+      "value": "IL",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "цифровые_идентификаторы_официальный_код": {
+      "key": "цифровые_идентификаторы_официальный_код",
+      "label": "Официальный код",
+      "group": "Цифровые идентификаторы",
+      "value": "7 03 52",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [
+    {
+      "id": "table-0",
+      "title": "Статистика численности населения с 1869 по 2021 год",
+      "columns": [
+        "Год",
+        "Численность"
+      ],
+      "rows": [
+        [
+          "1869",
+          "779"
+        ],
+        [
+          "1889",
+          "712"
+        ],
+        [
+          "1890",
+          "716"
+        ],
+        [
+          "1900",
+          "719"
+        ],
+        [
+          "1910",
+          "744"
+        ],
+        [
+          "1923",
+          "728"
+        ],
+        [
+          "1934",
+          "875"
+        ],
+        [
+          "1939",
+          "879"
+        ],
+        [
+          "1951",
+          "947"
+        ],
+        [
+          "1961",
+          "1069"
+        ],
+        [
+          "1971",
+          "1157"
+        ],
+        [
+          "1981",
+          "1189"
+        ],
+        [
+          "1991",
+          "1268"
+        ],
+        [
+          "2001",
+          "1362"
+        ],
+        [
+          "2011",
+          "1353"
+        ],
+        [
+          "2021",
+          "1339"
+        ]
+      ],
+      "notes": [],
+      "source": "table"
+    }
+  ],
+  "locations": [
+    {
+      "id": "location-0",
+      "name": "Зельрайн",
+      "latitude": 47.21333333333334,
+      "longitude": 11.213888888888889,
+      "description": null,
+      "source": "coordinate",
+      "confidence": 1.0
+    }
+  ],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "2021-01-01",
+      "date_precision": "day",
+      "title": "Introduction",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "История и география — Площадь",
+      "value": 62.0,
+      "unit": "км²",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Высота центра",
+      "value": 909.0,
+      "unit": "м",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "История и география — Часовой пояс",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Население — Население",
+      "value": 1338.0,
+      "unit": "человек",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — Телефонный код",
+      "value": 43523.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — Почтовый индекс",
+      "value": 6181.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Цифровые идентификаторы — Официальный код",
+      "value": 7.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Gemeinde_Sellrain.jpg/1280px-Gemeinde_Sellrain.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Gemeinde_Sellrain.jpg/330px-Gemeinde_Sellrain.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

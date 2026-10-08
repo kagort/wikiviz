@@ -1,0 +1,1277 @@
+{
+  "article": {
+    "id": 17867,
+    "title": "London",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/London",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Etymology",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "History",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "Prehistory",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-3",
+          "title": "Roman London",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-4",
+          "title": "Anglo-Saxon and Viking-period London",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-5",
+          "title": "Middle Ages",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-6",
+          "title": "Early modern",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-7",
+          "title": "Late modern and contemporary",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "Administration",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-9",
+          "title": "Local government and services",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-10",
+          "title": "National government",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "Geography",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-12",
+          "title": "Scope",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-13",
+          "title": "Status",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-14",
+          "title": "Topography",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-15",
+          "title": "Climate",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-16",
+          "title": "Areas",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Architecture",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-18",
+          "title": "Natural history",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-19",
+      "title": "Demographics",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-20",
+          "title": "Ethnicity",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "Religion",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-22",
+          "title": "Accents",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-23",
+      "title": "Economy",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-24",
+          "title": "Finance",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-25",
+          "title": "Media and technology",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-26",
+          "title": "Tourism",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-27",
+      "title": "Transport",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-28",
+          "title": "Aviation",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-29",
+          "title": "Rail",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-30",
+          "title": "Buses, coaches and trams",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-31",
+          "title": "Cars",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-32",
+          "title": "Other modes",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-33",
+      "title": "Education",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-34",
+          "title": "Tertiary education",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-35",
+          "title": "Primary and secondary education",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-36",
+          "title": "Royal Observatory, Greenwich and learned societies",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-37",
+      "title": "Culture",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-38",
+          "title": "Leisure and entertainment",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-39",
+          "title": "LGBTQ scene",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-40",
+          "title": "Literature, film and television",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-41",
+          "title": "Museums, art galleries and libraries",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-42",
+          "title": "Music",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-43",
+      "title": "Recreation",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-44",
+          "title": "Parks and open spaces",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-45",
+          "title": "Walking",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-46",
+      "title": "Sport",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-47",
+      "title": "Notable people",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-48",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-49",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-50",
+      "title": "References",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-51",
+          "title": "Bibliography",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-52",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "capital_city_sovereign_state": {
+      "key": "capital_city_sovereign_state",
+      "label": "Sovereign state",
+      "group": "Capital city",
+      "value": "United Kingdom",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "capital_city_country": {
+      "key": "capital_city_country",
+      "label": "Country",
+      "group": "Capital city",
+      "value": "England",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "capital_city_region": {
+      "key": "capital_city_region",
+      "label": "Region",
+      "group": "Capital city",
+      "value": "London",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "capital_city_ceremonial_counties": {
+      "key": "capital_city_ceremonial_counties",
+      "label": "Ceremonial counties",
+      "group": "Capital city",
+      "value": "Greater London, City of London",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "capital_city_settled_by_romans": {
+      "key": "capital_city_settled_by_romans",
+      "label": "Settled by Romans",
+      "group": "Capital city",
+      "value": "AD 47, as Londinium",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "capital_city_administrative_hq": {
+      "key": "capital_city_administrative_hq",
+      "label": "Administrative HQ",
+      "group": "Capital city",
+      "value": "City Hall",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "capital_city_local_government": {
+      "key": "capital_city_local_government",
+      "label": "Local government",
+      "group": "Capital city",
+      "value": "32 London boroughs, the City of London and Queen's Park parish",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_type": {
+      "key": "government_type",
+      "label": "Type",
+      "group": "Government",
+      "value": "Executive mayoralty and deliberative assembly",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_body": {
+      "key": "government_body",
+      "label": "Body",
+      "group": "Government",
+      "value": "Greater London Authority",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_mayor": {
+      "key": "government_mayor",
+      "label": "Mayor",
+      "group": "Government",
+      "value": "Sadiq Khan (L)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_london_assembly": {
+      "key": "government_london_assembly",
+      "label": "London Assembly",
+      "group": "Government",
+      "value": "14 constituencies",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "government_uk_parliament": {
+      "key": "government_uk_parliament",
+      "label": "UK Parliament",
+      "group": "Government",
+      "value": "74 constituencies",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_total": {
+      "key": "area_total",
+      "label": "Total",
+      "group": "Area",
+      "value": "607 sq mi (1,572 km2)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_urban": {
+      "key": "area_urban",
+      "label": "Urban",
+      "group": "Area",
+      "value": "671 sq mi (1,738 km2)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "area_metro": {
+      "key": "area_metro",
+      "label": "Metro",
+      "group": "Area",
+      "value": "3,236 sq mi (8,382 km2)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_2025_total": {
+      "key": "population_2025_total",
+      "label": "Total",
+      "group": "Population, (2025)",
+      "value": "9,122,909",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_2025_rank": {
+      "key": "population_2025_rank",
+      "label": "Rank",
+      "group": "Population, (2025)",
+      "value": "1st in the UK, 3rd in Europe",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_2025_density": {
+      "key": "population_2025_density",
+      "label": "Density",
+      "group": "Population, (2025)",
+      "value": "15,030/sq mi (5,804/km2)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_2025_urban_2021": {
+      "key": "population_2025_urban_2021",
+      "label": "Urban (2021)",
+      "group": "Population, (2025)",
+      "value": "10,558,797",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "population_2025_metro_2026": {
+      "key": "population_2025_metro_2026",
+      "label": "Metro (2026)",
+      "group": "Population, (2025)",
+      "value": "15,400,000",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "demonyms": {
+      "key": "demonyms",
+      "label": "Demonyms",
+      "group": null,
+      "value": "Londoner",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "ethnicity_2021_ethnic_groups": {
+      "key": "ethnicity_2021_ethnic_groups",
+      "label": "Ethnic groups",
+      "group": "Ethnicity (2021)",
+      "value": "List, 53.8% White, 20.7% Asian, 13.5% Black, 6.3% other, 5.7% Mixed",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "religion_2021_religion": {
+      "key": "religion_2021_religion",
+      "label": "Religion",
+      "group": "Religion (2021)",
+      "value": "List, 40.7% Christianity, 27.1% no religion, 15.0% Islam, 5.1% Hinduism, 1.7% Judaism, 1.6% Sikhism, 0.9% Buddhism, 1.0% other, 7.0% not stated",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "time_zone": {
+      "key": "time_zone",
+      "label": "Time zone",
+      "group": null,
+      "value": "UTC+00:00 (GMT)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "time_zone_summer_dst": {
+      "key": "time_zone_summer_dst",
+      "label": "Summer (DST)",
+      "group": "Time zone",
+      "value": "UTC+01:00 (BST)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "postcode_areas": {
+      "key": "postcode_areas",
+      "label": "Postcode areas",
+      "group": null,
+      "value": "22 areas, E, EC, N, NW, SE, SW, W, WC, BR, CM, CR, DA, EN, HA, IG, KT, RM, SM,UB, WD, TN, TW",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "dialling_codes": {
+      "key": "dialling_codes",
+      "label": "Dialling codes",
+      "group": null,
+      "value": "020, 01689, 01708, 01895",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gss_code": {
+      "key": "gss_code",
+      "label": "GSS code",
+      "group": null,
+      "value": "E12000007 (region), E61000001 (GLA)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "geotld": {
+      "key": "geotld",
+      "label": "GeoTLD",
+      "group": null,
+      "value": ".london",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "website": {
+      "key": "website",
+      "label": "Website",
+      "group": null,
+      "value": "london.gov.uk",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [
+    {
+      "id": "table-0",
+      "title": null,
+      "columns": [
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Month",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Jan",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Feb",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Mar",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Apr",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — May",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Jun",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Jul",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Aug",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Sep",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Oct",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Nov",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Dec",
+        "v t e Climate data for London ( LHR ), elevation: 25 m (82 ft), 1991–2020 normals — Year"
+      ],
+      "rows": [
+        [
+          "Record high °C (°F)",
+          "17.2 (63.0)",
+          "21.2 (70.2)",
+          "24.5 (76.1)",
+          "29.4 (84.9)",
+          "35.1 (95.2)",
+          "36.4 (97.5)",
+          "40.2 (104.4)",
+          "38.2 (100.8)",
+          "35.0 (95.0)",
+          "29.5 (85.1)",
+          "21.1 (70.0)",
+          "17.4 (63.3)",
+          "40.2 (104.4)"
+        ],
+        [
+          "Mean maximum °C (°F)",
+          "13.3 (55.9)",
+          "14.3 (57.7)",
+          "17.6 (63.7)",
+          "22.2 (72.0)",
+          "26.2 (79.2)",
+          "29.4 (84.9)",
+          "31.2 (88.2)",
+          "30.6 (87.1)",
+          "26.2 (79.2)",
+          "21.0 (69.8)",
+          "16.7 (62.1)",
+          "13.9 (57.0)",
+          "32.6 (90.7)"
+        ],
+        [
+          "Mean daily maximum °C (°F)",
+          "8.4 (47.1)",
+          "9.0 (48.2)",
+          "11.7 (53.1)",
+          "15.0 (59.0)",
+          "18.4 (65.1)",
+          "21.6 (70.9)",
+          "23.9 (75.0)",
+          "23.4 (74.1)",
+          "20.2 (68.4)",
+          "15.8 (60.4)",
+          "11.5 (52.7)",
+          "8.8 (47.8)",
+          "15.7 (60.3)"
+        ],
+        [
+          "Daily mean °C (°F)",
+          "5.6 (42.1)",
+          "5.8 (42.4)",
+          "7.9 (46.2)",
+          "10.5 (50.9)",
+          "13.7 (56.7)",
+          "16.8 (62.2)",
+          "19.0 (66.2)",
+          "18.7 (65.7)",
+          "15.9 (60.6)",
+          "12.3 (54.1)",
+          "8.4 (47.1)",
+          "5.9 (42.6)",
+          "11.7 (53.1)"
+        ],
+        [
+          "Mean daily minimum °C (°F)",
+          "2.7 (36.9)",
+          "2.7 (36.9)",
+          "4.1 (39.4)",
+          "6.0 (42.8)",
+          "9.1 (48.4)",
+          "12.0 (53.6)",
+          "14.2 (57.6)",
+          "14.1 (57.4)",
+          "11.6 (52.9)",
+          "8.8 (47.8)",
+          "5.3 (41.5)",
+          "3.1 (37.6)",
+          "7.8 (46.0)"
+        ],
+        [
+          "Mean minimum °C (°F)",
+          "−3.7 (25.3)",
+          "−3.3 (26.1)",
+          "−1.5 (29.3)",
+          "0.4 (32.7)",
+          "3.3 (37.9)",
+          "7.3 (45.1)",
+          "10.2 (50.4)",
+          "9.2 (48.6)",
+          "6.4 (43.5)",
+          "2.4 (36.3)",
+          "−1.3 (29.7)",
+          "−3.4 (25.9)",
+          "−5.3 (22.5)"
+        ],
+        [
+          "Record low °C (°F)",
+          "−16.1 (3.0)",
+          "−13.9 (7.0)",
+          "−8.9 (16.0)",
+          "−5.6 (21.9)",
+          "−3.1 (26.4)",
+          "−0.6 (30.9)",
+          "3.9 (39.0)",
+          "2.1 (35.8)",
+          "1.4 (34.5)",
+          "−5.5 (22.1)",
+          "−7.1 (19.2)",
+          "−17.4 (0.7)",
+          "−17.4 (0.7)"
+        ],
+        [
+          "Average precipitation mm (inches)",
+          "58.8 (2.31)",
+          "45.0 (1.77)",
+          "38.8 (1.53)",
+          "42.3 (1.67)",
+          "45.9 (1.81)",
+          "47.3 (1.86)",
+          "45.8 (1.80)",
+          "52.8 (2.08)",
+          "49.6 (1.95)",
+          "65.1 (2.56)",
+          "66.6 (2.62)",
+          "57.1 (2.25)",
+          "615.0 (24.21)"
+        ],
+        [
+          "Average precipitation days (≥ 1.0 mm)",
+          "11.5",
+          "9.5",
+          "8.5",
+          "8.8",
+          "8.0",
+          "8.3",
+          "7.9",
+          "8.4",
+          "7.9",
+          "10.8",
+          "11.2",
+          "10.8",
+          "111.7"
+        ],
+        [
+          "Average relative humidity (%)",
+          "84",
+          "78",
+          "73",
+          "67",
+          "68",
+          "69",
+          "67",
+          "71",
+          "75",
+          "82",
+          "85",
+          "85",
+          "75"
+        ],
+        [
+          "Average dew point °C (°F)",
+          "3 (37)",
+          "2 (36)",
+          "3 (37)",
+          "4 (39)",
+          "7 (45)",
+          "10 (50)",
+          "12 (54)",
+          "12 (54)",
+          "11 (52)",
+          "9 (48)",
+          "6 (43)",
+          "5 (41)",
+          "7 (45)"
+        ],
+        [
+          "Mean monthly sunshine hours",
+          "61.1",
+          "78.8",
+          "124.5",
+          "176.7",
+          "207.5",
+          "208.4",
+          "217.8",
+          "202.1",
+          "157.1",
+          "115.2",
+          "70.7",
+          "55.0",
+          "1,674.8"
+        ],
+        [
+          "Percentage possible sunshine",
+          "23",
+          "28",
+          "31",
+          "40",
+          "41",
+          "41",
+          "42",
+          "45",
+          "40",
+          "35",
+          "27",
+          "21",
+          "35"
+        ],
+        [
+          "Average ultraviolet index",
+          "1",
+          "1",
+          "2",
+          "4",
+          "5",
+          "6",
+          "6",
+          "5",
+          "4",
+          "2",
+          "1",
+          "0",
+          "3"
+        ]
+      ],
+      "notes": [
+        "Source 1: Met Office Royal Netherlands Meteorological Institute",
+        "Source 2: Weather Atlas (percent sunshine and UV Index) CEDA Archive TORRO Time and Date See Climate of London for additional climate information."
+      ],
+      "source": "table"
+    }
+  ],
+  "locations": [
+    {
+      "id": "location-0",
+      "name": "London",
+      "latitude": 51.507222222222225,
+      "longitude": -0.1275,
+      "description": null,
+      "source": "coordinate",
+      "confidence": 1.0
+    }
+  ],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1605-11-05",
+      "date_precision": "day",
+      "title": "Early modern",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "1920-11-11",
+      "date_precision": "day",
+      "title": "Late modern and contemporary",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-2",
+      "date": "2005-07-07",
+      "date_precision": "day",
+      "title": "Late modern and contemporary",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "Settled by Romans",
+      "value": 47.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Local government",
+      "value": 32.0,
+      "unit": "London",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Government — London Assembly",
+      "value": 14.0,
+      "unit": "constituencies",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Government — UK Parliament",
+      "value": 74.0,
+      "unit": "constituencies",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Area — Total",
+      "value": 607.0,
+      "unit": "sq",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Area — Urban",
+      "value": 671.0,
+      "unit": "sq",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Area — Metro",
+      "value": 3236.0,
+      "unit": "sq",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population (2025) — Total",
+      "value": 9122909.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population (2025) — Rank",
+      "value": 1.0,
+      "unit": "st",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population (2025) — Density",
+      "value": 15030.0,
+      "unit": "/sq",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population (2025) — Urban (2021)",
+      "value": 10558797.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Population (2025) — Metro (2026)",
+      "value": 15400000.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnicity ( 2021 ) — Ethnic groups — White",
+      "value": 53.8,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnicity ( 2021 ) — Ethnic groups — Asian",
+      "value": 20.7,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnicity ( 2021 ) — Ethnic groups — Black",
+      "value": 13.5,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnicity ( 2021 ) — Ethnic groups — other",
+      "value": 6.3,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Ethnicity ( 2021 ) — Ethnic groups — Mixed",
+      "value": 5.7,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Religion — Christianity",
+      "value": 40.7,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Religion — no religion",
+      "value": 27.1,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Religion — Islam",
+      "value": 15.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Religion — Hinduism",
+      "value": 5.1,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Religion — Judaism",
+      "value": 1.7,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Religion — Sikhism",
+      "value": 1.6,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Religion — Buddhism",
+      "value": 0.9,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Religion — other",
+      "value": 1.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Religion — not stated",
+      "value": 7.0,
+      "unit": "%",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Time zone",
+      "value": 0.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Summer ( DST )",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Postcode areas",
+      "value": 22.0,
+      "unit": "areas",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — Dialling codes",
+      "value": 20.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Religion (2021) — GSS code",
+      "value": 12000007.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/1280px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Stelalondon.jpg/1280px-Stelalondon.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Stelalondon.jpg/250px-Stelalondon.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Inscription from Londinium , held at the Museum of London, with the Romans' first mention of the Londiniensi ('Londoners')",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Siege_of_London_%28MS_1168%29.jpg/1280px-Siege_of_London_%28MS_1168%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Siege_of_London_%28MS_1168%29.jpg/120px-Siege_of_London_%28MS_1168%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "The Lancastrian siege of London in 1471 is attacked by a Yorkist sally.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/London_-_John_Norden%27s_map_of_1593.jpg/1280px-London_-_John_Norden%27s_map_of_1593.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/London_-_John_Norden%27s_map_of_1593.jpg/250px-London_-_John_Norden%27s_map_of_1593.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Map of London in 1593. There is only one bridge across the Thames, but parts of Southwark on the south bank of the river have been developed.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Great_Fire_London.jpg/1280px-Great_Fire_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Great_Fire_London.jpg/250px-Great_Fire_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "The Great Fire of London destroyed much of the city in 1666.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Edward_Angelo_Goodall04.jpg/1280px-Edward_Angelo_Goodall04.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Edward_Angelo_Goodall04.jpg/250px-Edward_Angelo_Goodall04.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "St Paul's Cathedral (painted by Edward Goodall in 1850) was completed in 1710.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Aerial_Tower_of_London.jpg/1280px-Aerial_Tower_of_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Aerial_Tower_of_London.jpg/250px-Aerial_Tower_of_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "The Tower of London, a medieval castle, dating in part to 1078",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Buckingham_Palace%2C_London_-_April_2009.jpg/1280px-Buckingham_Palace%2C_London_-_April_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Buckingham_Palace%2C_London_-_April_2009.jpg/250px-Buckingham_Palace%2C_London_-_April_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "The east wing public façade of Buckingham Palace was built between 1847 and 1850; it was remodelled to its present form in 1913.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Trafalgar_Square_by_Christian_Reimer.jpg/1280px-Trafalgar_Square_by_Christian_Reimer.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Trafalgar_Square_by_Christian_Reimer.jpg/250px-Trafalgar_Square_by_Christian_Reimer.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Trafalgar Square and its fountains, with Nelson's Column on the right",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_%28cropped%29.jpg/1280px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_%28cropped%29.jpg/960px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Houses of Parliament and Elizabeth Tower (Big Ben) on the right foreground, the London Eye on the left foreground and The Shard with Canary Wharf in the background; seen in September 2014",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/White_percentage_of_London_from_2001_to_2021.gif/1280px-White_percentage_of_London_from_2001_to_2021.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/White_percentage_of_London_from_2001_to_2021.gif/250px-White_percentage_of_London_from_2001_to_2021.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "White (53.8%, 2021)",
+      "alt": "White",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/City_of_London_skyscrapers_HDR_-_2023-03-18.jpg/1280px-City_of_London_skyscrapers_HDR_-_2023-03-18.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/City_of_London_skyscrapers_HDR_-_2023-03-18.jpg/250px-City_of_London_skyscrapers_HDR_-_2023-03-18.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "The City of London, one of the largest financial centres in the world",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Paternoster_Square.jpg/1280px-Paternoster_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Paternoster_Square.jpg/250px-Paternoster_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "The London Stock Exchange at Paternoster Square and Temple Bar",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/London.bankofengland.arp.jpg/1280px-London.bankofengland.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/London.bankofengland.arp.jpg/250px-London.bankofengland.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "The Bank of England, established in 1694, is the model on which most modern central banks are based.[211]",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/British_Museum_from_NE_2_%28cropped%29.JPG/1280px-British_Museum_from_NE_2_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/British_Museum_from_NE_2_%28cropped%29.JPG/250px-British_Museum_from_NE_2_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The British Museum",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Baker_Street_tube_station_MMB_19_S_Stock.jpg/1280px-Baker_Street_tube_station_MMB_19_S_Stock.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Baker_Street_tube_station_MMB_19_S_Stock.jpg/250px-Baker_Street_tube_station_MMB_19_S_Stock.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "The London Underground, opened in January 1863, is the world's oldest and third-longest rapid transit system.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Monument_Underground_Station_-_geograph.org.uk_-_5468795.jpg/1280px-Monument_Underground_Station_-_geograph.org.uk_-_5468795.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Monument_Underground_Station_-_geograph.org.uk_-_5468795.jpg/250px-Monument_Underground_Station_-_geograph.org.uk_-_5468795.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "The London Underground's roundel symbol appeared in 1917.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/St_Pancras_Railway_Station_2012-06-23.jpg/1280px-St_Pancras_Railway_Station_2012-06-23.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/St_Pancras_Railway_Station_2012-06-23.jpg/250px-St_Pancras_Railway_Station_2012-06-23.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "St Pancras International is the main terminal for high-speed Eurostar and High Speed 1 services.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/LTZ1423-15-20240430-193650.jpg/1280px-LTZ1423-15-20240430-193650.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/LTZ1423-15-20240430-193650.jpg/250px-LTZ1423-15-20240430-193650.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The New Routemaster is the spiritual successor to the AEC Routemaster . First appearing in 1947, the red double-decker bus is an emblematic symbol of London.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/University_College_London_-quadrant-11Sept2006_%281%29.jpg/1280px-University_College_London_-quadrant-11Sept2006_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/University_College_London_-quadrant-11Sept2006_%281%29.jpg/250px-University_College_London_-quadrant-11Sept2006_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "University College London (UCL) was established by Royal Charter in 1836.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Imperial_College_London_down_Exhibition_Road.jpg/1280px-Imperial_College_London_down_Exhibition_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Imperial_College_London_down_Exhibition_Road.jpg/250px-Imperial_College_London_down_Exhibition_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Imperial College London, a technical research university",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Centre_Building%2C_LSE_from_LSE_Square.jpg/1280px-Centre_Building%2C_LSE_from_LSE_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Centre_Building%2C_LSE_from_LSE_Square.jpg/250px-Centre_Building%2C_LSE_from_LSE_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "The London School of Economics was established in 1895.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/KCL_Guys_Campus1.jpg/1280px-KCL_Guys_Campus1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/KCL_Guys_Campus1.jpg/250px-KCL_Guys_Campus1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "King's College London's Guy's Campus, home to its faculty of medicine",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Royal_Academy_of_Dramatic_Art_-_geograph.org.uk_-_2492593.jpg/1280px-Royal_Academy_of_Dramatic_Art_-_geograph.org.uk_-_2492593.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Royal_Academy_of_Dramatic_Art_-_geograph.org.uk_-_2492593.jpg/120px-Royal_Academy_of_Dramatic_Art_-_geograph.org.uk_-_2492593.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "RADA (Royal Academy of Dramatic Art) opened in 1904.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Wembley_Stadium_interior.jpg/1280px-Wembley_Stadium_interior.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Wembley_Stadium_interior.jpg/250px-Wembley_Stadium_interior.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Wembley Stadium , home of the England men and women's football team and the FA Cup Final , has a seating capacity of 90,000. It is the UK's biggest stadium.",
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}

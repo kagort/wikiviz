@@ -1,0 +1,1104 @@
+{
+  "article": {
+    "id": 33306,
+    "title": "Water",
+    "language": "en",
+    "url": "https://en.wikipedia.org/wiki/Water",
+    "description": null,
+    "summary": null
+  },
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "Etymology",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-1",
+      "title": "History",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-2",
+          "title": "On Earth",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "Properties",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-4",
+          "title": "States",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-5",
+              "title": "Density",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-6",
+              "title": "Magnetism",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-7",
+              "title": "Phase transitions",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-8",
+              "title": "Triple and critical points",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-9",
+              "title": "Phases of ice and water",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-10",
+          "title": "Taste and odor",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-11",
+          "title": "Color and appearance",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-12",
+          "title": "Molecular polarity",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-13",
+          "title": "Hydrogen bonding",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-14",
+          "title": "Self-ionization",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-15",
+          "title": "Electrical conductivity and electrolysis",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-16",
+          "title": "Mechanical properties",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-17",
+          "title": "Reactivity",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-18",
+      "title": "On Earth",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-19",
+          "title": "Water cycle",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-20",
+          "title": "Water resources",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-21",
+          "title": "Seawater and tides",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-22",
+      "title": "Effects on life",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-23",
+          "title": "Aquatic life forms",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-24",
+      "title": "Effects on human civilization",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-25",
+          "title": "Health and pollution",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-26",
+          "title": "Human uses",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-27",
+              "title": "Agriculture",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-28",
+              "title": "As a scientific standard",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-29",
+              "title": "For drinking",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-30",
+              "title": "Washing",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-31",
+              "title": "Transportation",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-32",
+              "title": "Chemical uses",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-33",
+              "title": "Heat exchange",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-34",
+              "title": "Fire considerations",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-35",
+              "title": "Recreation",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-36",
+              "title": "Water industry",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-37",
+              "title": "Industrial applications",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-38",
+              "title": "Food processing",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-39",
+              "title": "Medical use",
+              "level": 4,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-40",
+      "title": "Distribution in nature",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-41",
+          "title": "In the universe",
+          "level": 3,
+          "children": [
+            {
+              "id": "section-42",
+              "title": "Water vapor",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-43",
+              "title": "Liquid water",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-44",
+              "title": "Water ice",
+              "level": 4,
+              "children": []
+            },
+            {
+              "id": "section-45",
+              "title": "Exotic forms",
+              "level": 4,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "section-46",
+          "title": "Water and planetary habitability",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-47",
+      "title": "Law, politics, and crisis",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-48",
+      "title": "In culture",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-49",
+          "title": "Religion",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-50",
+          "title": "Philosophy",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-51",
+          "title": "Folklore",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-52",
+          "title": "Art and activism",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-53",
+          "title": "Dihydrogen monoxide parody",
+          "level": 3,
+          "children": []
+        },
+        {
+          "id": "section-54",
+          "title": "Music",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-55",
+      "title": "See also",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-56",
+      "title": "Notes",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-57",
+      "title": "References",
+      "level": 2,
+      "children": [
+        {
+          "id": "section-58",
+          "title": "Works cited",
+          "level": 3,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "section-59",
+      "title": "Further reading",
+      "level": 2,
+      "children": []
+    },
+    {
+      "id": "section-60",
+      "title": "External links",
+      "level": 2,
+      "children": []
+    }
+  ],
+  "infobox": {
+    "cas_number": {
+      "key": "cas_number",
+      "label": "CAS Number",
+      "group": null,
+      "value": "7732-18-5",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "3d_model_jsmol": {
+      "key": "3d_model_jsmol",
+      "label": "3D model (JSmol)",
+      "group": null,
+      "value": "Interactive image",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "beilstein_reference": {
+      "key": "beilstein_reference",
+      "label": "Beilstein Reference",
+      "group": null,
+      "value": "3587155",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "chebi": {
+      "key": "chebi",
+      "label": "ChEBI",
+      "group": null,
+      "value": "CHEBI:15377",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "chembl": {
+      "key": "chembl",
+      "label": "ChEMBL",
+      "group": null,
+      "value": "ChEMBL1098659",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "chemspider": {
+      "key": "chemspider",
+      "label": "ChemSpider",
+      "group": null,
+      "value": "937",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "drugbank": {
+      "key": "drugbank",
+      "label": "DrugBank",
+      "group": null,
+      "value": "DB09145",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "echa_infocard": {
+      "key": "echa_infocard",
+      "label": "ECHA InfoCard",
+      "group": null,
+      "value": "100.028.902",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "ec_number": {
+      "key": "ec_number",
+      "label": "EC Number",
+      "group": null,
+      "value": "231-791-2",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gmelin_reference": {
+      "key": "gmelin_reference",
+      "label": "Gmelin Reference",
+      "group": null,
+      "value": "117",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "kegg": {
+      "key": "kegg",
+      "label": "KEGG",
+      "group": null,
+      "value": "C00001",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "pubchem_cid": {
+      "key": "pubchem_cid",
+      "label": "PubChem CID",
+      "group": null,
+      "value": "962",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "rtecs_number": {
+      "key": "rtecs_number",
+      "label": "RTECS number",
+      "group": null,
+      "value": "ZC0110000",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "unii": {
+      "key": "unii",
+      "label": "UNII",
+      "group": null,
+      "value": "059QF0KO0R",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "comptox_dashboard_epa": {
+      "key": "comptox_dashboard_epa",
+      "label": "CompTox Dashboard (EPA)",
+      "group": null,
+      "value": "DTXSID6026296",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "chemical_formula": {
+      "key": "chemical_formula",
+      "label": "Chemical formula",
+      "group": null,
+      "value": "H2O",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "molar_mass": {
+      "key": "molar_mass",
+      "label": "Molar mass",
+      "group": null,
+      "value": "18.015 g·mol−1",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "appearance": {
+      "key": "appearance",
+      "label": "Appearance",
+      "group": null,
+      "value": "Almost colorless or white crystalline solid, almost colorless liquid, with a hint of blue, colorless gas",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "odor": {
+      "key": "odor",
+      "label": "Odor",
+      "group": null,
+      "value": "Odorless",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "density": {
+      "key": "density",
+      "label": "Density",
+      "group": null,
+      "value": "Liquid (1 atm, VSMOW): 0.99984283(84) g/mL at 0 °C, 0.99997495(84) g/mL at 3.983035(670) °C (temperature of maximum density, often 4 °C), 0.99704702(83) g/mL at 25 °C, 0.96188791(96) g/mL at 95 °C, Solid: 0.9167 g/mL at 0 °C",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "melting_point": {
+      "key": "melting_point",
+      "label": "Melting point",
+      "group": null,
+      "value": "0.00 °C (32.00 °F; 273.15 K)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "boiling_point": {
+      "key": "boiling_point",
+      "label": "Boiling point",
+      "group": null,
+      "value": "99.98 °C (211.96 °F; 373.13 K)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "solubility": {
+      "key": "solubility",
+      "label": "Solubility",
+      "group": null,
+      "value": "Poorly soluble in haloalkanes, aliphatic and aromatic hydrocarbons, ethers., Improved solubility in carboxylates, alcohols, ketones, amines., Miscible with methanol, ethanol, propanol, isopropanol, acetone, glycerol, 1,4-dioxane, tetrahydrofuran, sulfolane, acetaldehyde, dimethylformamide, dimethoxyethane, dimethyl sulfoxide, acetonitrile., Partially miscible with diethyl ether, methyl ethyl ketone, dichloromethane, ethyl acetate, bromine.",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "vapor_pressure": {
+      "key": "vapor_pressure",
+      "label": "Vapor pressure",
+      "group": null,
+      "value": "3.1690 kilopascals or 0.031276 atm at 25 °C",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "acidity_pka": {
+      "key": "acidity_pka",
+      "label": "Acidity (pKa)",
+      "group": null,
+      "value": "13.995",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "basicity_pkb": {
+      "key": "basicity_pkb",
+      "label": "Basicity (pKb)",
+      "group": null,
+      "value": "13.995",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "conjugate_acid": {
+      "key": "conjugate_acid",
+      "label": "Conjugate acid",
+      "group": null,
+      "value": "Hydronium H3O+ (pKa = 0)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "conjugate_base": {
+      "key": "conjugate_base",
+      "label": "Conjugate base",
+      "group": null,
+      "value": "Hydroxide OH– (pKb = 0)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "thermal_conductivity": {
+      "key": "thermal_conductivity",
+      "label": "Thermal conductivity",
+      "group": null,
+      "value": "0.6065 W/(m·K)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "refractive_index_nd": {
+      "key": "refractive_index_nd",
+      "label": "Refractive index (nD)",
+      "group": null,
+      "value": "1.3330 (20 °C)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "viscosity": {
+      "key": "viscosity",
+      "label": "Viscosity",
+      "group": null,
+      "value": "0.890 mPa·s (0.890 cP)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "crystal_structure": {
+      "key": "crystal_structure",
+      "label": "Crystal structure",
+      "group": null,
+      "value": "Hexagonal",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "point_group": {
+      "key": "point_group",
+      "label": "Point group",
+      "group": null,
+      "value": "C2v",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "molecular_shape": {
+      "key": "molecular_shape",
+      "label": "Molecular shape",
+      "group": null,
+      "value": "Bent",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "dipole_moment": {
+      "key": "dipole_moment",
+      "label": "Dipole moment",
+      "group": null,
+      "value": "1.8546 D",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "heat_capacity_c": {
+      "key": "heat_capacity_c",
+      "label": "Heat capacity (C)",
+      "group": null,
+      "value": "75.385 ± 0.05 J/(mol·K)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "std_molar_entropy_s_298": {
+      "key": "std_molar_entropy_s_298",
+      "label": "Std molar entropy (S⦵298)",
+      "group": null,
+      "value": "69.95 ± 0.03 J/(mol·K)",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "std_enthalpy_of_formation_δfh_298": {
+      "key": "std_enthalpy_of_formation_δfh_298",
+      "label": "Std enthalpy of formation (ΔfH⦵298)",
+      "group": null,
+      "value": "−285.83 ± 0.04 kJ/mol",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "gibbs_free_energy_δfg": {
+      "key": "gibbs_free_energy_δfg",
+      "label": "Gibbs free energy (ΔfG⦵)",
+      "group": null,
+      "value": "−237.24 kJ/mol",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "main_hazards": {
+      "key": "main_hazards",
+      "label": "Main hazards",
+      "group": null,
+      "value": "Drowning, Avalanche (as snow), Water intoxication",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "nfpa_704_fire_diamond": {
+      "key": "nfpa_704_fire_diamond",
+      "label": "NFPA 704 (fire diamond)",
+      "group": null,
+      "value": "0, 0, 0",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "flash_point": {
+      "key": "flash_point",
+      "label": "Flash point",
+      "group": null,
+      "value": "Non-flammable",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "other_anions": {
+      "key": "other_anions",
+      "label": "Other anions",
+      "group": null,
+      "value": "Hydrogen sulfide, Hydrogen selenide, Hydrogen telluride, Hydrogen polonide, Hydrogen peroxide",
+      "normalized_value": null,
+      "source": "infobox"
+    },
+    "related_solvents": {
+      "key": "related_solvents",
+      "label": "Related solvents",
+      "group": null,
+      "value": "Acetone, Ethanol, Methanol, Hydrogen fluoride, Ammonia",
+      "normalized_value": null,
+      "source": "infobox"
+    }
+  },
+  "tables": [],
+  "locations": [],
+  "events": [
+    {
+      "id": "text-event-0",
+      "date": "1795-04-07",
+      "date_precision": "day",
+      "title": "As a scientific standard",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    },
+    {
+      "id": "text-event-1",
+      "date": "2011-07-22",
+      "date_precision": "day",
+      "title": "In the universe",
+      "description": null,
+      "source": "article_text",
+      "confidence": 0.6
+    }
+  ],
+  "numbers": [
+    {
+      "label": "CAS Number",
+      "value": 7732.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Beilstein Reference",
+      "value": 3587155.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "ChEBI",
+      "value": 15377.0,
+      "unit": "Y",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "ChEMBL",
+      "value": 1098659.0,
+      "unit": "Y",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "ChemSpider",
+      "value": 937.0,
+      "unit": "Y",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "DrugBank",
+      "value": 9145.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "ECHA InfoCard",
+      "value": 100.028,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "EC Number",
+      "value": 231.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Gmelin Reference",
+      "value": 117.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "KEGG",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "PubChem CID",
+      "value": 962.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "RTECS number",
+      "value": 110000.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "UNII",
+      "value": 59.0,
+      "unit": "QF",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "CompTox Dashboard ( EPA )",
+      "value": 6026296.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Chemical formula",
+      "value": 2.0,
+      "unit": "O",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Molar mass",
+      "value": 18.015,
+      "unit": "g·mol",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Density",
+      "value": 1.0,
+      "unit": "atm,",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Melting point",
+      "value": 0.0,
+      "unit": "°C",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Boiling point",
+      "value": 99.98,
+      "unit": "°C",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Solubility",
+      "value": 1.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Vapor pressure",
+      "value": 3.169,
+      "unit": "kilopascals",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Acidity (p K a )",
+      "value": 13.995,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Basicity (p K b )",
+      "value": 13.995,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Conjugate acid",
+      "value": 3.0,
+      "unit": "O",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Conjugate base",
+      "value": 0.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Thermal conductivity",
+      "value": 0.6065,
+      "unit": "W/",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Refractive index ( n D )",
+      "value": 1.333,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Viscosity",
+      "value": 0.89,
+      "unit": "mPa·s",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Point group",
+      "value": 2.0,
+      "unit": "v",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Dipole moment",
+      "value": 1.8546,
+      "unit": "D",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Heat capacity ( C )",
+      "value": 75.385,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Std molar entropy ( S ⦵ 298 )",
+      "value": 69.95,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Std enthalpy of formation (Δ f H ⦵ 298 )",
+      "value": 285.83,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "Gibbs free energy (Δ f G ⦵ )",
+      "value": 237.24,
+      "unit": "kJ/mol",
+      "year": null,
+      "source": "infobox"
+    },
+    {
+      "label": "NFPA 704 (fire diamond)",
+      "value": 0.0,
+      "unit": null,
+      "year": null,
+      "source": "infobox"
+    }
+  ],
+  "people": [],
+  "organizations": [],
+  "works": [],
+  "relations": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Bay_of_Fundy_High_Tide.jpg/1280px-Bay_of_Fundy_High_Tide.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Bay_of_Fundy_High_Tide.jpg/120px-Bay_of_Fundy_High_Tide.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "High tide",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Bay_of_Fundy_Low_Tide.jpg/1280px-Bay_of_Fundy_Low_Tide.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Bay_of_Fundy_Low_Tide.jpg/120px-Bay_of_Fundy_Low_Tide.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Low tide",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Blue_Linckia_Starfish.JPG/1280px-Blue_Linckia_Starfish.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Blue_Linckia_Starfish.JPG/250px-Blue_Linckia_Starfish.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Some of the biodiversity of a coral reef",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Diatoms_through_the_microscope.jpg/1280px-Diatoms_through_the_microscope.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Diatoms_through_the_microscope.jpg/250px-Diatoms_through_the_microscope.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Some marine diatoms – a key phytoplankton group",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/VonDamm_Crustaceans.jpg/1280px-VonDamm_Crustaceans.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/VonDamm_Crustaceans.jpg/250px-VonDamm_Crustaceans.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Squat lobster and Alvinocarididae shrimp at the Von Damm hydrothermal field survive by altered water chemistry.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Water_requirement_per_tonne_of_food_product%2C_OWID.svg/1280px-Water_requirement_per_tonne_of_food_product%2C_OWID.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Water_requirement_per_tonne_of_food_product%2C_OWID.svg/120px-Water_requirement_per_tonne_of_food_product%2C_OWID.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Water requirement per tonne of food product",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/SiphonTubes.JPG/1280px-SiphonTubes.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/SiphonTubes.JPG/120px-SiphonTubes.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Irrigation of field crops",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/27/Water_carrier_in_India.jpg/1280px-Water_carrier_in_India.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/27/Water_carrier_in_India.jpg/250px-Water_carrier_in_India.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "A water-carrier in India, 1882. In many places where running water is not available, water has to be transported by people.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/TapWater-china.JPG/1280px-TapWater-china.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/TapWater-china.JPG/250px-TapWater-china.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "A manual water pump in China",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Usine_Bret_MG_1648.jpg/1280px-Usine_Bret_MG_1648.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Usine_Bret_MG_1648.jpg/250px-Usine_Bret_MG_1648.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Water purification facility",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Reverse_osmosis_desalination_plant.JPG/1280px-Reverse_osmosis_desalination_plant.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Reverse_osmosis_desalination_plant.JPG/250px-Reverse_osmosis_desalination_plant.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": "Reverse osmosis (RO) desalination plant in Barcelona, Spain",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/200407-sandouping-sanxiadaba-4.med.jpg/1280px-200407-sandouping-sanxiadaba-4.med.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/200407-sandouping-sanxiadaba-4.med.jpg/960px-200407-sandouping-sanxiadaba-4.med.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Three Gorges Dam is the largest hydro-electric power station in the world.",
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
+  "links": [],
+  "metadata": {}
+}
