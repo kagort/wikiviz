@@ -460,7 +460,260 @@
   "organizations": [],
   "works": [],
   "relations": [],
-  "images": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/1280px-The_Parthenon_in_Athens.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/250px-The_Parthenon_in_Athens.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Parthenon is considered a symbol of democracy.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Political_regime_dem_fh%2C_World%2C_2025_%28cropped%29.svg/1280px-Political_regime_dem_fh%2C_World%2C_2025_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Political_regime_dem_fh%2C_World%2C_2025_%28cropped%29.svg/250px-Political_regime_dem_fh%2C_World%2C_2025_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "An interactive chart of democracies by Freedom House",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Age_of_democracy_polity%2C_World%2C_2020_%28cropped%29.svg/1280px-Age_of_democracy_polity%2C_World%2C_2020_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Age_of_democracy_polity%2C_World%2C_2020_%28cropped%29.svg/500px-Age_of_democracy_polity%2C_World%2C_2020_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Age of democracy polity",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Discurso_funebre_pericles.PNG/1280px-Discurso_funebre_pericles.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Discurso_funebre_pericles.PNG/250px-Discurso_funebre_pericles.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Nineteenth-century painting by Philipp Foltz depicting the Athenian politician Pericles delivering his famous funeral oration in front of the Assembly",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Cleisthenes.jpg/1280px-Cleisthenes.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Cleisthenes.jpg/250px-Cleisthenes.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Modern bust of Cleisthenes , known as \"the father of Athenian democracy \", on view at the Ohio Statehouse , Columbus, Ohio",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Austria_Parlament_Athena_bw.jpg/1280px-Austria_Parlament_Athena_bw.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Austria_Parlament_Athena_bw.jpg/250px-Austria_Parlament_Athena_bw.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Statue of Athena , the patron goddess of Athens , in front of the Austrian Parliament Building . Athena has been used as an international symbol of freedom and democracy since at least the late eighteenth century.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/1280px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/330px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Magna Carta , 1215, England",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/House_of_Commons_during_King_Charles_I%27s_reign%2C_circa_1640-1642_from_NPG.jpg/1280px-House_of_Commons_during_King_Charles_I%27s_reign%2C_circa_1640-1642_from_NPG.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/House_of_Commons_during_King_Charles_I%27s_reign%2C_circa_1640-1642_from_NPG.jpg/250px-House_of_Commons_during_King_Charles_I%27s_reign%2C_circa_1640-1642_from_NPG.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Over the centuries, the English Parliament progressively limited the power of the English monarchy , a process that arguably culminated in the English Civil War .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Locke.jpg/1280px-John_Locke.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Locke.jpg/250px-John_Locke.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "John Locke expanded on Thomas Hobbes 's social contract theory and developed the concept of natural rights , the right to private property and the principle of consent of the governed . His ideas form the ideological basis of liberal democracies today.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/The_House_of_Commons_1793-94_by_Karl_Anton_Hickel.jpg/1280px-The_House_of_Commons_1793-94_by_Karl_Anton_Hickel.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/The_House_of_Commons_1793-94_by_Karl_Anton_Hickel.jpg/250px-The_House_of_Commons_1793-94_by_Karl_Anton_Hickel.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "William Pitt the Younger addressing the House of Commons of the United Kingdom",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/1280px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/250px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Thirteen British Colonies on the east coast of North America issued a Declaration of Independence in 1776",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg/1280px-Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg/250px-Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Inspired by Enlightenment philosophers, the Declaration of the Rights of Man and of the Citizen had a significant impact on the development of popular conceptions of individual liberty and democracy in Europe and worldwide.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Suffrage_universel_1848.jpg/1280px-Suffrage_universel_1848.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Suffrage_universel_1848.jpg/250px-Suffrage_universel_1848.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "1850s lithograph marking the establishment of universal male suffrage in France in 1848",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Number_of_nations_1800-2018_scoring_8_or_higher_on_Polity5_scale.svg/1280px-Number_of_nations_1800-2018_scoring_8_or_higher_on_Polity5_scale.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Number_of_nations_1800-2018_scoring_8_or_higher_on_Polity5_scale.svg/250px-Number_of_nations_1800-2018_scoring_8_or_higher_on_Polity5_scale.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The number of nations 1800–2018 scoring 8 or higher on Polity5 scale, another widely used measure of democracy",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Opening_of_the_first_parliament.jpg/1280px-Opening_of_the_first_parliament.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Opening_of_the_first_parliament.jpg/250px-Opening_of_the_first_parliament.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Painting depicting the opening of the first Australian Parliament in 1901, one of the events that formed part of the first wave of democracy in the early 20th century",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Lev_Trotsky_1906-3.3_V1.jpg/1280px-Lev_Trotsky_1906-3.3_V1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Lev_Trotsky_1906-3.3_V1.jpg/250px-Lev_Trotsky_1906-3.3_V1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Soviet of Workers' Deputies of Saint Petersburg in 1905: Leon Trotsky in the center. The soviets were as an early example of a workers council .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mandela_voting_in_1994.jpg/1280px-Mandela_voting_in_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mandela_voting_in_1994.jpg/250px-Mandela_voting_in_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Nelson Mandela voting in the 1994 multi-racial elections in South Africa . It was the first time he had voted in his life.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Corazon_Aquino_inauguration.jpg/1280px-Corazon_Aquino_inauguration.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Corazon_Aquino_inauguration.jpg/250px-Corazon_Aquino_inauguration.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Corazon Aquino taking the oath of office, becoming the first female president in Asia",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Age_of_democracies_at_the_end_of_2015%2C_OWID.svg/1280px-Age_of_democracies_at_the_end_of_2015%2C_OWID.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Age_of_democracies_at_the_end_of_2015%2C_OWID.svg/250px-Age_of_democracies_at_the_end_of_2015%2C_OWID.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Age of democracies at the end of 2015 [ needs update ]",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Nordiska_radets_presidium_haller_mote_med_de_nordiska_statsministrarna_under_session_i_Helsingfors_2008-10-28.jpg/1280px-Nordiska_radets_presidium_haller_mote_med_de_nordiska_statsministrarna_under_session_i_Helsingfors_2008-10-28.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Nordiska_radets_presidium_haller_mote_med_de_nordiska_statsministrarna_under_session_i_Helsingfors_2008-10-28.jpg/250px-Nordiska_radets_presidium_haller_mote_med_de_nordiska_statsministrarna_under_session_i_Helsingfors_2008-10-28.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Meeting of the Grand Committee of the Parliament of Finland in 2008",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Countries_democratizing_or_autocratizing_substantially_and_significantly_2010%E2%80%932020.svg/1280px-Countries_democratizing_or_autocratizing_substantially_and_significantly_2010%E2%80%932020.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Countries_democratizing_or_autocratizing_substantially_and_significantly_2010%E2%80%932020.svg/250px-Countries_democratizing_or_autocratizing_substantially_and_significantly_2010%E2%80%932020.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Countries autocratising (red) or democratising (blue) substantially and significantly (2010–2020). Countries in grey are substantially unchanged. [ needs update ] [ relevant? – discuss ]",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Democracy_claims.svg/1280px-Democracy_claims.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Democracy_claims.svg/250px-Democracy_claims.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Green: countries that claim to be a democracy Red: countries that do not claim to be democratic (only Saudi Arabia , Oman , the UAE , Qatar , Brunei , Afghanistan , Burkina Faso and the Vatican do not claim to be democratic as of 2026; Burkina Faso dissolved all political parties in 2026 )",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Forms_of_government.svg/1280px-Forms_of_government.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Forms_of_government.svg/500px-Forms_of_government.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "World's states colored by systems of government : Parliamentary systems : Head of government is elected or nominated by and accountable to the legislature. Constitutional monarchy with a ceremonial monarch Semi-constitutional monarchy : Monarch holds significant executive or legislative power but is still restricted by the constitution. Parliamentary republic with a ceremonial president Parliamentary republic with an executive president Presidential system : Head of government (president) is popularly elected and independent of the legislature. Presidential republic Theocratic presidential republic : Supreme leader is highest authority; popularly elected president still exists. Hybrid systems: Semi-presidential republic : Executive president is independent of the legislature; head of government is appointed by the president and is accountable to the legislature. Assembly-independent republic : Head of government (president or directory) is elected by the legislature, but is not accountable to it. Other systems: Islamic theocracy : Supreme leader holds unlimited political and religious power; state and faith are a single institution. Absolute monarchy : Monarch has unlimited power. One-party state : Power is constitutionally linked to a single political party. Provisional government : Current regime is temporary or transitional; no permanent constitution. Military junta : Committee of military leaders controls the government; constitutional provisions are suspended. Places without governments. Note: this chart represents the de jure systems of government, not the de facto degree of democracy. v t e",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Landsgemeinde_Glarus%2C_2009.jpg/1280px-Landsgemeinde_Glarus%2C_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Landsgemeinde_Glarus%2C_2009.jpg/250px-Landsgemeinde_Glarus%2C_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A Landsgemeinde (in 2009) of the canton of Glarus , an example of direct democracy in Switzerland",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Swiss_voting_material.jpg/1280px-Swiss_voting_material.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Swiss_voting_material.jpg/250px-Swiss_voting_material.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "In Switzerland , without needing to register, every citizen receives ballot papers and information brochures for each vote (and can send it back by post). Switzerland has a direct democracy system and votes (and elections) are organised about four times a year; here, to Berne 's citizen in November 2008 about 5 national, 2 cantonal, 4 municipal referendums, and 2 elections (government and parliament of the City of Berne) to take care of at the same time.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Houses.of.parliament.overall.arp.jpg/1280px-Houses.of.parliament.overall.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Houses.of.parliament.overall.arp.jpg/250px-Houses.of.parliament.overall.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Palace of Westminster in London , United Kingdom. The Westminster system originates from the British Houses of Parliament .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/King_Charles_III_%28July_2023%29.jpg/1280px-King_Charles_III_%28July_2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/King_Charles_III_%28July_2023%29.jpg/250px-King_Charles_III_%28July_2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "King Charles III , a constitutional monarch",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Quality_of_democracy_%E2%80%93_and_the_problems_of_measuring_it_%287_rankings%29.png/1280px-Quality_of_democracy_%E2%80%93_and_the_problems_of_measuring_it_%287_rankings%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Quality_of_democracy_%E2%80%93_and_the_problems_of_measuring_it_%287_rankings%29.png/250px-Quality_of_democracy_%E2%80%93_and_the_problems_of_measuring_it_%287_rankings%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Same country ( Russia ), seven approaches, concepts ( Polity IV , Freedom House , The Economist Democracy Index , CAM, VAN, UDS, PACL)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Economist_Intelligence_Unit_Democracy_Index_2024.svg/1280px-Economist_Intelligence_Unit_Democracy_Index_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Economist_Intelligence_Unit_Democracy_Index_2024.svg/500px-Economist_Intelligence_Unit_Democracy_Index_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The 2024 The Economist Democracy Index map Full democracies 9.00–10.00 8.00–8.99 Flawed democracies 7.00–7.99 6.00–6.99 Hybrid regimes 5.00–5.99 4.00–4.99 Authoritarian regimes 3.00–3.99 2.00–2.99 1.00–1.99 0.00–0.99",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/V-Dem_Electoral_Democracy_Index_2026_World.svg/1280px-V-Dem_Electoral_Democracy_Index_2026_World.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/V-Dem_Electoral_Democracy_Index_2026_World.svg/500px-V-Dem_Electoral_Democracy_Index_2026_World.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "V-Dem Electoral Democracy Index map for 2025 0.90–1.00 0.80–0.89 0.70–0.79 0.60–0.69 0.50–0.59 0.40–0.49 0.30–0.39 0.20–0.29 0.10–0.19 0.00–0.09 No data",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Number_of_countries_experiencing_autocratization_and_democratization%2C_1900%E2%80%932000.jpg/1280px-Number_of_countries_experiencing_autocratization_and_democratization%2C_1900%E2%80%932000.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Number_of_countries_experiencing_autocratization_and_democratization%2C_1900%E2%80%932000.jpg/500px-Number_of_countries_experiencing_autocratization_and_democratization%2C_1900%E2%80%932000.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Since c. 2010 , the number of countries autocratizing (blue) is higher than those democratizing (yellow).",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Hong_Kong_P1066634_%2848678676473%29.jpg/1280px-Hong_Kong_P1066634_%2848678676473%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Hong_Kong_P1066634_%2848678676473%29.jpg/250px-Hong_Kong_P1066634_%2848678676473%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Banner in Hong Kong asking for democracy, August 2019",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1790-_Electoral_and_liberal_democracy_indices_-_world.svg/1280px-1790-_Electoral_and_liberal_democracy_indices_-_world.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1790-_Electoral_and_liberal_democracy_indices_-_world.svg/250px-1790-_Electoral_and_liberal_democracy_indices_-_world.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The V-Dem Institute 's indices of democracy indicate that worldwide democracy peaked in 2012, and has since declined, with the decline accelerating in the early 2020s.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Putin%27s_speech_on_Crocus_City_Hall_attack.jpg/1280px-Putin%27s_speech_on_Crocus_City_Hall_attack.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Putin%27s_speech_on_Crocus_City_Hall_attack.jpg/250px-Putin%27s_speech_on_Crocus_City_Hall_attack.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Russia under Vladimir Putin has turned into an authoritarian state",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Prime_Minister%2C_Shri_Narendra_Modi_addressing_at_the_flag_off_the_100th_Kisan_Rail_from_Sangola_in_Maharashtra_to_Shalimar_in_West_Bengal%2C_via_video_conferencing%2C_in_New_Delhi_on_December_28%2C_2020.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Prime_Minister%2C_Shri_Narendra_Modi_addressing_at_the_flag_off_the_100th_Kisan_Rail_from_Sangola_in_Maharashtra_to_Shalimar_in_West_Bengal%2C_via_video_conferencing%2C_in_New_Delhi_on_December_28%2C_2020.jpg/250px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Prime Minister Narendra Modi , during whose tenure India , often called the \"world's largest democracy,\" has faced significant democratic backsliding according to international indexes.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Alexander_Lukashenko_%282024%29.jpg/1280px-Alexander_Lukashenko_%282024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Alexander_Lukashenko_%282024%29.jpg/250px-Alexander_Lukashenko_%282024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Alexander Lukashenko is currently serving his seventh and final term as the President of Belarus , leading many to claim he is \"Europe's Last Dictator\".",
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
   "links": [],
   "metadata": {}
 }

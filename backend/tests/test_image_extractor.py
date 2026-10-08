@@ -181,3 +181,101 @@ def test_footnote_markers_are_excluded_from_infobox_caption():
     images = extract_images(html)
 
     assert images[0].caption == "Highest peak"
+
+
+# --- Новая разметка MediaWiki: <figure> + <figcaption> (сессия 2б) -------------
+
+
+def _figure(file, caption, typeof="mw:File/Thumb", width=250):
+    return f"""
+    <figure class="mw-default-size" typeof="{typeof}">
+        <a href="/wiki/File:{file}" class="mw-file-description">
+            <img src="//thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/{file}/{width}px-{file}" class="mw-file-element" alt=""/>
+        </a>
+        <figcaption>{caption}</figcaption>
+    </figure>
+    """
+
+
+def test_figure_illustration_is_extracted_with_figcaption():
+    html = _figure("Bust.jpg", 'Bust of <a href="/wiki/Aristotle">Aristotle</a><sup class="reference"><a>[3]</a></sup>')
+
+    images = extract_images(html)
+
+    assert len(images) == 1
+    assert images[0].caption == "Bust of Aristotle"
+    assert images[0].thumbnail_url == "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bust.jpg/250px-Bust.jpg"
+    assert images[0].url == "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bust.jpg/1280px-Bust.jpg"
+
+
+def test_plain_file_figure_is_extracted():
+    # typeof="mw:File" без Thumb: например, карта-схема в тексте (United States).
+    images = extract_images(_figure("Map.png", "Map of states", typeof="mw:File"))
+
+    assert [i.caption for i in images] == ["Map of states"]
+
+
+def test_audio_and_video_figures_are_skipped():
+    html = """
+    <figure typeof="mw:File/Thumb"><span><audio class="mw-file-element" controls=""></audio></span><figcaption>Anthem</figcaption></figure>
+    <figure typeof="mw:File/Thumb"><span><video class="mw-file-element" controls=""></video></span><figcaption>Film</figcaption></figure>
+    """
+
+    assert extract_images(html) == []
+
+
+def test_figures_inside_tables_navboxes_and_service_boxes_are_skipped():
+    html = (
+        '<table class="wikitable"><tr><td>' + _figure("In_table.png", "x") + "</td></tr></table>"
+        + '<div class="navbox">' + _figure("In_navbox.png", "x") + "</div>"
+        + '<div class="side-box noprint">' + _figure("Listen.png", "Listen", typeof="mw:File") + "</div>"
+        + _figure("Real.jpg", "Real illustration")
+    )
+
+    assert [i.caption for i in extract_images(html)] == ["Real illustration"]
+
+
+def test_figure_in_infobox_is_not_duplicated_as_body_image():
+    html = """
+    <table class="infobox"><tr><td class="infobox-image">
+    """ + _figure("Portrait.jpg", "Portrait", typeof="mw:File") + """
+    </td></tr></table>
+    """
+
+    images = extract_images(html)
+
+    assert len(images) == 1  # только как изображение инфобокса
+
+
+def test_kartographer_figure_is_skipped():
+    html = '<figure typeof="mw:File/Thumb"><div class="mw-kartographer-map"><img src="//maps.wikimedia.org/x.png"/></div><figcaption>Map</figcaption></figure>'
+
+    assert extract_images(html) == []
+
+
+def test_gallery_images_take_caption_from_gallerytext():
+    html = """
+    <ul class="gallery mw-gallery-packed">
+      <li class="gallerybox">
+        <div class="thumb"><span typeof="mw:File"><a href="/wiki/File:Stamp.jpg" class="mw-file-description"><img src="//thumb.wikimedia.org/x/120px-Stamp.jpg"/></a></span></div>
+        <div class="gallerytext">Stamp of 2018</div>
+      </li>
+    </ul>
+    """
+
+    assert [i.caption for i in extract_images(html)] == ["Stamp of 2018"]
+
+
+def test_figures_and_old_thumbs_keep_document_order():
+    html = (
+        _figure("First.jpg", "First")
+        + """
+        <div class="thumb tmulti"><div class="thumbinner">
+            <a href="/wiki/File:Second.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/thumb/s/220px-Second.jpg"/></a>
+            <div class="thumbcaption">Second</div>
+        </div></div>
+        """
+        + _figure("Third.jpg", "Third")
+    )
+
+    assert [i.caption for i in extract_images(html)] == ["First", "Second", "Third"]

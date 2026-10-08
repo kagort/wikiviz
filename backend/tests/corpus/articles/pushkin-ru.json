@@ -1419,6 +1419,230 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Aleksandr_Pushkin_-_portrait_of_childhood.jpg/1280px-Aleksandr_Pushkin_-_portrait_of_childhood.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Aleksandr_Pushkin_-_portrait_of_childhood.jpg/250px-Aleksandr_Pushkin_-_portrait_of_childhood.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Портрет Александра Сергеевича Пушкина в детстве. (Неизвестный автор)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/%D0%A1._%D0%93._%D0%A7%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%B2_-_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%28%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%29.jpg/1280px-%D0%A1._%D0%93._%D0%A7%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%B2_-_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%28%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/%D0%A1._%D0%93._%D0%A7%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%B2_-_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%28%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%29.jpg/250px-%D0%A1._%D0%93._%D0%A7%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%B2_-_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%28%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Портрет Пушкина кисти С. Г. Чирикова , 1810 г.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/N.O.Puskina.jpg/1280px-N.O.Puskina.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/N.O.Puskina.jpg/250px-N.O.Puskina.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Надежда Осиповна Ганнибал",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pushkin_Sergey_L.jpg/1280px-Pushkin_Sergey_L.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pushkin_Sergey_L.jpg/250px-Pushkin_Sergey_L.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Отец поэта Сергей Львович Пушкин",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Arina_Rodionovna.jpg/1280px-Arina_Rodionovna.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Arina_Rodionovna.jpg/250px-Arina_Rodionovna.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Няня Пушкина — Арина Родионовна",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D0%B1_%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D0%BC_%D0%BB%D0%B8%D1%86%D0%B5%D1%8F.jpg/1280px-%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D0%B1_%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D0%BC_%D0%BB%D0%B8%D1%86%D0%B5%D1%8F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D0%B1_%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D0%BC_%D0%BB%D0%B8%D1%86%D0%B5%D1%8F.jpg/250px-%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D0%B1_%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D0%BC_%D0%BB%D0%B8%D1%86%D0%B5%D1%8F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Свидетельство, выданное Пушкину по окончании лицея",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pushkin_derzhavin.jpg/1280px-Pushkin_derzhavin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pushkin_derzhavin.jpg/250px-Pushkin_derzhavin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Пушкин на лицейском экзамене. Картина И. Репина (1911)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%D0%90.%D0%A1._%D0%A1%D1%82%D0%B8%D1%85%D0%B8_%D0%B8_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%9B%D0%B8%D1%81%D1%8218_%D0%B8%D0%B7_%27%D0%90%D0%BB%D1%8C%D0%B1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%27._%28p%29%D0%9A.%D0%90.%D0%A4%D0%B8%D1%88%D0%B5%D1%80.1899%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg/1280px-%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%D0%90.%D0%A1._%D0%A1%D1%82%D0%B8%D1%85%D0%B8_%D0%B8_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%9B%D0%B8%D1%81%D1%8218_%D0%B8%D0%B7_%27%D0%90%D0%BB%D1%8C%D0%B1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%27._%28p%29%D0%9A.%D0%90.%D0%A4%D0%B8%D1%88%D0%B5%D1%80.1899%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%D0%90.%D0%A1._%D0%A1%D1%82%D0%B8%D1%85%D0%B8_%D0%B8_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%9B%D0%B8%D1%81%D1%8218_%D0%B8%D0%B7_%27%D0%90%D0%BB%D1%8C%D0%B1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%27._%28p%29%D0%9A.%D0%90.%D0%A4%D0%B8%D1%88%D0%B5%D1%80.1899%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg/250px-%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%D0%90.%D0%A1._%D0%A1%D1%82%D0%B8%D1%85%D0%B8_%D0%B8_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%9B%D0%B8%D1%81%D1%8218_%D0%B8%D0%B7_%27%D0%90%D0%BB%D1%8C%D0%B1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%27._%28p%29%D0%9A.%D0%90.%D0%A4%D0%B8%D1%88%D0%B5%D1%80.1899%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Пушкин. Оригиналы стихов и записок. 1815—1820-е гг.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%83_%D0%B2_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%B5.jpg/1280px-%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%83_%D0%B2_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%83_%D0%B2_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%B5.jpg/250px-%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%83_%D0%B2_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Мемориальная доска на доме, где в 1820 году останавливался А. С. Пушкин. г. Днепр",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Pushkin_farewell_to_the_sea.jpg/1280px-Pushkin_farewell_to_the_sea.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Pushkin_farewell_to_the_sea.jpg/250px-Pushkin_farewell_to_the_sea.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "И. К. Айвазовский , И. Е. Репин . «Прощание Пушкина с морем». 1877. Всероссийский музей А. С. Пушкина",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Nikolay_Ge_043.jpg/1280px-Nikolay_Ge_043.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Nikolay_Ge_043.jpg/330px-Nikolay_Ge_043.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Картина Николая Ге «А. С. Пушкин в селе Михайловском»",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/A.S.Pushkin.jpg/1280px-A.S.Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/A.S.Pushkin.jpg/250px-A.S.Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Pushkin_Alexander_by_Sokolov_P..jpg/1280px-Pushkin_Alexander_by_Sokolov_P..jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Pushkin_Alexander_by_Sokolov_P..jpg/250px-Pushkin_Alexander_by_Sokolov_P..jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Pushkin_i_ya_by_mog_1826.jpg/1280px-Pushkin_i_ya_by_mog_1826.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Pushkin_i_ya_by_mog_1826.jpg/330px-Pushkin_i_ya_by_mog_1826.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Рисунок Пушкина с изображением повешенных декабристов и словами «И я бы мог, как шут ви<сеть>», 1826 год",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Alexander_Puschkin_Selbstbildnis_als_Kosak.jpg/1280px-Alexander_Puschkin_Selbstbildnis_als_Kosak.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Alexander_Puschkin_Selbstbildnis_als_Kosak.jpg/330px-Alexander_Puschkin_Selbstbildnis_als_Kosak.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Рисунок Пушкина, изображающий его на войне",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Natalia_Pushkina_by_Brullov.jpg/1280px-Natalia_Pushkina_by_Brullov.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Natalia_Pushkina_by_Brullov.jpg/250px-Natalia_Pushkina_by_Brullov.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Портрет Н. Н. Пушкиной работы Александра Брюллова (1831—1832 гг.)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Pushkin_Alexander%2C_1831_by_Sokolov_P..jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Pushkin_Alexander%2C_1831_by_Sokolov_P..jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "caption": "А. С. Пушкин. Портрет работы П. Ф. Соколова (1831)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%A0%D0%BE%D0%B4%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D1%85.jpg/1280px-%D0%A0%D0%BE%D0%B4%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D1%85.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%A0%D0%BE%D0%B4%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D1%85.jpg/250px-%D0%A0%D0%BE%D0%B4%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D1%85.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Родословное древо Пушкиных, (акварель, неизвестный художник, начало XIX века; центральный музей А. С. Пушкина)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pushkinwriting.jpg/1280px-Pushkinwriting.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pushkinwriting.jpg/250px-Pushkinwriting.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Подлинный прибор Пушкина из музея на Мойке , 12, Санкт-Петербург",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Sovremennik.jpg/1280px-Sovremennik.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Sovremennik.jpg/250px-Sovremennik.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pushkin%27s_duel_with_d%27Anthes%2C_atrist_A._Naumov_1884.jpg/1280px-Pushkin%27s_duel_with_d%27Anthes%2C_atrist_A._Naumov_1884.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pushkin%27s_duel_with_d%27Anthes%2C_atrist_A._Naumov_1884.jpg/250px-Pushkin%27s_duel_with_d%27Anthes%2C_atrist_A._Naumov_1884.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Дуэль Пушкина с Дантесом. А. А. Наумов , 1884",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Duel_of_Pushkin_and_d%27Anthes_%2819th_century%29.jpg/1280px-Duel_of_Pushkin_and_d%27Anthes_%2819th_century%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Duel_of_Pushkin_and_d%27Anthes_%2819th_century%29.jpg/250px-Duel_of_Pushkin_and_d%27Anthes_%2819th_century%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Адриан Волков . Последний выстрел А. С. Пушкина",
+      "alt": "Картина",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1324._St._Petersburg._Obelisk_in_place_of_Pushkin%27s_duel_with_Dantes.jpg/1280px-1324._St._Petersburg._Obelisk_in_place_of_Pushkin%27s_duel_with_Dantes.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1324._St._Petersburg._Obelisk_in_place_of_Pushkin%27s_duel_with_Dantes.jpg/250px-1324._St._Petersburg._Obelisk_in_place_of_Pushkin%27s_duel_with_Dantes.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Памятная стела на месте дуэли",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/S._M._Lukyanov._About_the_last_days_of_A._S._Pushkin.jpg/1280px-S._M._Lukyanov._About_the_last_days_of_A._S._Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/S._M._Lukyanov._About_the_last_days_of_A._S._Pushkin.jpg/250px-S._M._Lukyanov._About_the_last_days_of_A._S._Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "С. М. Лукьянов «О последних днях жизни и о смерти А. С. Пушкина, с медицинской точки зрения» (1899)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/PushkinGory_asv2018-07_img18_Svyatogorsky_Monastery.jpg/1280px-PushkinGory_asv2018-07_img18_Svyatogorsky_Monastery.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/PushkinGory_asv2018-07_img18_Svyatogorsky_Monastery.jpg/250px-PushkinGory_asv2018-07_img18_Svyatogorsky_Monastery.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Могила Пушкина",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Pushkin_Alexander%2C_self_portret%2C_1820s.jpg/1280px-Pushkin_Alexander%2C_self_portret%2C_1820s.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Pushkin_Alexander%2C_self_portret%2C_1820s.jpg/250px-Pushkin_Alexander%2C_self_portret%2C_1820s.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Автопортрет",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Pushkin_Selfportrait_with_Onegin.jpg/1280px-Pushkin_Selfportrait_with_Onegin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Pushkin_Selfportrait_with_Onegin.jpg/250px-Pushkin_Selfportrait_with_Onegin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Автограф Пушкина — автопортрет с Онегиным на набережной Невы",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4.jpg/1280px-%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4.jpg/250px-%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Полное академическое собрание сочинений Пушкина. Издание 1937 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.jpg/1280px-%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.jpg/250px-%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Портрет Пушкина в академическом издании 1937 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%94%D0%BE%D0%BC_%D0%BD%D0%B0_%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%B9_%D1%83%D0%BB%D0%B8%D1%86%D0%B5_%28%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B4._57_%D0%B1%29%2C_%D0%B3%D0%B4%D0%B5_%D1%80%D0%BE%D0%B4%D0%B8%D0%BB%D1%81%D1%8F_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%2C_%D0%BA%D0%B0%D0%BA_%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B4%D0%BE_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8.JPG/1280px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%94%D0%BE%D0%BC_%D0%BD%D0%B0_%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%B9_%D1%83%D0%BB%D0%B8%D1%86%D0%B5_%28%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B4._57_%D0%B1%29%2C_%D0%B3%D0%B4%D0%B5_%D1%80%D0%BE%D0%B4%D0%B8%D0%BB%D1%81%D1%8F_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%2C_%D0%BA%D0%B0%D0%BA_%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B4%D0%BE_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8.JPG/250px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Дом на Немецкой улице в Москве ( Бауманская , дом. 57 б), где родился А. С. Пушкин, как считалось до революции . На гравюре А. Шлипера видна доска из мрамора. Альбом к 100-летию А. С. Пушкина. 1899 год . Издательство А. Ф. Маркса",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Fontanka_Embamkment_185.jpg/1280px-Fontanka_Embamkment_185.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Fontanka_Embamkment_185.jpg/250px-Fontanka_Embamkment_185.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Доходный дом Клокачёва на набережной реки Фонтанки, в котором с 1816 по 1820 год жил А. С. Пушкин",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC._%D0%9C%D0%B0%D0%B9%D0%BA%D0%BE%D0%BF_%D1%83%D0%BB._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_179.jpg/1280px-%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC._%D0%9C%D0%B0%D0%B9%D0%BA%D0%BE%D0%BF_%D1%83%D0%BB._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_179.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC._%D0%9C%D0%B0%D0%B9%D0%BA%D0%BE%D0%BF_%D1%83%D0%BB._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_179.jpg/250px-%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC._%D0%9C%D0%B0%D0%B9%D0%BA%D0%BE%D0%BF_%D1%83%D0%BB._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_179.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Здание, где была открыта первая общественная библиотека. Здесь работал городской комитет большевиков: улица Пушкина, 179, Майкоп, Адыгея",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kiprensky_Pushkin.jpg/1280px-Kiprensky_Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kiprensky_Pushkin.jpg/330px-Kiprensky_Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": null,

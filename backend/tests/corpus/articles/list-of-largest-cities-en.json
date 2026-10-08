@@ -1372,7 +1372,15 @@
   "organizations": [],
   "works": [],
   "relations": [],
-  "images": [],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Night_in_the_Greater_Tokyo_Area_ISS054.jpg/1280px-Night_in_the_Greater_Tokyo_Area_ISS054.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Night_in_the_Greater_Tokyo_Area_ISS054.jpg/250px-Night_in_the_Greater_Tokyo_Area_ISS054.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Tokyo , the world's third-largest city by metropolitan population.",
+      "alt": null,
+      "source": "article_text"
+    }
+  ],
   "links": [],
   "metadata": {}
 }

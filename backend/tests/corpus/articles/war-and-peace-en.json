@@ -362,6 +362,104 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Tolstoy_1868.jpg/1280px-Tolstoy_1868.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Tolstoy_1868.jpg/250px-Tolstoy_1868.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Tolstoy photographed in 1868, during the composition of War and Peace .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Tolstoy_-_War_and_Peace_-_ninth_draft.jpg/1280px-Tolstoy_-_War_and_Peace_-_ninth_draft.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Tolstoy_-_War_and_Peace_-_ninth_draft.jpg/250px-Tolstoy_-_War_and_Peace_-_ninth_draft.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Tolstoy's notes from the ninth draft of War and Peace , 1864.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Guerraepace.jpg/1280px-Guerraepace.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Guerraepace.jpg/250px-Guerraepace.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Cover of War and Peace , Italian translation, 1899.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Russia_3577_-_1812_%284166101638%29.jpg/1280px-Russia_3577_-_1812_%284166101638%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Russia_3577_-_1812_%284166101638%29.jpg/250px-Russia_3577_-_1812_%284166101638%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "In 1812 by the Russian artist Illarion Pryanishnikov .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/WarAndPeaceCharacterTree.svg/1280px-WarAndPeaceCharacterTree.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/WarAndPeaceCharacterTree.svg/250px-WarAndPeaceCharacterTree.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "War and Peace simple family tree.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Leo_Tolstoy%27s_War_and_peace_family_tree_%28EN%29_by_shakko.jpg/1280px-Leo_Tolstoy%27s_War_and_peace_family_tree_%28EN%29_by_shakko.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Leo_Tolstoy%27s_War_and_peace_family_tree_%28EN%29_by_shakko.jpg/250px-Leo_Tolstoy%27s_War_and_peace_family_tree_%28EN%29_by_shakko.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "War and Peace detailed family tree.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bem_postcard_7.jpg/1280px-Bem_postcard_7.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bem_postcard_7.jpg/250px-Bem_postcard_7.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Natasha Rostova, a postcard by Elisabeth Boehm .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Maria_Fedorovna_by_Vigee-Lebrun.jpg/1280px-Maria_Fedorovna_by_Vigee-Lebrun.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Maria_Fedorovna_by_Vigee-Lebrun.jpg/250px-Maria_Fedorovna_by_Vigee-Lebrun.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Empress Dowager Maria Feodorovna , mother of reigning Tsar Alexander I , is the most powerful woman in the Russian royal court.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Red_Square_in_Moscow_%281801%29_by_Fedor_Alekseev.jpg/1280px-Red_Square_in_Moscow_%281801%29_by_Fedor_Alekseev.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Red_Square_in_Moscow_%281801%29_by_Fedor_Alekseev.jpg/250px-Red_Square_in_Moscow_%281801%29_by_Fedor_Alekseev.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Scene in Red Square , Moscow, 1801. Oil on canvas by Fedor Yakovlevich Alekseev .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Battle_of_Borodino.jpg/1280px-Battle_of_Borodino.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Battle_of_Borodino.jpg/250px-Battle_of_Borodino.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Battle of Borodino , fought on September 7, 1812, and involving more than a quarter of a million troops and seventy thousand casualties was a turning point in Napoleon's failed campaign to defeat Russia. It is vividly depicted through the plot and characters of War and Peace . Painting The Battle of Moscow by Louis-François Lejeune , 1822.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Napoleons_retreat_from_Moscow_by_Adolph_Northen.jpg/1280px-Napoleons_retreat_from_Moscow_by_Adolph_Northen.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Napoleons_retreat_from_Moscow_by_Adolph_Northen.jpg/250px-Napoleons_retreat_from_Moscow_by_Adolph_Northen.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Napoleon 's retreat from Moscow. Painting by Adolph Northen (1828–1876).",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Kolman_decembrists.jpg/1280px-Kolman_decembrists.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Kolman_decembrists.jpg/250px-Kolman_decembrists.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Karl Kollmann depicting the Decembrist uprising in St. Petersburg, 1825.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BA.jpeg/1280px-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BA.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BA.jpeg/250px-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BA.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Leonid Pasternak 's 1893 illustration to War and Peace.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Shengraben1.jpg/1280px-Shengraben1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Shengraben1.jpg/250px-Shengraben1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Battle of Schöngrabern by K. Bujnitsky.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg/1280px-Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg/250px-Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": null,

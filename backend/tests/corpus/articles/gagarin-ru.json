@@ -3432,6 +3432,181 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Matveev_2.jpg/1280px-Matveev_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Matveev_2.jpg/250px-Matveev_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Тимофей Матвеевич Матвеев — путиловский рабочий (сверловщик), революционер, дедушка Ю. А. Гагарина",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Gagarin_town_-_Gagarin_Memorial_Museum_03.jpg/1280px-Gagarin_town_-_Gagarin_Memorial_Museum_03.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Gagarin_town_-_Gagarin_Memorial_Museum_03.jpg/250px-Gagarin_town_-_Gagarin_Memorial_Museum_03.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Дом, в котором Юрий Гагарин жил в школьные годы. Город Гагарин (бывший Гжатск)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Semyorka_Rocket_R7_by_Sergei_Korolyov_in_VDNH_Ostankino_RAF0540.jpg/1280px-Semyorka_Rocket_R7_by_Sergei_Korolyov_in_VDNH_Ostankino_RAF0540.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Semyorka_Rocket_R7_by_Sergei_Korolyov_in_VDNH_Ostankino_RAF0540.jpg/250px-Semyorka_Rocket_R7_by_Sergei_Korolyov_in_VDNH_Ostankino_RAF0540.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Копия ракеты «Восток», ВДНХ , Москва",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%BC.jpg/1280px-%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%BC.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%BC.jpg/250px-%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%BC.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Юрий Алексеевич Гагарин перед полётом (рядом с ним Сергей Павлович Королёв и Кирилл Семёнович Москаленко )",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD_%D0%B2_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B5.jpg/1280px-%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD_%D0%B2_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD_%D0%B2_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B5.jpg/250px-%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD_%D0%B2_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Гагарин перед стартом полёта",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B4%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D0%BD%D1%83.jpg/1280px-%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B4%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D0%BD%D1%83.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B4%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D0%BD%D1%83.jpg/250px-%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B4%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D0%BD%D1%83.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Запись в журнале дежурного по полигону",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Vostok-1-musee-du-Bourget-P.jpg/1280px-Vostok-1-musee-du-Bourget-P.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Vostok-1-musee-du-Bourget-P.jpg/250px-Vostok-1-musee-du-Bourget-P.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Макет корабля «Восток-1» в парижском Музее авиации и космонавтики",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Gagarin%27s_press_conference.jpg/1280px-Gagarin%27s_press_conference.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Gagarin%27s_press_conference.jpg/250px-Gagarin%27s_press_conference.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Юрий Гагарин во время пресс-конференции 15 апреля 1961 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bundesarchiv_Bild_183-82864-0001%2C_Karl-Marx-Stadt%2C_Namensgebung_Juri-Gagarin-Stra%C3%9Fe.jpg/1280px-Bundesarchiv_Bild_183-82864-0001%2C_Karl-Marx-Stadt%2C_Namensgebung_Juri-Gagarin-Stra%C3%9Fe.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bundesarchiv_Bild_183-82864-0001%2C_Karl-Marx-Stadt%2C_Namensgebung_Juri-Gagarin-Stra%C3%9Fe.jpg/250px-Bundesarchiv_Bild_183-82864-0001%2C_Karl-Marx-Stadt%2C_Namensgebung_Juri-Gagarin-Stra%C3%9Fe.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Жители Карл-Маркс-Штадта на улице, названной именем Юрия Гагарина, 6 мая 1961 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Yuri_Gagarin_and_Zakaria_Mohieddin_05-02-1962_Cairo_Almaza_Air_Base_Egypt.jpg/1280px-Yuri_Gagarin_and_Zakaria_Mohieddin_05-02-1962_Cairo_Almaza_Air_Base_Egypt.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Yuri_Gagarin_and_Zakaria_Mohieddin_05-02-1962_Cairo_Almaza_Air_Base_Egypt.jpg/250px-Yuri_Gagarin_and_Zakaria_Mohieddin_05-02-1962_Cairo_Almaza_Air_Base_Egypt.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Юрий Гагарин во время визита в Египет , 5 февраля 1962 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Yuri_Gagarin_in_Dolgoprudny_7.jpg/1280px-Yuri_Gagarin_in_Dolgoprudny_7.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Yuri_Gagarin_in_Dolgoprudny_7.jpg/250px-Yuri_Gagarin_in_Dolgoprudny_7.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Космонавты: Юрий Гагарин (третий слева на фотографии), Виктор Горбатко на пикнике на Пестовском водохранилище с друзьями, 19 августа 1963 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/RIAN_archive_628703_Soviet_cosmonauts%2C_Heroes_of_the_Soviet_Union_Pavel_Popovich%2C_Yuri_Gagarin%2C_and_Valentina_Tereshkova.jpg/1280px-RIAN_archive_628703_Soviet_cosmonauts%2C_Heroes_of_the_Soviet_Union_Pavel_Popovich%2C_Yuri_Gagarin%2C_and_Valentina_Tereshkova.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/RIAN_archive_628703_Soviet_cosmonauts%2C_Heroes_of_the_Soviet_Union_Pavel_Popovich%2C_Yuri_Gagarin%2C_and_Valentina_Tereshkova.jpg/250px-RIAN_archive_628703_Soviet_cosmonauts%2C_Heroes_of_the_Soviet_Union_Pavel_Popovich%2C_Yuri_Gagarin%2C_and_Valentina_Tereshkova.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Советские космонавты слева направо: Павел Попович , Юрий Гагарин, Валентина Терешкова в студии телевидения, Москва 1 января 1964 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Kremlin_Wall_Necropolis_-_Gagarin%2C_Yuri_01.jpg/1280px-Kremlin_Wall_Necropolis_-_Gagarin%2C_Yuri_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Kremlin_Wall_Necropolis_-_Gagarin%2C_Yuri_01.jpg/250px-Kremlin_Wall_Necropolis_-_Gagarin%2C_Yuri_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Надгробная плита в Кремлёвской стене",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/J%C3%A2nio_da_Silva_Quadros%2C_presid%C3%AAncia_da_Rep%C3%BAblica%2C_condecora_o_major_Iuri_Alekseievitch_Gagarin%2C_em_Bras%C3%ADlia.jpg/1280px-J%C3%A2nio_da_Silva_Quadros%2C_presid%C3%AAncia_da_Rep%C3%BAblica%2C_condecora_o_major_Iuri_Alekseievitch_Gagarin%2C_em_Bras%C3%ADlia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/J%C3%A2nio_da_Silva_Quadros%2C_presid%C3%AAncia_da_Rep%C3%BAblica%2C_condecora_o_major_Iuri_Alekseievitch_Gagarin%2C_em_Bras%C3%ADlia.jpg/250px-J%C3%A2nio_da_Silva_Quadros%2C_presid%C3%AAncia_da_Rep%C3%BAblica%2C_condecora_o_major_Iuri_Alekseievitch_Gagarin%2C_em_Bras%C3%ADlia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Президент Бразилии Жаниу Куадруш вручает Ю. А. Гагарину бразильский орден (1961)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fortress_key_for_Yuri_Gagarin._Central_House_of_Aviation_and_Cosmonautics.jpg/1280px-Fortress_key_for_Yuri_Gagarin._Central_House_of_Aviation_and_Cosmonautics.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fortress_key_for_Yuri_Gagarin._Central_House_of_Aviation_and_Cosmonautics.jpg/250px-Fortress_key_for_Yuri_Gagarin._Central_House_of_Aviation_and_Cosmonautics.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Ключ от ворот крепости, изготовленный монетным двором ОАР",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Matveev_7.jpg/1280px-Matveev_7.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Matveev_7.jpg/250px-Matveev_7.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Путиловский рабочий Тимофей Матвеевич Матвеев со своей женой Анной Егоровной и детьми. Во втором ряду (слева направо): Николай, Сергей, Анна (будущая мать Гагарина, стоит с тёмным цветком), Мария; в первом ряду — Ольга",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Yuri_Gagarin_with_wife_in_1964.jpg/1280px-Yuri_Gagarin_with_wife_in_1964.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Yuri_Gagarin_with_wife_in_1964.jpg/250px-Yuri_Gagarin_with_wife_in_1964.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Юрий Гагарин с женой Валентиной аплодируют труппе театра « Ла Скала », представившей « Турандот » в московском Большом театре в 1964 году",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/2/2c/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB_%D0%BD%D0%B0_%D0%BC%D0%B5%D1%81%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B0_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%AE._%D0%90.jpg/1280px-%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB_%D0%BD%D0%B0_%D0%BC%D0%B5%D1%81%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B0_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%AE._%D0%90.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/2/2c/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB_%D0%BD%D0%B0_%D0%BC%D0%B5%D1%81%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B0_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%AE._%D0%90.jpg/250px-%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB_%D0%BD%D0%B0_%D0%BC%D0%B5%D1%81%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B0_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%AE._%D0%90.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Памятник на месте приземления Гагарина Ю. А. « Парк покорителей космоса им. Юрия Гагарина » в Саратовской области",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/b/b5/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%22%D0%9F%D0%B5%D1%80%D0%B5%D0%B4_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%BC%22.jpg/1280px-%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%22%D0%9F%D0%B5%D1%80%D0%B5%D0%B4_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%BC%22.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/b/b5/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%22%D0%9F%D0%B5%D1%80%D0%B5%D0%B4_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%BC%22.jpg/250px-%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%22%D0%9F%D0%B5%D1%80%D0%B5%D0%B4_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%BC%22.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Памятник С. П. Королёву и Ю. А. Гагарину в Энгельсе Саратовской области",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/1/19/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%83_%D1%83_%D1%88%D0%BA%D0%BE%D0%BB%D1%8B_%E2%84%966_%28%D0%95%D0%B2%D0%BF%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%29.JPG/1280px-%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%83_%D1%83_%D1%88%D0%BA%D0%BE%D0%BB%D1%8B_%E2%84%966_%28%D0%95%D0%B2%D0%BF%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%29.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/1/19/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%83_%D1%83_%D1%88%D0%BA%D0%BE%D0%BB%D1%8B_%E2%84%966_%28%D0%95%D0%B2%D0%BF%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%29.JPG/250px-%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%83_%D1%83_%D1%88%D0%BA%D0%BE%D0%BB%D1%8B_%E2%84%966_%28%D0%95%D0%B2%D0%BF%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%29.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Бюст Ю. А. Гагарина в Евпатории",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%AE%D1%80%D0%B8%D1%8E_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%83_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B5_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%B2_%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B5.JPG/1280px-%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%AE%D1%80%D0%B8%D1%8E_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%83_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B5_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%B2_%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B5.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%AE%D1%80%D0%B8%D1%8E_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%83_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B5_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%B2_%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B5.JPG/250px-%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%AE%D1%80%D0%B8%D1%8E_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%83_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B5_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%B2_%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B5.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Аннотационная доска на проспекте Гагарина в Смоленске",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D0%B0%2C_%D0%BF%D0%BE%D1%81%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2_%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B5_%D0%AE%D1%80%D0%B8%D0%B5%D0%BC_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%8B%D0%BC_29_%D0%BC%D0%B0%D1%8F_1962_%D0%B3%D0%BE%D0%B4%D0%B0_%D1%84%D0%BE%D1%82%D0%BE.JPG/1280px-%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D0%B0%2C_%D0%BF%D0%BE%D1%81%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2_%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B5_%D0%AE%D1%80%D0%B8%D0%B5%D0%BC_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%8B%D0%BC_29_%D0%BC%D0%B0%D1%8F_1962_%D0%B3%D0%BE%D0%B4%D0%B0_%D1%84%D0%BE%D1%82%D0%BE.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D0%B0%2C_%D0%BF%D0%BE%D1%81%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2_%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B5_%D0%AE%D1%80%D0%B8%D0%B5%D0%BC_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%8B%D0%BC_29_%D0%BC%D0%B0%D1%8F_1962_%D0%B3%D0%BE%D0%B4%D0%B0_%D1%84%D0%BE%D1%82%D0%BE.JPG/250px-%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D0%B0%2C_%D0%BF%D0%BE%D1%81%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2_%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B5_%D0%AE%D1%80%D0%B8%D0%B5%D0%BC_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%8B%D0%BC_29_%D0%BC%D0%B0%D1%8F_1962_%D0%B3%D0%BE%D0%B4%D0%B0_%D1%84%D0%BE%D1%82%D0%BE.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Курильская лиственница , посаженная в Хабаровске Юрием Гагариным 29 мая 1962 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Fallen_Astronaut.jpg/1280px-Fallen_Astronaut.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Fallen_Astronaut.jpg/250px-Fallen_Astronaut.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Табличка с именами погибших астронавтов и космонавтов (включая Гагарина) и скульптура « Павший астронавт », оставленная командой « Аполлона-15 » на Луне в 1971 году",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/GAGARIN_FK_NDB.jpg/1280px-GAGARIN_FK_NDB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/GAGARIN_FK_NDB.jpg/250px-GAGARIN_FK_NDB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Трассовая ОПРС GAGARIN , FK NDB, расположенная в восточной части города Гагарина",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%D0%92%D0%B8%D0%BA%D0%B8-%D1%8D%D0%BA%D1%81%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F_%D0%B2_%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D0%B8_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8_2021-04-19_%289%29.jpg/1280px-%D0%92%D0%B8%D0%BA%D0%B8-%D1%8D%D0%BA%D1%81%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F_%D0%B2_%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D0%B8_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8_2021-04-19_%289%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%D0%92%D0%B8%D0%BA%D0%B8-%D1%8D%D0%BA%D1%81%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F_%D0%B2_%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D0%B8_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8_2021-04-19_%289%29.jpg/120px-%D0%92%D0%B8%D0%BA%D0%B8-%D1%8D%D0%BA%D1%81%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F_%D0%B2_%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D0%B8_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8_2021-04-19_%289%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Кабинет в музее Дома авиации",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Yuri_Gagarin_with_awards.jpg/1280px-Yuri_Gagarin_with_awards.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Yuri_Gagarin_with_awards.jpg/330px-Yuri_Gagarin_with_awards.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": null,

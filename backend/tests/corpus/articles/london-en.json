@@ -1097,13 +1097,6 @@
   "relations": [],
   "images": [
     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/1280px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
-      "alt": null,
-      "source": "article_text"
-    },
-    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Stelalondon.jpg/1280px-Stelalondon.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Stelalondon.jpg/250px-Stelalondon.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Inscription from Londinium , held at the Museum of London, with the Romans' first mention of the Londiniensi ('Londoners')",
@@ -1111,51 +1104,107 @@
       "source": "article_text"
     },
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Westminster_Abbey_by_Canaletto%2C_1749.jpg/1280px-Westminster_Abbey_by_Canaletto%2C_1749.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Westminster_Abbey_by_Canaletto%2C_1749.jpg/250px-Westminster_Abbey_by_Canaletto%2C_1749.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Westminster Abbey , as seen in this painting ( Canaletto , 1749), is a World Heritage Site and one of London's oldest buildings.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Siege_of_London_%28MS_1168%29.jpg/1280px-Siege_of_London_%28MS_1168%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Siege_of_London_%28MS_1168%29.jpg/120px-Siege_of_London_%28MS_1168%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "The Lancastrian siege of London in 1471 is attacked by a Yorkist sally.",
       "alt": "The Lancastrian siege of London in 1471 is attacked by a Yorkist sally.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/London_-_John_Norden%27s_map_of_1593.jpg/1280px-London_-_John_Norden%27s_map_of_1593.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/London_-_John_Norden%27s_map_of_1593.jpg/250px-London_-_John_Norden%27s_map_of_1593.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Map of London in 1593. There is only one bridge across the Thames, but parts of Southwark on the south bank of the river have been developed.",
       "alt": "Map of London in 1593. There is only one bridge across the Thames, but parts of Southwark on the south bank of the river have been developed.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Great_Fire_London.jpg/1280px-Great_Fire_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Great_Fire_London.jpg/250px-Great_Fire_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "The Great Fire of London destroyed much of the city in 1666.",
       "alt": "The Great Fire of London destroyed much of the city in 1666.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Edward_Angelo_Goodall04.jpg/1280px-Edward_Angelo_Goodall04.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Edward_Angelo_Goodall04.jpg/250px-Edward_Angelo_Goodall04.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "St Paul's Cathedral (painted by Edward Goodall in 1850) was completed in 1710.",
       "alt": "St Paul's Cathedral (painted by Edward Goodall in 1850) was completed in 1710.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/LondonBombedWWII_full.jpg/1280px-LondonBombedWWII_full.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/LondonBombedWWII_full.jpg/250px-LondonBombedWWII_full.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A bombed-out London street during the Blitz in 1940",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Siemens_Crystal_Building%2C_London.jpg/1280px-Siemens_Crystal_Building%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Siemens_Crystal_Building%2C_London.jpg/250px-Siemens_Crystal_Building%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "City Hall seen across Royal Victoria Dock, headquarters of the Greater London Authority (GLA) since 2022",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/City_coat_of_arms%2C_Holborn_Viaduct_%28cropped%29.jpg/1280px-City_coat_of_arms%2C_Holborn_Viaduct_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/City_coat_of_arms%2C_Holborn_Viaduct_%28cropped%29.jpg/250px-City_coat_of_arms%2C_Holborn_Viaduct_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Arms of the Corporation of the City of London since 1381",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/10_Downing_Street._MOD_45155532_%28cropped%29.jpg/1280px-10_Downing_Street._MOD_45155532_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/10_Downing_Street._MOD_45155532_%28cropped%29.jpg/250px-10_Downing_Street._MOD_45155532_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "10 Downing Street , official residence of the Prime Minister",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/London_by_Sentinel-2.jpg/1280px-London_by_Sentinel-2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/London_by_Sentinel-2.jpg/250px-London_by_Sentinel-2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Satellite view of London in June 2018",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/London_from_Primrose_Hill_May_2013.jpg/1280px-London_from_Primrose_Hill_May_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/London_from_Primrose_Hill_May_2013.jpg/250px-London_from_Primrose_Hill_May_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "London from Primrose Hill",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/London_%2844761485915%29.jpg/1280px-London_%2844761485915%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/London_%2844761485915%29.jpg/330px-London_%2844761485915%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The West End theatre district in 2016",
+      "alt": null,
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Aerial_Tower_of_London.jpg/1280px-Aerial_Tower_of_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Aerial_Tower_of_London.jpg/250px-Aerial_Tower_of_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "The Tower of London , a medieval castle, dating in part to 1078",
       "alt": "The Tower of London, a medieval castle, dating in part to 1078",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Buckingham_Palace%2C_London_-_April_2009.jpg/1280px-Buckingham_Palace%2C_London_-_April_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Buckingham_Palace%2C_London_-_April_2009.jpg/250px-Buckingham_Palace%2C_London_-_April_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "The east wing public façade of Buckingham Palace was built between 1847 and 1850; it was remodelled to its present form in 1913.",
       "alt": "The east wing public façade of Buckingham Palace was built between 1847 and 1850; it was remodelled to its present form in 1913.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Trafalgar_Square_by_Christian_Reimer.jpg/1280px-Trafalgar_Square_by_Christian_Reimer.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Trafalgar_Square_by_Christian_Reimer.jpg/250px-Trafalgar_Square_by_Christian_Reimer.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Trafalgar Square and its fountains, with Nelson's Column on the right",
       "alt": "Trafalgar Square and its fountains, with Nelson's Column on the right",
       "source": "article_text"
     },
@@ -1167,6 +1216,20 @@
       "source": "article_text"
     },
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/City_of_London_Cemetery%2C_Newham%2C_London_England_-_fox_18.jpg/1280px-City_of_London_Cemetery%2C_Newham%2C_London_England_-_fox_18.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/City_of_London_Cemetery%2C_Newham%2C_London_England_-_fox_18.jpg/250px-City_of_London_Cemetery%2C_Newham%2C_London_England_-_fox_18.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "London has some 10,000 red foxes .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Greater_London_population_density_map%2C_2011_census.png/1280px-Greater_London_population_density_map%2C_2011_census.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Greater_London_population_density_map%2C_2011_census.png/330px-Greater_London_population_density_map%2C_2011_census.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Population density map (%)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/White_percentage_of_London_from_2001_to_2021.gif/1280px-White_percentage_of_London_from_2001_to_2021.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/White_percentage_of_London_from_2001_to_2021.gif/250px-White_percentage_of_London_from_2001_to_2021.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "White (53.8%, 2021)",
@@ -1174,24 +1237,38 @@
       "source": "article_text"
     },
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/St_Mary-le-Bow_-_geograph.org.uk_-_3756403.jpg/1280px-St_Mary-le-Bow_-_geograph.org.uk_-_3756403.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/St_Mary-le-Bow_-_geograph.org.uk_-_3756403.jpg/250px-St_Mary-le-Bow_-_geograph.org.uk_-_3756403.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Traditionally, anyone born within earshot of the bells of St Mary-le-Bow church was considered to be a true Cockney .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/City_of_London_skyscrapers_HDR_-_2023-03-18.jpg/1280px-City_of_London_skyscrapers_HDR_-_2023-03-18.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/City_of_London_skyscrapers_HDR_-_2023-03-18.jpg/250px-City_of_London_skyscrapers_HDR_-_2023-03-18.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "The City of London , one of the largest financial centres in the world",
       "alt": "The City of London, one of the largest financial centres in the world",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Paternoster_Square.jpg/1280px-Paternoster_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Paternoster_Square.jpg/250px-Paternoster_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "The London Stock Exchange at Paternoster Square and Temple Bar",
       "alt": "The London Stock Exchange at Paternoster Square and Temple Bar",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/London.bankofengland.arp.jpg/1280px-London.bankofengland.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/London.bankofengland.arp.jpg/250px-London.bankofengland.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "The Bank of England , established in 1694, is the model on which most modern central banks are based.",
       "alt": "The Bank of England, established in 1694, is the model on which most modern central banks are based.[211]",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Broadcasting_House_20160816.jpg/1280px-Broadcasting_House_20160816.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Broadcasting_House_20160816.jpg/250px-Broadcasting_House_20160816.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Broadcasting House , headquarters of the BBC",
+      "alt": null,
       "source": "article_text"
     },
     {
@@ -1202,23 +1279,30 @@
       "source": "article_text"
     },
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Heathrow_Terminal_5C_Iwelumo-1.jpg/1280px-Heathrow_Terminal_5C_Iwelumo-1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Heathrow_Terminal_5C_Iwelumo-1.jpg/250px-Heathrow_Terminal_5C_Iwelumo-1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Heathrow Airport is the busiest airport in Europe as well as the second busiest in the world for international passenger traffic ( Terminal 5 C is pictured).",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Baker_Street_tube_station_MMB_19_S_Stock.jpg/1280px-Baker_Street_tube_station_MMB_19_S_Stock.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Baker_Street_tube_station_MMB_19_S_Stock.jpg/250px-Baker_Street_tube_station_MMB_19_S_Stock.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "The London Underground , opened in January 1863, is the world's oldest and third-longest rapid transit system.",
       "alt": "The London Underground, opened in January 1863, is the world's oldest and third-longest rapid transit system.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Monument_Underground_Station_-_geograph.org.uk_-_5468795.jpg/1280px-Monument_Underground_Station_-_geograph.org.uk_-_5468795.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Monument_Underground_Station_-_geograph.org.uk_-_5468795.jpg/250px-Monument_Underground_Station_-_geograph.org.uk_-_5468795.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "The London Underground's roundel symbol appeared in 1917.",
       "alt": "The London Underground's roundel symbol appeared in 1917.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/St_Pancras_Railway_Station_2012-06-23.jpg/1280px-St_Pancras_Railway_Station_2012-06-23.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/St_Pancras_Railway_Station_2012-06-23.jpg/250px-St_Pancras_Railway_Station_2012-06-23.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "St Pancras International is the main terminal for high-speed Eurostar and High Speed 1 services.",
       "alt": "St Pancras International is the main terminal for high-speed Eurostar and High Speed 1 services.",
       "source": "article_text"
     },
@@ -1230,38 +1314,129 @@
       "source": "article_text"
     },
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/16-11-16-Glasgow_street_scene-RR2_7280_%28cropped%29.jpg/1280px-16-11-16-Glasgow_street_scene-RR2_7280_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/16-11-16-Glasgow_street_scene-RR2_7280_%28cropped%29.jpg/250px-16-11-16-Glasgow_street_scene-RR2_7280_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The hackney carriage (black cab) is a common sight on London streets. Black has been its standard colour since the Austin FX3 model in 1948.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Belgrave_Road%2C_Victoria%2C_London_-_Boris_Bikes_-_Santander_Cycles_by_Elliott_Brown.jpg/1280px-Belgrave_Road%2C_Victoria%2C_London_-_Boris_Bikes_-_Santander_Cycles_by_Elliott_Brown.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Belgrave_Road%2C_Victoria%2C_London_-_Boris_Bikes_-_Santander_Cycles_by_Elliott_Brown.jpg/250px-Belgrave_Road%2C_Victoria%2C_London_-_Boris_Bikes_-_Santander_Cycles_by_Elliott_Brown.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Santander Cycle Hire, near Victoria in Central London",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/University_College_London_-quadrant-11Sept2006_%281%29.jpg/1280px-University_College_London_-quadrant-11Sept2006_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/University_College_London_-quadrant-11Sept2006_%281%29.jpg/250px-University_College_London_-quadrant-11Sept2006_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "University College London (UCL) was established by Royal Charter in 1836.",
       "alt": "University College London (UCL) was established by Royal Charter in 1836.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Imperial_College_London_down_Exhibition_Road.jpg/1280px-Imperial_College_London_down_Exhibition_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Imperial_College_London_down_Exhibition_Road.jpg/250px-Imperial_College_London_down_Exhibition_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Imperial College London , a technical research university",
       "alt": "Imperial College London, a technical research university",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Centre_Building%2C_LSE_from_LSE_Square.jpg/1280px-Centre_Building%2C_LSE_from_LSE_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Centre_Building%2C_LSE_from_LSE_Square.jpg/250px-Centre_Building%2C_LSE_from_LSE_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "The London School of Economics was established in 1895.",
       "alt": "The London School of Economics was established in 1895.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/KCL_Guys_Campus1.jpg/1280px-KCL_Guys_Campus1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/KCL_Guys_Campus1.jpg/250px-KCL_Guys_Campus1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "King's College London 's Guy's Campus , home to its faculty of medicine",
       "alt": "King's College London's Guy's Campus, home to its faculty of medicine",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Royal_Academy_of_Dramatic_Art_-_geograph.org.uk_-_2492593.jpg/1280px-Royal_Academy_of_Dramatic_Art_-_geograph.org.uk_-_2492593.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Royal_Academy_of_Dramatic_Art_-_geograph.org.uk_-_2492593.jpg/120px-Royal_Academy_of_Dramatic_Art_-_geograph.org.uk_-_2492593.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "RADA (Royal Academy of Dramatic Art) opened in 1904.",
       "alt": "RADA (Royal Academy of Dramatic Art) opened in 1904.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Tourists_taking_pictures_at_Prime_Meridian_monument%2C_Greenwich_Observatory%2C_London.jpg/1280px-Tourists_taking_pictures_at_Prime_Meridian_monument%2C_Greenwich_Observatory%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Tourists_taking_pictures_at_Prime_Meridian_monument%2C_Greenwich_Observatory%2C_London.jpg/250px-Tourists_taking_pictures_at_Prime_Meridian_monument%2C_Greenwich_Observatory%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Tourists queuing to take pictures on the line of the historic prime meridian at the Royal Observatory, Greenwich",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Notting_hill_carnival.jpg/1280px-Notting_hill_carnival.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Notting_hill_carnival.jpg/250px-Notting_hill_carnival.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A scene of the annual Notting Hill Carnival , 2014",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Restaurante_The_Swan%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_113.jpg/1280px-Restaurante_The_Swan%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_113.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Restaurante_The_Swan%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_113.jpg/250px-Restaurante_The_Swan%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_113.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Shakespeare's Globe is a modern reconstruction of the Globe Theatre on the south bank of the Thames.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Comptons-Of-Soho.jpg/1280px-Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Comptons-Of-Soho.jpg/250px-Comptons-Of-Soho.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Comptons of Soho during London Pride in 2010",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Sherlock_Holmes_Museum.jpg/1280px-Sherlock_Holmes_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Sherlock_Holmes_Museum.jpg/250px-Sherlock_Holmes_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Sherlock Holmes Museum in Baker Street , bearing the number 221B",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/London_July_2010_%284818942309%29.jpg/1280px-London_July_2010_%284818942309%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/London_July_2010_%284818942309%29.jpg/250px-London_July_2010_%284818942309%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Opened in 1937, the Odeon cinema in Leicester Square hosts European and world film premieres.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kensington_Museums_aerial_2011_b.jpg/1280px-Kensington_Museums_aerial_2011_b.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kensington_Museums_aerial_2011_b.jpg/330px-Kensington_Museums_aerial_2011_b.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Aerial view of Albertopolis . The Albert Memorial , Royal Albert Hall , Royal Geographical Society , and Royal College of Art are near the top; V&A and Natural History Museum at the lower end; Imperial , Royal College of Music , and Science Museum in between.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Royal_Albert_Hall.001_-_London.JPG/1280px-Royal_Albert_Hall.001_-_London.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Royal_Albert_Hall.001_-_London.JPG/250px-Royal_Albert_Hall.001_-_London.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Royal Albert Hall in South Kensington hosts concerts and musical events, including the classical music festival The Proms which are held every summer, as well as cinema screenings of films accompanied with live orchestral music.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Abbey_Rd_Studios.jpg/1280px-Abbey_Rd_Studios.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Abbey_Rd_Studios.jpg/250px-Abbey_Rd_Studios.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Abbey Road Studios",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Hyde_Park_London_from_the_air.jpg/1280px-Hyde_Park_London_from_the_air.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Hyde_Park_London_from_the_air.jpg/330px-Hyde_Park_London_from_the_air.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Hyde Park (with Kensington Gardens in the foreground) has been a popular public space since it opened in 1637.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Horse_Ride%2C_Wimbledon_Common_-_geograph.org.uk_-_692221.jpg/1280px-Horse_Ride%2C_Wimbledon_Common_-_geograph.org.uk_-_692221.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Horse_Ride%2C_Wimbledon_Common_-_geograph.org.uk_-_692221.jpg/250px-Horse_Ride%2C_Wimbledon_Common_-_geograph.org.uk_-_692221.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Horse Ride is a tree tunnel (route overhung by trees) on the western side of Wimbledon Common .",
+      "alt": null,
       "source": "article_text"
     },
     {

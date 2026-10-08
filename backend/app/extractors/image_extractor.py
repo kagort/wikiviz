@@ -40,10 +40,55 @@ def _file_title(container) -> str | None:
     return None
 
 
+# Блоки, картинки внутри которых - не иллюстрации статьи (значки, навигация).
+_SKIPPED_ANCESTOR_CLASSES = {"navbox", "side-box", "noprint", "metadata", "sistersitebox", "ambox"}
+
+
+def _is_body_container(tag) -> bool:
+    """
+    Контейнер иллюстрации в тексте статьи:
+    - <figure typeof="mw:File..."> - актуальная разметка MediaWiki;
+    - div.thumb - старая разметка (остаётся в галереях и блоках из
+      нескольких картинок, например "thumb tmulti").
+    """
+    if tag.name == "figure":
+        return (tag.get("typeof") or "").startswith("mw:File")
+    return tag.name == "div" and "thumb" in (tag.get("class") or [])
+
+
+def _is_skipped(container) -> bool:
+    if container.find(class_="mw-kartographer-map"):
+        return True
+    for parent in container.parents:
+        # Картинки в таблицах (включая инфобокс - у него свой путь ниже)
+        # чаще всего значки; в навигации и служебных блоках - тоже.
+        if parent.name == "table":
+            return True
+        if _SKIPPED_ANCESTOR_CLASSES & set(parent.get("class") or []):
+            return True
+    return False
+
+
+def _body_caption(container):
+    if container.name == "figure":
+        return container.find("figcaption")
+    gallery_box = container.find_parent(class_="gallerybox")
+    if gallery_box is not None:
+        return gallery_box.find(class_="gallerytext")
+    return container.find(class_="thumbcaption")
+
+
 def extract_images(html: str) -> list[Image]:
     """
-    Извлекает изображения (§14 ТЗ) из тела статьи (div.thumb, исключая
-    карты mw-kartographer-map) и из infobox (td.infobox-image).
+    Извлекает изображения (§14 ТЗ) из тела статьи и из infobox
+    (td.infobox-image).
+
+    Тело статьи - в порядке документа: <figure typeof="mw:File...">
+    с подписью в <figcaption> (актуальная разметка), div.thumb с
+    подписью в .thumbcaption (старая разметка) и картинки галерей с
+    подписью в .gallerytext. Пропускаются аудио и видео (нет <img>),
+    карты mw-kartographer-map и картинки в таблицах, навигации и
+    служебных блоках.
     """
     if not html or not html.strip():
         return []
@@ -53,9 +98,9 @@ def extract_images(html: str) -> list[Image]:
     seen: set[str] = set()
 
     containers: list[tuple[str, object]] = [
-        ("body", div)
-        for div in soup.find_all("div", class_="thumb")
-        if not div.find(class_="mw-kartographer-map")
+        ("body", container)
+        for container in soup.find_all(_is_body_container)
+        if not _is_skipped(container)
     ]
 
     infobox_cell = soup.find("td", class_="infobox-image")
@@ -73,7 +118,7 @@ def extract_images(html: str) -> list[Image]:
 
         caption = None
         if kind == "body":
-            caption_tag = container.find(class_="thumbcaption")
+            caption_tag = _body_caption(container)
             if caption_tag:
                 caption = _caption_text(caption_tag) or None
         else:  # infobox: подпись, если есть, в следующей строке таблицы

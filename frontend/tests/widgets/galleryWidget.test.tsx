@@ -41,10 +41,11 @@ describe('galleryWidget: контракт', () => {
     expect(selected).toHaveLength(0)
   })
 
-  test('рендерит все изображения статьи (Токио: 3 превью)', () => {
+  test('рендерит все изображения статьи (Токио)', () => {
     const data = loadFixture('tokyo-ru.json')
+    expect(data.images.length).toBeGreaterThan(1)
     const { container } = render(<galleryWidget.render data={data} />)
 
-    expect(container.querySelectorAll('img')).toHaveLength(3)
+    expect(container.querySelectorAll('img')).toHaveLength(data.images.length)
   })
 })

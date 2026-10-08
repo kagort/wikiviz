@@ -910,10 +910,269 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/France-002364_-_Square_House_%2815867600545%29.jpg/1280px-France-002364_-_Square_House_%2815867600545%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/France-002364_-_Square_House_%2815867600545%29.jpg/250px-France-002364_-_Square_House_%2815867600545%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Maison carrée was a temple of the Gallo-Roman city of Nemausus (present-day Nîmes ) and is one of the best-preserved Roman temples anywhere.",
+      "alt": "Maison Carrée temple in Nemausus Corinthian columns and portico",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Chlodwigs_taufe.jpg/1280px-Chlodwigs_taufe.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Chlodwigs_taufe.jpg/250px-Chlodwigs_taufe.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "With Clovis 's conversion to Catholicism in 498, the Frankish monarchy , elective and secular until then, became hereditary and of divine right .",
+      "alt": "painting of Clovis I conversion to Catholicism in 498, a king being baptised in a tub in a cathedral surrounded by bishop and monks",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/1280px-Joan_of_Arc_miniature_graded.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/250px-Joan_of_Arc_miniature_graded.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Joan of Arc led the French Army to several important victories during the Hundred Years' War (1337–1453), which paved the way for the final victory.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/1280px-Louis_XIV_of_France.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/250px-Louis_XIV_of_France.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Louis XIV , the \"Sun King\", was the absolute monarch of France who made the country the leading power in Europe.",
+      "alt": "Louis XIV of France standing in plate armour and blue sash facing left holding baton",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Prise_de_la_Bastille.jpg/1280px-Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Prise_de_la_Bastille.jpg/250px-Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Storming of the Bastille on 14 July 1789 was the most emblematic event of the French Revolution .",
+      "alt": "drawing of the Storming of the Bastille on 14 July 1789, smoke of gunfire enveloping stone castle",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/1280px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Napoleon , Emperor of the French , built a vast empire across Europe .",
+      "alt": "painting of Napoleon in 1806 standing with hand in vest attended by staff and Imperial guard regiment",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/EmpireFrench.png/1280px-EmpireFrench.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/EmpireFrench.png/250px-EmpireFrench.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "French colonial empires : First Second",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/El_114_de_infanter%C3%ADa%2C_en_Par%C3%ADs%2C_el_14_de_julio_de_1917%2C_Le%C3%B3n_Gimpel.jpg/1280px-El_114_de_infanter%C3%ADa%2C_en_Par%C3%ADs%2C_el_14_de_julio_de_1917%2C_Le%C3%B3n_Gimpel.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/El_114_de_infanter%C3%ADa%2C_en_Par%C3%ADs%2C_el_14_de_julio_de_1917%2C_Le%C3%B3n_Gimpel.jpg/250px-El_114_de_infanter%C3%ADa%2C_en_Par%C3%ADs%2C_el_14_de_julio_de_1917%2C_Le%C3%B3n_Gimpel.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "French Poilus posing with their war-torn flag in 1917, during World War I",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/1280px-De_Gaulle-OWI.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/250px-De_Gaulle-OWI.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Charles de Gaulle , a hero of World War I, leader of the Free French during World War II , and President of France",
+      "alt": "Charles de Gaulle seated in uniform looking left with folded arms",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Overview_of_Calais_Jungle.jpg/1280px-Overview_of_Calais_Jungle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Overview_of_Calais_Jungle.jpg/250px-Overview_of_Calais_Jungle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Calais Jungle",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re%2C2010_07.JPG/1280px-Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re%2C2010_07.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re%2C2010_07.JPG/250px-Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re%2C2010_07.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Chamonix valley with Mont Blanc in the background, the highest mountain in the Alps and Western Europe on the border with Italy",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/2013.07.05_roussillon_-_roque_anth%C3%A9ron_172.JPG/1280px-2013.07.05_roussillon_-_roque_anth%C3%A9ron_172.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/2013.07.05_roussillon_-_roque_anth%C3%A9ron_172.JPG/250px-2013.07.05_roussillon_-_roque_anth%C3%A9ron_172.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Geological formations near Roussillon, Vaucluse",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Roseli%C3%A8re_de_Pauillac_et_carrelets_sur_l%27estuaire_de_la_Gironde%2C_France.jpg/1280px-Roseli%C3%A8re_de_Pauillac_et_carrelets_sur_l%27estuaire_de_la_Gironde%2C_France.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Roseli%C3%A8re_de_Pauillac_et_carrelets_sur_l%27estuaire_de_la_Gironde%2C_France.jpg/250px-Roseli%C3%A8re_de_Pauillac_et_carrelets_sur_l%27estuaire_de_la_Gironde%2C_France.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Gironde estuary is classified as a marine nature park and is part of the Natura 2000 network. The left bank is part of the Médoc regional nature park . With a surface area of 635 km 2 (245 sq mi), it is the largest estuary in Europe.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Emmanuel_Macron_portrait_%28cropped%29.jpg/1280px-Emmanuel_Macron_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Emmanuel_Macron_portrait_%28cropped%29.jpg/250px-Emmanuel_Macron_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Emmanuel Macron President",
       "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Fa%C3%A7ade_Palais_Bourbon_3.jpg/1280px-Fa%C3%A7ade_Palais_Bourbon_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Fa%C3%A7ade_Palais_Bourbon_3.jpg/250px-Fa%C3%A7ade_Palais_Bourbon_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Palais Bourbon is the meeting place of the National Assembly , the lower legislative chamber of the French Parliament .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/La_francophonie_mapa.svg/1280px-La_francophonie_mapa.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/La_francophonie_mapa.svg/250px-La_francophonie_mapa.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "88 states and governments are part of La Francophonie , which promotes values of democracy , multilingualism and cultural diversity . France has been a key member of this global organisation since its inception in 1970.",
+      "alt": "La Francophonie map (dozens of countries in Africa, Europe, Asia and Latin America are members of this international organisation.",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Inauguration_EYE2014_Parlement_europ%C3%A9en_Strasbourg_9_mai_2014.jpg/1280px-Inauguration_EYE2014_Parlement_europ%C3%A9en_Strasbourg_9_mai_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Inauguration_EYE2014_Parlement_europ%C3%A9en_Strasbourg_9_mai_2014.jpg/250px-Inauguration_EYE2014_Parlement_europ%C3%A9en_Strasbourg_9_mai_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The European Parliament in Strasbourg (near the border with Germany). France is a founding member of all EU institutions.",
+      "alt": "European Parliament opening in Strasbourg with crowd and many countries' flags on flagpoles",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Op%C3%A9rations_ext%C3%A9rieures_depuis_2001.png/1280px-Op%C3%A9rations_ext%C3%A9rieures_depuis_2001.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Op%C3%A9rations_ext%C3%A9rieures_depuis_2001.png/250px-Op%C3%A9rations_ext%C3%A9rieures_depuis_2001.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "France French military interventions since 2001: Afghanistan ; Ivory Coast ; Chad ; Libya ; Somalia ; Mali ; Central African Republic ; Syria ; Iraq .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg/1280px-Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg/250px-Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The basic principles that the French Republic must respect are found in the 1789 Declaration of the Rights of Man and of the Citizen .",
+      "alt": "color drawing of the Declaration of the Rights of Man and of the Citizen from 1789",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/La_D%C3%A9fense_Juin_2025.jpg/1280px-La_D%C3%A9fense_Juin_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/La_D%C3%A9fense_Juin_2025.jpg/250px-La_D%C3%A9fense_Juin_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "La Défense was in 2017 ranked by Ernst & Young as the leading central business district in continental Europe, and fourth in the world.",
+      "alt": "La Défense, seen from the Eiffel Tower",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081.jpg/1280px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081.jpg/250px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Palace of Versailles , Yvelines",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Centrale_Nucl%C3%A9aire-Belleville-sur-Loire-A02.JPG/1280px-Centrale_Nucl%C3%A9aire-Belleville-sur-Loire-A02.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Centrale_Nucl%C3%A9aire-Belleville-sur-Loire-A02.JPG/250px-Centrale_Nucl%C3%A9aire-Belleville-sur-Loire-A02.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Belleville Nuclear Power Plant . France derives most of its electricity from nuclear power , the highest percentage in the world .",
+      "alt": "Nuclear power plant in Cattenom, France four large cooling towers expelling white water vapour against a blue sky",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Creissels_et_Viaduct_de_Millau.jpg/1280px-Creissels_et_Viaduct_de_Millau.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Creissels_et_Viaduct_de_Millau.jpg/250px-Creissels_et_Viaduct_de_Millau.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Millau Viaduct is the tallest bridge in the world .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Population_density_in_France.png/1280px-Population_density_in_France.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Population_density_in_France.png/330px-Population_density_in_France.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Population density in France by arrondissement",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Calais2015a.jpg/1280px-Calais2015a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Calais2015a.jpg/250px-Calais2015a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Calais Jungle was a refugee and illegal migrant encampment in the vicinity of Calais , France, that existed from January 2015 to October 2016.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Map-Francophone_World.svg/1280px-Map-Francophone_World.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Map-Francophone_World.svg/500px-Map-Francophone_World.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Map of the Francophone world: Native language Administrative language Secondary or cultural language",
+      "alt": "world map of French speaking countries",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Reims_Cath%C3%A9drale_Notre-Dame_5002_%28fixed_angles%29.jpg/1280px-Reims_Cath%C3%A9drale_Notre-Dame_5002_%28fixed_angles%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Reims_Cath%C3%A9drale_Notre-Dame_5002_%28fixed_angles%29.jpg/250px-Reims_Cath%C3%A9drale_Notre-Dame_5002_%28fixed_angles%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Notre-Dame de Reims is the Catholic cathedral where the Kings of France were crowned until 1825.",
+      "alt": "Notre-Dame de Reims façade, gothic stone cathedral against blue sky",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/P1000513_Paris_XIII_Salpetri%C3%A8re_reductwk.JPG/1280px-P1000513_Paris_XIII_Salpetri%C3%A8re_reductwk.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/P1000513_Paris_XIII_Salpetri%C3%A8re_reductwk.JPG/250px-P1000513_Paris_XIII_Salpetri%C3%A8re_reductwk.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The Pitié-Salpêtrière Hospital , a teaching hospital in Paris, is one of Europe's largest hospitals.",
+      "alt": "Pitié-Salpêtrière Hospital in Paris, stone building with slate dome",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Fa%C3%A7ade_de_l%27%C3%89cole_normale_sup%C3%A9rieure.JPG/1280px-Fa%C3%A7ade_de_l%27%C3%89cole_normale_sup%C3%A9rieure.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Fa%C3%A7ade_de_l%27%C3%89cole_normale_sup%C3%A9rieure.JPG/250px-Fa%C3%A7ade_de_l%27%C3%89cole_normale_sup%C3%A9rieure.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "The ENS produces among the most Nobel Prize laureates per capita in the world.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/1280px-Claude_Monet_1899_Nadar_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/250px-Claude_Monet_1899_Nadar_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Claude Monet , founder of the Impressionist movement",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Sainte_Chapelle_-_Upper_level_1.jpg/1280px-Sainte_Chapelle_-_Upper_level_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Sainte_Chapelle_-_Upper_level_1.jpg/250px-Sainte_Chapelle_-_Upper_level_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Saint Louis' Sainte-Chapelle represents the French impact on religious architecture.",
+      "alt": "Sainte Chapelle interior showing painted stonework vaulting and stained glass",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/1280px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/250px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Victor Hugo , a French Romantic writer and politician",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Claude_Debussy_by_Atelier_Nadar.jpg/1280px-Claude_Debussy_by_Atelier_Nadar.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Claude_Debussy_by_Atelier_Nadar.jpg/250px-Claude_Debussy_by_Atelier_Nadar.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Claude Debussy , a French composer",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Palmed%27or.jpg/1280px-Palmed%27or.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Palmed%27or.jpg/250px-Palmed%27or.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "A Palme d'Or from the Cannes Film Festival , one of the \" Big Three \" film festivals alongside the Venice Film Festival and Berlin International Film Festival",
+      "alt": "Palme d'Or award in presentation case",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Channel_headquarters_bordercropped.jpg/1280px-Channel_headquarters_bordercropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Channel_headquarters_bordercropped.jpg/250px-Channel_headquarters_bordercropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Chanel 's headquarters on Place Vendôme , Paris",
+      "alt": "Chanel's headquarters storefront window at the Place Vendôme Paris with awning",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Si%C3%A8ge_Figaro%2C_14_boulevard_Haussmann%2C_Paris_9e.jpg/1280px-Si%C3%A8ge_Figaro%2C_14_boulevard_Haussmann%2C_Paris_9e.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Si%C3%A8ge_Figaro%2C_14_boulevard_Haussmann%2C_Paris_9e.jpg/250px-Si%C3%A8ge_Figaro%2C_14_boulevard_Haussmann%2C_Paris_9e.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Le Figaro was founded in 1826 and is still considered a newspaper of record .",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/French_taste_of_wines.JPG/1280px-French_taste_of_wines.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/French_taste_of_wines.JPG/250px-French_taste_of_wines.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "French wines are usually made to accompany French cuisine.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Stage_20_Tour_de_France_2024_Col_de_la_Couillole_42.jpg/1280px-Stage_20_Tour_de_France_2024_Col_de_la_Couillole_42.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Stage_20_Tour_de_France_2024_Col_de_la_Couillole_42.jpg/250px-Stage_20_Tour_de_France_2024_Col_de_la_Couillole_42.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Starting in 1903, the Tour de France is the most prestigious of Grands Tours , and the world's most famous cycling race.",
+      "alt": "The peloton in the streets of Nice during the 2nd stage of the Tour de France on 30 August 2020",
       "source": "article_text"
     },
     {

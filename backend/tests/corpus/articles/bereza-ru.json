@@ -376,100 +376,303 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%D0%9F%D1%8B%D1%88%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D1%91%D0%B7%D0%B0_%D0%B2_%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D0%B8.jpg/1280px-%D0%9F%D1%8B%D1%88%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D1%91%D0%B7%D0%B0_%D0%B2_%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D0%B8.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%D0%9F%D1%8B%D1%88%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D1%91%D0%B7%D0%B0_%D0%B2_%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D0%B8.jpg/250px-%D0%9F%D1%8B%D1%88%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D1%91%D0%B7%D0%B0_%D0%B2_%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D0%B8.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Пышная берёза в Карелии в июне",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%D0%9F%D1%8B%D1%88%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D1%91%D0%B7%D0%B0_%D0%B2_%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D0%B8._J%C3%A4red_koiv_Karjalas.jpg/1280px-%D0%9F%D1%8B%D1%88%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D1%91%D0%B7%D0%B0_%D0%B2_%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D0%B8._J%C3%A4red_koiv_Karjalas.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%D0%9F%D1%8B%D1%88%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D1%91%D0%B7%D0%B0_%D0%B2_%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D0%B8._J%C3%A4red_koiv_Karjalas.jpg/250px-%D0%9F%D1%8B%D1%88%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D1%91%D0%B7%D0%B0_%D0%B2_%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D0%B8._J%C3%A4red_koiv_Karjalas.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Вид дерева в полный рост",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Birch_Woods_near_Llangollen.jpeg/1280px-Birch_Woods_near_Llangollen.jpeg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Birch_Woods_near_Llangollen.jpeg/250px-Birch_Woods_near_Llangollen.jpeg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Гравюра с изображением берёз возле Лланголлена ( Уэльс ), Джордж Стратт, XVIII в.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Illustration_Betula_pendula0.jpg/1280px-Illustration_Betula_pendula0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Illustration_Betula_pendula0.jpg/250px-Illustration_Betula_pendula0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Ботаническая иллюстрация вегетативных частей берёзы повислой, Вильгельм Томе , 1885 год",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Part_of_birch_trunk_in_Norrkila.jpg/1280px-Part_of_birch_trunk_in_Norrkila.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Part_of_birch_trunk_in_Norrkila.jpg/330px-Part_of_birch_trunk_in_Norrkila.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Intertwined_roots_of_two_birches_next_to_Myrstigen_hiking_trail_in_Brastad.jpg/1280px-Intertwined_roots_of_two_birches_next_to_Myrstigen_hiking_trail_in_Brastad.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Intertwined_roots_of_two_birches_next_to_Myrstigen_hiking_trail_in_Brastad.jpg/330px-Intertwined_roots_of_two_birches_next_to_Myrstigen_hiking_trail_in_Brastad.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Betula_populifolia_UL_06.jpg/1280px-Betula_populifolia_UL_06.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Betula_populifolia_UL_06.jpg/250px-Betula_populifolia_UL_06.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/European_Birch_Seeds.JPG/1280px-European_Birch_Seeds.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/European_Birch_Seeds.JPG/250px-European_Birch_Seeds.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Betula_pendula_fruits.jpg/1280px-Betula_pendula_fruits.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Betula_pendula_fruits.jpg/250px-Betula_pendula_fruits.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Sonfj%C3%A4llet_September_2015_04.jpg/1280px-Sonfj%C3%A4llet_September_2015_04.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Sonfj%C3%A4llet_September_2015_04.jpg/250px-Sonfj%C3%A4llet_September_2015_04.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Берёзовый лес, Швеция",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Forest_trail_in_P%C3%B5hja-K%C3%B5rvemaa%2C_2011-09.jpg/1280px-Forest_trail_in_P%C3%B5hja-K%C3%B5rvemaa%2C_2011-09.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Forest_trail_in_P%C3%B5hja-K%C3%B5rvemaa%2C_2011-09.jpg/250px-Forest_trail_in_P%C3%B5hja-K%C3%B5rvemaa%2C_2011-09.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Берёзовый лес в Эстонии",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Betula-nana_greenland_hg.jpg/1280px-Betula-nana_greenland_hg.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Betula-nana_greenland_hg.jpg/250px-Betula-nana_greenland_hg.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Берёза карликовая , стелющаяся по камням, Гренландия",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Leccinum_scabrum_JPG8.jpg/1280px-Leccinum_scabrum_JPG8.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Leccinum_scabrum_JPG8.jpg/250px-Leccinum_scabrum_JPG8.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Подберёзовик обыкновенный, Бельгия",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Cancer_betula%28Petrozavodsk%29.jpg/1280px-Cancer_betula%28Petrozavodsk%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Cancer_betula%28Petrozavodsk%29.jpg/250px-Cancer_betula%28Petrozavodsk%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Нарост (сувель) на берёзе повислой , Карелия",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Marssonina.betulae.-.lindsey.jpg/1280px-Marssonina.betulae.-.lindsey.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Marssonina.betulae.-.lindsey.jpg/250px-Marssonina.betulae.-.lindsey.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Лист берёзы, поражённый грибковой болезнью",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Norway_spruce_%28Pinus_sylvestris%29_%26_Silver_birch_%28Betula_pendula%29_saplings.jpg/1280px-Norway_spruce_%28Pinus_sylvestris%29_%26_Silver_birch_%28Betula_pendula%29_saplings.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Norway_spruce_%28Pinus_sylvestris%29_%26_Silver_birch_%28Betula_pendula%29_saplings.jpg/250px-Norway_spruce_%28Pinus_sylvestris%29_%26_Silver_birch_%28Betula_pendula%29_saplings.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Саженцы ели обыкновенной и берёзы повислой в Норвегии",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Cellulose-2D-skeletal.svg/1280px-Cellulose-2D-skeletal.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Cellulose-2D-skeletal.svg/250px-Cellulose-2D-skeletal.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Структурная формула целлюлозы",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Betulin.svg/1280px-Betulin.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Betulin.svg/250px-Betulin.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Структурная формула бетулина",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Betula_pendula_wood_tangent_section_1_beentree.jpg/1280px-Betula_pendula_wood_tangent_section_1_beentree.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Betula_pendula_wood_tangent_section_1_beentree.jpg/250px-Betula_pendula_wood_tangent_section_1_beentree.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Тангенциальный разрез древесины березы повислой",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Birch_plywood.jpg/1280px-Birch_plywood.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Birch_plywood.jpg/250px-Birch_plywood.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Фанера из берёзовой древесины",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Birch-bark_vessels_and_containers_-_National_Museum_of_Finland_-_DSC04275.JPG/1280px-Birch-bark_vessels_and_containers_-_National_Museum_of_Finland_-_DSC04275.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Birch-bark_vessels_and_containers_-_National_Museum_of_Finland_-_DSC04275.JPG/250px-Birch-bark_vessels_and_containers_-_National_Museum_of_Finland_-_DSC04275.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Берестяные изделия в Национальном музее Финляндии",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/USSRStampPostalHistory1978B.jpg/1280px-USSRStampPostalHistory1978B.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/USSRStampPostalHistory1978B.jpg/250px-USSRStampPostalHistory1978B.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Почтовая марка с изображением берестяной грамоты, 1978 г.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Bundesarchiv_Bild_183-1985-0404-003%2C_Colditz%2C_Birkensafternte.jpg/1280px-Bundesarchiv_Bild_183-1985-0404-003%2C_Colditz%2C_Birkensafternte.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Bundesarchiv_Bild_183-1985-0404-003%2C_Colditz%2C_Birkensafternte.jpg/250px-Bundesarchiv_Bild_183-1985-0404-003%2C_Colditz%2C_Birkensafternte.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Заготовка берёзового сока, ГДР , 1985 г.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Vihtoja_1.jpg/1280px-Vihtoja_1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Vihtoja_1.jpg/250px-Vihtoja_1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Банные веники из ветвей берёзы",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Mikhail_Boskin_01.JPG/1280px-Mikhail_Boskin_01.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Mikhail_Boskin_01.JPG/250px-Mikhail_Boskin_01.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Круговой танец ( хоровод ) у берёз на картине Михаила Боскина , 1910 г.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Semik_crop.jpg/1280px-Semik_crop.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Semik_crop.jpg/250px-Semik_crop.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "«Семик», лубок XIX в.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Humpe_4_by_John_Bauer_1912.jpg/1280px-Humpe_4_by_John_Bauer_1912.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Humpe_4_by_John_Bauer_1912.jpg/250px-Humpe_4_by_John_Bauer_1912.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Иллюстрация сюжета из шведского фольклора, Йон Бауэр , 1912 г.",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Sefan_and_tree.jpg/1280px-Sefan_and_tree.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Sefan_and_tree.jpg/250px-Sefan_and_tree.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Стефан Пермский срубает прокудливую берёзу",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Keremet.jpg/1280px-Keremet.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Keremet.jpg/250px-Keremet.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Берёза — кереметь (объект поклонения) в чувашской деревне",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Levitan_Zolotaya_Osen.jpg/1280px-Levitan_Zolotaya_Osen.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Levitan_Zolotaya_Osen.jpg/500px-Levitan_Zolotaya_Osen.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Исаак Левитан , « Золотая осень », 1895 г.",
       "alt": "Исаак Левитан, «Золотая осень», 1895 г.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Savrasov_rasputitsa.JPG/1280px-Savrasov_rasputitsa.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Savrasov_rasputitsa.JPG/330px-Savrasov_rasputitsa.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Алексей Саврасов , «Распутица», 1894",
       "alt": "Алексей Саврасов, «Распутица», 1894",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7_1891.jpg/1280px-%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7_1891.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7_1891.jpg/330px-%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7_1891.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Николай Богданов-Бельский , «Виртуоз», 1891",
       "alt": "Николай Богданов-Бельский, «Виртуоз», 1891",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/RylovAA_VLesu115x138_KIR.jpg/1280px-RylovAA_VLesu115x138_KIR.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/RylovAA_VLesu115x138_KIR.jpg/330px-RylovAA_VLesu115x138_KIR.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Аркадий Рылов , «В лесу», 1905",
       "alt": "Аркадий Рылов, «В лесу», 1905",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Edvard_Munch_-_Birch_Trunks_-_Woll_1118.jpg/1280px-Edvard_Munch_-_Birch_Trunks_-_Woll_1118.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Edvard_Munch_-_Birch_Trunks_-_Woll_1118.jpg/500px-Edvard_Munch_-_Birch_Trunks_-_Woll_1118.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Эдвард Мунк , «Берёзовые стволы», 1914–1915 гг.",
       "alt": "Эдвард Мунк, «Берёзовые стволы», 1914–1915 гг.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Anton%C3%ADn_Chittussi_-_Jezero_v_Ermenonville_%281882%29.jpg/1280px-Anton%C3%ADn_Chittussi_-_Jezero_v_Ermenonville_%281882%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Anton%C3%ADn_Chittussi_-_Jezero_v_Ermenonville_%281882%29.jpg/500px-Anton%C3%ADn_Chittussi_-_Jezero_v_Ermenonville_%281882%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Антонин Хитусси , «Озеро в Эрменонвилле», 1882 г.",
       "alt": "Антонин Хитусси, «Озеро в Эрменонвилле», 1882 г.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Anton_Braith_Sch%C3%A4fer_mit_Herde_1874.jpg/1280px-Anton_Braith_Sch%C3%A4fer_mit_Herde_1874.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Anton_Braith_Sch%C3%A4fer_mit_Herde_1874.jpg/500px-Anton_Braith_Sch%C3%A4fer_mit_Herde_1874.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Антон Брайт , «Пастух со стадом», 1874 г.",
       "alt": "Антон Брайт, «Пастух со стадом», 1874 г.",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kuybyshevskiy_rayon_COA_%282011%29.jpg/1280px-Kuybyshevskiy_rayon_COA_%282011%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kuybyshevskiy_rayon_COA_%282011%29.jpg/120px-Kuybyshevskiy_rayon_COA_%282011%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Герб Куйбышевского района ( Калужская область , Россия)",
       "alt": "Герб Куйбышевского района (Калужская область, Россия)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Coat_of_Arms_of_Beryozovsky_rayon_%28Khanty-Mansyisky_AO%29.png/1280px-Coat_of_Arms_of_Beryozovsky_rayon_%28Khanty-Mansyisky_AO%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Coat_of_Arms_of_Beryozovsky_rayon_%28Khanty-Mansyisky_AO%29.png/120px-Coat_of_Arms_of_Beryozovsky_rayon_%28Khanty-Mansyisky_AO%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Герб Берёзовского района ( ХМАО , Россия)",
       "alt": "Герб Берёзовского района (ХМАО, Россия)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Coat_of_Arms_of_Berezovsky_rayon.jpg/1280px-Coat_of_Arms_of_Berezovsky_rayon.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Coat_of_Arms_of_Berezovsky_rayon.jpg/120px-Coat_of_Arms_of_Berezovsky_rayon.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Герб Берёзовского района ( Пермский край , Россия)",
       "alt": "Герб Берёзовского района (Пермский край, Россия)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Coat_of_Arms_of_Berezovsky_rayon_%28old%29.png/1280px-Coat_of_Arms_of_Berezovsky_rayon_%28old%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Coat_of_Arms_of_Berezovsky_rayon_%28old%29.png/120px-Coat_of_Arms_of_Berezovsky_rayon_%28old%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Герб Берёзовского сельского поселения (Пермский край, Россия)",
       "alt": "Герб Берёзовского сельского поселения (Пермский край, Россия)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Jalasj%C3%A4rvi.vaakuna.svg/1280px-Jalasj%C3%A4rvi.vaakuna.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Jalasj%C3%A4rvi.vaakuna.svg/120px-Jalasj%C3%A4rvi.vaakuna.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Герб округа Яласъярви ( Южная Похьянмаа , Финляндия )",
       "alt": "Герб округа Яласъярви (Южная Похьянмаа, Финляндия)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berezna_COA_%28Chernigov_Governorate%29_%281782%29.png/1280px-Berezna_COA_%28Chernigov_Governorate%29_%281782%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berezna_COA_%28Chernigov_Governorate%29_%281782%29.png/120px-Berezna_COA_%28Chernigov_Governorate%29_%281782%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Герб посёлка Березна ( Черниговская область , Украина )",
       "alt": "Герб посёлка Березна (Черниговская область, Украина)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Karjalohja.vaakuna.svg/1280px-Karjalohja.vaakuna.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Karjalohja.vaakuna.svg/120px-Karjalohja.vaakuna.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Герб общины Карьялохья ( Финляндия )",
       "alt": "Герб общины Карьялохья (Финляндия)",
       "source": "article_text"
     },

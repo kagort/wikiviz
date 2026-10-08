@@ -570,80 +570,318 @@
   "relations": [],
   "images": [
     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B0%D1%81%D0%BE%D0%B2_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B2_1812_%D0%B3%D0%BE%D0%B4%D1%83.jpg/1280px-%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B0%D1%81%D0%BE%D0%B2_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B2_1812_%D0%B3%D0%BE%D0%B4%D1%83.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B0%D1%81%D0%BE%D0%B2_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B2_1812_%D0%B3%D0%BE%D0%B4%D1%83.jpg/330px-%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B0%D1%81%D0%BE%D0%B2_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B2_1812_%D0%B3%D0%BE%D0%B4%D1%83.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Карта распределения передовых запасов продовольствия к апрелю 1812 года и тыловых запасов к началу Отечественной войны 1812 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Stjukin_tsar_Alexander_I_1808.JPG/1280px-Stjukin_tsar_Alexander_I_1808.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Stjukin_tsar_Alexander_I_1808.JPG/250px-Stjukin_tsar_Alexander_I_1808.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Александр I",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Emperor_Napoleon_in_His_Study_at_the_Tuileries%2C_by_Jacques-Louis_David_%281812%29_-_National_Gallery_of_Art_%28Samuel_H._Kress_Foundation%29_-_2.jpg/1280px-The_Emperor_Napoleon_in_His_Study_at_the_Tuileries%2C_by_Jacques-Louis_David_%281812%29_-_National_Gallery_of_Art_%28Samuel_H._Kress_Foundation%29_-_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Emperor_Napoleon_in_His_Study_at_the_Tuileries%2C_by_Jacques-Louis_David_%281812%29_-_National_Gallery_of_Art_%28Samuel_H._Kress_Foundation%29_-_2.jpg/250px-The_Emperor_Napoleon_in_His_Study_at_the_Tuileries%2C_by_Jacques-Louis_David_%281812%29_-_National_Gallery_of_Art_%28Samuel_H._Kress_Foundation%29_-_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Наполеон I",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Europe_map_1812-14_in_Rus.png/1280px-Europe_map_1812-14_in_Rus.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Europe_map_1812-14_in_Rus.png/330px-Europe_map_1812-14_in_Rus.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Карта Европы в 1812 году",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Knoe15_20.jpg/1280px-Knoe15_20.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Knoe15_20.jpg/250px-Knoe15_20.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Русская пехота 1812 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/125-%D0%BC%D0%BC_%D0%BF%D0%B5%D1%88%D0%B8%D0%B9_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1805.jpg/1280px-125-%D0%BC%D0%BC_%D0%BF%D0%B5%D1%88%D0%B8%D0%B9_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1805.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/125-%D0%BC%D0%BC_%D0%BF%D0%B5%D1%88%D0%B8%D0%B9_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1805.jpg/330px-125-%D0%BC%D0%BC_%D0%BF%D0%B5%D1%88%D0%B8%D0%B9_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1805.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "1/4-пудовый единорог образца 1805 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Carte_de_la_Russie_Europ%C3%A9enne_-_C6.jpg/1280px-Carte_de_la_Russie_Europ%C3%A9enne_-_C6.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Carte_de_la_Russie_Europ%C3%A9enne_-_C6.jpg/330px-Carte_de_la_Russie_Europ%C3%A9enne_-_C6.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Столистовая карта , переведённая на французский язык в 1812 году. Лист C6 (Москва и юго-западные окрестности)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%C2%BB_%E2%84%96_2._%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0_%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_1911-1915%29.jpg/1280px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%C2%BB_%E2%84%96_2._%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0_%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_1911-1915%29.jpg/330px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Карта военных действий в июне—сентябре 1812 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Napoleon_Neman.jpg/1280px-Napoleon_Neman.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Napoleon_Neman.jpg/500px-Napoleon_Neman.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Переправа наполеоновской армии через Неман . Неизвестный художник",
       "alt": "Переправа наполеоновской армии через Неман. Неизвестный художник",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Eugene_Beauharnais_Crossing_Niemen_1812.jpg/1280px-Eugene_Beauharnais_Crossing_Niemen_1812.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Eugene_Beauharnais_Crossing_Niemen_1812.jpg/330px-Eugene_Beauharnais_Crossing_Niemen_1812.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Переправа Итальянского корпуса Евгения Богарне через Неман 30 июня 1812 года . Адам",
       "alt": "Переправа Итальянского корпуса Евгения Богарне через Неман 30 июня 1812 года. Адам",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/%D0%98%D0%B7%D0%BE_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%9A%D0%BE%D0%B2%D0%BD%D0%BE%C2%BB._%D0%9F%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%9D%D0%B5%D0%BC%D0%B0%D0%BD_12_%D0%B8%D1%8E%D0%BD%D1%8F_1812_%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B8_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_1812%2C_1813_%D0%B8_1814_%D0%B3%D0%B3._%D0%92%D0%AD%D0%A1_%28%D0%A1%D0%9F%D0%B1%2C_1911-1915%29.jpg/1280px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/%D0%98%D0%B7%D0%BE_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%9A%D0%BE%D0%B2%D0%BD%D0%BE%C2%BB._%D0%9F%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D0%9D%D0%B5%D0%BC%D0%B0%D0%BD_12_%D0%B8%D1%8E%D0%BD%D1%8F_1812_%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B8_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_1812%2C_1813_%D0%B8_1814_%D0%B3%D0%B3._%D0%92%D0%AD%D0%A1_%28%D0%A1%D0%9F%D0%B1%2C_1911-1915%29.jpg/500px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Переход через Неман 12 июня 1812 (рис. из « Военной энциклопедии »)",
       "alt": "Переход через Неман 12 июня 1812 (рис. из «Военной энциклопедии»)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Crossing_the_Neman_in_Russia_1812_by_Clark.jpg/1280px-Crossing_the_Neman_in_Russia_1812_by_Clark.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Crossing_the_Neman_in_Russia_1812_by_Clark.jpg/330px-Crossing_the_Neman_in_Russia_1812_by_Clark.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Переправа наполеоновских войск через Неман . Кларк [англ.]",
       "alt": "Переправа наполеоновских войск через Неман. Кларк[англ.]",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/French_attack_in_1812_in_Russia.jpg/1280px-French_attack_in_1812_in_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/French_attack_in_1812_in_Russia.jpg/250px-French_attack_in_1812_in_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Французы атакуют. Русская кампания 1812 года. Рисунок 1896 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Battle_of_Saltanovka_1812_map_cut.png/1280px-Battle_of_Saltanovka_1812_map_cut.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Battle_of_Saltanovka_1812_map_cut.png/250px-Battle_of_Saltanovka_1812_map_cut.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Схема соединения русских армий под Смоленском в начале августа 1812 года",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Smolensk_by_hess.jpg/1280px-Smolensk_by_hess.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Smolensk_by_hess.jpg/330px-Smolensk_by_hess.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Сражение при Смоленске 5 (17) августа 1812 года. Гесс (1846 год)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Battle_of_Smolensk_1812.png/1280px-Battle_of_Smolensk_1812.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Battle_of_Smolensk_1812.png/250px-Battle_of_Smolensk_1812.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Битва при Смоленске. Ланглуа (1839 год)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Battle_of_Borodino_fragment_2.jpg/1280px-Battle_of_Borodino_fragment_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Battle_of_Borodino_fragment_2.jpg/960px-Battle_of_Borodino_fragment_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Атака русских кирасир под Бородином. Фрагмент панорамы Бородинского сражения . Рубо (1912)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Battle_of_Borodino_panorama_fragment_1.jpg/1280px-Battle_of_Borodino_panorama_fragment_1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Battle_of_Borodino_panorama_fragment_1.jpg/960px-Battle_of_Borodino_panorama_fragment_1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Гвардейские полки отражают атаки французской кавалерии. Фрагмент панорамы Бородинского сражения . Рубо (1912)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%98%D0%B7%D0%B1%D0%B0_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_%D0%B2_%D0%A4%D0%B8%D0%BB%D1%8F%D1%85.jpg/1280px-%D0%98%D0%B7%D0%B1%D0%B0_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_%D0%B2_%D0%A4%D0%B8%D0%BB%D1%8F%D1%85.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%98%D0%B7%D0%B1%D0%B0_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_%D0%B2_%D0%A4%D0%B8%D0%BB%D1%8F%D1%85.jpg/250px-%D0%98%D0%B7%D0%B1%D0%B0_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_%D0%B2_%D0%A4%D0%B8%D0%BB%D1%8F%D1%85.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Саврасов А. К. «Кутузовская изба в Филях» (1884)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kutuzov_fili.jpg/1280px-Kutuzov_fili.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kutuzov_fili.jpg/250px-Kutuzov_fili.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Кившенко А. Д. Военный совет в Филях , 1(13) сентября 1812 года (1880)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Fire_of_Moscow_1812.jpg/1280px-Fire_of_Moscow_1812.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Fire_of_Moscow_1812.jpg/250px-Fire_of_Moscow_1812.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Пожар Москвы . А. Ф. Смирнов (1813)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%92_%D0%BF%D0%BE%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5.jpg/1280px-%D0%92_%D0%BF%D0%BE%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%92_%D0%BF%D0%BE%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5.jpg/250px-%D0%92_%D0%BF%D0%BE%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Расстрел предполагаемых поджигателей Москвы французами. Верещагин (1898)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Peaceatallcosts.JPG/1280px-Peaceatallcosts.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Peaceatallcosts.JPG/250px-Peaceatallcosts.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Наполеон и генерал Лористон (Мир во что бы то ни стало). Худ. Верещагин (ок. 1900)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Russian_peasant_in_1812_British_Caricature.jpg/1280px-Russian_peasant_in_1812_British_Caricature.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Russian_peasant_in_1812_British_Caricature.jpg/250px-Russian_peasant_in_1812_British_Caricature.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Война русского народа против французов на карикатуре британца Крукшенка (1813 год)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tarutino.jpg/1280px-Tarutino.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tarutino.jpg/330px-Tarutino.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Сражение при Тарутино 6 (18) октября 1812 года. Гесс (1847 год)",
+      "alt": null,
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Odwrot_spod_Moskwy_by_January_Suchodolski.jpg/1280px-Odwrot_spod_Moskwy_by_January_Suchodolski.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Odwrot_spod_Moskwy_by_January_Suchodolski.jpg/500px-Odwrot_spod_Moskwy_by_January_Suchodolski.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Отход французов из Москвы. Суходольский ( 1844 )",
       "alt": "Отход французов из Москвы. Суходольский (1844)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Retreat_of_Napoleon_Army_from_Moscow_1812.jpg/1280px-Retreat_of_Napoleon_Army_from_Moscow_1812.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Retreat_of_Napoleon_Army_from_Moscow_1812.jpg/500px-Retreat_of_Napoleon_Army_from_Moscow_1812.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Отступление наполеоновской армии из Москвы. Аткинсон ( 1813 )",
       "alt": "Отступление наполеоновской армии из Москвы. Аткинсон (1813)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Napoleons_retreat_from_Moscow_by_Adolph_Northen.jpg/1280px-Napoleons_retreat_from_Moscow_by_Adolph_Northen.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Napoleons_retreat_from_Moscow_by_Adolph_Northen.jpg/330px-Napoleons_retreat_from_Moscow_by_Adolph_Northen.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Отступление Наполеона из Москвы. Адольф Нортен",
       "alt": "Отступление Наполеона из Москвы. Адольф Нортен",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F._%27%D0%92%D1%8B%D0%B5%D0%B7%D0%B4_%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%B0_%D0%B8%D0%B7_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B_%D0%B2_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8_%D0%9D%D0%B5%D1%8F_%D0%B8_%D0%9C%D1%8E%D1%80%D0%B0%D1%82%D0%B0%271813~1825%D0%B3%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg/1280px-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F._%27%D0%92%D1%8B%D0%B5%D0%B7%D0%B4_%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%B0_%D0%B8%D0%B7_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B_%D0%B2_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8_%D0%9D%D0%B5%D1%8F_%D0%B8_%D0%9C%D1%8E%D1%80%D0%B0%D1%82%D0%B0%271813~1825%D0%B3%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F._%27%D0%92%D1%8B%D0%B5%D0%B7%D0%B4_%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%B0_%D0%B8%D0%B7_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B_%D0%B2_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8_%D0%9D%D0%B5%D1%8F_%D0%B8_%D0%9C%D1%8E%D1%80%D0%B0%D1%82%D0%B0%271813~1825%D0%B3%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg/330px-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F._%27%D0%92%D1%8B%D0%B5%D0%B7%D0%B4_%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%B0_%D0%B8%D0%B7_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B_%D0%B2_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8_%D0%9D%D0%B5%D1%8F_%D0%B8_%D0%9C%D1%8E%D1%80%D0%B0%D1%82%D0%B0%271813~1825%D0%B3%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "Рисунок 'Выезд Наполеона из Москвы в сопровождении Нея и Мюрата' (1813~1825)",
       "alt": "Рисунок 'Выезд Наполеона из Москвы в сопровождении Нея и Мюрата' (1813~1825)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%C2%BB_%E2%84%96_1._%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0_%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_1911-1915%29.jpg/1280px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%C2%BB_%E2%84%96_1._%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0_%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_1911-1915%29.jpg/330px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Отступление Наполеона из Москвы",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Adolphe_Yvon_%281817-1893%29_-_Marshall_Ney_at_retreat_in_Russia.jpg/1280px-Adolphe_Yvon_%281817-1893%29_-_Marshall_Ney_at_retreat_in_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Adolphe_Yvon_%281817-1893%29_-_Marshall_Ney_at_retreat_in_Russia.jpg/330px-Adolphe_Yvon_%281817-1893%29_-_Marshall_Ney_at_retreat_in_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Французские солдаты маршала Нея загнаны в лес в сражении под Красным . А. Ивон",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Crossing_the_Berezina_River%2C_by_Peter_von_Hess.jpg/1280px-Crossing_the_Berezina_River%2C_by_Peter_von_Hess.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Crossing_the_Berezina_River%2C_by_Peter_von_Hess.jpg/330px-Crossing_the_Berezina_River%2C_by_Peter_von_Hess.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Отступление французов через Березину 17 (29) ноября 1812 года. Гесс ( 1844 )",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Napoleon_w_smorgoniach.jpg/1280px-Napoleon_w_smorgoniach.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Napoleon_w_smorgoniach.jpg/330px-Napoleon_w_smorgoniach.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Картина «Наполеон в Сморгони» художника З. Развадовского",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/1280px-Minard.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/960px-Minard.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Численность наполеоновской армии при движении внутрь России (бежевая) и обратно (чёрная полосы) . Ширина полос отражает численность армии. Внизу графика приведено поведение температуры воздуха по шкале Реомюра после выхода Великой армии из Москвы (справа налево)",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%D0%9D%D0%B0_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5._%D0%9E%D1%82%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%2C_%D0%B1%D0%B5%D0%B3%D1%81%D1%82%D0%B2%D0%BE.jpg/1280px-%D0%9D%D0%B0_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5._%D0%9E%D1%82%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%2C_%D0%B1%D0%B5%D0%B3%D1%81%D1%82%D0%B2%D0%BE.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%D0%9D%D0%B0_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5._%D0%9E%D1%82%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%2C_%D0%B1%D0%B5%D0%B3%D1%81%D1%82%D0%B2%D0%BE.jpg/250px-%D0%9D%D0%B0_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5._%D0%9E%D1%82%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%2C_%D0%B1%D0%B5%D0%B3%D1%81%D1%82%D0%B2%D0%BE.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "На большой дороге. Отступление, бегство … Верещагин , 1887—1895",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Retreat_of_french_civilians_from_Russia_1812.jpg/1280px-Retreat_of_french_civilians_from_Russia_1812.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Retreat_of_french_civilians_from_Russia_1812.jpg/250px-Retreat_of_french_civilians_from_Russia_1812.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Бегство французов с семьями из России. Виллевальде , 1846",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%98%D0%B2%D0%B0%D0%BD%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87%D0%9B%D1%83%D1%87%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2-%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.jpg/1280px-%D0%98%D0%B2%D0%B0%D0%BD%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87%D0%9B%D1%83%D1%87%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2-%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%98%D0%B2%D0%B0%D0%BD%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87%D0%9B%D1%83%D1%87%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2-%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.jpg/250px-%D0%98%D0%B2%D0%B0%D0%BD%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87%D0%9B%D1%83%D1%87%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2-%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Возвращение ратника домой. И. В. Лучанинов",
+      "alt": null,
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%9A%D0%B0%D1%80._%27%D0%9D%D0%BE%D1%81%2C_%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D0%B7._%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%BE%D0%BC_%D1%81_%D1%81%D0%BE%D0%B1%D0%BE%D0%B9_%D0%B8%D0%B7_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B2_%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%27.%2C_%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98.~1813._%D0%B8%D0%B7%D0%B4.1881_%D0%93%D0%98%D0%9C.jpg/1280px-%D0%9A%D0%B0%D1%80._%27%D0%9D%D0%BE%D1%81%2C_%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D0%B7._%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%BE%D0%BC_%D1%81_%D1%81%D0%BE%D0%B1%D0%BE%D0%B9_%D0%B8%D0%B7_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B2_%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%27.%2C_%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98.~1813._%D0%B8%D0%B7%D0%B4.1881_%D0%93%D0%98%D0%9C.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%9A%D0%B0%D1%80._%27%D0%9D%D0%BE%D1%81%2C_%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D0%B7._%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%BE%D0%BC_%D1%81_%D1%81%D0%BE%D0%B1%D0%BE%D0%B9_%D0%B8%D0%B7_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B2_%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%27.%2C_%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98.~1813._%D0%B8%D0%B7%D0%B4.1881_%D0%93%D0%98%D0%9C.jpg/500px-%D0%9A%D0%B0%D1%80._%27%D0%9D%D0%BE%D1%81%2C_%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D0%B7._%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%BE%D0%BC_%D1%81_%D1%81%D0%BE%D0%B1%D0%BE%D0%B9_%D0%B8%D0%B7_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B2_%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%27.%2C_%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98.~1813._%D0%B8%D0%B7%D0%B4.1881_%D0%93%D0%98%D0%9C.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "«Нос, привезённый Наполеоном с собой из России в Париж». Рис. Теребенева И. (1813)",
       "alt": "«Нос, привезённый Наполеоном с собой из России в Париж». Рис. Теребенева И. (1813)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/%27%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B5%D1%82_%D1%81_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82%D0%BA%D0%B0_%D0%BF%D0%BE%D1%85%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D0%BC_%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B8%27_%D1%80%D0%B8%D1%81.%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD_%D0%98._1813%D0%B3._e1.jpg/1280px-%27%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B5%D1%82_%D1%81_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82%D0%BA%D0%B0_%D0%BF%D0%BE%D1%85%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D0%BC_%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B8%27_%D1%80%D0%B8%D1%81.%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD_%D0%98._1813%D0%B3._e1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/%27%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B5%D1%82_%D1%81_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82%D0%BA%D0%B0_%D0%BF%D0%BE%D1%85%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D0%BC_%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B8%27_%D1%80%D0%B8%D1%81.%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD_%D0%98._1813%D0%B3._e1.jpg/330px-%27%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B5%D1%82_%D1%81_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82%D0%BA%D0%B0_%D0%BF%D0%BE%D1%85%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D0%BC_%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B8%27_%D1%80%D0%B8%D1%81.%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD_%D0%98._1813%D0%B3._e1.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "«Наполеон продаёт с молотка похищенные им антики». Рис. Теребенева И. (1813)",
       "alt": "«Наполеон продаёт с молотка похищенные им антики». Рис. Теребенева И. (1813)",
       "source": "article_text"
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%27%D0%A3%D0%B3%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D1%83_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%27._%D0%A0%D0%B8%D1%81._%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98._1813_%2C_%D0%B8%D0%B7%D0%B4.1881%D0%B3._%D0%93%D0%98%D0%9C_e1t3.jpg/1280px-%27%D0%A3%D0%B3%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D1%83_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%27._%D0%A0%D0%B8%D1%81._%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98._1813_%2C_%D0%B8%D0%B7%D0%B4.1881%D0%B3._%D0%93%D0%98%D0%9C_e1t3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%27%D0%A3%D0%B3%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D1%83_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%27._%D0%A0%D0%B8%D1%81._%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98._1813_%2C_%D0%B8%D0%B7%D0%B4.1881%D0%B3._%D0%93%D0%98%D0%9C_e1t3.jpg/500px-%27%D0%A3%D0%B3%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D1%83_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%27._%D0%A0%D0%B8%D1%81._%D0%A2%D0%B5%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2_%D0%98._1813_%2C_%D0%B8%D0%B7%D0%B4.1881%D0%B3._%D0%93%D0%98%D0%9C_e1t3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "caption": null,
+      "caption": "«Угощение Наполеону в России». Рис. Теребенева И. (1813)",
       "alt": "«Угощение Наполеону в России». Рис. Теребенева И. (1813)",
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Zachisleniy_w_kazaki_plennych_polykov_armii_Napoleona_1813.jpg/1280px-Zachisleniy_w_kazaki_plennych_polykov_armii_Napoleona_1813.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Zachisleniy_w_kazaki_plennych_polykov_armii_Napoleona_1813.jpg/330px-Zachisleniy_w_kazaki_plennych_polykov_armii_Napoleona_1813.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "«Зачисление в казаки пленных поляков армии Наполеона, 1813 г.» Картина Н. Н. Каразина",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Ermitage_Corridor_in_SP.jpg/1280px-Ermitage_Corridor_in_SP.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Ermitage_Corridor_in_SP.jpg/250px-Ermitage_Corridor_in_SP.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Военная галерея в Зимнем дворце",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Dvortsovajaplo%C5%A1t%C5%A1adDSCN0606.JPG/1280px-Dvortsovajaplo%C5%A1t%C5%A1adDSCN0606.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Dvortsovajaplo%C5%A1t%C5%A1adDSCN0606.JPG/250px-Dvortsovajaplo%C5%A1t%C5%A1adDSCN0606.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": "Дворцовая площадь с Александровской колонной",
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/100_year_1812_avers.jpg/1280px-100_year_1812_avers.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/100_year_1812_avers.jpg/250px-100_year_1812_avers.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
+      "source": "article_text"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/100_year_1812_revers.jpg/1280px-100_year_1812_revers.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/100_year_1812_revers.jpg/250px-100_year_1812_revers.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "caption": null,
+      "alt": null,
       "source": "article_text"
     },
     {
