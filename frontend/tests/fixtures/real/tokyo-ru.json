@@ -303,34 +303,26 @@
       "normalized_value": null,
       "source": "infobox"
     },
-    "символика": {
-      "key": "символика",
-      "label": "Символика",
-      "group": null,
-      "value": "Флаг префектуры",
-      "normalized_value": null,
-      "source": "infobox"
-    },
-    "дерево": {
-      "key": "дерево",
+    "символика_дерево": {
+      "key": "символика_дерево",
       "label": "Дерево",
-      "group": null,
+      "group": "Символика",
       "value": "Гинкго (Ginkgo biloba)",
       "normalized_value": null,
       "source": "infobox"
     },
-    "цветок": {
-      "key": "цветок",
+    "символика_цветок": {
+      "key": "символика_цветок",
       "label": "Цветок",
-      "group": null,
+      "group": "Символика",
       "value": "Сакура Ёсино (Prunus × yedoensis)",
       "normalized_value": null,
       "source": "infobox"
     },
-    "птица": {
-      "key": "птица",
+    "символика_птица": {
+      "key": "символика_птица",
       "label": "Птица",
-      "group": null,
+      "group": "Символика",
       "value": "Озёрная чайка (лат. Larus ridibundus)",
       "normalized_value": null,
       "source": "infobox"

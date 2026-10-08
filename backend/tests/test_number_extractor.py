@@ -1,4 +1,4 @@
-﻿from app.extractors.number_extractor import extract_numbers
+from app.extractors.number_extractor import extract_numbers
 
 
 def _infobox(rows_html: str) -> str:

@@ -1,4 +1,4 @@
-﻿from app.extractors.text_date_extractor import extract_text_dates
+from app.extractors.text_date_extractor import extract_text_dates
 
 
 def test_english_date_in_section_body():

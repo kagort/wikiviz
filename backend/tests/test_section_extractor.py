@@ -1,4 +1,4 @@
-﻿from app.extractors.section_extractor import ArticleSection, extract_sections
+from app.extractors.section_extractor import ArticleSection, extract_sections
 
 
 def test_extract_h2_section():

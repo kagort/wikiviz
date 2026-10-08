@@ -1,4 +1,4 @@
-﻿from app.extractors.coordinate_extractor import extract_coordinates
+from app.extractors.coordinate_extractor import extract_coordinates
 from app.extractors.date_extractor import extract_dates
 from app.extractors.image_extractor import extract_images
 from app.extractors.infobox_extractor import extract_infobox

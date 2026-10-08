@@ -1,4 +1,4 @@
-﻿from app.extractors.date_extractor import extract_dates
+from app.extractors.date_extractor import extract_dates
 
 
 def test_modern_date_with_iso():
