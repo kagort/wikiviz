@@ -8,6 +8,7 @@ from app.models.image import Image
 from app.models.infobox import InfoboxField
 from app.models.location import Location
 from app.models.number import NumericValue
+from app.models.selection import RejectedValue, SelectionResult
 from app.models.table import Table
 
 __all__ = [
@@ -25,5 +26,7 @@ __all__ = [
     "InfoboxField",
     "Location",
     "NumericValue",
+    "RejectedValue",
+    "SelectionResult",
     "Table",
 ]
