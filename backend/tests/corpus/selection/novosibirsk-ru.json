@@ -713,38 +713,6 @@
         "normalized_value": null,
         "source": "infobox"
       },
-      "цифровые_идентификаторы_телефонный_код": {
-        "key": "цифровые_идентификаторы_телефонный_код",
-        "label": "Телефонный код",
-        "group": "Цифровые идентификаторы",
-        "value": "+7 383",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "цифровые_идентификаторы_почтовый_индекс": {
-        "key": "цифровые_идентификаторы_почтовый_индекс",
-        "label": "Почтовый индекс",
-        "group": "Цифровые идентификаторы",
-        "value": "630xxx",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "цифровые_идентификаторы_окато": {
-        "key": "цифровые_идентификаторы_окато",
-        "label": "ОКАТО",
-        "group": "Цифровые идентификаторы",
-        "value": "50401",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "цифровые_идентификаторы_октмо": {
-        "key": "цифровые_идентификаторы_октмо",
-        "label": "ОКТМО",
-        "group": "Цифровые идентификаторы",
-        "value": "50701000001",
-        "normalized_value": null,
-        "source": "infobox"
-      },
       "цифровые_идентификаторы_номер_в_гкгн": {
         "key": "цифровые_идентификаторы_номер_в_гкгн",
         "label": "Номер в ГКГН",
@@ -1133,713 +1101,7 @@
         "confidence": 1.0
       }
     ],
-    "events": [
-      {
-        "id": "text-event-0",
-        "date": "1903-12-28",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "1904-01-10",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "2025-01-01",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "1893-04-30",
-        "date_precision": "day",
-        "title": "Этимология",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Этимология"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "1930-10-20",
-        "date_precision": "day",
-        "title": "Российская Империя",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Российская Империя"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "1915-01-01",
-        "date_precision": "day",
-        "title": "Российская Империя",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Российская Империя"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-29",
-        "date": "2020-07-02",
-        "date_precision": "day",
-        "title": "XXI век",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "XXI век"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-30",
-        "date": "2013-03-19",
-        "date_precision": "day",
-        "title": "Географическое положение",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Физико-географическая характеристика",
-            "Географическое положение"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-31",
-        "date": "1915-01-09",
-        "date_precision": "day",
-        "title": "Климат",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Физико-географическая характеристика",
-            "Климат"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-32",
-        "date": "2023-06-07",
-        "date_precision": "day",
-        "title": "Климат",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Физико-географическая характеристика",
-            "Климат"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-33",
-        "date": "1957-03-01",
-        "date_precision": "day",
-        "title": "Часовой пояс",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Физико-географическая характеристика",
-            "Часовой пояс"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-34",
-        "date": "1993-05-23",
-        "date_precision": "day",
-        "title": "Часовой пояс",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Физико-географическая характеристика",
-            "Часовой пояс"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-35",
-        "date": "2011-03-27",
-        "date_precision": "day",
-        "title": "Часовой пояс",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Физико-географическая характеристика",
-            "Часовой пояс"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-36",
-        "date": "2014-10-25",
-        "date_precision": "day",
-        "title": "Часовой пояс",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Физико-географическая характеристика",
-            "Часовой пояс"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-37",
-        "date": "2014-10-26",
-        "date_precision": "day",
-        "title": "Часовой пояс",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Физико-географическая характеристика",
-            "Часовой пояс"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-38",
-        "date": "2016-07-23",
-        "date_precision": "day",
-        "title": "Часовой пояс",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Физико-географическая характеристика",
-            "Часовой пояс"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-39",
-        "date": "2016-07-24",
-        "date_precision": "day",
-        "title": "Часовой пояс",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Физико-географическая характеристика",
-            "Часовой пояс"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-41",
-        "date": "1962-09-02",
-        "date_precision": "day",
-        "title": "Численность населения",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Население",
-            "Численность населения"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-42",
-        "date": "2014-04-23",
-        "date_precision": "day",
-        "title": "Главы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Главы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-43",
-        "date": "2023-12-28",
-        "date_precision": "day",
-        "title": "Главы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Главы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-44",
-        "date": "2024-04-16",
-        "date_precision": "day",
-        "title": "Главы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Главы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-51",
-        "date": "2017-07-01",
-        "date_precision": "day",
-        "title": "Общее состояние",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Экономика",
-            "Общее состояние"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-52",
-        "date": "2023-06-02",
-        "date_precision": "day",
-        "title": "Промышленность",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Экономика",
-            "Промышленность"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-53",
-        "date": "2011-03-18",
-        "date_precision": "day",
-        "title": "Торговля и услуги",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Экономика",
-            "Торговля и услуги"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-54",
-        "date": "2003-03-07",
-        "date_precision": "day",
-        "title": "Водный транспорт",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Транспорт",
-            "Междугородный и международный транспорт",
-            "Водный транспорт"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-55",
-        "date": "2019-12-21",
-        "date_precision": "day",
-        "title": "Автомобильный транспорт",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Транспорт",
-            "Междугородный и международный транспорт",
-            "Автомобильный транспорт"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-56",
-        "date": "2020-04-06",
-        "date_precision": "day",
-        "title": "Автомобильный транспорт",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Транспорт",
-            "Междугородный и международный транспорт",
-            "Автомобильный транспорт"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-57",
-        "date": "1934-11-26",
-        "date_precision": "day",
-        "title": "Трамвай",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Транспорт",
-            "Городской общественный транспорт",
-            "Трамвай"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-58",
-        "date": "1957-11-06",
-        "date_precision": "day",
-        "title": "Троллейбус",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Транспорт",
-            "Городской общественный транспорт",
-            "Троллейбус"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-59",
-        "date": "1985-12-28",
-        "date_precision": "day",
-        "title": "Метрополитен",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Транспорт",
-            "Городской общественный транспорт",
-            "Метрополитен"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-60",
-        "date": "1986-01-07",
-        "date_precision": "day",
-        "title": "Метрополитен",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Транспорт",
-            "Городской общественный транспорт",
-            "Метрополитен"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-61",
-        "date": "2021-07-08",
-        "date_precision": "day",
-        "title": "Городская железная дорога",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Транспорт",
-            "Городской общественный транспорт",
-            "Городская железная дорога"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-62",
-        "date": "2024-12-16",
-        "date_precision": "day",
-        "title": "Городская железная дорога",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Транспорт",
-            "Городской общественный транспорт",
-            "Городская железная дорога"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-63",
-        "date": "2026-03-16",
-        "date_precision": "day",
-        "title": "Наука и образование",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Наука и образование"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-64",
-        "date": "2024-04-02",
-        "date_precision": "day",
-        "title": "Фестивали",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Культура",
-            "Фестивали"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-65",
-        "date": "2008-05-21",
-        "date_precision": "day",
-        "title": "Фестивали",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Культура",
-            "Фестивали"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-66",
-        "date": "2013-05-21",
-        "date_precision": "day",
-        "title": "Фестивали",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Культура",
-            "Фестивали"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-75",
-        "date": "2013-06-19",
-        "date_precision": "day",
-        "title": "Религия",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Религия"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-95",
-        "date": "2024-05-25",
-        "date_precision": "day",
-        "title": "Почётные жители",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Почётные жители"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-101",
-        "date": "2016-03-01",
-        "date_precision": "day",
-        "title": "Туристско-информационный центр",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Туризм",
-            "Туристско-информационный центр"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-102",
-        "date": "2016-09-12",
-        "date_precision": "day",
-        "title": "Разное",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Разное"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-105",
-        "date": "2013-01-26",
-        "date_precision": "day",
-        "title": "Панорама",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Панорама"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -2029,451 +1291,745 @@
   "rejected": [
     {
       "kind": "event",
-      "ref": "text-event-45",
-      "preview": "1992-01-14 «Главы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-0",
+      "preview": "1903-12-28 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-46",
-      "preview": "1993-10-05 «Главы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-1",
+      "preview": "1904-01-10 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-47",
-      "preview": "2000-03-26 «Главы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-2",
+      "preview": "2025-01-01 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-48",
-      "preview": "2014-01-09 «Главы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-3",
+      "preview": "1893-04-30 «Этимология»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-49",
-      "preview": "2014-01-10 «Главы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-4",
+      "preview": "1930-10-20 «Российская Империя»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-50",
-      "preview": "2014-04-22 «Главы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-67",
-      "preview": "2007-08-17 «Музеи»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-68",
-      "preview": "2002-06-27 «Музеи»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-69",
-      "preview": "2007-10-07 «Музеи»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-70",
-      "preview": "1945-05-12 «Достопримечательности»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-71",
-      "preview": "2012-01-01 «Достопримечательности»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-72",
-      "preview": "2020-01-28 «Достопримечательности»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-73",
-      "preview": "1970-11-05 «Достопримечательности»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-74",
-      "preview": "2018-08-28 «Достопримечательности»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-76",
-      "preview": "2019-06-29 «Спорт»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-77",
-      "preview": "1992-03-22 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-78",
-      "preview": "1997-03-16 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-79",
-      "preview": "2005-02-19 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-80",
-      "preview": "2007-03-26 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-81",
-      "preview": "2007-07-01 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-82",
-      "preview": "2009-04-19 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-83",
-      "preview": "2011-04-24 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-84",
-      "preview": "2012-03-06 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-85",
-      "preview": "2015-03-13 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-86",
-      "preview": "2015-03-29 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-87",
-      "preview": "2018-05-11 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-88",
-      "preview": "2019-06-30 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-89",
-      "preview": "2020-01-20 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-90",
-      "preview": "2021-04-24 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-91",
-      "preview": "2023-03-28 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-92",
-      "preview": "2025-02-01 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-93",
-      "preview": "2025-02-09 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-94",
-      "preview": "2025-12-14 «Спортивные соревнования»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-96",
-      "preview": "1909-01-09 «Почётные жители»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-97",
-      "preview": "1914-03-17 «Почётные жители»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-98",
-      "preview": "2011-12-28 «Почётные жители»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-99",
-      "preview": "2010-09-09 «Почётные жители»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-100",
-      "preview": "2014-05-12 «Почётные жители»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-103",
-      "preview": "1992-11-06 «Разное»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-104",
-      "preview": "2008-08-01 «Разное»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-5",
+      "preview": "1915-01-01 «Российская Империя»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-6",
       "preview": "2023-10-22 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-7",
       "preview": "1918-05-26 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-8",
       "preview": "1918-06-04 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-9",
       "preview": "1918-06-30 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-10",
       "preview": "1921-06-13 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-11",
       "preview": "1925-05-25 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-12",
       "preview": "1923-05-16 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-13",
       "preview": "1925-12-10 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-14",
       "preview": "1926-02-12 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-15",
       "preview": "1937-09-28 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-16",
       "preview": "1943-01-26 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-17",
       "preview": "1944-08-13 «После 1917 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-18",
       "preview": "1943-08-21 «После 1940 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-19",
       "preview": "1958-06-03 «После 1940 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-20",
       "preview": "1948-09-25 «После 1940 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-21",
       "preview": "1962-09-02 «После 1940 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-22",
       "preview": "1985-12-28 «После 1940 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-23",
       "preview": "1986-01-07 «После 1940 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-24",
       "preview": "1976-09-26 «После 1940 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-25",
       "preview": "1982-04-28 «После 1940 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-26",
       "preview": "1987-04-06 «После 1940 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-27",
       "preview": "1987-10-04 «После 1940 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-28",
       "preview": "2000-05-13 «После 1940 года»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-29",
+      "preview": "2020-07-02 «XXI век»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-30",
+      "preview": "2013-03-19 «Географическое положение»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-31",
+      "preview": "1915-01-09 «Климат»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-32",
+      "preview": "2023-06-07 «Климат»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-33",
+      "preview": "1957-03-01 «Часовой пояс»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-34",
+      "preview": "1993-05-23 «Часовой пояс»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-35",
+      "preview": "2011-03-27 «Часовой пояс»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-36",
+      "preview": "2014-10-25 «Часовой пояс»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-37",
+      "preview": "2014-10-26 «Часовой пояс»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-38",
+      "preview": "2016-07-23 «Часовой пояс»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-39",
+      "preview": "2016-07-24 «Часовой пояс»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-40",
       "preview": "2025-01-01 «Численность населения»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-41",
+      "preview": "1962-09-02 «Численность населения»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-42",
+      "preview": "2014-04-23 «Главы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-43",
+      "preview": "2023-12-28 «Главы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-44",
+      "preview": "2024-04-16 «Главы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-45",
+      "preview": "1992-01-14 «Главы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-46",
+      "preview": "1993-10-05 «Главы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-47",
+      "preview": "2000-03-26 «Главы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-48",
+      "preview": "2014-01-09 «Главы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-49",
+      "preview": "2014-01-10 «Главы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-50",
+      "preview": "2014-04-22 «Главы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-51",
+      "preview": "2017-07-01 «Общее состояние»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-52",
+      "preview": "2023-06-02 «Промышленность»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-53",
+      "preview": "2011-03-18 «Торговля и услуги»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-54",
+      "preview": "2003-03-07 «Водный транспорт»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-55",
+      "preview": "2019-12-21 «Автомобильный транспорт»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-56",
+      "preview": "2020-04-06 «Автомобильный транспорт»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-57",
+      "preview": "1934-11-26 «Трамвай»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-58",
+      "preview": "1957-11-06 «Троллейбус»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-59",
+      "preview": "1985-12-28 «Метрополитен»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-60",
+      "preview": "1986-01-07 «Метрополитен»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-61",
+      "preview": "2021-07-08 «Городская железная дорога»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-62",
+      "preview": "2024-12-16 «Городская железная дорога»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-63",
+      "preview": "2026-03-16 «Наука и образование»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-64",
+      "preview": "2024-04-02 «Фестивали»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-65",
+      "preview": "2008-05-21 «Фестивали»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-66",
+      "preview": "2013-05-21 «Фестивали»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-67",
+      "preview": "2007-08-17 «Музеи»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-68",
+      "preview": "2002-06-27 «Музеи»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-69",
+      "preview": "2007-10-07 «Музеи»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-70",
+      "preview": "1945-05-12 «Достопримечательности»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-71",
+      "preview": "2012-01-01 «Достопримечательности»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-72",
+      "preview": "2020-01-28 «Достопримечательности»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-73",
+      "preview": "1970-11-05 «Достопримечательности»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-74",
+      "preview": "2018-08-28 «Достопримечательности»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-75",
+      "preview": "2013-06-19 «Религия»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-76",
+      "preview": "2019-06-29 «Спорт»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-77",
+      "preview": "1992-03-22 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-78",
+      "preview": "1997-03-16 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-79",
+      "preview": "2005-02-19 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-80",
+      "preview": "2007-03-26 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-81",
+      "preview": "2007-07-01 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-82",
+      "preview": "2009-04-19 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-83",
+      "preview": "2011-04-24 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-84",
+      "preview": "2012-03-06 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-85",
+      "preview": "2015-03-13 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-86",
+      "preview": "2015-03-29 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-87",
+      "preview": "2018-05-11 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-88",
+      "preview": "2019-06-30 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-89",
+      "preview": "2020-01-20 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-90",
+      "preview": "2021-04-24 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-91",
+      "preview": "2023-03-28 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-92",
+      "preview": "2025-02-01 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-93",
+      "preview": "2025-02-09 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-94",
+      "preview": "2025-12-14 «Спортивные соревнования»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-95",
+      "preview": "2024-05-25 «Почётные жители»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-96",
+      "preview": "1909-01-09 «Почётные жители»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-97",
+      "preview": "1914-03-17 «Почётные жители»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-98",
+      "preview": "2011-12-28 «Почётные жители»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-99",
+      "preview": "2010-09-09 «Почётные жители»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-100",
+      "preview": "2014-05-12 «Почётные жители»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-101",
+      "preview": "2016-03-01 «Туристско-информационный центр»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-102",
+      "preview": "2016-09-12 «Разное»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-103",
+      "preview": "1992-11-06 «Разное»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-104",
+      "preview": "2008-08-01 «Разное»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-105",
+      "preview": "2013-01-26 «Панорама»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "number",
@@ -2586,6 +2142,34 @@
       "preview": "Солнечное сияние, часов за месяц, 1966—2013 — Месяц | Солнечное сияние, часов за месяц, 1966—2013 — Янв | Солнечное сиян",
       "rule": "TBL-EMPTY",
       "reason": "меньше двух строк или колонок"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "цифровые_идентификаторы_телефонный_код",
+      "preview": "Телефонный код: +7 383",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "цифровые_идентификаторы_почтовый_индекс",
+      "preview": "Почтовый индекс: 630xxx",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "цифровые_идентификаторы_окато",
+      "preview": "ОКАТО: 50401",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "цифровые_идентификаторы_октмо",
+      "preview": "ОКТМО: 50701000001",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "image",

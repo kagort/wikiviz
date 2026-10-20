@@ -522,14 +522,6 @@
         "value": "Heinrich Friedrich Weber",
         "normalized_value": null,
         "source": "infobox"
-      },
-      "website": {
-        "key": "website",
-        "label": "Website",
-        "group": null,
-        "value": "alberteinstein.com",
-        "normalized_value": null,
-        "source": "infobox"
       }
     },
     "tables": [
@@ -604,475 +596,6 @@
         "context": {
           "block": "infobox",
           "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "1919-02-14",
-        "date_precision": "day",
-        "title": "Marriages, relationships and children",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Marriages, relationships and children"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "1905-04-30",
-        "date_precision": "day",
-        "title": "First scientific papers (1900–1905)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "First scientific papers (1900–1905)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "1906-01-15",
-        "date_precision": "day",
-        "title": "First scientific papers (1900–1905)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "First scientific papers (1900–1905)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-6",
-        "date": "1911-11-03",
-        "date_precision": "day",
-        "title": "Academic career in Europe (1908–1933)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Academic career in Europe (1908–1933)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "1913-07-24",
-        "date_precision": "day",
-        "title": "Academic career in Europe (1908–1933)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Academic career in Europe (1908–1933)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-8",
-        "date": "1914-04-01",
-        "date_precision": "day",
-        "title": "Academic career in Europe (1908–1933)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Academic career in Europe (1908–1933)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-9",
-        "date": "1919-05-29",
-        "date_precision": "day",
-        "title": "Putting general relativity to the test (1919)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Life and career",
-            "Putting general relativity to the test (1919)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-10",
-        "date": "1919-11-06",
-        "date_precision": "day",
-        "title": "Putting general relativity to the test (1919)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Life and career",
-            "Putting general relativity to the test (1919)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-11",
-        "date": "1919-11-07",
-        "date_precision": "day",
-        "title": "Putting general relativity to the test (1919)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Putting general relativity to the test (1919)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "1921-04-02",
-        "date_precision": "day",
-        "title": "Coming to terms with fame (1921–1923)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Coming to terms with fame (1921–1923)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-13",
-        "date": "1922-04-06",
-        "date_precision": "day",
-        "title": "Coming to terms with fame (1921–1923)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Coming to terms with fame (1921–1923)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-14",
-        "date": "1934-03-24",
-        "date_precision": "day",
-        "title": "Immigration to the US (1933)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Immigration to the US (1933)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-15",
-        "date": "1933-05-26",
-        "date_precision": "day",
-        "title": "Refugee status",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Life and career",
-            "Immigration to the US (1933)",
-            "Refugee status"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-16",
-        "date": "1933-07-24",
-        "date_precision": "day",
-        "title": "Refugee status",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Immigration to the US (1933)",
-            "Refugee status"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-17",
-        "date": "1933-05-31",
-        "date_precision": "day",
-        "title": "Refugee status",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Life and career",
-            "Immigration to the US (1933)",
-            "Refugee status"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-18",
-        "date": "1933-10-03",
-        "date_precision": "day",
-        "title": "Resident scholar at the Institute for Advanced Study",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Immigration to the US (1933)",
-            "Resident scholar at the Institute for Advanced Study"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-19",
-        "date": "1931-09-27",
-        "date_precision": "day",
-        "title": "Political views",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Personal views",
-            "Political views"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-20",
-        "date": "1943-04-11",
-        "date_precision": "day",
-        "title": "Religious and philosophical views",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Life and career",
-            "Personal views",
-            "Religious and philosophical views"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-21",
-        "date": "1954-01-03",
-        "date_precision": "day",
-        "title": "Religious and philosophical views",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Personal views",
-            "Religious and philosophical views"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-22",
-        "date": "1955-04-17",
-        "date_precision": "day",
-        "title": "Death",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Death"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-23",
-        "date": "1965-12-13",
-        "date_precision": "day",
-        "title": "Death",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Life and career",
-            "Death"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-24",
-        "date": "2014-12-05",
-        "date_precision": "day",
-        "title": "Scientific career",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Scientific career"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-25",
-        "date": "1905-06-30",
-        "date_precision": "day",
-        "title": "Special relativity",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Scientific career",
-            "Special relativity"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-26",
-        "date": "2016-02-11",
-        "date_precision": "day",
-        "title": "Gravitational waves",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Scientific career",
-            "General relativity",
-            "Gravitational waves"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-27",
-        "date": "2015-09-14",
-        "date_precision": "day",
-        "title": "Gravitational waves",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Scientific career",
-            "General relativity",
-            "Gravitational waves"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-28",
-        "date": "1935-05-04",
-        "date_precision": "day",
-        "title": "Einstein's objections to quantum mechanics",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Scientific career",
-            "Quantum mechanics",
-            "Einstein's objections to quantum mechanics"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-29",
-        "date": "1930-11-11",
-        "date_precision": "day",
-        "title": "Einstein as an inventor",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Scientific career",
-            "Collaboration with other scientists",
-            "Einstein as an inventor"
-          ],
           "service_section": false
         }
       }
@@ -1267,283 +790,472 @@
   "rejected": [
     {
       "kind": "event",
-      "ref": "text-event-30",
-      "preview": "1900-12-13 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-31",
-      "preview": "1900-12-16 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-32",
-      "preview": "1901-03-01 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-33",
-      "preview": "1905-03-17 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-34",
-      "preview": "1905-03-18 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-35",
-      "preview": "1905-06-09 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-36",
-      "preview": "2006-03-10 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-37",
-      "preview": "1905-04-30 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-38",
-      "preview": "1905-07-20 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-39",
-      "preview": "1905-05-11 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-40",
-      "preview": "1905-07-18 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-41",
-      "preview": "1905-06-30 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-42",
-      "preview": "1905-09-26 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-43",
-      "preview": "1905-09-27 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-44",
-      "preview": "1905-11-21 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-45",
-      "preview": "1915-11-25 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-46",
-      "preview": "1915-12-02 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-47",
-      "preview": "1916-06-29 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-48",
-      "preview": "2022-01-24 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-49",
-      "preview": "1918-01-31 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-50",
-      "preview": "2020-11-14 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-51",
-      "preview": "1923-07-11 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-52",
-      "preview": "2015-02-03 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-53",
-      "preview": "1924-07-10 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-54",
-      "preview": "2016-10-14 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-55",
-      "preview": "2015-02-26 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-56",
-      "preview": "1926-03-12 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-57",
-      "preview": "1926-03-01 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-58",
-      "preview": "2015-01-04 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-59",
-      "preview": "1935-05-15 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-60",
-      "preview": "1935-03-25 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-61",
-      "preview": "2008-07-21 «Scientific»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-62",
-      "preview": "1948-12-04 «Political»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-63",
-      "preview": "2007-12-17 «Political»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-64",
-      "preview": "2006-05-25 «Political»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-65",
-      "preview": "2006-01-11 «Political»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-66",
-      "preview": "2006-01-16 «Political»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
       "ref": "text-event-0",
       "preview": "1879-03-14 «Introduction»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-1",
       "preview": "1955-04-18 «Introduction»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-2",
       "preview": "1879-03-14 «Childhood, youth and education»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "1919-02-14 «Marriages, relationships and children»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "1905-04-30 «First scientific papers (1900–1905)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "1906-01-15 «First scientific papers (1900–1905)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "1911-11-03 «Academic career in Europe (1908–1933)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "1913-07-24 «Academic career in Europe (1908–1933)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "1914-04-01 «Academic career in Europe (1908–1933)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "1919-05-29 «Putting general relativity to the test (1919)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "1919-11-06 «Putting general relativity to the test (1919)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "1919-11-07 «Putting general relativity to the test (1919)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "1921-04-02 «Coming to terms with fame (1921–1923)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-13",
+      "preview": "1922-04-06 «Coming to terms with fame (1921–1923)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-14",
+      "preview": "1934-03-24 «Immigration to the US (1933)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-15",
+      "preview": "1933-05-26 «Refugee status»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-16",
+      "preview": "1933-07-24 «Refugee status»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-17",
+      "preview": "1933-05-31 «Refugee status»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-18",
+      "preview": "1933-10-03 «Resident scholar at the Institute for Advanced Study»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-19",
+      "preview": "1931-09-27 «Political views»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-20",
+      "preview": "1943-04-11 «Religious and philosophical views»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-21",
+      "preview": "1954-01-03 «Religious and philosophical views»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-22",
+      "preview": "1955-04-17 «Death»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-23",
+      "preview": "1965-12-13 «Death»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-24",
+      "preview": "2014-12-05 «Scientific career»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-25",
+      "preview": "1905-06-30 «Special relativity»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-26",
+      "preview": "2016-02-11 «Gravitational waves»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-27",
+      "preview": "2015-09-14 «Gravitational waves»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-28",
+      "preview": "1935-05-04 «Einstein's objections to quantum mechanics»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-29",
+      "preview": "1930-11-11 «Einstein as an inventor»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-30",
+      "preview": "1900-12-13 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-31",
+      "preview": "1900-12-16 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-32",
+      "preview": "1901-03-01 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-33",
+      "preview": "1905-03-17 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-34",
+      "preview": "1905-03-18 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-35",
+      "preview": "1905-06-09 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-36",
+      "preview": "2006-03-10 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-37",
+      "preview": "1905-04-30 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-38",
+      "preview": "1905-07-20 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-39",
+      "preview": "1905-05-11 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-40",
+      "preview": "1905-07-18 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-41",
+      "preview": "1905-06-30 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-42",
+      "preview": "1905-09-26 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-43",
+      "preview": "1905-09-27 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-44",
+      "preview": "1905-11-21 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-45",
+      "preview": "1915-11-25 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-46",
+      "preview": "1915-12-02 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-47",
+      "preview": "1916-06-29 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-48",
+      "preview": "2022-01-24 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-49",
+      "preview": "1918-01-31 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-50",
+      "preview": "2020-11-14 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-51",
+      "preview": "1923-07-11 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-52",
+      "preview": "2015-02-03 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-53",
+      "preview": "1924-07-10 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-54",
+      "preview": "2016-10-14 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-55",
+      "preview": "2015-02-26 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-56",
+      "preview": "1926-03-12 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-57",
+      "preview": "1926-03-01 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-58",
+      "preview": "2015-01-04 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-59",
+      "preview": "1935-05-15 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-60",
+      "preview": "1935-03-25 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-61",
+      "preview": "2008-07-21 «Scientific»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-62",
+      "preview": "1948-12-04 «Political»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-63",
+      "preview": "2007-12-17 «Political»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-64",
+      "preview": "2006-05-25 «Political»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-65",
+      "preview": "2006-01-11 «Political»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-66",
+      "preview": "2006-01-16 «Political»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "number",
@@ -1628,6 +1340,13 @@
       "preview": "Workplaces: See list, University of Bern (1908–1909), University of Zurich (1909–1911), Charles University in Prague (19",
       "rule": "IB-LONG",
       "reason": "значение длиннее 200 символов"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "website",
+      "preview": "Website: alberteinstein.com",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "image",

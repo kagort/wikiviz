@@ -350,376 +350,7 @@
     },
     "tables": [],
     "locations": [],
-    "events": [
-      {
-        "id": "event-0",
-        "date": "1812-12-25",
-        "date_precision": "day",
-        "title": "Дата",
-        "description": null,
-        "source": "infobox",
-        "confidence": 1.0,
-        "context": {
-          "block": "infobox",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-0",
-        "date": "1807-06-14",
-        "date_precision": "day",
-        "title": "Предыстория конфликта",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Предыстория конфликта"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "1811-08-15",
-        "date_precision": "day",
-        "title": "Со стороны России",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Предыстория конфликта",
-            "Причины войны",
-            "Со стороны России"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "1811-12-17",
-        "date_precision": "day",
-        "title": "Дипломатия и разведка накануне войны",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Предыстория конфликта",
-            "Дипломатия и разведка накануне войны"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "1812-03-14",
-        "date_precision": "day",
-        "title": "Дипломатия и разведка накануне войны",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Предыстория конфликта",
-            "Дипломатия и разведка накануне войны"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "1812-02-24",
-        "date_precision": "day",
-        "title": "Дипломатия и разведка накануне войны",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Предыстория конфликта",
-            "Дипломатия и разведка накануне войны"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "1812-05-22",
-        "date_precision": "day",
-        "title": "Дипломатия и разведка накануне войны",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Предыстория конфликта",
-            "Дипломатия и разведка накануне войны"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-6",
-        "date": "1812-07-18",
-        "date_precision": "day",
-        "title": "На стороне России",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Предыстория конфликта",
-            "Вооружённые силы противников",
-            "На стороне России"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "1812-03-03",
-        "date_precision": "day",
-        "title": "Наступление Наполеона (июнь — сентябрь 1812 года)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Наступление Наполеона (июнь — сентябрь 1812 года)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-8",
-        "date": "1812-04-01",
-        "date_precision": "day",
-        "title": "Наступление Наполеона (июнь — сентябрь 1812 года)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Наступление Наполеона (июнь — сентябрь 1812 года)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-9",
-        "date": "1812-05-09",
-        "date_precision": "day",
-        "title": "Наступление Наполеона (июнь — сентябрь 1812 года)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Наступление Наполеона (июнь — сентябрь 1812 года)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-10",
-        "date": "1812-06-30",
-        "date_precision": "day",
-        "title": "Наступление Наполеона (июнь — сентябрь 1812 года)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Наступление Наполеона (июнь — сентябрь 1812 года)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-11",
-        "date": "1812-06-12",
-        "date_precision": "day",
-        "title": "Наступление Наполеона (июнь — сентябрь 1812 года)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Наступление Наполеона (июнь — сентябрь 1812 года)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "0002-07-19",
-        "date_precision": "day",
-        "title": "Центральное (Московское) направление",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Наступление Наполеона (июнь — сентябрь 1812 года)",
-            "От Немана до Смоленска",
-            "Центральное (Московское) направление"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-13",
-        "date": "0001-08-03",
-        "date_precision": "day",
-        "title": "Центральное (Московское) направление",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Наступление Наполеона (июнь — сентябрь 1812 года)",
-            "От Немана до Смоленска",
-            "Центральное (Московское) направление"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-14",
-        "date": "1812-07-06",
-        "date_precision": "day",
-        "title": "Формирование ополчения",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Наступление Наполеона (июнь — сентябрь 1812 года)",
-            "Народная война против Наполеона",
-            "Формирование ополчения"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-15",
-        "date": "1935-07-25",
-        "date_precision": "day",
-        "title": "Коллаборационизм в Отечественной войне 1812 года",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Коллаборационизм в Отечественной войне 1812 года"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-16",
-        "date": "1813-04-20",
-        "date_precision": "day",
-        "title": "Коллаборационизм в Отечественной войне 1812 года",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Коллаборационизм в Отечественной войне 1812 года"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-17",
-        "date": "1812-12-21",
-        "date_precision": "day",
-        "title": "Непосредственные итоги войны",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Итоги Отечественной войны 1812 года",
-            "Непосредственные итоги войны"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-18",
-        "date": "1813-01-01",
-        "date_precision": "day",
-        "title": "Непосредственные итоги войны",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Итоги Отечественной войны 1812 года",
-            "Непосредственные итоги войны"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-19",
-        "date": "2018-08-15",
-        "date_precision": "day",
-        "title": "В нумизматике и фалеристике",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Отражение войны 1812 года в культуре",
-            "В нумизматике и фалеристике"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-20",
-        "date": "1814-08-30",
-        "date_precision": "day",
-        "title": "Национальные праздники и торжества",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Отражение войны 1812 года в культуре",
-            "Национальные праздники и торжества"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -913,6 +544,160 @@
     "metadata": {}
   },
   "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1807-06-14 «Предыстория конфликта»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "1811-08-15 «Со стороны России»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "1811-12-17 «Дипломатия и разведка накануне войны»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "1812-03-14 «Дипломатия и разведка накануне войны»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "1812-02-24 «Дипломатия и разведка накануне войны»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "1812-05-22 «Дипломатия и разведка накануне войны»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "1812-07-18 «На стороне России»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "1812-03-03 «Наступление Наполеона (июнь — сентябрь 1812 года)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "1812-04-01 «Наступление Наполеона (июнь — сентябрь 1812 года)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "1812-05-09 «Наступление Наполеона (июнь — сентябрь 1812 года)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "1812-06-30 «Наступление Наполеона (июнь — сентябрь 1812 года)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "1812-06-12 «Наступление Наполеона (июнь — сентябрь 1812 года)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "0002-07-19 «Центральное (Московское) направление»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-13",
+      "preview": "0001-08-03 «Центральное (Московское) направление»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-14",
+      "preview": "1812-07-06 «Формирование ополчения»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-15",
+      "preview": "1935-07-25 «Коллаборационизм в Отечественной войне 1812 года»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-16",
+      "preview": "1813-04-20 «Коллаборационизм в Отечественной войне 1812 года»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-17",
+      "preview": "1812-12-21 «Непосредственные итоги войны»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-18",
+      "preview": "1813-01-01 «Непосредственные итоги войны»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-19",
+      "preview": "2018-08-15 «В нумизматике и фалеристике»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-20",
+      "preview": "1814-08-30 «Национальные праздники и торжества»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "event-0",
+      "preview": "1812-12-25 «Дата»",
+      "rule": "EV-MIN",
+      "reason": "после отбора меньше 2 событий - шкала не нужна"
+    },
     {
       "kind": "number",
       "ref": "0",

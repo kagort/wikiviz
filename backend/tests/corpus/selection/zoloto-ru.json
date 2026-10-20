@@ -612,59 +612,7 @@
       }
     ],
     "locations": [],
-    "events": [
-      {
-        "id": "text-event-10",
-        "date": "2017-09-01",
-        "date_precision": "day",
-        "title": "Золотой резерв России",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Резервы",
-            "Золотой резерв России"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-11",
-        "date": "2025-03-02",
-        "date_precision": "day",
-        "title": "Золото империи инков, XV—XVI века",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Истории, легенды и мифы",
-            "Золото империи инков, XV—XVI века"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "1534-01-21",
-        "date_precision": "day",
-        "title": "Золото империи инков, XV—XVI века",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Истории, легенды и мифы",
-            "Золото империи инков, XV—XVI века"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -849,71 +797,92 @@
       "kind": "event",
       "ref": "text-event-0",
       "preview": "2008-11-21 «Цены»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-1",
       "preview": "2011-07-18 «Цены»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-2",
       "preview": "2011-08-08 «Цены»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-3",
       "preview": "2011-09-06 «Цены»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-4",
       "preview": "2013-04-12 «Цены»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-5",
       "preview": "2015-07-20 «Цены»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-6",
       "preview": "2020-03-06 «Цены»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-7",
       "preview": "2020-03-09 «Цены»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-8",
       "preview": "2022-03-09 «Цены»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-9",
       "preview": "2026-01-30 «Цены»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "2017-09-01 «Золотой резерв России»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "2025-03-02 «Золото империи инков, XV—XVI века»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "1534-01-21 «Золото империи инков, XV—XVI века»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "number",

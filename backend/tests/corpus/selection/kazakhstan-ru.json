@@ -680,22 +680,6 @@
         "normalized_value": null,
         "source": "infobox"
       },
-      "код_iso": {
-        "key": "код_iso",
-        "label": "Код ISO",
-        "group": null,
-        "value": "KZ",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "телефонный_код": {
-        "key": "телефонный_код",
-        "label": "Телефонный код",
-        "group": null,
-        "value": "+7",
-        "normalized_value": null,
-        "source": "infobox"
-      },
       "часовой_пояс": {
         "key": "часовой_пояс",
         "label": "Часовой пояс",
@@ -1195,858 +1179,7 @@
       }
     ],
     "locations": [],
-    "events": [
-      {
-        "id": "event-0",
-        "date": "1991-12-16",
-        "date_precision": "day",
-        "title": "Дата независимости",
-        "description": null,
-        "source": "infobox",
-        "confidence": 1.0,
-        "context": {
-          "block": "infobox",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-0",
-        "date": "2019-03-20",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "2019-06-09",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "1936-12-05",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "1991-12-10",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "2024-01-01",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "2013-10-17",
-        "date_precision": "day",
-        "title": "Природные ресурсы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "География",
-            "Природные ресурсы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-6",
-        "date": "1391-06-18",
-        "date_precision": "day",
-        "title": "Монгольская империя. Золотая Орда",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "История",
-            "Монгольская империя. Золотая Орда"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "2026-08-25",
-        "date_precision": "day",
-        "title": "РСФСР",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "История",
-            "РСФСР"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-8",
-        "date": "1919-07-10",
-        "date_precision": "day",
-        "title": "РСФСР",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "РСФСР"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-9",
-        "date": "1920-08-26",
-        "date_precision": "day",
-        "title": "РСФСР",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "РСФСР"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "1957-10-04",
-        "date_precision": "day",
-        "title": "Советский Союз",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Советский Союз"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-13",
-        "date": "1961-04-12",
-        "date_precision": "day",
-        "title": "Советский Союз",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Советский Союз"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-15",
-        "date": "1990-10-25",
-        "date_precision": "day",
-        "title": "После обретения независимости",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "После обретения независимости"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-17",
-        "date": "2019-03-23",
-        "date_precision": "day",
-        "title": "После обретения независимости",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "После обретения независимости"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-18",
-        "date": "2022-09-17",
-        "date_precision": "day",
-        "title": "После обретения независимости",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "После обретения независимости"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-20",
-        "date": "2022-01-02",
-        "date_precision": "day",
-        "title": "После обретения независимости",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "После обретения независимости"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-21",
-        "date": "2022-04-29",
-        "date_precision": "day",
-        "title": "После обретения независимости",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "После обретения независимости"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-22",
-        "date": "2025-10-01",
-        "date_precision": "day",
-        "title": "Население",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Население"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-23",
-        "date": "2022-09-01",
-        "date_precision": "day",
-        "title": "Этнический состав",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Население",
-            "Этнический состав"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-25",
-        "date": "2005-12-04",
-        "date_precision": "day",
-        "title": "Выборы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Выборы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-26",
-        "date": "2007-08-17",
-        "date_precision": "day",
-        "title": "Выборы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Выборы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-27",
-        "date": "2011-04-03",
-        "date_precision": "day",
-        "title": "Выборы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Выборы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-28",
-        "date": "2015-04-26",
-        "date_precision": "day",
-        "title": "Выборы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Выборы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-29",
-        "date": "2019-03-19",
-        "date_precision": "day",
-        "title": "Выборы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Выборы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-30",
-        "date": "2022-09-21",
-        "date_precision": "day",
-        "title": "Выборы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Выборы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-31",
-        "date": "2022-11-20",
-        "date_precision": "day",
-        "title": "Выборы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Выборы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-32",
-        "date": "2026-08-31",
-        "date_precision": "day",
-        "title": "Выборы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Выборы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-33",
-        "date": "2026-07-08",
-        "date_precision": "day",
-        "title": "Судебная власть",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Судебная власть"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-34",
-        "date": "2007-12-01",
-        "date_precision": "day",
-        "title": "Внешняя политика",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Внешняя политика"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-35",
-        "date": "2012-11-12",
-        "date_precision": "day",
-        "title": "Внешняя политика",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Внешняя политика"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-36",
-        "date": "2025-11-06",
-        "date_precision": "day",
-        "title": "Внешняя политика",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Государственный строй и политика",
-            "Внешняя политика"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-37",
-        "date": "2020-03-06",
-        "date_precision": "day",
-        "title": "Концепция внешней политики",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственный строй и политика",
-            "Внешняя политика",
-            "Концепция внешней политики"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-38",
-        "date": "2025-01-27",
-        "date_precision": "day",
-        "title": "Экономика",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Экономика"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-39",
-        "date": "2014-11-11",
-        "date_precision": "day",
-        "title": "Экономика",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Экономика"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-40",
-        "date": "2017-05-31",
-        "date_precision": "day",
-        "title": "Железнодорожный транспорт",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Экономика",
-            "Транспорт и связь",
-            "Железнодорожный транспорт"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-41",
-        "date": "2015-05-07",
-        "date_precision": "day",
-        "title": "Железнодорожный транспорт",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Экономика",
-            "Транспорт и связь",
-            "Железнодорожный транспорт"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-42",
-        "date": "2009-01-30",
-        "date_precision": "day",
-        "title": "Банковское дело",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Экономика",
-            "Банковское дело"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-43",
-        "date": "1993-11-15",
-        "date_precision": "day",
-        "title": "Валюта",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Экономика",
-            "Банковское дело",
-            "Валюта"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-44",
-        "date": "2014-10-05",
-        "date_precision": "day",
-        "title": "Рынок облигаций",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Экономика",
-            "Банковское дело",
-            "Рынок облигаций"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-45",
-        "date": "2020-01-01",
-        "date_precision": "day",
-        "title": "Предпринимательство",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Экономика",
-            "Предпринимательство"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-48",
-        "date": "2019-06-14",
-        "date_precision": "day",
-        "title": "Культура",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Культура"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-50",
-        "date": "1926-10-20",
-        "date_precision": "day",
-        "title": "Изобразительное искусство",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Культура",
-            "Изобразительное искусство"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-51",
-        "date": "1940-06-24",
-        "date_precision": "day",
-        "title": "Изобразительное искусство",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Культура",
-            "Изобразительное искусство"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-52",
-        "date": "1951-03-17",
-        "date_precision": "day",
-        "title": "Театр",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Культура",
-            "Театр"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-53",
-        "date": "1952-11-18",
-        "date_precision": "day",
-        "title": "Кинематограф",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Культура",
-            "Кинематограф"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-54",
-        "date": "2006-08-12",
-        "date_precision": "day",
-        "title": "Спорт",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Культура",
-            "Спорт"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-55",
-        "date": "2019-01-15",
-        "date_precision": "day",
-        "title": "СМИ",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Культура",
-            "СМИ"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-56",
-        "date": "2023-06-13",
-        "date_precision": "day",
-        "title": "Праздники",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Культура",
-            "Праздники"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-57",
-        "date": "1991-03-15",
-        "date_precision": "day",
-        "title": "Праздники",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Культура",
-            "Праздники"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-58",
-        "date": "1992-07-13",
-        "date_precision": "day",
-        "title": "Армия и органы национальной безопасности",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Армия и полиция",
-            "Армия и органы национальной безопасности"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -2233,66 +1366,423 @@
   "rejected": [
     {
       "kind": "event",
+      "ref": "text-event-0",
+      "preview": "2019-03-20 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "2019-06-09 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "1936-12-05 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "1991-12-10 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "2024-01-01 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "2013-10-17 «Природные ресурсы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "1391-06-18 «Монгольская империя. Золотая Орда»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "2026-08-25 «РСФСР»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "1919-07-10 «РСФСР»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "1920-08-26 «РСФСР»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
       "ref": "text-event-10",
       "preview": "2026-08-25 «Советский Союз»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-11",
       "preview": "1936-12-05 «Советский Союз»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "1957-10-04 «Советский Союз»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-13",
+      "preview": "1961-04-12 «Советский Союз»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-14",
       "preview": "2026-08-25 «После обретения независимости»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-15",
+      "preview": "1990-10-25 «После обретения независимости»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-16",
       "preview": "1991-12-16 «После обретения независимости»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-17",
+      "preview": "2019-03-23 «После обретения независимости»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-18",
+      "preview": "2022-09-17 «После обретения независимости»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-19",
       "preview": "2019-03-20 «После обретения независимости»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-20",
+      "preview": "2022-01-02 «После обретения независимости»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-21",
+      "preview": "2022-04-29 «После обретения независимости»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-22",
+      "preview": "2025-10-01 «Население»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-23",
+      "preview": "2022-09-01 «Этнический состав»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-24",
       "preview": "2019-03-20 «Политическая система»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-25",
+      "preview": "2005-12-04 «Выборы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-26",
+      "preview": "2007-08-17 «Выборы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-27",
+      "preview": "2011-04-03 «Выборы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-28",
+      "preview": "2015-04-26 «Выборы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-29",
+      "preview": "2019-03-19 «Выборы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-30",
+      "preview": "2022-09-21 «Выборы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-31",
+      "preview": "2022-11-20 «Выборы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-32",
+      "preview": "2026-08-31 «Выборы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-33",
+      "preview": "2026-07-08 «Судебная власть»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-34",
+      "preview": "2007-12-01 «Внешняя политика»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-35",
+      "preview": "2012-11-12 «Внешняя политика»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-36",
+      "preview": "2025-11-06 «Внешняя политика»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-37",
+      "preview": "2020-03-06 «Концепция внешней политики»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-38",
+      "preview": "2025-01-27 «Экономика»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-39",
+      "preview": "2014-11-11 «Экономика»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-40",
+      "preview": "2017-05-31 «Железнодорожный транспорт»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-41",
+      "preview": "2015-05-07 «Железнодорожный транспорт»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-42",
+      "preview": "2009-01-30 «Банковское дело»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-43",
+      "preview": "1993-11-15 «Валюта»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-44",
+      "preview": "2014-10-05 «Рынок облигаций»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-45",
+      "preview": "2020-01-01 «Предпринимательство»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-46",
       "preview": "2020-01-01 «Социальное обеспечение»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-47",
       "preview": "2024-01-01 «Социальное обеспечение»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-48",
+      "preview": "2019-06-14 «Культура»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-49",
       "preview": "2009-01-30 «Культура»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-50",
+      "preview": "1926-10-20 «Изобразительное искусство»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-51",
+      "preview": "1940-06-24 «Изобразительное искусство»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-52",
+      "preview": "1951-03-17 «Театр»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-53",
+      "preview": "1952-11-18 «Кинематограф»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-54",
+      "preview": "2006-08-12 «Спорт»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-55",
+      "preview": "2019-01-15 «СМИ»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-56",
+      "preview": "2023-06-13 «Праздники»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-57",
+      "preview": "1991-03-15 «Праздники»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-58",
+      "preview": "1992-07-13 «Армия и органы национальной безопасности»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "event-0",
+      "preview": "1991-12-16 «Дата независимости»",
+      "rule": "EV-MIN",
+      "reason": "после отбора меньше 2 событий - шкала не нужна"
     },
     {
       "kind": "number",
@@ -2405,6 +1895,20 @@
       "preview": " |  | ",
       "rule": "TBL-EMPTY",
       "reason": "меньше двух строк или колонок"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "код_iso",
+      "preview": "Код ISO: KZ",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "телефонный_код",
+      "preview": "Телефонный код: +7",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "image",

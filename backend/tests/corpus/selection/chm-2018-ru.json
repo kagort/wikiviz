@@ -1761,915 +1761,6 @@
           "section_path": [],
           "service_section": false
         }
-      },
-      {
-        "id": "text-event-1",
-        "date": "2009-03-18",
-        "date_precision": "day",
-        "title": "Выбор места проведения",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Выбор места проведения"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "2010-12-02",
-        "date_precision": "day",
-        "title": "Выбор места проведения",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Выбор места проведения"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "2020-03-07",
-        "date_precision": "day",
-        "title": "Выбор места проведения",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Выбор места проведения"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "2015-07-25",
-        "date_precision": "day",
-        "title": "Отборочный турнир",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Отборочный турнир"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "2012-09-29",
-        "date_precision": "day",
-        "title": "Города",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Города и стадионы",
-            "Города"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-13",
-        "date": "2014-10-28",
-        "date_precision": "day",
-        "title": "Эмблема",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Символика турнира",
-            "Эмблема"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-14",
-        "date": "2016-10-22",
-        "date_precision": "day",
-        "title": "Талисман",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Символика турнира",
-            "Талисман"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-15",
-        "date": "2018-05-25",
-        "date_precision": "day",
-        "title": "Гимн",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Символика турнира",
-            "Гимн"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-16",
-        "date": "2017-11-09",
-        "date_precision": "day",
-        "title": "Официальный мяч",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Символика турнира",
-            "Официальный мяч"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-17",
-        "date": "2017-12-01",
-        "date_precision": "day",
-        "title": "Жеребьёвка и посев команд",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Финальный турнир",
-            "Жеребьёвка и посев команд"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-18",
-        "date": "2017-10-16",
-        "date_precision": "day",
-        "title": "Жеребьёвка и посев команд",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Финальный турнир",
-            "Жеребьёвка и посев команд"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-19",
-        "date": "2018-05-27",
-        "date_precision": "day",
-        "title": "Составы команд",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Финальный турнир",
-            "Составы команд"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-20",
-        "date": "2018-02-09",
-        "date_precision": "day",
-        "title": "Базовые лагеря участников",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Финальный турнир",
-            "Базовые лагеря участников"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-22",
-        "date": "2018-06-15",
-        "date_precision": "day",
-        "title": "Группа A",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа A"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-23",
-        "date": "2018-06-19",
-        "date_precision": "day",
-        "title": "Группа A",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа A"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-24",
-        "date": "2018-06-20",
-        "date_precision": "day",
-        "title": "Группа A",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа A"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-25",
-        "date": "2018-06-25",
-        "date_precision": "day",
-        "title": "Группа A",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа A"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-29",
-        "date": "2018-06-16",
-        "date_precision": "day",
-        "title": "Группа C",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа C"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-30",
-        "date": "2018-06-21",
-        "date_precision": "day",
-        "title": "Группа C",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа C"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-31",
-        "date": "2018-06-26",
-        "date_precision": "day",
-        "title": "Группа C",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа C"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-34",
-        "date": "2018-06-22",
-        "date_precision": "day",
-        "title": "Группа D",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа D"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-36",
-        "date": "2018-06-17",
-        "date_precision": "day",
-        "title": "Группа E",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа E"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-38",
-        "date": "2018-06-27",
-        "date_precision": "day",
-        "title": "Группа E",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа E"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-40",
-        "date": "2018-06-18",
-        "date_precision": "day",
-        "title": "Группа F",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа F"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-41",
-        "date": "2018-06-23",
-        "date_precision": "day",
-        "title": "Группа F",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа F"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-45",
-        "date": "2018-06-24",
-        "date_precision": "day",
-        "title": "Группа G",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа G"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-46",
-        "date": "2018-06-28",
-        "date_precision": "day",
-        "title": "Группа G",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Групповой этап",
-            "Группа G"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-50",
-        "date": "2018-06-30",
-        "date_precision": "day",
-        "title": "1/8 финала",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Плей-офф",
-            "1/8 финала"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-51",
-        "date": "2018-07-01",
-        "date_precision": "day",
-        "title": "1/8 финала",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Плей-офф",
-            "1/8 финала"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-52",
-        "date": "2018-07-02",
-        "date_precision": "day",
-        "title": "1/8 финала",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Плей-офф",
-            "1/8 финала"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-53",
-        "date": "2018-07-03",
-        "date_precision": "day",
-        "title": "1/8 финала",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Плей-офф",
-            "1/8 финала"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-54",
-        "date": "2018-07-06",
-        "date_precision": "day",
-        "title": "Четвертьфиналы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Плей-офф",
-            "Четвертьфиналы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-55",
-        "date": "2018-07-07",
-        "date_precision": "day",
-        "title": "Четвертьфиналы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Плей-офф",
-            "Четвертьфиналы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-56",
-        "date": "2018-07-10",
-        "date_precision": "day",
-        "title": "Полуфиналы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Плей-офф",
-            "Полуфиналы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-57",
-        "date": "2018-07-11",
-        "date_precision": "day",
-        "title": "Полуфиналы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Плей-офф",
-            "Полуфиналы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-58",
-        "date": "2018-07-14",
-        "date_precision": "day",
-        "title": "Матч за третье место",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Плей-офф",
-            "Матч за третье место"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-60",
-        "date": "2015-09-18",
-        "date_precision": "day",
-        "title": "Подготовка инфраструктуры",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Подготовка инфраструктуры"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-61",
-        "date": "2018-03-27",
-        "date_precision": "day",
-        "title": "Подготовка инфраструктуры",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Подготовка инфраструктуры"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-62",
-        "date": "2018-05-03",
-        "date_precision": "day",
-        "title": "Билеты",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Билеты"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-63",
-        "date": "2018-06-07",
-        "date_precision": "day",
-        "title": "Билеты",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Билеты"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-71",
-        "date": "2013-06-20",
-        "date_precision": "day",
-        "title": "Финансирование",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Экономика турнира",
-            "Финансирование"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-73",
-        "date": "2019-02-19",
-        "date_precision": "day",
-        "title": "Отзывы о турнире",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Отзывы о турнире"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-80",
-        "date": "2015-05-27",
-        "date_precision": "day",
-        "title": "Коррупционный скандал в ФИФА",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Критика и скандалы",
-            "Коррупционный скандал в ФИФА"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-81",
-        "date": "2015-06-07",
-        "date_precision": "day",
-        "title": "Коррупционный скандал в ФИФА",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Критика и скандалы",
-            "Коррупционный скандал в ФИФА"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-82",
-        "date": "2020-03-18",
-        "date_precision": "day",
-        "title": "Коррупционный скандал в ФИФА",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Критика и скандалы",
-            "Коррупционный скандал в ФИФА"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-83",
-        "date": "2013-05-28",
-        "date_precision": "day",
-        "title": "Стадион в Самаре",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Критика и скандалы",
-            "Стадион в Самаре"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-84",
-        "date": "2013-06-15",
-        "date_precision": "day",
-        "title": "Стадион в Самаре",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Критика и скандалы",
-            "Стадион в Самаре"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-86",
-        "date": "2015-10-01",
-        "date_precision": "day",
-        "title": "В филателии",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "В культуре",
-            "В филателии"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-87",
-        "date": "2015-11-17",
-        "date_precision": "day",
-        "title": "В филателии",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "В культуре",
-            "В филателии"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-88",
-        "date": "2015-12-09",
-        "date_precision": "day",
-        "title": "В филателии",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "В культуре",
-            "В филателии"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-89",
-        "date": "2017-02-07",
-        "date_precision": "day",
-        "title": "В филателии",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "В культуре",
-            "В филателии"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-91",
-        "date": "2017-12-20",
-        "date_precision": "day",
-        "title": "В филателии",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "В культуре",
-            "В филателии"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-92",
-        "date": "2018-05-10",
-        "date_precision": "day",
-        "title": "В филателии",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "В культуре",
-            "В филателии"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-93",
-        "date": "2018-05-22",
-        "date_precision": "day",
-        "title": "В бонистике",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "В культуре",
-            "В бонистике"
-          ],
-          "service_section": false
-        }
       }
     ],
     "numbers": [],
@@ -2855,283 +1946,661 @@
   "rejected": [
     {
       "kind": "event",
+      "ref": "text-event-0",
+      "preview": "2018-07-15 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "2009-03-18 «Выбор места проведения»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "2010-12-02 «Выбор места проведения»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "2020-03-07 «Выбор места проведения»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "2015-07-25 «Отборочный турнир»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "2012-09-29 «Города»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
       "ref": "text-event-6",
       "preview": "2018-04-03 «Стадионы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-7",
       "preview": "2014-07-21 «Стадионы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-8",
       "preview": "2018-04-21 «Стадионы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-9",
       "preview": "2017-12-22 «Стадионы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-10",
       "preview": "2018-04-11 «Стадионы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-11",
       "preview": "2016-12-29 «Стадионы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-12",
       "preview": "2014-09-05 «Стадионы»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-64",
-      "preview": "2017-09-14 «Билеты»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-13",
+      "preview": "2014-10-28 «Эмблема»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-65",
-      "preview": "2017-10-12 «Билеты»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-14",
+      "preview": "2016-10-22 «Талисман»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-66",
-      "preview": "2017-11-28 «Билеты»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-15",
+      "preview": "2018-05-25 «Гимн»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-67",
-      "preview": "2017-12-05 «Билеты»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-16",
+      "preview": "2017-11-09 «Официальный мяч»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-68",
-      "preview": "2018-04-03 «Билеты»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-17",
+      "preview": "2017-12-01 «Жеребьёвка и посев команд»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-69",
-      "preview": "2018-01-31 «Билеты»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-18",
+      "preview": "2017-10-16 «Жеребьёвка и посев команд»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-70",
-      "preview": "2018-07-15 «Билеты»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-19",
+      "preview": "2018-05-27 «Составы команд»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
-      "ref": "text-event-75",
-      "preview": "2014-03-08 «Призывы к лишению России права проведения чемпионата»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-76",
-      "preview": "2014-07-27 «Призывы к лишению России права проведения чемпионата»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-77",
-      "preview": "2014-07-28 «Призывы к лишению России права проведения чемпионата»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-78",
-      "preview": "2015-06-07 «Призывы к лишению России права проведения чемпионата»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-79",
-      "preview": "2018-04-20 «Призывы к лишению России права проведения чемпионата»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-0",
-      "preview": "2018-07-15 «Introduction»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "ref": "text-event-20",
+      "preview": "2018-02-09 «Базовые лагеря участников»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-21",
       "preview": "2018-06-14 «Группа A»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-22",
+      "preview": "2018-06-15 «Группа A»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-23",
+      "preview": "2018-06-19 «Группа A»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-24",
+      "preview": "2018-06-20 «Группа A»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-25",
+      "preview": "2018-06-25 «Группа A»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-26",
       "preview": "2018-06-15 «Группа B»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-27",
       "preview": "2018-06-20 «Группа B»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-28",
       "preview": "2018-06-25 «Группа B»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-29",
+      "preview": "2018-06-16 «Группа C»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-30",
+      "preview": "2018-06-21 «Группа C»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-31",
+      "preview": "2018-06-26 «Группа C»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-32",
       "preview": "2018-06-16 «Группа D»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-33",
       "preview": "2018-06-21 «Группа D»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-34",
+      "preview": "2018-06-22 «Группа D»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-35",
       "preview": "2018-06-26 «Группа D»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-36",
+      "preview": "2018-06-17 «Группа E»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-37",
       "preview": "2018-06-22 «Группа E»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-38",
+      "preview": "2018-06-27 «Группа E»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-39",
       "preview": "2018-06-17 «Группа F»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-40",
+      "preview": "2018-06-18 «Группа F»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-41",
+      "preview": "2018-06-23 «Группа F»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-42",
       "preview": "2018-06-27 «Группа F»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-43",
       "preview": "2018-06-18 «Группа G»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-44",
       "preview": "2018-06-23 «Группа G»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-45",
+      "preview": "2018-06-24 «Группа G»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-46",
+      "preview": "2018-06-28 «Группа G»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-47",
       "preview": "2018-06-19 «Группа H»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-48",
       "preview": "2018-06-24 «Группа H»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-49",
       "preview": "2018-06-28 «Группа H»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-50",
+      "preview": "2018-06-30 «1/8 финала»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-51",
+      "preview": "2018-07-01 «1/8 финала»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-52",
+      "preview": "2018-07-02 «1/8 финала»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-53",
+      "preview": "2018-07-03 «1/8 финала»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-54",
+      "preview": "2018-07-06 «Четвертьфиналы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-55",
+      "preview": "2018-07-07 «Четвертьфиналы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-56",
+      "preview": "2018-07-10 «Полуфиналы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-57",
+      "preview": "2018-07-11 «Полуфиналы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-58",
+      "preview": "2018-07-14 «Матч за третье место»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-59",
       "preview": "2018-07-15 «Финал»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-60",
+      "preview": "2015-09-18 «Подготовка инфраструктуры»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-61",
+      "preview": "2018-03-27 «Подготовка инфраструктуры»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-62",
+      "preview": "2018-05-03 «Билеты»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-63",
+      "preview": "2018-06-07 «Билеты»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-64",
+      "preview": "2017-09-14 «Билеты»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-65",
+      "preview": "2017-10-12 «Билеты»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-66",
+      "preview": "2017-11-28 «Билеты»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-67",
+      "preview": "2017-12-05 «Билеты»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-68",
+      "preview": "2018-04-03 «Билеты»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-69",
+      "preview": "2018-01-31 «Билеты»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-70",
+      "preview": "2018-07-15 «Билеты»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-71",
+      "preview": "2013-06-20 «Финансирование»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-72",
       "preview": "2018-07-07 «Отзывы о турнире»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-73",
+      "preview": "2019-02-19 «Отзывы о турнире»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-74",
       "preview": "2018-06-14 «Критика и скандалы»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-75",
+      "preview": "2014-03-08 «Призывы к лишению России права проведения чемпионата»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-76",
+      "preview": "2014-07-27 «Призывы к лишению России права проведения чемпионата»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-77",
+      "preview": "2014-07-28 «Призывы к лишению России права проведения чемпионата»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-78",
+      "preview": "2015-06-07 «Призывы к лишению России права проведения чемпионата»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-79",
+      "preview": "2018-04-20 «Призывы к лишению России права проведения чемпионата»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-80",
+      "preview": "2015-05-27 «Коррупционный скандал в ФИФА»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-81",
+      "preview": "2015-06-07 «Коррупционный скандал в ФИФА»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-82",
+      "preview": "2020-03-18 «Коррупционный скандал в ФИФА»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-83",
+      "preview": "2013-05-28 «Стадион в Самаре»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-84",
+      "preview": "2013-06-15 «Стадион в Самаре»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-85",
       "preview": "2015-09-18 «В филателии»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-86",
+      "preview": "2015-10-01 «В филателии»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-87",
+      "preview": "2015-11-17 «В филателии»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-88",
+      "preview": "2015-12-09 «В филателии»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-89",
+      "preview": "2017-02-07 «В филателии»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-90",
       "preview": "2017-12-01 «В филателии»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-91",
+      "preview": "2017-12-20 «В филателии»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-92",
+      "preview": "2018-05-10 «В филателии»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-93",
+      "preview": "2018-05-22 «В бонистике»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "number",

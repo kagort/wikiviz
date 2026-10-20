@@ -269,14 +269,6 @@
         "normalized_value": null,
         "source": "infobox"
       },
-      "website": {
-        "key": "website",
-        "label": "Website",
-        "group": null,
-        "value": "python.org",
-        "normalized_value": null,
-        "source": "infobox"
-      },
       "major_implementations": {
         "key": "major_implementations",
         "label": "Major implementations",
@@ -451,70 +443,6 @@
           "section_path": [],
           "service_section": false
         }
-      },
-      {
-        "id": "text-event-0",
-        "date": "2018-07-12",
-        "date_precision": "day",
-        "title": "History",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "2000-10-16",
-        "date_precision": "day",
-        "title": "History",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "2008-12-03",
-        "date_precision": "day",
-        "title": "History",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "2025-03-13",
-        "date_precision": "day",
-        "title": "Libraries",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Libraries"
-          ],
-          "service_section": false
-        }
       }
     ],
     "numbers": [],
@@ -568,5 +496,41 @@
     "links": [],
     "metadata": {}
   },
-  "rejected": []
+  "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "2018-07-12 «History»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "2000-10-16 «History»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "2008-12-03 «History»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "2025-03-13 «Libraries»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "website",
+      "preview": "Website: python.org",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    }
+  ]
 }

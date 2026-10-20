@@ -591,22 +591,6 @@
         "normalized_value": null,
         "source": "infobox"
       },
-      "код_iso": {
-        "key": "код_iso",
-        "label": "Код ISO",
-        "group": null,
-        "value": "DE",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "телефонный_код": {
-        "key": "телефонный_код",
-        "label": "Телефонный код",
-        "group": null,
-        "value": "+49",
-        "normalized_value": null,
-        "source": "infobox"
-      },
       "часовой_пояс": {
         "key": "часовой_пояс",
         "label": "Часовой пояс",
@@ -1146,707 +1130,7 @@
       }
     ],
     "locations": [],
-    "events": [
-      {
-        "id": "event-0",
-        "date": "1871-01-18",
-        "date_precision": "day",
-        "title": "Основано",
-        "description": null,
-        "source": "infobox",
-        "confidence": 1.0,
-        "context": {
-          "block": "infobox",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-0",
-        "date": "2025-05-06",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "2017-03-19",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "2021-12-31",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "0962-02-02",
-        "date_precision": "day",
-        "title": "Историческое время",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "1866-08-10",
-        "date_precision": "day",
-        "title": "Историческое время",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "1870-12-10",
-        "date_precision": "day",
-        "title": "Историческое время",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-6",
-        "date": "1914-08-01",
-        "date_precision": "day",
-        "title": "Первая мировая война и Ноябрьская революция",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Первая мировая война и Ноябрьская революция"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "1918-11-09",
-        "date_precision": "day",
-        "title": "Первая мировая война и Ноябрьская революция",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Первая мировая война и Ноябрьская революция"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-8",
-        "date": "1918-11-11",
-        "date_precision": "day",
-        "title": "Первая мировая война и Ноябрьская революция",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Первая мировая война и Ноябрьская революция"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-9",
-        "date": "1918-12-21",
-        "date_precision": "day",
-        "title": "Первая мировая война и Ноябрьская революция",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Первая мировая война и Ноябрьская революция"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-10",
-        "date": "1919-01-19",
-        "date_precision": "day",
-        "title": "Первая мировая война и Ноябрьская революция",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Первая мировая война и Ноябрьская революция"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-11",
-        "date": "1919-02-10",
-        "date_precision": "day",
-        "title": "Первая мировая война и Ноябрьская революция",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Первая мировая война и Ноябрьская революция"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "1919-06-28",
-        "date_precision": "day",
-        "title": "Первая мировая война и Ноябрьская революция",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Первая мировая война и Ноябрьская революция"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-13",
-        "date": "1919-06-30",
-        "date_precision": "day",
-        "title": "Первая мировая война и Ноябрьская революция",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Первая мировая война и Ноябрьская революция"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-14",
-        "date": "1933-03-21",
-        "date_precision": "day",
-        "title": "Приход к власти НСДАП Адольфа Гитлера",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Приход к власти НСДАП Адольфа Гитлера"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-15",
-        "date": "1933-01-30",
-        "date_precision": "day",
-        "title": "Приход к власти НСДАП Адольфа Гитлера",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Приход к власти НСДАП Адольфа Гитлера"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-16",
-        "date": "1933-02-01",
-        "date_precision": "day",
-        "title": "Приход к власти НСДАП Адольфа Гитлера",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Приход к власти НСДАП Адольфа Гитлера"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-17",
-        "date": "1933-02-04",
-        "date_precision": "day",
-        "title": "Приход к власти НСДАП Адольфа Гитлера",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Приход к власти НСДАП Адольфа Гитлера"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-18",
-        "date": "1933-03-05",
-        "date_precision": "day",
-        "title": "Приход к власти НСДАП Адольфа Гитлера",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Приход к власти НСДАП Адольфа Гитлера"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-19",
-        "date": "1933-07-14",
-        "date_precision": "day",
-        "title": "Приход к власти НСДАП Адольфа Гитлера",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Приход к власти НСДАП Адольфа Гитлера"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-20",
-        "date": "1938-11-09",
-        "date_precision": "day",
-        "title": "Приход к власти НСДАП Адольфа Гитлера",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Приход к власти НСДАП Адольфа Гитлера"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-31",
-        "date": "1949-05-08",
-        "date_precision": "day",
-        "title": "После Второй мировой войны",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "После Второй мировой войны"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-32",
-        "date": "1949-10-07",
-        "date_precision": "day",
-        "title": "После Второй мировой войны",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "После Второй мировой войны"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-33",
-        "date": "1953-06-17",
-        "date_precision": "day",
-        "title": "После Второй мировой войны",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "После Второй мировой войны"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-34",
-        "date": "1990-10-03",
-        "date_precision": "day",
-        "title": "Объединение Германии",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Историческое время",
-            "Объединение Германии"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-35",
-        "date": "2019-01-01",
-        "date_precision": "day",
-        "title": "Уровень жизни",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Население",
-            "Уровень жизни"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-36",
-        "date": "2020-01-01",
-        "date_precision": "day",
-        "title": "Уровень жизни",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Население",
-            "Уровень жизни"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-37",
-        "date": "2017-07-08",
-        "date_precision": "day",
-        "title": "Миграция",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Население",
-            "Миграция"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-40",
-        "date": "1999-12-12",
-        "date_precision": "day",
-        "title": "Религия",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Население",
-            "Религия"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-41",
-        "date": "2003-10-17",
-        "date_precision": "day",
-        "title": "Этапы реформирования федеративной системы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственное устройство",
-            "Этапы реформирования федеративной системы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-42",
-        "date": "2005-11-18",
-        "date_precision": "day",
-        "title": "Этапы реформирования федеративной системы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственное устройство",
-            "Этапы реформирования федеративной системы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-43",
-        "date": "2006-07-07",
-        "date_precision": "day",
-        "title": "Этапы реформирования федеративной системы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственное устройство",
-            "Этапы реформирования федеративной системы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-44",
-        "date": "1955-05-05",
-        "date_precision": "day",
-        "title": "Внешняя политика",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственное устройство",
-            "Внешняя политика"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-45",
-        "date": "2022-10-25",
-        "date_precision": "day",
-        "title": "Внешняя политика",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Государственное устройство",
-            "Внешняя политика"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-46",
-        "date": "2004-11-10",
-        "date_precision": "day",
-        "title": "Вооружённые силы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Вооружённые силы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-47",
-        "date": "2011-07-01",
-        "date_precision": "day",
-        "title": "Вооружённые силы",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Вооружённые силы"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-48",
-        "date": "2017-06-11",
-        "date_precision": "day",
-        "title": "Экономика",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Экономика"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-50",
-        "date": "2022-02-24",
-        "date_precision": "day",
-        "title": "Оборона",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Экономика",
-            "Оборона"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-51",
-        "date": "2012-02-12",
-        "date_precision": "day",
-        "title": "Социальная политика",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Социальная политика"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-52",
-        "date": "2026-07-30",
-        "date_precision": "day",
-        "title": "Образование",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Образование"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -2032,94 +1316,381 @@
   "rejected": [
     {
       "kind": "event",
-      "ref": "text-event-38",
-      "preview": "2013-07-01 «Миграция»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "ref": "text-event-0",
+      "preview": "2025-05-06 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "2017-03-19 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "2021-12-31 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "0962-02-02 «Историческое время»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "1866-08-10 «Историческое время»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "1870-12-10 «Историческое время»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "1914-08-01 «Первая мировая война и Ноябрьская революция»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "1918-11-09 «Первая мировая война и Ноябрьская революция»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "1918-11-11 «Первая мировая война и Ноябрьская революция»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "1918-12-21 «Первая мировая война и Ноябрьская революция»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "1919-01-19 «Первая мировая война и Ноябрьская революция»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "1919-02-10 «Первая мировая война и Ноябрьская революция»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "1919-06-28 «Первая мировая война и Ноябрьская революция»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-13",
+      "preview": "1919-06-30 «Первая мировая война и Ноябрьская революция»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-14",
+      "preview": "1933-03-21 «Приход к власти НСДАП Адольфа Гитлера»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-15",
+      "preview": "1933-01-30 «Приход к власти НСДАП Адольфа Гитлера»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-16",
+      "preview": "1933-02-01 «Приход к власти НСДАП Адольфа Гитлера»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-17",
+      "preview": "1933-02-04 «Приход к власти НСДАП Адольфа Гитлера»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-18",
+      "preview": "1933-03-05 «Приход к власти НСДАП Адольфа Гитлера»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-19",
+      "preview": "1933-07-14 «Приход к власти НСДАП Адольфа Гитлера»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-20",
+      "preview": "1938-11-09 «Приход к власти НСДАП Адольфа Гитлера»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-21",
       "preview": "1939-09-01 «Вторая мировая война»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-22",
       "preview": "1941-06-22 «Вторая мировая война»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-23",
       "preview": "1945-05-08 «Вторая мировая война»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-24",
       "preview": "1944-06-06 «Вторая мировая война»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-25",
       "preview": "1944-07-20 «Вторая мировая война»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-26",
       "preview": "1945-03-07 «Вторая мировая война»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-27",
       "preview": "1945-04-21 «Вторая мировая война»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-28",
       "preview": "1945-04-30 «Вторая мировая война»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-29",
       "preview": "1945-05-02 «Вторая мировая война»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-30",
       "preview": "1945-05-03 «Вторая мировая война»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-31",
+      "preview": "1949-05-08 «После Второй мировой войны»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-32",
+      "preview": "1949-10-07 «После Второй мировой войны»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-33",
+      "preview": "1953-06-17 «После Второй мировой войны»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-34",
+      "preview": "1990-10-03 «Объединение Германии»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-35",
+      "preview": "2019-01-01 «Уровень жизни»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-36",
+      "preview": "2020-01-01 «Уровень жизни»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-37",
+      "preview": "2017-07-08 «Миграция»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-38",
+      "preview": "2013-07-01 «Миграция»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-39",
       "preview": "2021-12-31 «Религия»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-40",
+      "preview": "1999-12-12 «Религия»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-41",
+      "preview": "2003-10-17 «Этапы реформирования федеративной системы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-42",
+      "preview": "2005-11-18 «Этапы реформирования федеративной системы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-43",
+      "preview": "2006-07-07 «Этапы реформирования федеративной системы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-44",
+      "preview": "1955-05-05 «Внешняя политика»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-45",
+      "preview": "2022-10-25 «Внешняя политика»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-46",
+      "preview": "2004-11-10 «Вооружённые силы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-47",
+      "preview": "2011-07-01 «Вооружённые силы»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-48",
+      "preview": "2017-06-11 «Экономика»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-49",
       "preview": "2017-07-08 «Экономика»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-50",
+      "preview": "2022-02-24 «Оборона»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-51",
+      "preview": "2012-02-12 «Социальная политика»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-52",
+      "preview": "2026-07-30 «Образование»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "event-0",
+      "preview": "1871-01-18 «Основано»",
+      "rule": "EV-MIN",
+      "reason": "после отбора меньше 2 событий - шкала не нужна"
     },
     {
       "kind": "number",
@@ -2211,6 +1782,20 @@
       "preview": "На душу населения = 55521 долл.",
       "rule": "NUM-GROUP",
       "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "код_iso",
+      "preview": "Код ISO: DE",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "телефонный_код",
+      "preview": "Телефонный код: +49",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "image",

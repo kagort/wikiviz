@@ -16,9 +16,9 @@ def make_model(title, events):
     return NormalizedArticleModel(article=article, events=events)
 
 
-def event(i, date, title="History"):
-    return Event(id=f"text-event-{i}", date=date, date_precision=DatePrecision.DAY, title=title,
-                 source=SourceType.ARTICLE_TEXT, confidence=0.6)
+def event(i, date, title="Born", source=SourceType.INFOBOX):
+    prefix = "event" if source == SourceType.INFOBOX else "text-event"
+    return Event(id=f"{prefix}-{i}", date=date, date_precision=DatePrecision.DAY, title=title, source=source)
 
 
 def write_corpus(tmp_path, articles):
@@ -33,14 +33,18 @@ def write_corpus(tmp_path, articles):
 
 
 def test_values_carry_selection_status_and_content_keys():
-    model = make_model("A", [event(0, "1900-01-01"), event(1, "1900-01-01", "Legacy"), event(2, "1950-05-05")])
+    model = make_model("A", [
+        event(0, "1900-01-01", "Born"),
+        event(1, "1950-05-05", "Died"),
+        event(2, "1920-01-01", "History", SourceType.ARTICLE_TEXT),
+    ])
 
     values = article_values("a.json", model, select_reliable(model))
 
     assert [(v["key"], v["selected"], v["rule"]) for v in values] == [
-        ("a.json|event|1900-01-01|History|article_text", True, None),
-        ("a.json|event|1900-01-01|Legacy|article_text", False, "EV-DUP"),
-        ("a.json|event|1950-05-05|History|article_text", True, None),
+        ("a.json|event|1900-01-01|Born|infobox", True, None),
+        ("a.json|event|1950-05-05|Died|infobox", True, None),
+        ("a.json|event|1920-01-01|History|article_text", False, "EV-TEXT"),
     ]
 
 
