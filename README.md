@@ -77,6 +77,17 @@ python -m scripts.export_fixtures --update   # взять текущие вер�
 
 После изменения extractor'а фикстуры перевыгружаются; повторный запуск не должен менять `git diff`.
 
+### Отбор надёжных данных
+
+В визуализацию попадают только данные, прошедшие отбор (`backend/app/transformers/selection.py`, правила — `docs/SELECTION_TZ.md`). После изменения правил (без сети, из `backend`):
+
+```bash
+python -m scripts.apply_selection      # пересчитать отбор для фикстур и корпуса, данные /dev/review
+python -m scripts.selection_quality    # точность по разметке владельца
+```
+
+Разметка владельца — страница `http://localhost:3000/dev/review` (только `npm run dev`), сохраняется в `backend/tests/corpus/review/labels.json`.
+
 ### Docker
 
 `docker-compose.yml` описывает frontend, backend и Redis. В Phase 6 сборка через Docker не проверялась; полноценный запуск в Docker — часть Phase 14 (MVP).
