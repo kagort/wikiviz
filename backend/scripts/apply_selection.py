@@ -6,6 +6,9 @@
     frontend/tests/fixtures/real/*.json  ->  frontend/tests/fixtures/real/selection/*.json
     backend/tests/corpus/articles/*.json ->  backend/tests/corpus/selection/*.json
 
+Заодно пересобирает данные страницы разметки /dev/review
+(scripts.build_review).
+
 Запуск (из папки backend):
     python -m scripts.apply_selection
 """
@@ -38,6 +41,9 @@ def apply_selection(source_dir: Path, target_dir: Path) -> int:
 def main() -> None:
     for source, target in PAIRS:
         print(f"{source} -> {target}: {apply_selection(source, target)} articles")
+    # Данные страницы разметки /dev/review зависят от результатов отбора.
+    from scripts.build_review import main as build_review_main
+    build_review_main()
 
 
 if __name__ == "__main__":
