@@ -16,6 +16,7 @@ function makeEvent(overrides: Partial<Event> = {}): Event {
     description: null,
     source: SourceType.Infobox,
     confidence: 1.0,
+    context: null,
     ...overrides,
   }
 }

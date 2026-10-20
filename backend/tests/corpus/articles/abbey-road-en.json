@@ -1085,7 +1085,12 @@
       "title": "Released",
       "description": null,
       "source": "infobox",
-      "confidence": 1.0
+      "confidence": 1.0,
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "event-1",
@@ -1094,7 +1099,12 @@
       "title": "Recorded",
       "description": null,
       "source": "infobox",
-      "confidence": 1.0
+      "confidence": 1.0,
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-0",
@@ -1103,7 +1113,12 @@
       "title": "Introduction",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-1",
@@ -1112,7 +1127,15 @@
       "title": "Recording history",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Production",
+          "Recording history"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-2",
@@ -1121,7 +1144,16 @@
       "title": "\"I Want You (She's So Heavy)\"",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Songs",
+          "Side one",
+          "\"I Want You (She's So Heavy)\""
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-3",
@@ -1130,7 +1162,16 @@
       "title": "\"Here Comes the Sun\"",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Songs",
+          "Side two",
+          "\"Here Comes the Sun\""
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-4",
@@ -1139,7 +1180,14 @@
       "title": "Cover photo",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Cover photo"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-5",
@@ -1148,7 +1196,14 @@
       "title": "Release",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Release"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-6",
@@ -1157,7 +1212,15 @@
       "title": "Continued sales and reissues",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Legacy",
+          "Continued sales and reissues"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-7",
@@ -1166,7 +1229,15 @@
       "title": "Continued sales and reissues",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Legacy",
+          "Continued sales and reissues"
+        ],
+        "service_section": false
+      }
     }
   ],
   "numbers": [
@@ -1175,7 +1246,12 @@
       "value": 47.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "people": [],
@@ -1188,42 +1264,88 @@
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg/250px-TG12345_Mk.II_desk_%281970s%29_and_Microphones%2C_Abbey_Road_Studios.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "An EMI TG mixing desk, similar to this one, was used in the production of Abbey Road .",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Production",
+          "Technical aspects"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Moog_Modular_55_img2.jpg/1280px-Moog_Modular_55_img2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Moog_Modular_55_img2.jpg/250px-Moog_Modular_55_img2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "John Lennon played the Moog synthesiser 's white noise generator to create the \"wind\" sounds at the end of \"I Want You (She's So Heavy)\".",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Songs",
+          "Side one",
+          "\"I Want You (She's So Heavy)\""
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/The_Beatles_The_End_final_lyrics_plaque.jpg/1280px-The_Beatles_The_End_final_lyrics_plaque.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/The_Beatles_The_End_final_lyrics_plaque.jpg/250px-The_Beatles_The_End_final_lyrics_plaque.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "The medley of songs on side two finished with \" The End \".",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Songs",
+          "Side two",
+          "Medley"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/98/The_Beatles%2C_8_Aug_1969.jpg/1280px-The_Beatles%2C_8_Aug_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/98/The_Beatles%2C_8_Aug_1969.jpg/250px-The_Beatles%2C_8_Aug_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Only six session photos were taken by Macmillan ; three in which the band walked across the zebra crossing to the right, and three to the left",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Cover photo"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Cassini_team_Abbey_road.jpg/1280px-Cassini_team_Abbey_road.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Cassini_team_Abbey_road.jpg/250px-Cassini_team_Abbey_road.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Imitating the cover of Abbey Road has become popular with fans (pictured is the Cassini–Huygens team, with Carolyn Porco in white).",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Legacy",
+          "Abbey Road crossing and \"Paul is dead\""
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Beatles_Abbey_Road_album_cover.jpg/1280px-The_Beatles_Abbey_Road_album_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Beatles_Abbey_Road_album_cover.jpg/250px-The_Beatles_Abbey_Road_album_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": null,
       "alt": "The cover of Abbey Road has no printed words. It is a photo of the Beatles, in side view, crossing the street in single file.",
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "links": [],

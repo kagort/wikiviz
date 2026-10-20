@@ -412,7 +412,12 @@
       "title": "Дата образования",
       "description": null,
       "source": "infobox",
-      "confidence": 1.0
+      "confidence": 1.0,
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "event-1",
@@ -421,7 +426,12 @@
       "title": "Дата упразднения",
       "description": null,
       "source": "infobox",
-      "confidence": 1.0
+      "confidence": 1.0,
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-0",
@@ -430,7 +440,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-1",
@@ -439,7 +456,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-2",
@@ -448,7 +472,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-3",
@@ -457,7 +488,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-4",
@@ -466,7 +504,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-5",
@@ -475,7 +520,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-6",
@@ -484,7 +536,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-7",
@@ -493,7 +552,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-8",
@@ -502,7 +568,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-9",
@@ -511,7 +584,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-10",
@@ -520,7 +600,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-11",
@@ -529,7 +616,14 @@
       "title": "История",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-12",
@@ -538,7 +632,14 @@
       "title": "Награды",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "list_item",
+        "section_path": [
+          "Награды"
+        ],
+        "service_section": false
+      }
     }
   ],
   "numbers": [
@@ -547,35 +648,60 @@
       "value": 1938.0,
       "unit": "year",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "История и география — Площадь",
       "value": 160236.0,
       "unit": "км²",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Население — Население",
       "value": 2769805.0,
       "unit": "чел.",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Население — Плотность",
       "value": 17.29,
       "unit": "чел./км²",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Население — Прежние имена",
       "value": 1940.0,
       "unit": "year",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "people": [],
@@ -588,14 +714,28 @@
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.png/330px-%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Физическая карта Пермской области",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "История"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Russia_stamp_2003_%E2%84%96_826.jpg/1280px-Russia_stamp_2003_%E2%84%96_826.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Russia_stamp_2003_%E2%84%96_826.jpg/250px-Russia_stamp_2003_%E2%84%96_826.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Почтовая марка, 2003 год",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "В культуре"
+        ],
+        "service_section": false
+      }
     }
   ],
   "links": [],

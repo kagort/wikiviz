@@ -236,7 +236,12 @@
       "title": "Introduction",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "numbers": [
@@ -245,49 +250,84 @@
       "value": 62.0,
       "unit": "км²",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "История и география — Высота центра",
       "value": 909.0,
       "unit": "м",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "История и география — Часовой пояс",
       "value": 1.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Население — Население",
       "value": 1338.0,
       "unit": "человек",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Цифровые идентификаторы — Телефонный код",
       "value": 43523.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Цифровые идентификаторы — Почтовый индекс",
       "value": 6181.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Цифровые идентификаторы — Официальный код",
       "value": 7.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "people": [],
@@ -300,7 +340,12 @@
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Gemeinde_Sellrain.jpg/330px-Gemeinde_Sellrain.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": null,
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "links": [],

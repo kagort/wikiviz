@@ -232,3 +232,15 @@ def test_gdp_year_subheader_becomes_group_not_value():
     labels = [r.label for r in result]
     assert "GDP (PPP) — Total" in labels
     assert not any(r.value == 2026.0 for r in result)
+
+def test_number_has_infobox_context():
+    html = """
+    <table class="infobox">
+        <tr><td class="infobox-label">Population</td><td class="infobox-data">69,081,996</td></tr>
+    </table>
+    """
+
+    numbers = extract_numbers(html)
+
+    assert numbers[0].context.block.value == "infobox"
+    assert numbers[0].context.section_path == []

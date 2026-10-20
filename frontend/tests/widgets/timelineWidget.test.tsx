@@ -22,6 +22,7 @@ function makeEvent(id: string, date: string): Event {
     description: null,
     source: SourceType.ArticleText,
     confidence: 0.6,
+    context: null,
   }
 }
 

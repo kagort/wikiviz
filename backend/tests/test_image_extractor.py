@@ -279,3 +279,28 @@ def test_figures_and_old_thumbs_keep_document_order():
     )
 
     assert [i.caption for i in extract_images(html)] == ["First", "Second", "Third"]
+
+
+# --- Происхождение изображений: context (сессия 4) -----------------------------
+
+
+def test_image_context_tells_figure_gallery_infobox_and_section():
+    html = (
+        '<table class="infobox"><tr><td class="infobox-image">'
+        '<a href="/wiki/File:Flag.png" class="mw-file-description"><img src="//x/250px-Flag.png"/></a>'
+        "</td></tr></table>"
+        '<div class="mw-heading mw-heading2"><h2>History</h2></div>'
+        + _figure("Old.jpg", "Old photo")
+        + '<div class="mw-heading mw-heading2"><h2>External links</h2></div>'
+        + """<ul class="gallery"><li class="gallerybox">
+            <div class="thumb"><a href="/wiki/File:Stamp.jpg" class="mw-file-description"><img src="//x/120px-Stamp.jpg"/></a></div>
+            <div class="gallerytext">Stamp</div></li></ul>"""
+    )
+
+    images = extract_images(html)
+
+    assert [(i.context.block.value, i.context.section_path, i.context.service_section) for i in images] == [
+        ("figure", ["History"], False),
+        ("gallery", ["External links"], True),
+        ("infobox", [], False),
+    ]

@@ -3,6 +3,7 @@ from typing import Optional
 from pydantic import BaseModel
 
 from app.models.common import SourceType
+from app.models.context import ValueContext
 
 
 class Image(BaseModel):
@@ -11,3 +12,4 @@ class Image(BaseModel):
     caption: Optional[str] = None
     alt: Optional[str] = None
     source: SourceType = SourceType.ARTICLE_TEXT
+    context: Optional[ValueContext] = None

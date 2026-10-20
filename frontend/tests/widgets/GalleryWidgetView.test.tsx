@@ -43,6 +43,7 @@ describe('GalleryWidgetView', () => {
       caption: null,
       alt: null,
       source: SourceType.ArticleText,
+      context: null,
     }
     const { container } = render(<GalleryWidgetView images={[image]} />)
     const img = container.querySelector('img')
@@ -58,6 +59,7 @@ describe('GalleryWidgetView', () => {
       caption: 'Map',
       alt: null,
       source: SourceType.ArticleText,
+      context: null,
     }
     const { container } = render(<GalleryWidgetView images={[image]} />)
     expect(container.querySelector('img')?.src).toBe(image.thumbnail_url)
@@ -70,6 +72,7 @@ describe('GalleryWidgetView', () => {
       caption: null,
       alt: null,
       source: SourceType.ArticleText,
+      context: null,
     }
     const { container } = render(<GalleryWidgetView images={[image]} />)
     expect(container.querySelector('img')?.src).toBe(image.url)

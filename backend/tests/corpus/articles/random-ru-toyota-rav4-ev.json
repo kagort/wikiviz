@@ -38,7 +38,14 @@
       "title": "Второе поколение",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "other",
+        "section_path": [
+          "Второе поколение"
+        ],
+        "service_section": false
+      }
     }
   ],
   "numbers": [],
@@ -52,7 +59,12 @@
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Toyota_RAV_4_EV.jpg/330px-Toyota_RAV_4_EV.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Toyota RAV4 EV",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "links": [],

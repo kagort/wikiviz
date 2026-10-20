@@ -3,8 +3,9 @@ from urllib.parse import unquote
 
 from bs4 import BeautifulSoup
 
+from app.extractors.context import SectionIndex
 from app.extractors.text_utils import strings_without_footnotes
-from app.models import Image
+from app.models import BlockType, Image
 
 _THUMB_WIDTH_RE = re.compile(r"/\d+px-")
 
@@ -107,6 +108,8 @@ def extract_images(html: str) -> list[Image]:
     if infobox_cell is not None:
         containers.append(("infobox", infobox_cell))
 
+    index = SectionIndex(soup)
+
     for kind, container in containers:
         img_tag = container.find("img")
         if img_tag is None or not img_tag.get("src"):
@@ -134,8 +137,17 @@ def extract_images(html: str) -> list[Image]:
             continue
         seen.add(dedup_key)
 
+        # Происхождение (решение В2): инфобокс, галерея или иллюстрация.
+        if kind == "infobox":
+            block = BlockType.INFOBOX
+        elif container.find_parent(class_="gallerybox") is not None:
+            block = BlockType.GALLERY
+        else:
+            block = BlockType.FIGURE
+
         images.append(
-            Image(url=url, thumbnail_url=thumbnail_url, caption=caption, alt=alt)
+            Image(url=url, thumbnail_url=thumbnail_url, caption=caption, alt=alt,
+                  context=index.context(container, block))
         )
 
     return images

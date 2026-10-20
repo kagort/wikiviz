@@ -2,8 +2,9 @@ import re
 
 from bs4 import BeautifulSoup
 
+from app.extractors.context import SectionIndex
 from app.extractors.text_date_extractor import parse_text_dates
-from app.models import DatePrecision, Event, SourceType
+from app.models import BlockType, DatePrecision, Event, SourceType
 
 _ISO_DATE_RE = re.compile(r"\((\d{4})-(\d{2})-(\d{2})\)")
 _BCE_YEAR_RE = re.compile(
@@ -111,5 +112,10 @@ def extract_dates(html: str) -> list[Event]:
                     source=SourceType.INFOBOX,
                 )
             )
+
+    # Происхождение (решение В2): все даты этого extractor'а - из инфобокса.
+    context = SectionIndex(soup).context(infobox, BlockType.INFOBOX)
+    for event in events:
+        event.context = context
 
     return events

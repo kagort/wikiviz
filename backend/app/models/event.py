@@ -3,6 +3,7 @@ from typing import Optional
 from pydantic import BaseModel, Field
 
 from app.models.common import DatePrecision, SourceType
+from app.models.context import ValueContext
 
 
 class Event(BaseModel):
@@ -13,3 +14,4 @@ class Event(BaseModel):
     description: Optional[str] = None
     source: SourceType
     confidence: float = Field(default=1.0, ge=0.0, le=1.0)
+    context: Optional[ValueContext] = None

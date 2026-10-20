@@ -15,7 +15,7 @@ function loadFixture(filename: string): NormalizedArticleModel {
 }
 
 function num(label: string, value: number, unit: string | null = '%'): NumericValue {
-  return { label, value, unit, year: null, source: SourceType.Infobox }
+  return { label, value, unit, year: null, source: SourceType.Infobox, context: null }
 }
 
 describe('findChartGroups', () => {

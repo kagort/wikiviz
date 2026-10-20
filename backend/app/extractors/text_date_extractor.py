@@ -1,9 +1,10 @@
 import re
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
 
-from app.extractors.section_extractor import HEADING_TAGS, extract_sections
-from app.models import DatePrecision, Event, SourceType
+from app.extractors.context import SectionIndex, block_of
+from app.extractors.section_extractor import HEADING_TAGS
+from app.models import DatePrecision, Event, SourceType, ValueContext
 
 _EN_MONTHS = {
     "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
@@ -41,41 +42,11 @@ _BCE_MARKER_RE = re.compile(
 _TEXT_CONFIDENCE = 0.6
 _LEAD_TITLE = "Introduction"
 
-_EXCLUDED_SECTION_TITLES = {
-    "references", "citations", "bibliography", "notes", "footnotes",
-    "external links", "further reading", "see also", "sources",
-    "примечания", "источники", "литература", "ссылки", "см. также",
-    "сноски", "примечания и источники",
-}
 
 
 def _month_number(month_text: str):
     key = month_text.lower()
     return _EN_MONTHS.get(key) or _RU_MONTHS.get(key)
-
-
-def _strip_tables(fragment_html: str) -> str:
-    """Убирает содержимое <table> перед поиском дат - таблицы (списки
-    стран-членов, списки должностных лиц и т.п.) дают систематический
-    шум и не являются "упоминанием в прозе"."""
-    soup = BeautifulSoup(fragment_html, "html.parser")
-    for table in soup.find_all("table"):
-        table.decompose()
-    return " ".join(soup.stripped_strings)
-
-
-def _lead_text(soup: BeautifulSoup) -> str:
-    headings = soup.find_all(HEADING_TAGS)
-    if not headings:
-        return _strip_tables(str(soup))
-
-    first_heading = headings[0]
-    wrapper = first_heading.find_parent("div", class_="mw-heading")
-    boundary = wrapper if wrapper is not None else first_heading
-
-    preceding = list(reversed(boundary.find_previous_siblings()))
-    fragment_html = "".join(str(el) for el in preceding if getattr(el, "name", None))
-    return _strip_tables(fragment_html)
 
 
 def parse_text_dates(text: str) -> list[tuple[str, DatePrecision]]:
@@ -106,26 +77,25 @@ def parse_text_dates(text: str) -> list[tuple[str, DatePrecision]]:
     return result
 
 
-def _find_dates_in_text(text: str, title: str) -> list[Event]:
-    events: list[Event] = []
-    seen: set[str] = set()
-
-    for date_str, precision in parse_text_dates(text):
-        if date_str in seen:
+def _text_blocks(soup):
+    """
+    Текст статьи по блокам в порядке документа: [(блок, вид, текст)].
+    Блок - абзац, пункт списка, подпись иллюстрации или другой родитель
+    (context.block_of). Пропускаются таблицы (структурированные данные,
+    не "упоминание в прозе"), заголовки, стили и комментарии.
+    """
+    groups: dict[int, list] = {}
+    for node in soup.find_all(string=True):
+        if isinstance(node, Comment) or node.parent.name in ("style", "script"):
             continue
-        seen.add(date_str)
-        events.append(
-            Event(
-                id="pending",
-                date=date_str,
-                date_precision=precision,
-                title=title,
-                source=SourceType.ARTICLE_TEXT,
-                confidence=_TEXT_CONFIDENCE,
-            )
-        )
-
-    return events
+        if not node.strip():
+            continue
+        if node.find_parent(HEADING_TAGS) is not None or node.find_parent("table") is not None:
+            continue
+        block, kind = block_of(node)
+        group = groups.setdefault(id(block), [block, kind, []])
+        group[2].append(node.strip())
+    return [(block, kind, " ".join(parts)) for block, kind, parts in groups.values()]
 
 
 def extract_text_dates(html: str) -> list[Event]:
@@ -138,14 +108,20 @@ def extract_text_dates(html: str) -> list[Event]:
     - служебные разделы (References/Citations/Примечания/Источники и
       т.п.) вместе со всеми их подразделами - содержат даты обращения
       к источникам и публикаций, не события статьи;
-    - содержимое <table> внутри раздела - таблицы (список стран-членов,
-      список должностных лиц) дают систематический шум и обрабатываются
+    - содержимое <table> - таблицы (список стран-членов, список
+      должностных лиц) дают систематический шум и обрабатываются
       отдельно как структурированные данные, не как "упоминание в прозе".
+
+    Даты ищутся внутри блока (абзац, пункт списка, подпись) - дата не
+    склеивается из соседних блоков. У события записывается происхождение
+    (context): вид блока и путь разделов - по нему слой отбора отличает,
+    например, даты из списков наград от дат в рассказе.
 
     Дата привязывается к заголовку раздела, где встретилась, либо к
     "Introduction" для текста до первого заголовка. confidence=0.6
     (ниже, чем у дат из infobox) - привязка к заголовку раздела заведомо
-    менее точна, чем привязка к конкретному infobox-полю.
+    менее точна, чем привязка к конкретному infobox-полю. Повтор одной
+    даты в пределах раздела не добавляется.
 
     Дата с маркером эпохи до н. э. сохраняется только годом ("-0044",
     precision=year), как и в infobox (ТЗ §16.2).
@@ -154,28 +130,30 @@ def extract_text_dates(html: str) -> list[Event]:
         return []
 
     soup = BeautifulSoup(html, "html.parser")
+    index = SectionIndex(soup)
 
     events: list[Event] = []
+    seen: dict[tuple, set[str]] = {}
 
-    lead_text = _lead_text(soup)
-    events.extend(_find_dates_in_text(lead_text, title=_LEAD_TITLE))
-
-    # Уровень заголовка открытого служебного раздела: его подразделы
-    # (например, Economy/Government/Culture внутри External links у France,
-    # Secondary sources внутри Sources) исключаются вместе с ним, хотя
-    # их собственные названия служебными не выглядят.
-    excluded_level = None
-    for section in extract_sections(html):
-        if excluded_level is not None and section.level > excluded_level:
+    for block, kind, text in _text_blocks(soup):
+        path, service = index.section_of(block)
+        if service:
             continue
-        excluded_level = None
-        if section.title.strip().lower() in _EXCLUDED_SECTION_TITLES:
-            excluded_level = section.level
-            continue
-        section_text = _strip_tables(section.html)
-        events.extend(_find_dates_in_text(section_text, title=section.title))
-
-    for index, event in enumerate(events):
-        event.id = f"text-event-{index}"
+        section_seen = seen.setdefault(tuple(path), set())
+        for date_str, precision in parse_text_dates(text):
+            if date_str in section_seen:
+                continue
+            section_seen.add(date_str)
+            events.append(
+                Event(
+                    id=f"text-event-{len(events)}",
+                    date=date_str,
+                    date_precision=precision,
+                    title=path[-1] if path else _LEAD_TITLE,
+                    source=SourceType.ARTICLE_TEXT,
+                    confidence=_TEXT_CONFIDENCE,
+                    context=ValueContext(block=kind, section_path=path),
+                )
+            )
 
     return events
