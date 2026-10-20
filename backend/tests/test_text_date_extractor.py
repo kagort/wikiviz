@@ -290,3 +290,67 @@ def test_mixed_formats_keep_order_of_appearance():
     """
 
     assert [e.date for e in extract_text_dates(html)] == ["1998-09-04", "1999-09-04", "2004-08-19"]
+
+
+# --- Происхождение дат: context (сессия 4, решение В2) --------------------------
+
+
+def _ctx(event):
+    return (event.context.block.value, event.context.section_path, event.context.service_section)
+
+
+def test_context_tells_list_item_from_paragraph():
+    # Гагарин: даты наград - пункты списка, даты биографии - абзацы.
+    html = """
+    <h2>Biography</h2>
+    <p>He flew on 12 April 1961.</p>
+    <h2>Awards</h2>
+    <ul><li>Hero of the Soviet Union, 14 April 1961</li></ul>
+    """
+
+    events = extract_text_dates(html)
+
+    assert [(e.date, _ctx(e)) for e in events] == [
+        ("1961-04-12", ("paragraph", ["Biography"], False)),
+        ("1961-04-14", ("list_item", ["Awards"], False)),
+    ]
+
+
+def test_context_section_path_follows_nesting():
+    html = """
+    <div class="mw-heading mw-heading2"><h2>History</h2></div>
+    <div class="mw-heading mw-heading3"><h3>Early years</h3></div>
+    <p>Founded on 4 September 1998.</p>
+    <div class="mw-heading mw-heading2"><h2>Products</h2></div>
+    <p>Launched on 1 April 2004.</p>
+    """
+
+    assert [e.context.section_path for e in extract_text_dates(html)] == [
+        ["History", "Early years"],
+        ["Products"],
+    ]
+
+
+def test_context_of_lead_dates_has_empty_path():
+    html = "<p>Born on 14 March 1879.</p><h2>Life</h2><p>x</p>"
+
+    events = extract_text_dates(html)
+
+    assert events[0].title == "Introduction"
+    assert _ctx(events[0]) == ("paragraph", [], False)
+
+
+def test_context_of_date_in_figure_caption():
+    html = """
+    <h2>Life</h2>
+    <figure typeof="mw:File/Thumb"><img src="x.jpg"/><figcaption>Photo taken on 1 May 1920</figcaption></figure>
+    """
+
+    assert [_ctx(e) for e in extract_text_dates(html)] == [("figure", ["Life"], False)]
+
+
+def test_dates_from_neighbouring_blocks_are_not_glued_together():
+    # "15 March" в конце одного абзаца и "1879" в начале следующего - не дата.
+    html = "<h2>A</h2><p>It happened on 15 March</p><p>1879 people came.</p>"
+
+    assert extract_text_dates(html) == []

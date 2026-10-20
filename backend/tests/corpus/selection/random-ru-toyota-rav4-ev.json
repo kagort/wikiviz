@@ -1,0 +1,66 @@
+{
+  "selected": {
+    "article": {
+      "id": 1326874,
+      "title": "Toyota RAV4 EV",
+      "language": "ru",
+      "url": "https://ru.wikipedia.org/wiki/Toyota_RAV4_EV",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Первое поколение",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "Второе поколение",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-2",
+        "title": "Примечания",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {},
+    "tables": [],
+    "locations": [],
+    "events": [],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Toyota_RAV_4_EV.jpg/1280px-Toyota_RAV_4_EV.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Toyota_RAV_4_EV.jpg/330px-Toyota_RAV_4_EV.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Toyota RAV4 EV",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "2018-02-25 «Второе поколение»",
+      "rule": "EV-MIN",
+      "reason": "после отбора меньше 2 событий - шкала не нужна"
+    }
+  ]
+}

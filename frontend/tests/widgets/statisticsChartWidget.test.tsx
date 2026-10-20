@@ -9,13 +9,18 @@ import { makeArticle } from '../fixtures/article'
 import { SourceType } from '../../types'
 import type { NormalizedArticleModel, NumericValue } from '../../types'
 
-function loadFixture(filename: string): NormalizedArticleModel {
-  const filePath = path.join(__dirname, '../fixtures/real', filename)
-  return JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+/**
+ * Отобранные данные статьи (backend: python -m scripts.apply_selection).
+ * Виджет получает числа после отбора: пороги и фильтры (NUM-UNIT,
+ * NUM-CODE, NUM-GROUP...) проверяются в backend/tests/test_selection.py.
+ */
+function loadSelected(filename: string): NormalizedArticleModel {
+  const filePath = path.join(__dirname, '../fixtures/real/selection', filename)
+  return JSON.parse(fs.readFileSync(filePath, 'utf-8')).selected
 }
 
 function num(label: string, value: number, unit: string | null = '%'): NumericValue {
-  return { label, value, unit, year: null, source: SourceType.Infobox }
+  return { label, value, unit, year: null, source: SourceType.Infobox, context: null }
 }
 
 describe('findChartGroups', () => {
@@ -39,37 +44,40 @@ describe('findChartGroups', () => {
     ])
   })
 
-  test('меньше трёх значений - не диаграмма', () => {
-    expect(findChartGroups([num('A — x', 1), num('A — y', 2)])).toEqual([])
+  test('разные единицы с общим началом подписи - разные группы', () => {
+    const groups = findChartGroups([
+      num('Area — Total', 632702.3, 'km²'),
+      num('Area — Water (%)', 0.86),
+      num('Area — Metropolitan', 543941, 'km²'),
+    ])
+
+    expect(groups.map((g) => [g.title, g.unit, g.items.length])).toEqual([
+      ['Area', 'km²', 2],
+      ['Area', '%', 1],
+    ])
   })
 
-  test('разные единицы в группе - не диаграмма (Area: km² и %)', () => {
+  test('числа без группы в подписи или без единицы не используются', () => {
     expect(
-      findChartGroups([
-        num('Area — Total', 632702.3, 'km²'),
-        num('Area — Water (%)', 0.86),
-        num('Area — Metropolitan', 543941, 'km²'),
-      ])
+      findChartGroups([num('Praetor', 62, 'BC'), num('Consul', 59, 'BC'), num('A — x', 1, null)])
     ).toEqual([])
   })
 
-  test('числа без группы в подписи не используются (годы Цезаря)', () => {
-    expect(
-      findChartGroups([num('Praetor', 62, 'BC'), num('Consul', 59, 'BC'), num('Dictator', 44, 'BC')])
-    ).toEqual([])
-  })
+  test('France после отбора: религии (%) и площади (км²)', () => {
+    // NUM-GROUP (SELECTION_TZ): группа из 3 и больше значений с одной единицей.
+    // Ограничить диаграмму процентами - вопрос настройки по разметке владельца.
+    const groups = findChartGroups(loadSelected('france.json').numbers)
 
-  test('France: только религии, все 10 значений', () => {
-    const groups = findChartGroups(loadFixture('france.json').numbers)
-
-    expect(groups.map((g) => g.title)).toEqual(['Religion (2025)'])
-    expect(groups[0].items).toHaveLength(10)
+    expect(groups.map((g) => [g.title, g.unit, g.items.length])).toEqual([
+      ['Religion (2025)', '%', 10],
+      ['Area', 'km²', 3],
+    ])
   })
 
   test.each(['python.json', 'tokyo-ru.json', 'julius-caesar.json', 'socrates-ru.json'])(
-    '%s: пригодных групп нет',
+    '%s после отбора: групп для диаграммы нет',
     (file) => {
-      expect(findChartGroups(loadFixture(file).numbers)).toEqual([])
+      expect(findChartGroups(loadSelected(file).numbers)).toEqual([])
     }
   )
 })
@@ -87,7 +95,12 @@ describe('barWidths и formatValue', () => {
     expect(barWidths([{ label: 'a', value: -5 }])).toEqual([0])
   })
 
+  test('для других единиц шкала - от 0 до максимума группы', () => {
+    expect(barWidths([{ label: 'a', value: 50 }, { label: 'b', value: 200 }], 'km²')).toEqual([25, 100])
+  })
+
   test('подпись значения', () => {
+    expect(formatValue(2193.96, 'км²')).toBe('2193.96 км²')
     expect(formatValue(48, '%')).toBe('48%')
     expect(formatValue(37.5, '%')).toBe('37.5%')
     expect(formatValue(1 / 3, '%')).toBe('0.33%')
@@ -95,23 +108,23 @@ describe('barWidths и formatValue', () => {
 })
 
 describe('statisticsChartWidget', () => {
-  test('supports: false без пригодных групп, true для France', () => {
+  test('supports: false без групп, true для France после отбора', () => {
     expect(statisticsChartWidget.supports(makeArticle())).toBe(false)
-    expect(statisticsChartWidget.supports(loadFixture('tokyo-ru.json'))).toBe(false)
-    expect(statisticsChartWidget.supports(loadFixture('france.json'))).toBe(true)
+    expect(statisticsChartWidget.supports(loadSelected('tokyo-ru.json'))).toBe(false)
+    expect(statisticsChartWidget.supports(loadSelected('france.json'))).toBe(true)
   })
 
   test('регистрируется и выбирается через selectWidgets на реальных данных', () => {
     const registry = new WidgetRegistry()
     registry.register(statisticsChartWidget)
 
-    expect(selectWidgets(loadFixture('france.json'), registry).map((w) => w.id)).toEqual([
+    expect(selectWidgets(loadSelected('france.json'), registry).map((w) => w.id)).toEqual([
       'statistics-chart-widget',
     ])
   })
 
   test('France: таблица-диаграмма с подписью, 10 строк, значения и столбики', () => {
-    render(<statisticsChartWidget.render data={loadFixture('france.json')} />)
+    render(<statisticsChartWidget.render data={loadSelected('france.json')} />)
 
     const table = screen.getByRole('table', { name: 'Religion (2025)' })
     const rows = within(table).getAllByRole('row')

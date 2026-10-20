@@ -1,0 +1,1038 @@
+{
+  "selected": {
+    "article": {
+      "id": 36225,
+      "title": "Мастер и Маргарита",
+      "language": "ru",
+      "url": "https://ru.wikipedia.org/wiki/Мастер_и_Маргарита",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Сюжет",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "История создания",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-2",
+        "title": "Публикация",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-3",
+            "title": "Доперестроечные публикации",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-4",
+                "title": "Цензурированная публикация в журнале «Москва» и зарубежные публикации",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-5",
+                "title": "Публикация 1973 года (редакция А. А. Саакянц)",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-6",
+                "title": "Разночтения между публикациями",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-7",
+            "title": "Послеперестроечные публикации",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-8",
+                "title": "Публикация 1989/1990 года (редакция Л. М. Яновской)",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-9",
+                "title": "Публикация 2014 года (редакция Е. Ю. Колышевой, основной текст)",
+                "level": 4,
+                "children": [
+                  {
+                    "id": "section-10",
+                    "title": "Задачи и цели публикации, анализ машинописей",
+                    "level": 5,
+                    "children": []
+                  },
+                  {
+                    "id": "section-11",
+                    "title": "Проблема финала 32-й главы в контексте последней творческой воли автора",
+                    "level": 5,
+                    "children": []
+                  },
+                  {
+                    "id": "section-12",
+                    "title": "Критика предшествующих публикаций, определение источника основного текста",
+                    "level": 5,
+                    "children": []
+                  },
+                  {
+                    "id": "section-13",
+                    "title": "Значение работы Колышевой для булгаковедения",
+                    "level": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "section-14",
+            "title": "Авторские права",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-15",
+        "title": "Персонажи",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-16",
+            "title": "Мессир и его свита",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-17",
+                "title": "Воланд",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-18",
+                "title": "Азазелло",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-19",
+                "title": "Коровьев-Фагот",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-20",
+                "title": "Кот Бегемот",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-21",
+                "title": "Гелла",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-22",
+            "title": "Главные трагические герои",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-23",
+                "title": "Мастер",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-24",
+                "title": "Маргарита",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-25",
+            "title": "Участники московских эпизодов",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-26",
+                "title": "Литераторы",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-27",
+                "title": "Сотрудники театра Варьете",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-28",
+                "title": "Другие персонажи",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-29",
+            "title": "Герои романа Мастера",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-30",
+                "title": "Понтий Пилат",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-31",
+                "title": "Иешуа",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-32",
+                "title": "Другие персонажи",
+                "level": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "section-33",
+        "title": "Московские учреждения и организации в романе",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-34",
+            "title": "Клиника профессора Стравинского",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-35",
+            "title": "Театр Варьете и сеанс чёрной магии",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-36",
+            "title": "МАССОЛИТ, Дом Грибоедова, ресторан «Грибоедов»",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-37",
+        "title": "«Нехорошая квартира»",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-38",
+        "title": "Полёт Маргариты",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-39",
+        "title": "Великий бал у Сатаны",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-40",
+        "title": "Заключительные главы романа. Эпилог",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-41",
+        "title": "Литературная полемика вокруг романа",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-42",
+        "title": "Художественные особенности",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-43",
+            "title": "Сюжетно-композиционные особенности",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-44",
+            "title": "Реализм и фантастика",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-45",
+            "title": "Художественные и стилистические приёмы, жанровые особенности",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-46",
+        "title": "Литературная перекличка",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-47",
+            "title": "«Мастер и Маргарита» и русская литература",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-48",
+            "title": "Перекличка с зарубежной литературой",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-49",
+            "title": "«Мастер и Маргарита» и «Золотой телёнок»",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-50",
+        "title": "Влияние и отражение в культуре",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-51",
+        "title": "Адаптации",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-52",
+            "title": "Экранизации",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-53",
+            "title": "Театральные постановки",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-54",
+            "title": "Музыкальные адаптации",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-55",
+        "title": "Комментарии",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-56",
+        "title": "Примечания",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-57",
+        "title": "Литература",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-58",
+            "title": "Документальные фильмы",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "infobox": {
+      "жанр": {
+        "key": "жанр",
+        "label": "Жанр",
+        "group": null,
+        "value": "роман",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "автор": {
+        "key": "автор",
+        "label": "Автор",
+        "group": null,
+        "value": "Михаил Булгаков",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "язык_оригинала": {
+        "key": "язык_оригинала",
+        "label": "Язык оригинала",
+        "group": null,
+        "value": "русский",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "дата_написания": {
+        "key": "дата_написания",
+        "label": "Дата написания",
+        "group": null,
+        "value": "1928—1940",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "дата_первой_публикации": {
+        "key": "дата_первой_публикации",
+        "label": "Дата первой публикации",
+        "group": null,
+        "value": "1966—1967",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [
+      {
+        "id": "table-1",
+        "title": "Дневник Елены Булгаковой",
+        "columns": [
+          "17 июня [1937 года].",
+          "Вечером у нас Вильямсы. М. А. читал главы из романа ( «Консультант с копытом» )."
+        ],
+        "rows": [
+          [
+            "<…>",
+            "<…>"
+          ],
+          [
+            "23 октября [1937 года].",
+            "Сережкин день рожденья, подарили ему духовое ружье. <…> У М. А. из-за всех этих дел по чужим и своим либретто начинает зреть мысль — уйти из Большого театра, выправить роман ( «Мастер и Маргарита» ), представить его наверх. <…>"
+          ],
+          [
+            "<…>",
+            "<…>"
+          ],
+          [
+            "12 ноября [1937 года].",
+            "Днем заходили в Большой к Якову Л. <…> Вечером М. А. работал над романом о Мастере и Маргарите ."
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      },
+      {
+        "id": "table-3",
+        "title": null,
+        "columns": [
+          "1.",
+          "Последний прижизненный текст может быть искалечен редакцией или цензурой. Текстолог обязан эти вынужденные поправки снять и восстановить подлинный текст. И в этом случае исследователь должен проявлять необходимую осторожность."
+        ],
+        "rows": [
+          [
+            "2.",
+            "Последний прижизненный текст может быть результатом автоцензуры: лучше изменить самому, чем ждать гораздо более нелепых сокращений цензора."
+          ],
+          [
+            "3.",
+            "Последний прижизненный текст может быть издан в отсутствие автора : исследователь должен заменить отсутствующего автора и исправить работу современного писателю издателя."
+          ],
+          [
+            "4.",
+            "Автор страдает своего рода абулией — он равнодушен к переиздающимся текстам и фактически их не ведёт."
+          ],
+          [
+            "5.",
+            "Порою автор передоверяет издание тем или иным лицам, давая им большие или меньшие полномочия касательно правки текста."
+          ],
+          [
+            "6.",
+            "Начатая автором переработка не была им завершена."
+          ],
+          [
+            "7.",
+            "В ряде случаев первоначальные редакции по тем или другим основаниям должны быть предпочтены последней."
+          ],
+          [
+            "8.",
+            "Даже там, где последняя творческая воля автора явно выражена, текстолог не может безоговорочно принимать текст. Надо помнить, что автор, почти как правило, — плохой корректор своих творений: он читает свой текст не по-корректорски, а обращая преимущественное внимание на творческую сторону, и почти не в состоянии считывать свой текст с оригиналом."
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      },
+      {
+        "id": "table-4",
+        "title": "Обозначения Колышевой",
+        "columns": [
+          "1.",
+          "Машинопись, напечатанная О. С. Бокшанской под диктовку Булгакова в 1938 году, — основная машинопись ."
+        ],
+        "rows": [
+          [
+            "2.",
+            "Машинопись 1938 года с правкой 1938—1940 годов, имеющей несколько слоёв, — машинопись 10.2 ."
+          ],
+          [
+            "3.",
+            "Машинопись, напечатанная Е. С. Булгаковой в 1939—1940 годах, — машинопись 40 ."
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      },
+      {
+        "id": "table-5",
+        "title": null,
+        "columns": [
+          "1.",
+          "Экземпляр машинописи, принадлежавший Н. А. Земской , а затем Е. А. Земской ."
+        ],
+        "rows": [
+          [
+            "2.",
+            "Экземпляр машинописи, принадлежавший Е. А. Светлаевой (его копия была предоставлена В. Ф. Дименко)."
+          ],
+          [
+            "3.",
+            "Экземпляр машинописи, принадлежавший П. С. Попову и хранящийся в его архиве в НИОР РГБ (Ф. 547. Ед. хр. 11. К. 2-3)."
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      },
+      {
+        "id": "table-6",
+        "title": null,
+        "columns": [
+          "1.",
+          "Машинопись, напечатанная О. С. Бокшанской под диктовку Булгакова в 1938 году (Ф. 562. К. 8. Ед. хр. 2-3; К. 9, Ед. хр. 2; К. 10. Ед. хр. 2)."
+        ],
+        "rows": [
+          [
+            "2.",
+            "Машинопись 1938 года с правкой 1938—1940 годов, имеющей несколько слоёв (Ф. 562. К. 10. Ед. хр. 2)."
+          ],
+          [
+            "3.",
+            "Тетрадь с записью Булгакова на титульном листе: «Мастер и Маргарита. Роман. Отделка», содержащая варианты начала первой главы и первый вариант эпилога (Ф. 562. К. 9. Ед. хр. 1)."
+          ],
+          [
+            "4.",
+            "Тетрадь с новыми вариантами фрагментов романа, написанными Е. С. Булгаковой под диктовку Булгакова, начиная с 4 октября 1939 года (Ф. 562. К. 10. Ед. хр. 1)."
+          ],
+          [
+            "5.",
+            "Машинопись, напечатанная Е. С. Булгаковой в 1939—1940 годах."
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      }
+    ],
+    "locations": [],
+    "events": [
+      {
+        "id": "text-event-0",
+        "date": "1967-11-15",
+        "date_precision": "day",
+        "title": "Цензурированная публикация в журнале «Москва» и зарубежные публикации",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Публикация",
+            "Доперестроечные публикации",
+            "Цензурированная публикация в журнале «Москва» и зарубежные публикации"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-1",
+        "date": "1972-06-07",
+        "date_precision": "day",
+        "title": "Цензурированная публикация в журнале «Москва» и зарубежные публикации",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Публикация",
+            "Доперестроечные публикации",
+            "Цензурированная публикация в журнале «Москва» и зарубежные публикации"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-2",
+        "date": "1938-05-23",
+        "date_precision": "day",
+        "title": "Задачи и цели публикации, анализ машинописей",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Публикация",
+            "Послеперестроечные публикации",
+            "Публикация 2014 года (редакция Е. Ю. Колышевой, основной текст)",
+            "Задачи и цели публикации, анализ машинописей"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "1938-06-24",
+        "date_precision": "day",
+        "title": "Задачи и цели публикации, анализ машинописей",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Публикация",
+            "Послеперестроечные публикации",
+            "Публикация 2014 года (редакция Е. Ю. Колышевой, основной текст)",
+            "Задачи и цели публикации, анализ машинописей"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-4",
+        "date": "1938-09-19",
+        "date_precision": "day",
+        "title": "Задачи и цели публикации, анализ машинописей",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Публикация",
+            "Послеперестроечные публикации",
+            "Публикация 2014 года (редакция Е. Ю. Колышевой, основной текст)",
+            "Задачи и цели публикации, анализ машинописей"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-5",
+        "date": "2037-01-01",
+        "date_precision": "day",
+        "title": "Авторские права",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Публикация",
+            "Авторские права"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-6",
+        "date": "1970-03-28",
+        "date_precision": "day",
+        "title": "Экранизации",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Адаптации",
+            "Экранизации"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Master_%26_Margarita.jpg/1280px-Master_%26_Margarita.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Master_%26_Margarita.jpg/250px-Master_%26_Margarita.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "«Прощание с Москвой». С. П. Панасенко-Михалкин, 1995",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Сюжет"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/2/2c/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2_1_%D0%B2%D0%B0%D1%80.jpg/1280px-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2_1_%D0%B2%D0%B0%D1%80.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/2/2c/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2_1_%D0%B2%D0%B0%D1%80.jpg/500px-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2_1_%D0%B2%D0%B0%D1%80.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Первый вариант романа, частично уничтоженный автором",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "История создания"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bulgakovhouse5.jpg/1280px-Bulgakovhouse5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bulgakovhouse5.jpg/330px-Bulgakovhouse5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Дом-музей Булгакова",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "История создания"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Chaliapin_F._%28%D0%A8%D0%B0%D0%BB%D1%8F%D0%BF%D0%B8%D0%BD_%D0%A4._%D0%98.%29_1916_as_%E2%80%9CMefistofele%E2%80%9D.jpg/1280px-Chaliapin_F._%28%D0%A8%D0%B0%D0%BB%D1%8F%D0%BF%D0%B8%D0%BD_%D0%A4._%D0%98.%29_1916_as_%E2%80%9CMefistofele%E2%80%9D.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Chaliapin_F._%28%D0%A8%D0%B0%D0%BB%D1%8F%D0%BF%D0%B8%D0%BD_%D0%A4._%D0%98.%29_1916_as_%E2%80%9CMefistofele%E2%80%9D.jpg/250px-Chaliapin_F._%28%D0%A8%D0%B0%D0%BB%D1%8F%D0%BF%D0%B8%D0%BD_%D0%A4._%D0%98.%29_1916_as_%E2%80%9CMefistofele%E2%80%9D.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Фёдор Шаляпин в роли Мефистофеля",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Персонажи",
+            "Мессир и его свита",
+            "Воланд"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mephisto_by_Mark_Antokolski%2C_marble_%28GTG%2C_after_1883%29_by_shakko_01.jpg/1280px-Mephisto_by_Mark_Antokolski%2C_marble_%28GTG%2C_after_1883%29_by_shakko_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mephisto_by_Mark_Antokolski%2C_marble_%28GTG%2C_after_1883%29_by_shakko_01.jpg/250px-Mephisto_by_Mark_Antokolski%2C_marble_%28GTG%2C_after_1883%29_by_shakko_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Марк Антокольский. «Мефистофель»",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Персонажи",
+            "Мессир и его свита",
+            "Воланд"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Azazel_%28DI%29.png/1280px-Azazel_%28DI%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Azazel_%28DI%29.png/250px-Azazel_%28DI%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Демон Азазель. Луи Бретон , 1863",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Персонажи",
+            "Мессир и его свита",
+            "Азазелло"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/1991_CPA_PC_221_Stamp.jpg/1280px-1991_CPA_PC_221_Stamp.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/1991_CPA_PC_221_Stamp.jpg/330px-1991_CPA_PC_221_Stamp.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Изображение кота Бегемота на почтовой марке (1991)",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Персонажи",
+            "Мессир и его свита",
+            "Кот Бегемот"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Burne-Jones-le-Vampire.jpg/1280px-Burne-Jones-le-Vampire.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Burne-Jones-le-Vampire.jpg/250px-Burne-Jones-le-Vampire.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Филипп Бёрн-Джонс . «Вампир». 1897",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Персонажи",
+            "Мессир и его свита",
+            "Гелла"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/N.Gogol_by_F.Moller_%28early_1840s%2C_Ivanovo%29_detail.jpg/1280px-N.Gogol_by_F.Moller_%28early_1840s%2C_Ivanovo%29_detail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/N.Gogol_by_F.Moller_%28early_1840s%2C_Ivanovo%29_detail.jpg/250px-N.Gogol_by_F.Moller_%28early_1840s%2C_Ivanovo%29_detail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Фёдор Моллер . Портрет Н. В. Гоголя, 1840",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Персонажи",
+            "Главные трагические герои",
+            "Мастер"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Margot.JPG/1280px-Margot.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Margot.JPG/250px-Margot.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "По мнению исследователей, героиню романа Булгакова и Маргариту де Валуа сближает «дерзость в любви и решительность в поступках»",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Персонажи",
+            "Главные трагические герои",
+            "Маргарита"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Yermolayevsky_Lane_20220811_154409.jpg/1280px-Yermolayevsky_Lane_20220811_154409.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Yermolayevsky_Lane_20220811_154409.jpg/330px-Yermolayevsky_Lane_20220811_154409.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Поворот с Ермолаевского на Малую Бронную . Угол таков, что и по современным стандартам, и по стандартам 1930-х годов поворот трамвая с таким радиусом невозможен. Трамвай на Патриарших — особый маркер Булгакова",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Персонажи",
+            "Участники московских эпизодов"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/a/a1/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%B0_%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0%C2%BB.jpg/1280px-%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%B0_%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0%C2%BB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/ru/thumb/a/a1/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%B0_%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0%C2%BB.jpg/330px-%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%B0_%C2%AB%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0%C2%BB.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": "Первая публикация романа, журнал «Москва», № 11, 1966",
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "1929-05-08 «Комментарии»",
+      "rule": "EV-LIST",
+      "reason": "дата из пункта списка, а не из рассказа"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "2025-03-01 «Комментарии»",
+      "rule": "EV-LIST",
+      "reason": "дата из пункта списка, а не из рассказа"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "2026-02-12 «Комментарии»",
+      "rule": "EV-LIST",
+      "reason": "дата из пункта списка, а не из рассказа"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "2023-06-19 «Комментарии»",
+      "rule": "EV-LIST",
+      "reason": "дата из пункта списка, а не из рассказа"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "2022-07-08 «Комментарии»",
+      "rule": "EV-LIST",
+      "reason": "дата из пункта списка, а не из рассказа"
+    },
+    {
+      "kind": "number",
+      "ref": "0",
+      "preview": "Дата написания = 1928 year",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "1",
+      "preview": "Дата первой публикации = 1966 year",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "table",
+      "ref": "table-0",
+      "preview": "«В час жаркого весеннего заката на Патриарших прудах появилось двое граждан» , — так у Елены Сергеевны Булгаковой ( текс",
+      "rule": "TBL-EMPTY",
+      "reason": "меньше двух строк или колонок"
+    },
+    {
+      "kind": "table",
+      "ref": "table-2",
+      "preview": "В редакции Е. С. Булгаковой: | Мысли понеслись короткие, бессвязные и необыкновенные: «Погиб!..», потом: «Погибли!..» И ",
+      "rule": "TBL-EMPTY",
+      "reason": "меньше двух строк или колонок"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "Дом по адресу Большая Садовая, 10 , в котором проживала Аннушка . Фото начала XX века",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "Николай Ге . «Христос и Пилат» (« Что есть истина? »), 1890",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "« Поцелуй Иуды ». Фрагмент фрески Джотто ди Бондоне",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "Усадьба С. П. Патрикеева",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "Николай Орнальдо",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "«Дом Герцена»",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "Музей Михаила Булгакова",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "Лаврушинский переулок. Палаты во дворе дома № 17",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "Фридрих Густав Шлик . Гретхен",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "М. А. Врубель . Демон поверженный",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "21",
+      "preview": "Константин Симонов — автор предисловия к журнальному варианту «Мастера и Маргариты»",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "22",
+      "preview": "Иллюстрация Александра Якимченко (1914)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "Иоганн Вольфганг Гёте",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

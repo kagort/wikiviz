@@ -1,0 +1,1671 @@
+{
+  "selected": {
+    "article": {
+      "id": 3434750,
+      "title": "United States",
+      "language": "en",
+      "url": "https://en.wikipedia.org/wiki/United_States",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Etymology",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "History",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-2",
+            "title": "Indigenous peoples",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-3",
+            "title": "European exploration, colonization and conflict (1513–1765)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-4",
+            "title": "American Revolution and the early republic (1765–1800)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-5",
+            "title": "Westward expansion and Civil War (1800–1865)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-6",
+            "title": "Reconstruction, Gilded Age, and Progressive Era (1866–1917)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-7",
+            "title": "World War I, Great Depression, and World War II (1917–1945)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-8",
+            "title": "Cold War and social revolution (1945–1991)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-9",
+            "title": "Contemporary (1991–present)",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-10",
+        "title": "Geography",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-11",
+            "title": "Climate",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-12",
+            "title": "Biodiversity and conservation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-13",
+        "title": "Government and politics",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-14",
+            "title": "Federal government",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-15",
+                "title": "Legislature",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-16",
+                "title": "Executive",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-17",
+                "title": "Judiciary",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-18",
+            "title": "Subdivisions",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-19",
+            "title": "Political parties",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-20",
+            "title": "Foreign relations",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-21",
+            "title": "Military",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-22",
+            "title": "Law enforcement and criminal justice",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-23",
+        "title": "Economy",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-24",
+            "title": "Science and technology",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-25",
+                "title": "Spaceflight",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-26",
+            "title": "Energy",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-27",
+            "title": "Transportation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-28",
+        "title": "Demographics",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-29",
+            "title": "Population",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-30",
+            "title": "Urbanization",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-31",
+            "title": "Language",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-32",
+            "title": "Immigration",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-33",
+            "title": "Religion",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-34",
+            "title": "Health",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-35",
+            "title": "Education",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-36",
+        "title": "Culture and society",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-37",
+            "title": "Literature",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-38",
+            "title": "Mass media",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-39",
+            "title": "Theater",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-40",
+            "title": "Visual arts",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-41",
+            "title": "Music",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-42",
+            "title": "Fashion",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-43",
+            "title": "Cinema",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-44",
+            "title": "Cuisine",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-45",
+            "title": "Sports",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-46",
+        "title": "See also",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-47",
+        "title": "Notes",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-48",
+        "title": "References",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-49",
+            "title": "Sources",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-50",
+        "title": "External links",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-51",
+            "title": "Government",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-52",
+            "title": "History",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-53",
+            "title": "Maps",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "infobox": {
+      "capital": {
+        "key": "capital",
+        "label": "Capital",
+        "group": null,
+        "value": "Washington, D.C., 38°53′N 77°1′W / 38.883°N 77.017°W",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "largest_city": {
+        "key": "largest_city",
+        "label": "Largest city",
+        "group": null,
+        "value": "New York City, 40°43′N 74°0′W / 40.717°N 74.000°W",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "official_languages": {
+        "key": "official_languages",
+        "label": "Official languages",
+        "group": null,
+        "value": "English",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "ethnic_groups_2020": {
+        "key": "ethnic_groups_2020",
+        "label": "Ethnic groups (2020)",
+        "group": null,
+        "value": "By race: 61.6% White, 12.4% Black, 6% Asian, 1.1% Native American, 0.2% Pacific Islander, 10.2% two or more races, 8.4% other, By origin: 81.3% non-Hispanic or Latino, 18.7% Hispanic or Latino",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "religion_2025": {
+        "key": "religion_2025",
+        "label": "Religion (2025)",
+        "group": null,
+        "value": "65% Christianity, 32% Protestantism, 20% Catholicism, 12% other Christian, 1% Mormonism, 24% unaffiliated, 2% Judaism, 6% other religion, 3% unanswered",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "demonym": {
+        "key": "demonym",
+        "label": "Demonym",
+        "group": null,
+        "value": "American",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government": {
+        "key": "government",
+        "label": "Government",
+        "group": null,
+        "value": "Federal presidential republic",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_president": {
+        "key": "government_president",
+        "label": "President",
+        "group": "Government",
+        "value": "Donald Trump",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_vice_president": {
+        "key": "government_vice_president",
+        "label": "Vice President",
+        "group": "Government",
+        "value": "JD Vance",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_house_speaker": {
+        "key": "government_house_speaker",
+        "label": "House Speaker",
+        "group": "Government",
+        "value": "Mike Johnson",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_chief_justice": {
+        "key": "government_chief_justice",
+        "label": "Chief Justice",
+        "group": "Government",
+        "value": "John Roberts",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature": {
+        "key": "legislature",
+        "label": "Legislature",
+        "group": null,
+        "value": "Congress",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature_upper_house": {
+        "key": "legislature_upper_house",
+        "label": "Upper house",
+        "group": "Legislature",
+        "value": "Senate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature_lower_house": {
+        "key": "legislature_lower_house",
+        "label": "Lower house",
+        "group": "Legislature",
+        "value": "House of Representatives",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "independence_from_great_britain_declaration": {
+        "key": "independence_from_great_britain_declaration",
+        "label": "Declaration",
+        "group": "Independence, from Great Britain",
+        "value": "July 4, 1776",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "independence_from_great_britain_confederation": {
+        "key": "independence_from_great_britain_confederation",
+        "label": "Confederation",
+        "group": "Independence, from Great Britain",
+        "value": "March 1, 1781",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "independence_from_great_britain_recognition": {
+        "key": "independence_from_great_britain_recognition",
+        "label": "Recognition",
+        "group": "Independence, from Great Britain",
+        "value": "September 3, 1783",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "independence_from_great_britain_constitution": {
+        "key": "independence_from_great_britain_constitution",
+        "label": "Constitution",
+        "group": "Independence, from Great Britain",
+        "value": "March 4, 1789",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_total_area": {
+        "key": "area_total_area",
+        "label": "Total area",
+        "group": "Area",
+        "value": "3,796,742 sq mi (9,833,520 km2) (4th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_water": {
+        "key": "area_water",
+        "label": "Water (%)",
+        "group": "Area",
+        "value": "7.0 (2010)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_land_area": {
+        "key": "area_land_area",
+        "label": "Land area",
+        "group": "Area",
+        "value": "3,531,905 sq mi (9,147,590 km2) (3rd)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2025_estimate": {
+        "key": "population_2025_estimate",
+        "label": "2025 estimate",
+        "group": "Population",
+        "value": "341,784,857",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2020_census": {
+        "key": "population_2020_census",
+        "label": "2020 census",
+        "group": "Population",
+        "value": "331,449,281 (3rd)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_density": {
+        "key": "population_density",
+        "label": "Density",
+        "group": "Population",
+        "value": "96.8/sq mi (37.4/km2) (180th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp": {
+        "key": "gdp_ppp",
+        "label": "GDP (PPP)",
+        "group": null,
+        "value": "2026 estimate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp_total": {
+        "key": "gdp_ppp_total",
+        "label": "Total",
+        "group": "GDP (PPP)",
+        "value": "$32.384 trillion (2nd)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp_per_capita": {
+        "key": "gdp_ppp_per_capita",
+        "label": "Per capita",
+        "group": "GDP (PPP)",
+        "value": "$94,430 (10th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal": {
+        "key": "gdp_nominal",
+        "label": "GDP (nominal)",
+        "group": null,
+        "value": "2026 estimate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal_total": {
+        "key": "gdp_nominal_total",
+        "label": "Total",
+        "group": "GDP (nominal)",
+        "value": "$32.384 trillion (1st)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal_per_capita": {
+        "key": "gdp_nominal_per_capita",
+        "label": "Per capita",
+        "group": "GDP (nominal)",
+        "value": "$94,430 (8th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gini_2024": {
+        "key": "gini_2024",
+        "label": "Gini (2024)",
+        "group": null,
+        "value": "41.8, medium inequality",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "hdi_2023": {
+        "key": "hdi_2023",
+        "label": "HDI (2023)",
+        "group": null,
+        "value": "0.938, very high (17th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "currency": {
+        "key": "currency",
+        "label": "Currency",
+        "group": null,
+        "value": "U.S. dollar ($) (USD)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "time_zone": {
+        "key": "time_zone",
+        "label": "Time zone",
+        "group": null,
+        "value": "UTC−4 to −12, +10, +11",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "time_zone_summer_dst": {
+        "key": "time_zone_summer_dst",
+        "label": "Summer (DST)",
+        "group": "Time zone",
+        "value": "UTC−4 to −10",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "date_format": {
+        "key": "date_format",
+        "label": "Date format",
+        "group": null,
+        "value": "mm/dd/yyyy",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "calling_code": {
+        "key": "calling_code",
+        "label": "Calling code",
+        "group": null,
+        "value": "+1",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "iso_3166_code": {
+        "key": "iso_3166_code",
+        "label": "ISO 3166 code",
+        "group": null,
+        "value": "US",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "internet_tld": {
+        "key": "internet_tld",
+        "label": "Internet TLD",
+        "group": null,
+        "value": ".us",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [],
+    "locations": [
+      {
+        "id": "location-0",
+        "name": "United States",
+        "latitude": 38.88333333333333,
+        "longitude": -77.01666666666667,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      },
+      {
+        "id": "location-1",
+        "name": "United States",
+        "latitude": 40.71666666666667,
+        "longitude": -74.0,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      },
+      {
+        "id": "location-2",
+        "name": "United States of America",
+        "latitude": 40.0,
+        "longitude": -100.0,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      }
+    ],
+    "events": [
+      {
+        "id": "event-0",
+        "date": "1776-07-04",
+        "date_precision": "day",
+        "title": "•Declaration",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-1",
+        "date": "1781-03-01",
+        "date_precision": "day",
+        "title": "•Confederation",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-2",
+        "date": "1783-09-03",
+        "date_precision": "day",
+        "title": "•Recognition",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-3",
+        "date": "1789-03-04",
+        "date_precision": "day",
+        "title": "•Constitution",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-0",
+        "date": "1776-07-02",
+        "date_precision": "day",
+        "title": "Introduction",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-1",
+        "date": "1776-01-02",
+        "date_precision": "day",
+        "title": "Etymology",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Etymology"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-2",
+        "date": "1776-04-06",
+        "date_precision": "day",
+        "title": "Etymology",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Etymology"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "1776-06-11",
+        "date_precision": "day",
+        "title": "Etymology",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Etymology"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-5",
+        "date": "1776-06-28",
+        "date_precision": "day",
+        "title": "American Revolution and the early republic (1765–1800)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "American Revolution and the early republic (1765–1800)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-7",
+        "date": "1863-01-01",
+        "date_precision": "day",
+        "title": "Westward expansion and Civil War (1800–1865)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Westward expansion and Civil War (1800–1865)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-8",
+        "date": "1946-07-04",
+        "date_precision": "day",
+        "title": "Reconstruction, Gilded Age, and Progressive Era (1866–1917)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Reconstruction, Gilded Age, and Progressive Era (1866–1917)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-9",
+        "date": "2020-04-01",
+        "date_precision": "day",
+        "title": "Population",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Demographics",
+            "Population"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-10",
+        "date": "2024-07-01",
+        "date_precision": "day",
+        "title": "Population",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Demographics",
+            "Population"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Ethnic groups (2020) — White",
+        "value": 61.6,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2020) — Black",
+        "value": 12.4,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2020) — Asian",
+        "value": 6.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2020) — Native American",
+        "value": 1.1,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2020) — Pacific Islander",
+        "value": 0.2,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2020) — two or more races",
+        "value": 10.2,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2020) — other By origin:",
+        "value": 8.4,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2020) — non- Hispanic or Latino",
+        "value": 81.3,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2020) — Hispanic or Latino",
+        "value": 18.7,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — Christianity",
+        "value": 65.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — Protestantism",
+        "value": 32.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — Catholicism",
+        "value": 20.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — other Christian",
+        "value": 12.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — Mormonism",
+        "value": 1.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — unaffiliated",
+        "value": 24.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — Judaism",
+        "value": 2.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — other religion",
+        "value": 6.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — unanswered",
+        "value": 3.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Extreme_Makeover%2C_Mesa_Verde_Edition_-_panoramio.jpg/1280px-Extreme_Makeover%2C_Mesa_Verde_Edition_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Extreme_Makeover%2C_Mesa_Verde_Edition_-_panoramio.jpg/250px-Extreme_Makeover%2C_Mesa_Verde_Edition_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Cliff Palace , a settlement of ancestors of the Native American Pueblo peoples in present-day Montezuma County, Colorado , built between c. 1200 and 1275",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Indigenous peoples"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Nouvelle-France_map-en.svg/1280px-Nouvelle-France_map-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Nouvelle-France_map-en.svg/330px-Nouvelle-France_map-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The colonial possessions of Britain (the Thirteen Colonies in pink and others in purple), France (in blue), and Spain (in orange) in North America, 1750",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "European exploration, colonization and conflict (1513–1765)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/1280px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/250px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Declaration of Independence portrait depicts the Committee of Five presenting the Declaration to the Continental Congress on June 28, 1776, in Philadelphia .",
+        "alt": "See caption.",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "American Revolution and the early republic (1765–1800)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Territorial_Acquisitions.png/1280px-U.S._Territorial_Acquisitions.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Territorial_Acquisitions.png/330px-U.S._Territorial_Acquisitions.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Territorial expansion of the United States",
+        "alt": "Historical territorial expansion of the United States",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Westward expansion and Civil War (1800–1865)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/US_SlaveFree1858.gif/1280px-US_SlaveFree1858.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/US_SlaveFree1858.gif/330px-US_SlaveFree1858.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Slave states and free states in 1858",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Westward expansion and Civil War (1800–1865)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg/1280px-Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg/250px-Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Raising the Flag on Iwo Jima (1945), depicting U.S. marines during the Battle of Iwo Jima in World War II",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "World War I, Great Depression, and World War II (1917–1945)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/1280px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/250px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Civil rights activists during the March on Washington for Jobs and Freedom in Washington, D.C. in August 1963",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Cold War and social revolution (1945–1991)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/250px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Twin Towers in Lower Manhattan during the September 11 attacks of 2001",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Contemporary (1991–present)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg/1280px-Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg/330px-Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Glacier Point in Yosemite National Park , California",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Geography"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Uspaintedrelief.png/1280px-Uspaintedrelief.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Uspaintedrelief.png/250px-Uspaintedrelief.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "A topographic map of the United States",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Geography"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/K%C3%B6ppen_Climate_Types_US_50.png/1280px-K%C3%B6ppen_Climate_Types_US_50.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/K%C3%B6ppen_Climate_Types_US_50.png/250px-K%C3%B6ppen_Climate_Types_US_50.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Köppen climate types of the United States",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Geography",
+            "Climate"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg/1280px-Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg/250px-Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": " ",
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "1776-07-04 «Etymology»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "1776-07-04 «American Revolution and the early republic (1765–1800)»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "number",
+      "ref": "18",
+      "preview": "Independence from Great Britain — Declaration = 4",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "19",
+      "preview": "Independence from Great Britain — Confederation = 1",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "20",
+      "preview": "Independence from Great Britain — Recognition = 3",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "21",
+      "preview": "Independence from Great Britain — Constitution = 4",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "22",
+      "preview": "Area — Total area = 3.79674e+06 sq",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "24",
+      "preview": "Area — Land area = 3.5319e+06 sq",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "25",
+      "preview": "Population — 2025 estimate = 3.41785e+08",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "26",
+      "preview": "Population — 2020 census = 3.31449e+08",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "27",
+      "preview": "Population — Density = 96.8 /sq",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "28",
+      "preview": "GDP ( PPP ) — Total = 3.2384e+13",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "29",
+      "preview": "GDP ( PPP ) — Per capita = 94430",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "30",
+      "preview": "GDP (nominal) — Total = 3.2384e+13",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "31",
+      "preview": "GDP (nominal) — Per capita = 94430",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "32",
+      "preview": "GDP (nominal) — Gini (2024) = 41.8 medium",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "33",
+      "preview": "GDP (nominal) — HDI (2023) = 0.938 very",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "34",
+      "preview": "GDP (nominal) — Time zone = 4 to",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "number",
+      "ref": "35",
+      "preview": "GDP (nominal) — Summer ( DST ) = 4 to",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "36",
+      "preview": "GDP (nominal) — Calling code = 1",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "number",
+      "ref": "23",
+      "preview": "Area — Water (%) = 7 %",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "1280px-Map_of_USA_with_state_and_territory_names_2.png",
+      "rule": "IMG-NOCAP",
+      "reason": "нет подписи"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "The bald eagle has been the national emblem of the United States since 1782, and was officially declared the national bi",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "The Capitol Building , seat of legislative government, houses both chambers of Congress .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "Donald Trump President",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "Territories of the United States include American Samoa , Guam , the Northern Mariana Islands , Puerto Rico , and the U.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "Map of the 326 Indian reservations in the United States; 231 recognized Alaska Native tribes are not shown.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "States and territories by partisan control, as of February 2025: Democratic Party Republican Party New Progressive Party",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "The United States and its key allies: United States NATO members , excluding the U.S. itself Major non-NATO allies Forme",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "The Pentagon , the headquarters of the U.S. Department of Defense in Arlington County, Virginia , is one of the world's ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "J. Edgar Hoover Building , the headquarters of the Federal Bureau of Investigation (FBI), in Washington, D.C.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "21",
+      "preview": "The U.S. dollar is the most-used currency in international transactions and the world's foremost reserve currency .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "22",
+      "preview": "New York City is the world's principal financial center , and its metropolitan area is the world's largest metropolitan ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "The New York Stock Exchange on Wall Street , the world's largest stock exchange by market capitalization",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "24",
+      "preview": "Apple Park in California's Silicon Valley , the largest and foremost technology and innovation hub in the world",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "25",
+      "preview": "Astronaut Buzz Aldrin (with Neil Armstrong seen in visor reflection) during the 1969 Apollo 11 mission, the first of six",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "26",
+      "preview": "Interchange between Interstate 10 and Interstate 45 in Houston , Texas",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "27",
+      "preview": "Hartsfield–Jackson Atlanta International Airport , serving the Atlanta metropolitan area , is the world's busiest airpor",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "28",
+      "preview": "Most Americans live in suburbs and exurbs , such as Monroe Township , New Jersey , in the New York metropolitan area .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "29",
+      "preview": "Most spoken languages in the U.S.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "30",
+      "preview": "The Mexico–United States border wall between San Diego (left) and Tijuana (right)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "31",
+      "preview": "The Texas Medical Center in Houston is the largest medical complex in the world. In 2018, it employed 120,000 people and",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "32",
+      "preview": "Some 77% of American college students attend public institutions such as the University of Virginia , founded by Thomas ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "33",
+      "preview": "The Statue of Liberty on Liberty Island in New York Harbor was an 1886 gift from France that has become an iconic symbol",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "34",
+      "preview": "Mark Twain , whom William Faulkner called \"the father of American literature\"",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "35",
+      "preview": "Comcast Center in Philadelphia , headquarters of Comcast , one of the world's largest telecommunications companies and m",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "36",
+      "preview": "Broadway theaters in Theater District, Manhattan",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "37",
+      "preview": "American Gothic (1930) by Grant Wood is one of the most famous American paintings and is widely parodied .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "38",
+      "preview": "The Country Music Hall of Fame and Museum in Nashville, Tennessee",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "39",
+      "preview": "Haute couture fashion models on the catwalk during New York Fashion Week",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "40",
+      "preview": "The Hollywood Sign in the Hollywood Hills , often regarded as the symbol of the American film industry",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "41",
+      "preview": "A Thanksgiving dinner with roast turkey , mashed potatoes , pickles , corn , candied yams , cranberry jelly , shrimps , ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "42",
+      "preview": "A collegiate-level game of American football , the most popular sport in the U.S.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

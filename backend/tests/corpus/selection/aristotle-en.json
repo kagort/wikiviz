@@ -1,0 +1,1140 @@
+{
+  "selected": {
+    "article": {
+      "id": 308,
+      "title": "Aristotle",
+      "language": "en",
+      "url": "https://en.wikipedia.org/wiki/Aristotle",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Life",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "Theoretical philosophy",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-2",
+            "title": "Logic",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-3",
+                "title": "Organon",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-4",
+                "title": "Syllogism",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-5",
+                "title": "Demonstration",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-6",
+            "title": "Metaphysics",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-7",
+                "title": "Substance",
+                "level": 4,
+                "children": [
+                  {
+                    "id": "section-8",
+                    "title": "Moderate realism",
+                    "level": 5,
+                    "children": []
+                  },
+                  {
+                    "id": "section-9",
+                    "title": "Potentiality and actuality",
+                    "level": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "section-10",
+        "title": "Natural philosophy",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-11",
+            "title": "Physics",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-12",
+                "title": "Five elements",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-13",
+                "title": "Motion",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-14",
+                "title": "Four causes",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-15",
+                "title": "Optics",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-16",
+                "title": "Chance and spontaneity",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-17",
+            "title": "Astronomy",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-18",
+            "title": "Geology and natural sciences",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-19",
+            "title": "Biology",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-20",
+                "title": "Empirical research",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-21",
+                "title": "Scientific style",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-22",
+                "title": "Classification of living things",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-23",
+            "title": "Psychology",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-24",
+                "title": "Soul",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-25",
+                "title": "Memory",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-26",
+                "title": "Dreams",
+                "level": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "section-27",
+        "title": "Practical philosophy",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-28",
+            "title": "Ethics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-29",
+            "title": "Politics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-30",
+            "title": "Economics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-31",
+            "title": "Rhetoric",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-32",
+            "title": "Poetics",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-33",
+        "title": "Legacy",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-34",
+            "title": "Ancient",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-35",
+                "title": "Hellenistic period",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-36",
+                "title": "Early Roman empire",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-37",
+                "title": "Late antiquity",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-38",
+            "title": "Medieval",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-39",
+                "title": "Medieval Byzantine empire",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-40",
+                "title": "Medieval Islamic world",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-41",
+                "title": "Medieval Judaism",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-42",
+                "title": "Medieval Western Europe",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-43",
+            "title": "Modern era",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-44",
+                "title": "Early Modern science",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-45",
+                "title": "18th and 19th-century science",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-46",
+                "title": "Present science",
+                "level": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "section-47",
+        "title": "Depictions in art",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-48",
+            "title": "Paintings",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-49",
+            "title": "Sculptures",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-50",
+        "title": "Eponyms",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-51",
+        "title": "See also",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-52",
+        "title": "Notes",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-53",
+        "title": "Citations",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-54",
+        "title": "Bibliography",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-55",
+        "title": "Further reading",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-56",
+        "title": "External links",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "ἀριστοτέλης_born": {
+        "key": "ἀριστοτέλης_born",
+        "label": "Born",
+        "group": "Ἀριστοτέλης",
+        "value": "384 BC, Stagira, then part of the Chalcidian League",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "ἀριστοτέλης_died": {
+        "key": "ἀριστοτέλης_died",
+        "label": "Died",
+        "group": "Ἀριστοτέλης",
+        "value": "322 BC (aged 61–62), Chalcis, then part of the Macedonian Empire",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "education_education": {
+        "key": "education_education",
+        "label": "Education",
+        "group": "Education",
+        "value": "Platonic Academy",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "philosophical_work_era": {
+        "key": "philosophical_work_era",
+        "label": "Era",
+        "group": "Philosophical work",
+        "value": "Ancient Greek philosophy",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "philosophical_work_region": {
+        "key": "philosophical_work_region",
+        "label": "Region",
+        "group": "Philosophical work",
+        "value": "Western philosophy",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "philosophical_work_school": {
+        "key": "philosophical_work_school",
+        "label": "School",
+        "group": "Philosophical work",
+        "value": "Peripatetic school",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "philosophical_work_notable_students": {
+        "key": "philosophical_work_notable_students",
+        "label": "Notable students",
+        "group": "Philosophical work",
+        "value": "Alexander the Great, Theophrastus, Aristoxenus",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "philosophical_work_main_interests": {
+        "key": "philosophical_work_main_interests",
+        "label": "Main interests",
+        "group": "Philosophical work",
+        "value": "Logic, Natural philosophy, Metaphysics, Ethics, Politics, Rhetoric, Poetics",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "philosophical_work_notable_works": {
+        "key": "philosophical_work_notable_works",
+        "label": "Notable works",
+        "group": "Philosophical work",
+        "value": "Organon, Physics, Metaphysics, Nicomachean Ethics, Politics, Rhetoric, Poetics",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [
+      {
+        "id": "table-1",
+        "title": "Aristotle's elements",
+        "columns": [
+          "Element",
+          "Hot / Cold",
+          "Wet / Dry",
+          "Motion",
+          "Modern state of matter"
+        ],
+        "rows": [
+          [
+            "Earth",
+            "Cold",
+            "Dry",
+            "Down",
+            "Solid"
+          ],
+          [
+            "Water",
+            "Cold",
+            "Wet",
+            "Down",
+            "Liquid"
+          ],
+          [
+            "Air",
+            "Hot",
+            "Wet",
+            "Up",
+            "Gas"
+          ],
+          [
+            "Fire",
+            "Hot",
+            "Dry",
+            "Up",
+            "Plasma"
+          ],
+          [
+            "Aether",
+            "(divine substance)",
+            "None",
+            "Circular (in heavens)",
+            "Vacuum"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      },
+      {
+        "id": "table-2",
+        "title": "Aristotle's Scala naturae (highest to lowest)",
+        "columns": [
+          "Group",
+          "Examples (given by Aristotle)",
+          "Blood",
+          "Legs",
+          "Souls (Rational, Sensitive, Vegetative)",
+          "Qualities ( Hot – Cold , Wet – Dry )"
+        ],
+        "rows": [
+          [
+            "Man",
+            "Man",
+            "with blood",
+            "2 legs",
+            "R, S, V",
+            "Hot , Wet"
+          ],
+          [
+            "Live-bearing tetrapods",
+            "Cat, hare",
+            "with blood",
+            "4 legs",
+            "S, V",
+            "Hot , Wet"
+          ],
+          [
+            "Cetaceans",
+            "Dolphin , whale",
+            "with blood",
+            "none",
+            "S, V",
+            "Hot , Wet"
+          ],
+          [
+            "Birds",
+            "Bee-eater , nightjar",
+            "with blood",
+            "2 legs",
+            "S, V",
+            "Hot , Wet , except Dry eggs"
+          ],
+          [
+            "Egg-laying tetrapods",
+            "Chameleon , crocodile",
+            "with blood",
+            "4 legs",
+            "S, V",
+            "Cold , Wet except scales, eggs"
+          ],
+          [
+            "Snakes",
+            "Water snake, Ottoman viper",
+            "with blood",
+            "none",
+            "S, V",
+            "Cold , Wet except scales, eggs"
+          ],
+          [
+            "Egg-laying fishes",
+            "Sea bass , parrotfish",
+            "with blood",
+            "none",
+            "S, V",
+            "Cold , Wet , including eggs"
+          ],
+          [
+            "(Among the egg-laying fishes): placental selachians",
+            "Shark , skate",
+            "with blood",
+            "none",
+            "S, V",
+            "Cold , Wet , but placenta like tetrapods"
+          ],
+          [
+            "Crustaceans",
+            "Shrimp , crab",
+            "without",
+            "many legs",
+            "S, V",
+            "Cold , Wet except shell"
+          ],
+          [
+            "Cephalopods",
+            "Squid , octopus",
+            "without",
+            "tentacles",
+            "S, V",
+            "Cold , Wet"
+          ],
+          [
+            "Hard-shelled animals",
+            "Cockle , trumpet snail",
+            "without",
+            "none",
+            "S, V",
+            "Cold , Dry (mineral shell)"
+          ],
+          [
+            "Larva-bearing insects",
+            "Ant , cicada",
+            "without",
+            "6 legs",
+            "S, V",
+            "Cold , Dry"
+          ],
+          [
+            "Spontaneously generating",
+            "Sponges , worms",
+            "without",
+            "none",
+            "S, V",
+            "Cold , Wet or Dry , from earth"
+          ],
+          [
+            "Plants",
+            "Fig",
+            "without",
+            "none",
+            "V",
+            "Cold , Dry"
+          ],
+          [
+            "Minerals",
+            "Iron",
+            "without",
+            "none",
+            "none",
+            "Cold , Dry"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      },
+      {
+        "id": "table-3",
+        "title": "Virtues and their accompanying vices",
+        "columns": [
+          "Too little",
+          "Virtuous mean",
+          "Too much"
+        ],
+        "rows": [
+          [
+            "Humbleness",
+            "High-mindedness",
+            "Vainglory"
+          ],
+          [
+            "Lack of purpose",
+            "Right ambition",
+            "Over-ambition"
+          ],
+          [
+            "Spiritlessness",
+            "Good temper",
+            "Irascibility"
+          ],
+          [
+            "Rudeness",
+            "Civility",
+            "Obsequiousness"
+          ],
+          [
+            "Cowardice",
+            "Courage",
+            "Rashness"
+          ],
+          [
+            "Insensibility",
+            "Self-control",
+            "Intemperance"
+          ],
+          [
+            "Sarcasm",
+            "Sincerity",
+            "Boastfulness"
+          ],
+          [
+            "Boorishness",
+            "Wit",
+            "Buffoonery"
+          ],
+          [
+            "Callousness",
+            "Just resentment",
+            "Spitefulness"
+          ],
+          [
+            "Pettiness",
+            "Generosity",
+            "Vulgarity"
+          ],
+          [
+            "Meanness",
+            "Liberality",
+            "Wastefulness"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      }
+    ],
+    "locations": [],
+    "events": [
+      {
+        "id": "event-0",
+        "date": "-0384",
+        "date_precision": "year",
+        "title": "Born",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-1",
+        "date": "-0322",
+        "date_precision": "year",
+        "title": "Died",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/20160518_092_mieza_nympheum.jpg/1280px-20160518_092_mieza_nympheum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/20160518_092_mieza_nympheum.jpg/330px-20160518_092_mieza_nympheum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "School of Aristotle in Mieza , Macedonia, Greece",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Universal_manual_of_ready_reference_-_antiquities%2C_history%2C_geography%2C_biography%2C_government%2C_law%2C_politics%2C_industry%2C_invention%2C_science%2C_religion%2C_literature%2C_art%2C_education_and_miscellany_%281904%29_%2814590266027%29.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Universal_manual_of_ready_reference_-_antiquities%2C_history%2C_geography%2C_biography%2C_government%2C_law%2C_politics%2C_industry%2C_invention%2C_science%2C_religion%2C_literature%2C_art%2C_education_and_miscellany_%281904%29_%2814590266027%29.jpg/250px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "\"Aristotle tutoring Alexander\" (1895) by Jean Leon Gerome Ferris",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Aristoteles_Louvre.jpg/1280px-Aristoteles_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Aristoteles_Louvre.jpg/250px-Aristoteles_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Portrait bust of Aristotle; an Imperial Roman (1st or 2nd century AD) copy of a lost bronze sculpture made by Lysippos",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sanzio_01_Plato_Aristotle.jpg/1280px-Sanzio_01_Plato_Aristotle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sanzio_01_Plato_Aristotle.jpg/250px-Sanzio_01_Plato_Aristotle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Plato (left) and Aristotle in Raphael 's 1509 fresco, The School of Athens . Aristotle holds his Nicomachean Ethics and gestures to the earth, representing his view in immanent realism, whilst Plato gestures to the heavens, indicating his Theory of Forms, and holds his Timaeus .",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Theoretical philosophy",
+            "Logic",
+            "Organon"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Platonic_and_Aristotelian_Forms.svg/1280px-Platonic_and_Aristotelian_Forms.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Platonic_and_Aristotelian_Forms.svg/500px-Platonic_and_Aristotelian_Forms.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Plato's forms exist as universals , like the ideal form of an apple. For Aristotle, both matter and form belong to the individual thing ( hylomorphism ).",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Theoretical philosophy",
+            "Metaphysics",
+            "Substance",
+            "Moderate realism"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Flute-player_dolphin_Alcesti_Group_MAN.jpg/1280px-Flute-player_dolphin_Alcesti_Group_MAN.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Flute-player_dolphin_Alcesti_Group_MAN.jpg/250px-Flute-player_dolphin_Alcesti_Group_MAN.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Aristotle argued that a capability like playing the flute could be acquired — the potential made actual — by learning.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Theoretical philosophy",
+            "Metaphysics",
+            "Substance",
+            "Potentiality and actuality"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Four_Classical_Elements_in_Burning_Log.svg/1280px-Four_Classical_Elements_in_Burning_Log.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Four_Classical_Elements_in_Burning_Log.svg/250px-Four_Classical_Elements_in_Burning_Log.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The four classical elements (fire, air, water, earth) of Empedocles and Aristotle illustrated with a burning log. The log releases all four elements as it is destroyed.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Natural philosophy",
+            "Physics"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Aristotle%27s_laws_of_motion.svg/1280px-Aristotle%27s_laws_of_motion.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Aristotle%27s_laws_of_motion.svg/500px-Aristotle%27s_laws_of_motion.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Aristotle's laws of motion. In Physics he states that objects fall at a speed proportional to their weight and inversely proportional to the density of the fluid they are immersed in. This is a correct approximation for objects in Earth's gravitational field moving in air or water.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Natural philosophy",
+            "Physics",
+            "Motion"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Aristotle%27s_Four_Causes_of_a_Table.svg/1280px-Aristotle%27s_Four_Causes_of_a_Table.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Aristotle%27s_Four_Causes_of_a_Table.svg/500px-Aristotle%27s_Four_Causes_of_a_Table.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Aristotle argued by analogy with woodwork that a thing takes its form from four causes : in the case of a table, the wood used (material cause), its design (formal cause), the tools and techniques used (efficient cause), and its decorative or practical purpose (final cause).",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Natural philosophy",
+            "Physics",
+            "Four causes"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/1280px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/250px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Aristotle noted that the ground level of the Aeolian islands changed before a volcanic eruption .",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Natural philosophy",
+            "Geology and natural sciences"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Tremoctopus_violaceus5.jpg/1280px-Tremoctopus_violaceus5.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Tremoctopus_violaceus5.jpg/250px-Tremoctopus_violaceus5.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Among many pioneering zoological observations, Aristotle described the reproductive hectocotyl arm of the octopus (bottom left).",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Natural philosophy",
+            "Biology"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "number",
+      "ref": "0",
+      "preview": "Born = 384 BC",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "1",
+      "preview": "Died = 322 BC",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "table",
+      "ref": "table-0",
+      "preview": "One of Aristotle's types of syllogism",
+      "rule": "TBL-EMPTY",
+      "reason": "меньше двух строк или колонок"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "philosophical_work_notable_ideas",
+      "preview": "Notable ideas: Aristotelianism, Theoretical philosophy, Aristotelian logic, syllogism, Four causes, Genus and differenti",
+      "rule": "IB-LONG",
+      "reason": "значение длиннее 200 символов"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "Aristotle inferred growth laws from his observations on animals, including that brood size decreases with body mass, whe",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "Aristotle recorded that the embryo (fetus pictured) of a dogfish was attached by a cord to a kind of placenta (the yolk ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "Aristotle proposed a three-part structure for souls of plants, animals, and humans, making humans unique in having all t",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "Senses, perception, memory, dreams, action in Aristotle's psychology. Impressions are stored in the sensorium (the heart",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "Aristotle's classification of political constitutions",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "The Blind Oedipus Commending his Children to the Gods (1784) by Bénigne Gagneraux . In his Poetics , Aristotle uses the ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "Preface to Argyropoulos 's 15th century Latin translation of Aristotle's Physics",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "Frontispiece to a 1644 version of Theophrastus 's Historia Plantarum , originally written c. 300 BC",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "Islamic portrayal of Aristotle (right) in the Kitāb naʿt al-ḥayawān , c. 1220 .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "First page of a 1566 edition of the Nicomachean Ethics in Greek and Latin",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "21",
+      "preview": "William Harvey 's De Motu Cordis , 1628, showed that the blood circulated , contrary to classical thinking.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "22",
+      "preview": "Aristotle , mosaic from a Roman villa in Cologne",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "Nuremberg Chronicle anachronistically shows Aristotle in a medieval scholar's clothing. Ink and watercolour on paper, 14",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "24",
+      "preview": "Aristotle by Justus van Gent . Oil on panel, c. 1476",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "25",
+      "preview": "Phyllis and Aristotle by Lucas Cranach the Elder . Oil on panel, 1530",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "26",
+      "preview": "Aristotle by Paolo Veronese . Oil on canvas, 1560s",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "27",
+      "preview": "Aristotle and Campaspe , Alessandro Turchi (attrib.) Oil on canvas, 1713",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "28",
+      "preview": "Aristotle by Jusepe de Ribera . Oil on canvas, 1637",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "29",
+      "preview": "Aristotle with a Bust of Homer by Rembrandt . Oil on canvas, 1653",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "30",
+      "preview": "Aristotle by Johann Jakob Dorner the Elder . Oil on canvas, 1813",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "31",
+      "preview": "Aristotle by Francesco Hayez . Oil on canvas, 1811",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "32",
+      "preview": "By Charles Laplante [ fr ] \"That most enduring of romantic images, Aristotle tutoring the future conqueror Alexander\". 1",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "33",
+      "preview": "Roman copy of 1st or 2nd century from original bronze by Lysippos . Louvre Museum",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "34",
+      "preview": "Roman copy of 117–138 AD of Greek original. Palermo Regional Archeology Museum",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "35",
+      "preview": "Relief of Aristotle and Plato by Luca della Robbia , Florence Cathedral , 1437–1439",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "36",
+      "preview": "Stone statue in niche, Gladstone's Library , Hawarden , Wales, 1899",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "37",
+      "preview": "Bronze statue, University of Freiburg , Germany, 1915",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

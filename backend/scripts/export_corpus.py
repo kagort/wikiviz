@@ -184,6 +184,12 @@ def main() -> None:
     ERRORS_PATH.write_text(json.dumps(errors, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     print(f"\nArticles: {len(entries)}, exported: {len(entries) - len(errors)}, errors: {len(errors)}")
+
+    # Результаты отбора надёжных данных пересчитываются вслед за корпусом.
+    from scripts.apply_selection import apply_selection
+    print(f"Selection: {apply_selection(ARTICLES_DIR, CORPUS_DIR / 'selection')} articles")
+    from scripts.build_review import main as build_review_main
+    build_review_main()
     for error in errors:
         print(f"  {error['stage']:9} {error['file']}: {error['error']}")
 

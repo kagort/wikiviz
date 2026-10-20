@@ -664,7 +664,12 @@
       "title": "•Declaration",
       "description": null,
       "source": "infobox",
-      "confidence": 1.0
+      "confidence": 1.0,
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "event-1",
@@ -673,7 +678,12 @@
       "title": "•Recognition",
       "description": null,
       "source": "infobox",
-      "confidence": 1.0
+      "confidence": 1.0,
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "event-2",
@@ -682,7 +692,12 @@
       "title": "•Republic",
       "description": null,
       "source": "infobox",
-      "confidence": 1.0
+      "confidence": 1.0,
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "event-3",
@@ -691,7 +706,12 @@
       "title": "•Current constitution",
       "description": null,
       "source": "infobox",
-      "confidence": 1.0
+      "confidence": 1.0,
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-0",
@@ -700,7 +720,15 @@
       "title": "European colonization and Colonial Brazil",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "History",
+          "European colonization and Colonial Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-1",
@@ -709,7 +737,15 @@
       "title": "Kingdom of Brazil",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "Kingdom of Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-2",
@@ -718,7 +754,15 @@
       "title": "Empire of Brazil",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "Empire of Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-3",
@@ -727,7 +771,15 @@
       "title": "Empire of Brazil",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "History",
+          "Empire of Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-4",
@@ -736,7 +788,15 @@
       "title": "Empire of Brazil",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "History",
+          "Empire of Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-5",
@@ -745,7 +805,15 @@
       "title": "Empire of Brazil",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "History",
+          "Empire of Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-6",
@@ -754,7 +822,15 @@
       "title": "Empire of Brazil",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "History",
+          "Empire of Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-7",
@@ -763,7 +839,15 @@
       "title": "Contemporary era",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "History",
+          "Contemporary era"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-8",
@@ -772,7 +856,15 @@
       "title": "Law",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Government and politics",
+          "Law"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-9",
@@ -781,7 +873,15 @@
       "title": "Transportation",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Economy",
+          "Transportation"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-10",
@@ -790,7 +890,14 @@
       "title": "Demographics",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Demographics"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-11",
@@ -799,7 +906,15 @@
       "title": "Cinema",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Culture",
+          "Cinema"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-12",
@@ -808,7 +923,15 @@
       "title": "Media",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Culture",
+          "Media"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-13",
@@ -817,7 +940,15 @@
       "title": "Media",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Culture",
+          "Media"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-14",
@@ -826,7 +957,15 @@
       "title": "Media",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Culture",
+          "Media"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-15",
@@ -835,7 +974,15 @@
       "title": "Media",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Culture",
+          "Media"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-16",
@@ -844,7 +991,15 @@
       "title": "Media",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Culture",
+          "Media"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-17",
@@ -853,7 +1008,15 @@
       "title": "Sports",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Culture",
+          "Sports"
+        ],
+        "service_section": false
+      }
     }
   ],
   "numbers": [
@@ -862,175 +1025,300 @@
       "value": 45.3,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Ethnic groups (2022) — White",
       "value": 43.5,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Ethnic groups (2022) — Black",
       "value": 10.2,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Ethnic groups (2022) — Indigenous",
       "value": 0.6,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Ethnic groups (2022) — East Asian",
       "value": 0.4,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Religion (2022) — Christianity",
       "value": 83.6,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Religion (2022) — Catholic",
       "value": 56.7,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Religion (2022) — Protestant",
       "value": 26.9,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Religion (2022) — no religion",
       "value": 9.3,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Religion (2022) — Spiritism",
       "value": 1.8,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Religion (2022) — Afro-Brazilian religions",
       "value": 1.1,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Religion (2022) — others",
       "value": 4.2,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Area — Total",
       "value": 8510346.0,
       "unit": "km²",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Area — Water (%)",
       "value": 0.65,
       "unit": "%",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Population — 2026 estimate",
       "value": 214211951.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Population — 2022 census",
       "value": 203080756.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Population — Density",
       "value": 23.8,
       "unit": "/km²",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "GDP ( PPP ) — Total",
       "value": 5230000000000.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "GDP ( PPP ) — Per capita",
       "value": 24428.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "GDP (nominal) — Total",
       "value": 2636000000000.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "GDP (nominal) — Per capita",
       "value": 12313.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "GDP (nominal) — Gini (2024)",
       "value": 50.3,
       "unit": "high",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "GDP (nominal) — HDI (2023)",
       "value": 0.786,
       "unit": "high",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "GDP (nominal) — Time zone",
       "value": 2.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "GDP (nominal) — Calling code",
       "value": 55.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "people": [],
@@ -1043,357 +1331,753 @@
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pinturas_Rupestres_-_Serra_da_Capivara_I.jpg/250px-Pinturas_Rupestres_-_Serra_da_Capivara_I.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Rock art at Serra da Capivara National Park , one of the largest and oldest concentrations of prehistoric sites in the Americas",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "Pre-Cabraline era"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg/1280px-Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg/250px-Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Pedro Álvares Cabral landing in Porto Seguro in 1500",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "European colonization and Colonial Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG/1280px-Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG/250px-Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Ouro Preto was the center of the Brazilian Gold Rush and was designated a World Heritage Site by UNESCO due to its Baroque colonial architecture .",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "European colonization and Colonial Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/L%27Ex%C3%A9cution_de_la_Punition_de_Fouet_by_Jean-Baptiste_Debret.jpg/1280px-L%27Ex%C3%A9cution_de_la_Punition_de_Fouet_by_Jean-Baptiste_Debret.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/L%27Ex%C3%A9cution_de_la_Punition_de_Fouet_by_Jean-Baptiste_Debret.jpg/250px-L%27Ex%C3%A9cution_de_la_Punition_de_Fouet_by_Jean-Baptiste_Debret.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Execution of the Punishment of the Whip by Jean-Baptiste Debret . Nearly 5 million enslaved Africans were imported to Brazil during the Atlantic slave trade , more than any other country.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "European colonization and Colonial Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Aclama%C3%A7%C3%A3o_do_rei_Dom_Jo%C3%A3o_VI_no_Rio_de_Janeiro.jpg/1280px-Aclama%C3%A7%C3%A3o_do_rei_Dom_Jo%C3%A3o_VI_no_Rio_de_Janeiro.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Aclama%C3%A7%C3%A3o_do_rei_Dom_Jo%C3%A3o_VI_no_Rio_de_Janeiro.jpg/250px-Aclama%C3%A7%C3%A3o_do_rei_Dom_Jo%C3%A3o_VI_no_Rio_de_Janeiro.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "The Acclamation of King João VI of the United Kingdom of Portugal, Brazil and the Algarves in Rio de Janeiro , 6 February 1818",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "Kingdom of Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_cores_ajustadas.jpg/1280px-Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_cores_ajustadas.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_cores_ajustadas.jpg/250px-Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_cores_ajustadas.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Declaration of the Independence of Brazil by Pedro I on 7 September 1822",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "Empire of Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Pedro_Am%C3%A9rico_-_D._Pedro_II_na_abertura_da_Assembl%C3%A9ia_Geral.jpg/1280px-Pedro_Am%C3%A9rico_-_D._Pedro_II_na_abertura_da_Assembl%C3%A9ia_Geral.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Pedro_Am%C3%A9rico_-_D._Pedro_II_na_abertura_da_Assembl%C3%A9ia_Geral.jpg/250px-Pedro_Am%C3%A9rico_-_D._Pedro_II_na_abertura_da_Assembl%C3%A9ia_Geral.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Pedro II , Emperor of Brazil between 1831 and 1889",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "Empire of Brazil"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg/1280px-Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg/250px-Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Proclamation of the Republic , 1893, oil on canvas by Benedito Calixto",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "Early Republic"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Constru%C3%A7%C3%A3o_do_Congresso_Nacional_Esplanada_dos_Minist%C3%A9rios_1959-10_%28cropped%29.jpg/1280px-Constru%C3%A7%C3%A3o_do_Congresso_Nacional_Esplanada_dos_Minist%C3%A9rios_1959-10_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Constru%C3%A7%C3%A3o_do_Congresso_Nacional_Esplanada_dos_Minist%C3%A9rios_1959-10_%28cropped%29.jpg/250px-Constru%C3%A7%C3%A3o_do_Congresso_Nacional_Esplanada_dos_Minist%C3%A9rios_1959-10_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Construction of the National Congress building in Brasília, 1959, during the JK administration",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "Early Republic"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Tanques_ocupam_a_Avenida_Presidente_Vargas%2C_1968-04-04.jpg/1280px-Tanques_ocupam_a_Avenida_Presidente_Vargas%2C_1968-04-04.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Tanques_ocupam_a_Avenida_Presidente_Vargas%2C_1968-04-04.jpg/250px-Tanques_ocupam_a_Avenida_Presidente_Vargas%2C_1968-04-04.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "M41s along the Avenida Presidente Vargas , Rio de Janeiro , in April 1968, during the military dictatorship",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "Military dictatorship"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Ulyssesguimaraesconstituicao_restored.jpg/1280px-Ulyssesguimaraesconstituicao_restored.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Ulyssesguimaraesconstituicao_restored.jpg/250px-Ulyssesguimaraesconstituicao_restored.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Ulysses Guimarães holding the Constitution of 1988",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "Contemporary era"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Atos_pr%C3%B3_e_contra_o_impeachment_na_Esplanada.jpg/1280px-Atos_pr%C3%B3_e_contra_o_impeachment_na_Esplanada.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Atos_pr%C3%B3_e_contra_o_impeachment_na_Esplanada.jpg/250px-Atos_pr%C3%B3_e_contra_o_impeachment_na_Esplanada.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Pro- and anti- impeachment protesters of Dilma Rousseff occupy the Esplanade of Ministries in Brasília, 2016.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "History",
+          "Contemporary era"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Brazil_topo.jpg/1280px-Brazil_topo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Brazil_topo.jpg/250px-Brazil_topo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "A topographic map of Brazil",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Geography"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/K%C3%B6ppen_climate_types_of_Brazil.svg/1280px-K%C3%B6ppen_climate_types_of_Brazil.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/K%C3%B6ppen_climate_types_of_Brazil.svg/250px-K%C3%B6ppen_climate_types_of_Brazil.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Brazil map of Köppen climate classification zones",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Geography",
+          "Climate"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/20211026_Cumulative_carbon_dioxide_CO2_emissions_by_country_-_bar_chart.svg/1280px-20211026_Cumulative_carbon_dioxide_CO2_emissions_by_country_-_bar_chart.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/20211026_Cumulative_carbon_dioxide_CO2_emissions_by_country_-_bar_chart.svg/250px-20211026_Cumulative_carbon_dioxide_CO2_emissions_by_country_-_bar_chart.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Since 1850, Brazil has cumulatively contributed an amount of CO 2 placing it among the top greenhouse gas emitters in the world, mainly due to its land use and forestry practices.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Geography",
+          "Climate"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Amazon_River_ESA387332.jpg/1280px-Amazon_River_ESA387332.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Amazon_River_ESA387332.jpg/250px-Amazon_River_ESA387332.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Satellite image of the Amazon Delta",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Geography",
+          "Topography and hydrography"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Toco_Toucan_%28Ramphastos_toco%29_-_48153967707.jpg/1280px-Toco_Toucan_%28Ramphastos_toco%29_-_48153967707.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Toco_Toucan_%28Ramphastos_toco%29_-_48153967707.jpg/250px-Toco_Toucan_%28Ramphastos_toco%29_-_48153967707.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "The toco toucan is an animal typical of the Brazilian savannas .",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Geography",
+          "Biodiversity and conservation"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/20220910_Amazon_deforestation_and_degradation%2C_by_country_-_Amazon_Watch.svg/1280px-20220910_Amazon_deforestation_and_degradation%2C_by_country_-_Amazon_Watch.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/20220910_Amazon_deforestation_and_degradation%2C_by_country_-_Amazon_Watch.svg/250px-20220910_Amazon_deforestation_and_degradation%2C_by_country_-_Amazon_Watch.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Cumulatively, Brazil has the highest percentage of deforested and highly degraded rainforest of any Amazonia nation.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Geography",
+          "Biodiversity and conservation"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28ombros%29_denoise.jpg/1280px-Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28ombros%29_denoise.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28ombros%29_denoise.jpg/250px-Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28ombros%29_denoise.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Luiz Inácio Lula da Silva President",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Government and politics"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pal%C3%A1cio_Nereu_Ramos_-_Bras%C3%ADlia_-_20150603172246.jpg/1280px-Pal%C3%A1cio_Nereu_Ramos_-_Bras%C3%ADlia_-_20150603172246.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pal%C3%A1cio_Nereu_Ramos_-_Bras%C3%ADlia_-_20150603172246.jpg/250px-Pal%C3%A1cio_Nereu_Ramos_-_Bras%C3%ADlia_-_20150603172246.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "National Congress , seat of the legislative branch",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Government and politics"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Itamaraty_%2847946720843%29.jpg/1280px-Itamaraty_%2847946720843%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Itamaraty_%2847946720843%29.jpg/250px-Itamaraty_%2847946720843%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Itamaraty Palace , the seat of the Ministry of Foreign Affairs",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Government and politics",
+          "Foreign relations"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Opera%C3%A7%C3%A3o_%22Poseidon_2021%22_%2851475998419%29.jpg/1280px-Opera%C3%A7%C3%A3o_%22Poseidon_2021%22_%2851475998419%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Opera%C3%A7%C3%A3o_%22Poseidon_2021%22_%2851475998419%29.jpg/250px-Opera%C3%A7%C3%A3o_%22Poseidon_2021%22_%2851475998419%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Brazilian Navy's flagship PHM Atlântico and frigate Liberal (F-43) (background)",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Government and politics",
+          "Military"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Sede_da_Pol%C3%ADcia_Federal.jpg/1280px-Sede_da_Pol%C3%ADcia_Federal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Sede_da_Pol%C3%ADcia_Federal.jpg/250px-Sede_da_Pol%C3%ADcia_Federal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Headquarters of the Federal Police of Brazil in Brasília",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Government and politics",
+          "Law enforcement and crime"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/1280px-Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/250px-Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "São Paulo is considered the main financial center of Brazil.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Economy"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sao_Paulo_Stock_Exchange.jpg/1280px-Sao_Paulo_Stock_Exchange.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sao_Paulo_Stock_Exchange.jpg/250px-Sao_Paulo_Stock_Exchange.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "B3, the largest stock exchange of Latin America by market capitalization",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Economy"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Soja_Tangar%C3%A1.jpg/1280px-Soja_Tangar%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Soja_Tangar%C3%A1.jpg/250px-Soja_Tangar%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Soybean crop in Tangará da Serra , Mato Grosso",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Economy"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/10_03_2022_Opera%C3%A7%C3%A3o_Repatria%C3%A7%C3%A3o_-_Chegada_dos_Brasileiros_e_Estrangeiros_provenientes_da_Ucr%C3%A2nia_%2851931465965%29.jpg/1280px-10_03_2022_Opera%C3%A7%C3%A3o_Repatria%C3%A7%C3%A3o_-_Chegada_dos_Brasileiros_e_Estrangeiros_provenientes_da_Ucr%C3%A2nia_%2851931465965%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/10_03_2022_Opera%C3%A7%C3%A3o_Repatria%C3%A7%C3%A3o_-_Chegada_dos_Brasileiros_e_Estrangeiros_provenientes_da_Ucr%C3%A2nia_%2851931465965%29.jpg/250px-10_03_2022_Opera%C3%A7%C3%A3o_Repatria%C3%A7%C3%A3o_-_Chegada_dos_Brasileiros_e_Estrangeiros_provenientes_da_Ucr%C3%A2nia_%2851931465965%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "The C-390 , developed by Embraer , the third largest producer of civil aircraft, after Boeing and Airbus",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Economy"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Iguazu_Cataratas2.jpg/1280px-Iguazu_Cataratas2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Iguazu_Cataratas2.jpg/250px-Iguazu_Cataratas2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Iguaçu National Park in Paraná",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Economy",
+          "Tourism"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Vls1-mockup-test.jpg/1280px-Vls1-mockup-test.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Vls1-mockup-test.jpg/250px-Vls1-mockup-test.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "VLS-1 at the Alcântara Launch Center of the Brazilian Space Agency, in Alcântara, Maranhão",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Economy",
+          "Science and technology"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Ministro_participa_da_inaugura%C3%A7%C3%A3o_do_acelerador_de_part%C3%ADculas_Sirius._%2830970744907%29.jpg/1280px-Ministro_participa_da_inaugura%C3%A7%C3%A3o_do_acelerador_de_part%C3%ADculas_Sirius._%2830970744907%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Ministro_participa_da_inaugura%C3%A7%C3%A3o_do_acelerador_de_part%C3%ADculas_Sirius._%2830970744907%29.jpg/250px-Ministro_participa_da_inaugura%C3%A7%C3%A3o_do_acelerador_de_part%C3%ADculas_Sirius._%2830970744907%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Sirius , a diffraction-limited storage ring synchrotron light source at the Laboratório Nacional de Luz Síncrotron , in Campinas , São Paulo",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Economy",
+          "Science and technology"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Itaipu_geral.jpg/1280px-Itaipu_geral.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Itaipu_geral.jpg/250px-Itaipu_geral.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "The Itaipu Dam on the Paraná River , the second largest of the world. Brazilian energy matrix is one of the cleanest in the world.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Economy",
+          "Energy"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Energia_Eolica.jpg/1280px-Energia_Eolica.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Energia_Eolica.jpg/250px-Energia_Eolica.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Wind farm in Parnaíba , Piauí . Brazil is one of the 5 largest producers of wind energy in the world.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Economy",
+          "Energy"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Sao_paulo_airport_terminal_3.jpg/1280px-Sao_paulo_airport_terminal_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Sao_paulo_airport_terminal_3.jpg/250px-Sao_paulo_airport_terminal_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Terminal 3 of the São Paulo–Guarulhos International Airport , the busiest airport in Latin America",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Economy",
+          "Transportation"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Rodovia_Dutra_-_panoramio.jpg/1280px-Rodovia_Dutra_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Rodovia_Dutra_-_panoramio.jpg/250px-Rodovia_Dutra_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "BR-116 in São José dos Campos , São Paulo , the longest highway in the country, with 4,542 km (2,822 mi) of extension",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Economy",
+          "Transportation"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Population_density_Brazil_2022.svg/1280px-Population_density_Brazil_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Population_density_Brazil_2022.svg/250px-Population_density_Brazil_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Population density of Brazilian municipalities",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Demographics"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/AssuncaodoIcana.jpg/1280px-AssuncaodoIcana.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/AssuncaodoIcana.jpg/250px-AssuncaodoIcana.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Alto Rio Negro Indigenous Territory , in São Gabriel da Cachoeira , Amazonas , where Nhengatu , Tucano and Baniwa are co-official languages",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Demographics",
+          "Language"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Ruas_de_Pomerode_%28cropped%29.jpg/1280px-Ruas_de_Pomerode_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Ruas_de_Pomerode_%28cropped%29.jpg/250px-Ruas_de_Pomerode_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Pomerode , Santa Catarina , where the East Pomeranian is the second language (see Brazilian German )",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Demographics",
+          "Language"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Cristo_Redentor_-_Rio_de_Janeiro_-_20230321174546.jpg/1280px-Cristo_Redentor_-_Rio_de_Janeiro_-_20230321174546.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Cristo_Redentor_-_Rio_de_Janeiro_-_20230321174546.jpg/250px-Cristo_Redentor_-_Rio_de_Janeiro_-_20230321174546.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "The Cristo Redentor statue towers over Rio de Janeiro.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Demographics",
+          "Religion"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Arquitetura_Pr%C3%A9dio_Hist%C3%B3rico_da_Universidade_Federal_do_Paran%C3%A1.jpg/1280px-Arquitetura_Pr%C3%A9dio_Hist%C3%B3rico_da_Universidade_Federal_do_Paran%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Arquitetura_Pr%C3%A9dio_Hist%C3%B3rico_da_Universidade_Federal_do_Paran%C3%A1.jpg/250px-Arquitetura_Pr%C3%A9dio_Hist%C3%B3rico_da_Universidade_Federal_do_Paran%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Historical building of the Federal University of Paraná , one of the oldest universities in Brazil, located in Curitiba",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Demographics",
+          "Education"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Hospital_de_Cl%C3%ADnicas_PMPA.jpg/1280px-Hospital_de_Cl%C3%ADnicas_PMPA.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Hospital_de_Cl%C3%ADnicas_PMPA.jpg/250px-Hospital_de_Cl%C3%ADnicas_PMPA.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "The Clinical Hospital of Porto Alegre is academically linked to the Federal University of Rio Grande do Sul and is part of the SUS , the Brazilian publicly funded health care system.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Demographics",
+          "Health"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Desfile_Portela_2014_%28906185%29.jpg/1280px-Desfile_Portela_2014_%28906185%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Desfile_Portela_2014_%28906185%29.jpg/250px-Desfile_Portela_2014_%28906185%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Parade of Portela samba school at the Rio Carnival , the largest carnival in the world",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Culture"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Catedral1_Rodrigo_Marfan.jpg/1280px-Catedral1_Rodrigo_Marfan.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Catedral1_Rodrigo_Marfan.jpg/250px-Catedral1_Rodrigo_Marfan.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "The Cathedral of Brasília , designed by Brazilian architect Oscar Niemeyer for the federal capital, an example of Modern architecture",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Culture",
+          "Architecture"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Mural_painting_%22Entry_into_the_Forest%22_by_Candido_Portinari%2C_on_the_vestibule_wall_of_the_Hispanic_Reading_room%2C_Library_of_Congress%2C_Thomas_Jefferson_Building%2C_Washington%2C_D.C_LCCN2011631432.tif/lossy-page1-250px-thumbnail.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Mural_painting_%22Entry_into_the_Forest%22_by_Candido_Portinari%2C_on_the_vestibule_wall_of_the_Hispanic_Reading_room%2C_Library_of_Congress%2C_Thomas_Jefferson_Building%2C_Washington%2C_D.C_LCCN2011631432.tif/lossy-page1-250px-thumbnail.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Entry in the Forest mural at the Thomas Jefferson Building by Candido Portinari, one of the most important Brazilian painters",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Culture",
+          "Visual arts"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tom_Jobim_e_Chico_Buarque_no_Festival_Internacional_da_Can%C3%A7%C3%A3o_%28FIC%29_restored.jpg/1280px-Tom_Jobim_e_Chico_Buarque_no_Festival_Internacional_da_Can%C3%A7%C3%A3o_%28FIC%29_restored.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tom_Jobim_e_Chico_Buarque_no_Festival_Internacional_da_Can%C3%A7%C3%A3o_%28FIC%29_restored.jpg/250px-Tom_Jobim_e_Chico_Buarque_no_Festival_Internacional_da_Can%C3%A7%C3%A3o_%28FIC%29_restored.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Tom Jobim , one of the creators of bossa nova , and Chico Buarque , one of the leading names of MPB",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Culture",
+          "Music"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Machado_de_Assis_aos_57_anos_%28cropped%29.jpg/1280px-Machado_de_Assis_aos_57_anos_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Machado_de_Assis_aos_57_anos_%28cropped%29.jpg/250px-Machado_de_Assis_aos_57_anos_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Machado de Assis (1839–1908), poet and novelist, founder of the Brazilian Academy of Letters , is associated with romanticism and literary realism .",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Culture",
+          "Literature"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Augusto_Boal_nyc3.jpg/1280px-Augusto_Boal_nyc3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Augusto_Boal_nyc3.jpg/250px-Augusto_Boal_nyc3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Augusto Boal presenting a workshop on the Theatre of the Oppressed at Riverside Church in New York City in 2008",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Culture",
+          "Theatre"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Pal%C3%A1cio_dos_Festivais_de_Gramado.jpg/1280px-Pal%C3%A1cio_dos_Festivais_de_Gramado.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Pal%C3%A1cio_dos_Festivais_de_Gramado.jpg/250px-Pal%C3%A1cio_dos_Festivais_de_Gramado.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Gramado Film Festival , the biggest film festival in the country",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Culture",
+          "Cinema"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Jornal_Nacional_3.jpg/1280px-Jornal_Nacional_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Jornal_Nacional_3.jpg/250px-Jornal_Nacional_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Former President Dilma Rousseff at Jornal Nacional news program. Rede Globo is the world's second-largest commercial television network.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Culture",
+          "Media"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Feijoada_%C3%A0_brasileira_-.jpg/1280px-Feijoada_%C3%A0_brasileira_-.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Feijoada_%C3%A0_brasileira_-.jpg/250px-Feijoada_%C3%A0_brasileira_-.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Feijoada is the national dish of Brazilian cuisine.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Culture",
+          "Cuisine"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Pele_con_brasil_%28cropped%29.jpg/1280px-Pele_con_brasil_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Pele_con_brasil_%28cropped%29.jpg/250px-Pele_con_brasil_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Pelé , a footballer as well as sport figure of the 20th century",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Culture",
+          "Sports"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": null,
       "alt": "Flag of Brazil",
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "links": [],

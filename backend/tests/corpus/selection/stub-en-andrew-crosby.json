@@ -1,0 +1,41 @@
+{
+  "selected": {
+    "article": {
+      "id": 13862851,
+      "title": "Andrew Crosby",
+      "language": "en",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Crosby",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "References",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {},
+    "tables": [],
+    "locations": [],
+    "events": [],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1965-11-05 «Introduction»",
+      "rule": "EV-MIN",
+      "reason": "после отбора меньше 2 событий - шкала не нужна"
+    }
+  ]
+}

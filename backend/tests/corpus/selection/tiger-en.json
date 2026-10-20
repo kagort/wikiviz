@@ -1,0 +1,570 @@
+{
+  "selected": {
+    "article": {
+      "id": 30075,
+      "title": "Tiger",
+      "language": "en",
+      "url": "https://en.wikipedia.org/wiki/Tiger",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Etymology",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "Taxonomy",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-2",
+            "title": "Subspecies",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-3",
+            "title": "Evolution",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-4",
+            "title": "Hybrids",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-5",
+        "title": "Description",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-6",
+            "title": "Coat",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-7",
+                "title": "Colour variations",
+                "level": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "section-8",
+        "title": "Distribution and habitat",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-9",
+            "title": "Population density",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-10",
+        "title": "Behaviour and ecology",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-11",
+            "title": "Social spacing",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-12",
+            "title": "Communication",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-13",
+            "title": "Hunting and diet",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-14",
+            "title": "Competitors",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-15",
+            "title": "Reproduction and life cycle",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-16",
+            "title": "Health and diseases",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-17",
+        "title": "Threats",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-18",
+        "title": "Conservation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-19",
+        "title": "Relationship with humans",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-20",
+            "title": "Hunting",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-21",
+            "title": "Attacks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-22",
+            "title": "Captivity",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-23",
+            "title": "Cultural significance",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-24",
+        "title": "See also",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-25",
+        "title": "References",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-26",
+            "title": "Bibliography",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-27",
+        "title": "External links",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "kingdom": {
+        "key": "kingdom",
+        "label": "Kingdom:",
+        "group": null,
+        "value": "Animalia",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "phylum": {
+        "key": "phylum",
+        "label": "Phylum:",
+        "group": null,
+        "value": "Chordata",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "class": {
+        "key": "class",
+        "label": "Class:",
+        "group": null,
+        "value": "Mammalia",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "order": {
+        "key": "order",
+        "label": "Order:",
+        "group": null,
+        "value": "Carnivora",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "family": {
+        "key": "family",
+        "label": "Family:",
+        "group": null,
+        "value": "Felidae",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "genus": {
+        "key": "genus",
+        "label": "Genus:",
+        "group": null,
+        "value": "Panthera",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "species": {
+        "key": "species",
+        "label": "Species:",
+        "group": null,
+        "value": "P. tigris",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [
+      {
+        "id": "table-2",
+        "title": "Global wild tiger population",
+        "columns": [
+          "Country",
+          "Year",
+          "Estimate"
+        ],
+        "rows": [
+          [
+            "India",
+            "2022",
+            "3,167–3,682"
+          ],
+          [
+            "Russia",
+            "2022",
+            "573–600"
+          ],
+          [
+            "Indonesia",
+            "2022",
+            "393"
+          ],
+          [
+            "Nepal",
+            "2022",
+            "316–355"
+          ],
+          [
+            "Thailand",
+            "2022",
+            "148–189"
+          ],
+          [
+            "Malaysia",
+            "2022",
+            "<150"
+          ],
+          [
+            "Bhutan",
+            "2022",
+            "131"
+          ],
+          [
+            "Bangladesh",
+            "2022",
+            "118–122"
+          ],
+          [
+            "China",
+            "2022",
+            ">60"
+          ],
+          [
+            "Myanmar",
+            "2022",
+            "28"
+          ],
+          [
+            "Total",
+            "",
+            "5,638–5,899"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      }
+    ],
+    "locations": [],
+    "events": [],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/TigerSkelLyd1.png/1280px-TigerSkelLyd1.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/TigerSkelLyd1.png/250px-TigerSkelLyd1.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Tiger skeleton from Royal Natural History Volume 1 (1839)",
+        "alt": "Drawing of tiger skeleton",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Description"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Tiger_Stripes_%2829808869755%29.jpg/1280px-Tiger_Stripes_%2829808869755%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Tiger_Stripes_%2829808869755%29.jpg/250px-Tiger_Stripes_%2829808869755%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Siberian tiger coat on flank (side)",
+        "alt": "Close up of a tiger's fur",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Description",
+            "Coat"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/White_tiger_Nandankanan.jpeg/1280px-White_tiger_Nandankanan.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/White_tiger_Nandankanan.jpeg/250px-White_tiger_Nandankanan.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Pseudo-melanistic white tiger in Nandankanan Zoological Park",
+        "alt": "White tiger with thickened stripes lying down",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Description",
+            "Coat",
+            "Colour variations"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Tigress_Anna_Savelevna_01.jpg/1280px-Tigress_Anna_Savelevna_01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Tigress_Anna_Savelevna_01.jpg/250px-Tigress_Anna_Savelevna_01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Camera trap of a Siberian tiger in Russia",
+        "alt": "Picture of tiger in forest at night",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Distribution and habitat"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Tigerwater_edit2.jpg/1280px-Tigerwater_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Tigerwater_edit2.jpg/250px-Tigerwater_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Tiger bathing",
+        "alt": "Tiger in water",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Behaviour and ecology"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tiger_spray_marking._DavidRaju_1.jpg/1280px-Tiger_spray_marking._DavidRaju_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tiger_spray_marking._DavidRaju_1.jpg/330px-Tiger_spray_marking._DavidRaju_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Bengal tigers spraying urine (above) and rubbing against a tree to mark territory",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Behaviour and ecology",
+            "Social spacing"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/RANTHAMBORE_TIGER_RESERVE.jpg/1280px-RANTHAMBORE_TIGER_RESERVE.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/RANTHAMBORE_TIGER_RESERVE.jpg/250px-RANTHAMBORE_TIGER_RESERVE.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Bengal tiger attacking a sambar deer in Ranthambore Tiger Reserve",
+        "alt": "Tiger attacking a sambar deer from behind, pulling on its back",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Behaviour and ecology",
+            "Hunting and diet"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tiger%27s_killing_wild_boar.jpg/1280px-Tiger%27s_killing_wild_boar.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tiger%27s_killing_wild_boar.jpg/250px-Tiger%27s_killing_wild_boar.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Two Bengal tigers attacking a wild boar in Kanha Tiger Reserve",
+        "alt": "Two tigers attacking a boar",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Behaviour and ecology",
+            "Hunting and diet"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Tigerdholes.jpg/1280px-Tigerdholes.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Tigerdholes.jpg/250px-Tigerdholes.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "An 1807 illustration of dholes attacking a tiger",
+        "alt": "Painting of dhole pack attacking a tiger",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Behaviour and ecology",
+            "Competitors"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Tigress_with_cubs_in_Kanha_Tiger_reserve.jpg/1280px-Tigress_with_cubs_in_Kanha_Tiger_reserve.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Tigress_with_cubs_in_Kanha_Tiger_reserve.jpg/250px-Tigress_with_cubs_in_Kanha_Tiger_reserve.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "A Bengal tiger family in Kanha Tiger Reserve",
+        "alt": "Tiger with cubs",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Behaviour and ecology",
+            "Reproduction and life cycle"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpg/1280px-Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpg/250px-Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "A Siberian tigress with her cub at Buffalo Zoo",
+        "alt": "Tigress with cub in snow",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Behaviour and ecology",
+            "Reproduction and life cycle"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/COLLECTIE_TROPENMUSEUM_Een_jager_poseert_bij_de_huid_van_een_geschoten_tijger_bij_Kalitapakdoewoer_TMnr_10024166.jpg/1280px-COLLECTIE_TROPENMUSEUM_Een_jager_poseert_bij_de_huid_van_een_geschoten_tijger_bij_Kalitapakdoewoer_TMnr_10024166.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/COLLECTIE_TROPENMUSEUM_Een_jager_poseert_bij_de_huid_van_een_geschoten_tijger_bij_Kalitapakdoewoer_TMnr_10024166.jpg/250px-COLLECTIE_TROPENMUSEUM_Een_jager_poseert_bij_de_huid_van_een_geschoten_tijger_bij_Kalitapakdoewoer_TMnr_10024166.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "A Javan tiger skin, 1915",
+        "alt": "Tiger rug displayed on wall behind a man with a gun",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Threats"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "table",
+      "ref": "table-0",
+      "preview": "Panthera tigris tigris (Linnaeus, 1758)",
+      "rule": "TBL-BLANK",
+      "reason": "слишком много пустых ячеек"
+    },
+    {
+      "kind": "table",
+      "ref": "table-1",
+      "preview": "Panthera tigris sondaica (Temminck, 1844)",
+      "rule": "TBL-BLANK",
+      "reason": "слишком много пустых ячеек"
+    },
+    {
+      "kind": "image",
+      "ref": "6",
+      "preview": "Siberian tiger baring teeth as a sign of aggression",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "Wild Sumatran tiger caught by camera trap",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "Tiger hunting on elephant-back in India, 1808",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "A Bengal tiger in the Sundarbans",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "Tiger at Big Cat Rescue in 2014",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "Tiger-shaped jie (badge of authority) with gold inlays, from the tomb of Zhao Mo",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "The Hindu goddess Durga riding a tiger. Guler school, early 18th century",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

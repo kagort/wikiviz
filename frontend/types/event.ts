@@ -1,3 +1,4 @@
+import type { ValueContext } from "./context";
 import { DatePrecision, SourceType } from "./common";
 
 export interface Event {
@@ -8,4 +9,5 @@ export interface Event {
   description: string | null;
   source: SourceType;
   confidence: number;
+  context: ValueContext | null;
 }

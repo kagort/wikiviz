@@ -1,3 +1,4 @@
+import type { ValueContext } from "./context";
 import { SourceType } from "./common";
 
 export interface Image {
@@ -6,4 +7,5 @@ export interface Image {
   caption: string | null;
   alt: string | null;
   source: SourceType;
+  context: ValueContext | null;
 }

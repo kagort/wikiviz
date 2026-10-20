@@ -56,7 +56,8 @@ from typing import Optional
 from bs4 import BeautifulSoup
 
 from app.extractors.text_date_extractor import _EN_MONTHS, _RU_MONTHS
-from app.models import NumericValue, SourceType
+from app.extractors.context import SectionIndex
+from app.models import BlockType, NumericValue, SourceType
 
 _FOOTNOTE_RE = re.compile(r"\[\s*[^\]]{1,6}\s*\]")
 _ARROW_RE = re.compile(r"[▲▼]")
@@ -258,6 +259,11 @@ def extract_numbers(html: str, language: str = "en") -> list[NumericValue]:
         single = _extract_single_value(label, label_text, cleaned_data, language)
         if single is not None:
             results.append(single)
+
+    # Происхождение (решение В2): все числа этого extractor'а - из инфобокса.
+    context = SectionIndex(soup).context(infobox, BlockType.INFOBOX)
+    for number in results:
+        number.context = context
 
     return results
 

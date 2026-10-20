@@ -1,0 +1,738 @@
+{
+  "selected": {
+    "article": {
+      "id": 20408,
+      "title": "Marie Curie",
+      "language": "en",
+      "url": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Life and career",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-1",
+            "title": "Early years",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-2",
+            "title": "Life in Paris",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-3",
+            "title": "New elements",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-4",
+            "title": "Nobel Prizes",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-5",
+            "title": "World War I",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-6",
+            "title": "Postwar years",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-7",
+            "title": "Death",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-8",
+        "title": "Legacy",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-9",
+        "title": "Commemorations",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-10",
+        "title": "See also",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-11",
+        "title": "Notes",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-12",
+        "title": "References",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-13",
+        "title": "Further reading",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-14",
+            "title": "Nonfiction",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-15",
+            "title": "Fiction",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-16",
+        "title": "External links",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "born": {
+        "key": "born",
+        "label": "Born",
+        "group": null,
+        "value": "Maria Salomea Skłodowska, 7 November 1867, Warsaw, Congress Poland, Russian Empire",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "died": {
+        "key": "died",
+        "label": "Died",
+        "group": null,
+        "value": "4 July 1934 (aged 66), Passy, Haute-Savoie, France",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "cause_of_death": {
+        "key": "cause_of_death",
+        "label": "Cause of death",
+        "group": null,
+        "value": "Aplastic anaemia",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "citizenship": {
+        "key": "citizenship",
+        "label": "Citizenship",
+        "group": null,
+        "value": "Russian Empire (until 1895), France (from 1895)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "education": {
+        "key": "education",
+        "label": "Education",
+        "group": null,
+        "value": "University of Paris",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "known_for": {
+        "key": "known_for",
+        "label": "Known for",
+        "group": null,
+        "value": "Discovering polonium and radium (with Pierre), Researching radioactivity",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "spouse": {
+        "key": "spouse",
+        "label": "Spouse",
+        "group": null,
+        "value": "Pierre Curie, ​, ​, (m. 1895; died 1906)​",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "children": {
+        "key": "children",
+        "label": "Children",
+        "group": null,
+        "value": "Irène, Ève",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "father": {
+        "key": "father",
+        "label": "Father",
+        "group": null,
+        "value": "Władysław Skłodowski",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "family": {
+        "key": "family",
+        "label": "Family",
+        "group": null,
+        "value": "Skłodowski (by birth), Curie (by marriage)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "fields": {
+        "key": "fields",
+        "label": "Fields",
+        "group": null,
+        "value": "Physics, Chemistry",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "workplaces": {
+        "key": "workplaces",
+        "label": "Workplaces",
+        "group": null,
+        "value": "University of Paris, Institut du Radium, École normale supérieure, French Academy of Medicine, International Committee on Intellectual Cooperation",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "thesis": {
+        "key": "thesis",
+        "label": "Thesis",
+        "group": null,
+        "value": "Recherches sur les substances radioactives (Research on Radioactive Substances) (1903)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "doctoral_advisor": {
+        "key": "doctoral_advisor",
+        "label": "Doctoral advisor",
+        "group": null,
+        "value": "Gabriel Lippmann",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "doctoral_students": {
+        "key": "doctoral_students",
+        "label": "Doctoral students",
+        "group": null,
+        "value": "André-Louis Debierne, Gioacchino Failla, Ladislas Goldstein, Émile Henriot, Irène Joliot-Curie, Óscar Moreno, Marguerite Perey, Francis Perrin",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [],
+    "locations": [],
+    "events": [
+      {
+        "id": "event-0",
+        "date": "1867-11-07",
+        "date_precision": "day",
+        "title": "Born",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-1",
+        "date": "1934-07-04",
+        "date_precision": "day",
+        "title": "Died",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "1883-06-12",
+        "date_precision": "day",
+        "title": "Early years",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Life and career",
+            "Early years"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-4",
+        "date": "1895-07-26",
+        "date_precision": "day",
+        "title": "Life in Paris",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Life and career",
+            "Life in Paris"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-5",
+        "date": "1898-04-12",
+        "date_precision": "day",
+        "title": "New elements",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Life and career",
+            "New elements"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-6",
+        "date": "1898-04-14",
+        "date_precision": "day",
+        "title": "New elements",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Life and career",
+            "New elements"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-7",
+        "date": "1898-12-26",
+        "date_precision": "day",
+        "title": "New elements",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Life and career",
+            "New elements"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-8",
+        "date": "1906-04-19",
+        "date_precision": "day",
+        "title": "Nobel Prizes",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Life and career",
+            "Nobel Prizes"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-9",
+        "date": "1906-05-13",
+        "date_precision": "day",
+        "title": "Nobel Prizes",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Life and career",
+            "Nobel Prizes"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-10",
+        "date": "1921-05-20",
+        "date_precision": "day",
+        "title": "Postwar years",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "Postwar years"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-12",
+        "date": "2011-11-07",
+        "date_precision": "day",
+        "title": "Commemorations",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Commemorations"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Warszawa%2C_ul._Freta_16_20170516_002.jpg/1280px-Warszawa%2C_ul._Freta_16_20170516_002.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Warszawa%2C_ul._Freta_16_20170516_002.jpg/250px-Warszawa%2C_ul._Freta_16_20170516_002.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Curie's birthplace at 16 Freta Street in New Town, Warsaw",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "Early years"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Sklodowski_Family_Wladyslaw_and_his_daughters_Maria_Bronislawa_Helena.jpg/1280px-Sklodowski_Family_Wladyslaw_and_his_daughters_Maria_Bronislawa_Helena.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Sklodowski_Family_Wladyslaw_and_his_daughters_Maria_Bronislawa_Helena.jpg/250px-Sklodowski_Family_Wladyslaw_and_his_daughters_Maria_Bronislawa_Helena.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Władysław Skłodowski and daughters (from left) Maria, Bronisława , and Helena , 1890",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "Early years"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Maria_Sklodowska_et_sa_s%C5%93ur_Bronislawa_en_1886.jpg/1280px-Maria_Sklodowska_et_sa_s%C5%93ur_Bronislawa_en_1886.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Maria_Sklodowska_et_sa_s%C5%93ur_Bronislawa_en_1886.jpg/250px-Maria_Sklodowska_et_sa_s%C5%93ur_Bronislawa_en_1886.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Maria (left) and sister Bronisława , c. 1886",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "Early years"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Krakowskie_Przedmiescie%2C_Warsaw.JPG/1280px-Krakowskie_Przedmiescie%2C_Warsaw.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Krakowskie_Przedmiescie%2C_Warsaw.JPG/250px-Krakowskie_Przedmiescie%2C_Warsaw.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Krakowskie Przedmiescie 66, Warsaw , where Maria did her first scientific work, in 1890–1891",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "Early years"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pierre_Curie_et_Marie_Sklodowska_Curie_1895.jpg/1280px-Pierre_Curie_et_Marie_Sklodowska_Curie_1895.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pierre_Curie_et_Marie_Sklodowska_Curie_1895.jpg/250px-Pierre_Curie_et_Marie_Sklodowska_Curie_1895.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Pierre Curie and Marie Skłodowska-Curie, 1895",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "Life in Paris"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Pierre_and_Marie_Curie.jpg/1280px-Pierre_and_Marie_Curie.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Pierre_and_Marie_Curie.jpg/250px-Pierre_and_Marie_Curie.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Pierre and Marie Curie in the laboratory, c. 1904",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "New elements"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Marie_Pierre_Irene_Curie.jpg/1280px-Marie_Pierre_Irene_Curie.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Marie_Pierre_Irene_Curie.jpg/250px-Marie_Pierre_Irene_Curie.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Pierre, Irène , and Marie Curie, c. 1902",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "New elements"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Pierre_Curie_%281859-1906%29_and_Marie_Sklodowska_Curie_%281867-1934%29%2C_c._1903_%284405627519%29.jpg/1280px-Pierre_Curie_%281859-1906%29_and_Marie_Sklodowska_Curie_%281867-1934%29%2C_c._1903_%284405627519%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Pierre_Curie_%281859-1906%29_and_Marie_Sklodowska_Curie_%281867-1934%29%2C_c._1903_%284405627519%29.jpg/250px-Pierre_Curie_%281859-1906%29_and_Marie_Sklodowska_Curie_%281867-1934%29%2C_c._1903_%284405627519%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Pierre and Marie Curie, c. 1903",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "New elements"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Marie_Curie_1903.jpg/1280px-Marie_Curie_1903.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Marie_Curie_1903.jpg/250px-Marie_Curie_1903.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "1903 Nobel Prize portrait",
+        "alt": "Polnische Frauen, Polnische Frau, Polish women, Polish Woman",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "Nobel Prizes"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Nobel_Pierre_et_Marie_Curie_1.jpg/1280px-Nobel_Pierre_et_Marie_Curie_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Nobel_Pierre_et_Marie_Curie_1.jpg/250px-Nobel_Pierre_et_Marie_Curie_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "1903 Nobel Prize diploma",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "Nobel Prizes"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mme_P_Curie_P1300452_corrected2.jpg/1280px-Mme_P_Curie_P1300452_corrected2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mme_P_Curie_P1300452_corrected2.jpg/250px-Mme_P_Curie_P1300452_corrected2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Marie Curie's business card as professor at the Faculty of Sciences",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Life and career",
+            "Nobel Prizes"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/1280px-Marie_Curie_c._1920s.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/250px-Marie_Curie_c._1920s.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": "Black-and-white head shot of Curie",
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1867-11-07 «Introduction»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "1934-07-04 «Introduction»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "1867-11-07 «Early years»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "1934-07-04 «Death»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "number",
+      "ref": "0",
+      "preview": "Citizenship = 1895 year",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "1",
+      "preview": "Spouse = 1895 year",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "2",
+      "preview": "Awards = 1903 year",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "3",
+      "preview": "Thesis = 1903 year",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "awards",
+      "preview": "Awards: Davy Medal (1903), Nobel Prize in Physics (1903), Matteucci Medal (1904), Actonian Prize (1907), Elliott Cresson",
+      "rule": "IB-LONG",
+      "reason": "значение длиннее 200 символов"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "Caricature of Marie and Pierre Curie, captioned \"Radium\", in the London magazine Vanity Fair , December 1904",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "At the first Solvay Conference (1911), Curie (seated second from right) confers with Henri Poincaré . Standing nearby ar",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "1911 Nobel Prize diploma",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "Curie in a mobile X-ray vehicle, c. 1915",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "Marie Curie and President Harding at the White House, May 20, 1921.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "Marie and daughter Irène , 1925",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "1935 statue, facing the Radium Institute, Warsaw",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "Statue of Maria Skłodowska-Curie (Lublin)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "Bust of \"Maria Skłodowska-Curie\", CERN Museum , Switzerland , 2015",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

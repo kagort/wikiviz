@@ -251,3 +251,11 @@ def test_bce_year_without_day_still_works():
 
 def test_value_without_any_date_gives_no_event():
     assert extract_dates(_row("Capital", "Paris")) == []
+
+
+def test_infobox_date_has_infobox_context():
+    events = extract_dates(_row("Born", "14 March 1879 (1879-03-14)"))
+
+    assert events[0].context.block.value == "infobox"
+    assert events[0].context.section_path == []
+    assert events[0].context.service_section is False

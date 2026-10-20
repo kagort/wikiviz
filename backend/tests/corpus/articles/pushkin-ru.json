@@ -424,7 +424,12 @@
       "title": "Дата рождения",
       "description": null,
       "source": "infobox",
-      "confidence": 1.0
+      "confidence": 1.0,
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "event-1",
@@ -433,7 +438,12 @@
       "title": "Дата смерти",
       "description": null,
       "source": "infobox",
-      "confidence": 1.0
+      "confidence": 1.0,
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-0",
@@ -442,7 +452,15 @@
       "title": "Юность",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Юность"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-1",
@@ -451,7 +469,15 @@
       "title": "Молодость",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Молодость"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-2",
@@ -460,7 +486,16 @@
       "title": "Пушкин в Крыму",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "На юге (1820—1824)",
+          "Пушкин в Крыму"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-3",
@@ -469,7 +504,15 @@
       "title": "После ссылки",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "После ссылки"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-4",
@@ -478,7 +521,15 @@
       "title": "После ссылки",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "После ссылки"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-5",
@@ -487,7 +538,15 @@
       "title": "После ссылки",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "После ссылки"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-6",
@@ -496,7 +555,15 @@
       "title": "Поездка на войну",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Поездка на войну"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-7",
@@ -505,7 +572,15 @@
       "title": "Поездка на войну",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Поездка на войну"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-8",
@@ -514,7 +589,15 @@
       "title": "Поездка на войну",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Поездка на войну"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-9",
@@ -523,7 +606,15 @@
       "title": "Москва (1830—1831) и Петербург (1831—1833)",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Москва (1830—1831) и Петербург (1831—1833)"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-10",
@@ -532,7 +623,15 @@
       "title": "Москва (1830—1831) и Петербург (1831—1833)",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Москва (1830—1831) и Петербург (1831—1833)"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-11",
@@ -541,7 +640,15 @@
       "title": "Москва (1830—1831) и Петербург (1831—1833)",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Москва (1830—1831) и Петербург (1831—1833)"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-12",
@@ -550,7 +657,15 @@
       "title": "Москва (1830—1831) и Петербург (1831—1833)",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Москва (1830—1831) и Петербург (1831—1833)"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-13",
@@ -559,7 +674,15 @@
       "title": "Москва (1830—1831) и Петербург (1831—1833)",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Москва (1830—1831) и Петербург (1831—1833)"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-14",
@@ -568,7 +691,15 @@
       "title": "Москва (1830—1831) и Петербург (1831—1833)",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Москва (1830—1831) и Петербург (1831—1833)"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-15",
@@ -577,7 +708,15 @@
       "title": "Петербург (1833—1835)",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Петербург (1833—1835)"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-16",
@@ -586,7 +725,15 @@
       "title": "Петербург (1833—1835)",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Петербург (1833—1835)"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-17",
@@ -595,7 +742,15 @@
       "title": "Петербург (1833—1835)",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Биография",
+          "Петербург (1833—1835)"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-18",
@@ -604,7 +759,14 @@
       "title": "Внешность",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Внешность"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-19",
@@ -613,781 +775,116 @@
       "title": "Собрания сочинений",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Творчество Пушкина",
+          "Собрания сочинений"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-20",
       "date": "1821-12-16",
       "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
+      "title": "Музыкальный театр",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "list_item",
+        "section_path": [
+          "Пушкин в культуре и искусстве",
+          "Музыкальный театр"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-21",
       "date": "1823-01-15",
       "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
+      "title": "Музыкальный театр",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "list_item",
+        "section_path": [
+          "Пушкин в культуре и искусстве",
+          "Музыкальный театр"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-22",
       "date": "1825-04-23",
       "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
+      "title": "Музыкальный театр",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "list_item",
+        "section_path": [
+          "Пушкин в культуре и искусстве",
+          "Музыкальный театр"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-23",
       "date": "1831-12-11",
       "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
+      "title": "Музыкальный театр",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "list_item",
+        "section_path": [
+          "Пушкин в культуре и искусстве",
+          "Музыкальный театр"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-24",
       "date": "2019-12-18",
       "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
+      "title": "Память о Пушкине",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [
+          "Память о Пушкине"
+        ],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-25",
       "date": "1833-09-03",
       "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-26",
-      "date": "2019-03-25",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-27",
-      "date": "2019-04-15",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-28",
-      "date": "2024-01-28",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-29",
-      "date": "2019-08-08",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-30",
-      "date": "2019-03-31",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-31",
-      "date": "2025-10-05",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-32",
-      "date": "2016-06-04",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-33",
-      "date": "2016-05-05",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-34",
-      "date": "2021-07-25",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-35",
-      "date": "2022-02-08",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-36",
-      "date": "2019-08-04",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-37",
-      "date": "2020-07-20",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-38",
-      "date": "2016-10-25",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-39",
-      "date": "2020-09-26",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-40",
-      "date": "2020-07-06",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-41",
-      "date": "2020-07-07",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-42",
-      "date": "2021-04-11",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-43",
-      "date": "2023-07-18",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-44",
-      "date": "2018-04-17",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-45",
-      "date": "1820-09-24",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-46",
-      "date": "2021-10-26",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-47",
-      "date": "2022-10-26",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-48",
-      "date": "2021-07-27",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-49",
-      "date": "2020-07-21",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-50",
-      "date": "2021-10-23",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-51",
-      "date": "2024-07-01",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-52",
-      "date": "2019-06-30",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-53",
-      "date": "2023-03-08",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-54",
-      "date": "2020-07-22",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-55",
-      "date": "2018-01-16",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-56",
-      "date": "2019-03-28",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-57",
-      "date": "1837-02-02",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-58",
-      "date": "2019-03-13",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-59",
-      "date": "2018-07-02",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-60",
-      "date": "2008-02-29",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-61",
-      "date": "2012-06-06",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-62",
-      "date": "2019-03-29",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-63",
-      "date": "2017-08-04",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-64",
-      "date": "2019-03-11",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-65",
-      "date": "2013-05-14",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-66",
-      "date": "2023-01-31",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-67",
-      "date": "2021-08-19",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-68",
-      "date": "2021-07-24",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-69",
-      "date": "2019-04-07",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-70",
-      "date": "2012-01-28",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-71",
-      "date": "2012-02-02",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-72",
-      "date": "2014-06-09",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-73",
-      "date": "2014-07-14",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-74",
-      "date": "2022-01-23",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-75",
-      "date": "2015-02-03",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-76",
-      "date": "2026-04-06",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-77",
-      "date": "2026-04-07",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-78",
-      "date": "2009-05-05",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-79",
-      "date": "2011-08-21",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-80",
-      "date": "2018-11-07",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-81",
-      "date": "2014-10-27",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-82",
-      "date": "2009-08-29",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-83",
-      "date": "2019-10-23",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-84",
-      "date": "2025-08-16",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-85",
-      "date": "2014-01-10",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-86",
-      "date": "2025-08-19",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-87",
-      "date": "2026-02-14",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-88",
-      "date": "2025-09-18",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-89",
-      "date": "2017-02-12",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-90",
-      "date": "2025-10-23",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-91",
-      "date": "2025-09-10",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-92",
-      "date": "2011-02-14",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-93",
-      "date": "2020-12-04",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-94",
-      "date": "2019-12-26",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-95",
-      "date": "2019-12-25",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-96",
-      "date": "2009-04-02",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-97",
-      "date": "2019-04-04",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-98",
-      "date": "2016-06-27",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-99",
-      "date": "2022-06-22",
-      "date_precision": "day",
-      "title": "Пушкин в культуре и искусстве",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-100",
-      "date": "1821-12-16",
-      "date_precision": "day",
-      "title": "Музыкальный театр",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-101",
-      "date": "1823-01-15",
-      "date_precision": "day",
-      "title": "Музыкальный театр",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-102",
-      "date": "1825-04-23",
-      "date_precision": "day",
-      "title": "Музыкальный театр",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-103",
-      "date": "1831-12-11",
-      "date_precision": "day",
-      "title": "Музыкальный театр",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-104",
-      "date": "2019-12-18",
-      "date_precision": "day",
-      "title": "Память о Пушкине",
-      "description": null,
-      "source": "article_text",
-      "confidence": 0.6
-    },
-    {
-      "id": "text-event-105",
-      "date": "1833-09-03",
-      "date_precision": "day",
       "title": "Адреса",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "list_item",
+        "section_path": [
+          "Справочная информация",
+          "Адреса"
+        ],
+        "service_section": false
+      }
     }
   ],
   "numbers": [
@@ -1396,21 +893,36 @@
       "value": 1814.0,
       "unit": "year",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Дебют",
       "value": 1814.0,
       "unit": "year",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "IMDb",
       "value": 701090.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "people": [],
@@ -1423,231 +935,492 @@
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Aleksandr_Pushkin_-_portrait_of_childhood.jpg/250px-Aleksandr_Pushkin_-_portrait_of_childhood.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Портрет Александра Сергеевича Пушкина в детстве. (Неизвестный автор)",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Детство"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/%D0%A1._%D0%93._%D0%A7%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%B2_-_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%28%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%29.jpg/1280px-%D0%A1._%D0%93._%D0%A7%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%B2_-_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%28%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/%D0%A1._%D0%93._%D0%A7%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%B2_-_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%28%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%29.jpg/250px-%D0%A1._%D0%93._%D0%A7%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%B2_-_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%28%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Портрет Пушкина кисти С. Г. Чирикова , 1810 г.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Детство"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/N.O.Puskina.jpg/1280px-N.O.Puskina.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/N.O.Puskina.jpg/250px-N.O.Puskina.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Надежда Осиповна Ганнибал",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Юность"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pushkin_Sergey_L.jpg/1280px-Pushkin_Sergey_L.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pushkin_Sergey_L.jpg/250px-Pushkin_Sergey_L.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Отец поэта Сергей Львович Пушкин",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Юность"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Arina_Rodionovna.jpg/1280px-Arina_Rodionovna.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Arina_Rodionovna.jpg/250px-Arina_Rodionovna.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Няня Пушкина — Арина Родионовна",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Юность"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D0%B1_%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D0%BC_%D0%BB%D0%B8%D1%86%D0%B5%D1%8F.jpg/1280px-%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D0%B1_%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D0%BC_%D0%BB%D0%B8%D1%86%D0%B5%D1%8F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D0%B1_%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D0%BC_%D0%BB%D0%B8%D1%86%D0%B5%D1%8F.jpg/250px-%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D0%B1_%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B8_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D0%BC_%D0%BB%D0%B8%D1%86%D0%B5%D1%8F.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Свидетельство, выданное Пушкину по окончании лицея",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Молодость"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pushkin_derzhavin.jpg/1280px-Pushkin_derzhavin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pushkin_derzhavin.jpg/250px-Pushkin_derzhavin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Пушкин на лицейском экзамене. Картина И. Репина (1911)",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Молодость"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%D0%90.%D0%A1._%D0%A1%D1%82%D0%B8%D1%85%D0%B8_%D0%B8_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%9B%D0%B8%D1%81%D1%8218_%D0%B8%D0%B7_%27%D0%90%D0%BB%D1%8C%D0%B1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%27._%28p%29%D0%9A.%D0%90.%D0%A4%D0%B8%D1%88%D0%B5%D1%80.1899%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg/1280px-%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%D0%90.%D0%A1._%D0%A1%D1%82%D0%B8%D1%85%D0%B8_%D0%B8_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%9B%D0%B8%D1%81%D1%8218_%D0%B8%D0%B7_%27%D0%90%D0%BB%D1%8C%D0%B1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%27._%28p%29%D0%9A.%D0%90.%D0%A4%D0%B8%D1%88%D0%B5%D1%80.1899%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%D0%90.%D0%A1._%D0%A1%D1%82%D0%B8%D1%85%D0%B8_%D0%B8_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%9B%D0%B8%D1%81%D1%8218_%D0%B8%D0%B7_%27%D0%90%D0%BB%D1%8C%D0%B1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%27._%28p%29%D0%9A.%D0%90.%D0%A4%D0%B8%D1%88%D0%B5%D1%80.1899%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg/250px-%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%D0%90.%D0%A1._%D0%A1%D1%82%D0%B8%D1%85%D0%B8_%D0%B8_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%9B%D0%B8%D1%81%D1%8218_%D0%B8%D0%B7_%27%D0%90%D0%BB%D1%8C%D0%B1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%27._%28p%29%D0%9A.%D0%90.%D0%A4%D0%B8%D1%88%D0%B5%D1%80.1899%D0%B3_%D0%93%D0%98%D0%9C_e1t3.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Пушкин. Оригиналы стихов и записок. 1815—1820-е гг.",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "На юге (1820—1824)"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%83_%D0%B2_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%B5.jpg/1280px-%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%83_%D0%B2_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%83_%D0%B2_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%B5.jpg/250px-%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%81%D0%BA%D0%B0_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%83_%D0%B2_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%B5.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Мемориальная доска на доме, где в 1820 году останавливался А. С. Пушкин. г. Днепр",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "На юге (1820—1824)"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Pushkin_farewell_to_the_sea.jpg/1280px-Pushkin_farewell_to_the_sea.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Pushkin_farewell_to_the_sea.jpg/250px-Pushkin_farewell_to_the_sea.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "И. К. Айвазовский , И. Е. Репин . «Прощание Пушкина с морем». 1877. Всероссийский музей А. С. Пушкина",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "На юге (1820—1824)",
+          "В Кишинёве и Одессе"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Nikolay_Ge_043.jpg/1280px-Nikolay_Ge_043.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Nikolay_Ge_043.jpg/330px-Nikolay_Ge_043.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Картина Николая Ге «А. С. Пушкин в селе Михайловском»",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Ссылка в Михайловское"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/A.S.Pushkin.jpg/1280px-A.S.Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/A.S.Pushkin.jpg/250px-A.S.Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": null,
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Ссылка в Михайловское"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Pushkin_Alexander_by_Sokolov_P..jpg/1280px-Pushkin_Alexander_by_Sokolov_P..jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Pushkin_Alexander_by_Sokolov_P..jpg/250px-Pushkin_Alexander_by_Sokolov_P..jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": null,
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Ссылка в Михайловское"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Pushkin_i_ya_by_mog_1826.jpg/1280px-Pushkin_i_ya_by_mog_1826.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Pushkin_i_ya_by_mog_1826.jpg/330px-Pushkin_i_ya_by_mog_1826.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Рисунок Пушкина с изображением повешенных декабристов и словами «И я бы мог, как шут ви<сеть>», 1826 год",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "После ссылки"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Alexander_Puschkin_Selbstbildnis_als_Kosak.jpg/1280px-Alexander_Puschkin_Selbstbildnis_als_Kosak.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Alexander_Puschkin_Selbstbildnis_als_Kosak.jpg/330px-Alexander_Puschkin_Selbstbildnis_als_Kosak.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Рисунок Пушкина, изображающий его на войне",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Поездка на войну"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Natalia_Pushkina_by_Brullov.jpg/1280px-Natalia_Pushkina_by_Brullov.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Natalia_Pushkina_by_Brullov.jpg/250px-Natalia_Pushkina_by_Brullov.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Портрет Н. Н. Пушкиной работы Александра Брюллова (1831—1832 гг.)",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Болдино"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Pushkin_Alexander%2C_1831_by_Sokolov_P..jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Pushkin_Alexander%2C_1831_by_Sokolov_P..jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
       "caption": "А. С. Пушкин. Портрет работы П. Ф. Соколова (1831)",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Москва (1830—1831) и Петербург (1831—1833)"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%A0%D0%BE%D0%B4%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D1%85.jpg/1280px-%D0%A0%D0%BE%D0%B4%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D1%85.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%A0%D0%BE%D0%B4%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D1%85.jpg/250px-%D0%A0%D0%BE%D0%B4%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D1%85.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Родословное древо Пушкиных, (акварель, неизвестный художник, начало XIX века; центральный музей А. С. Пушкина)",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Петербург (1833—1835)"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pushkinwriting.jpg/1280px-Pushkinwriting.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pushkinwriting.jpg/250px-Pushkinwriting.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Подлинный прибор Пушкина из музея на Мойке , 12, Санкт-Петербург",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Петербург (1833—1835)"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Sovremennik.jpg/1280px-Sovremennik.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Sovremennik.jpg/250px-Sovremennik.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": null,
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Петербург (1833—1835)"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pushkin%27s_duel_with_d%27Anthes%2C_atrist_A._Naumov_1884.jpg/1280px-Pushkin%27s_duel_with_d%27Anthes%2C_atrist_A._Naumov_1884.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pushkin%27s_duel_with_d%27Anthes%2C_atrist_A._Naumov_1884.jpg/250px-Pushkin%27s_duel_with_d%27Anthes%2C_atrist_A._Naumov_1884.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Дуэль Пушкина с Дантесом. А. А. Наумов , 1884",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Гибель"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Duel_of_Pushkin_and_d%27Anthes_%2819th_century%29.jpg/1280px-Duel_of_Pushkin_and_d%27Anthes_%2819th_century%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Duel_of_Pushkin_and_d%27Anthes_%2819th_century%29.jpg/250px-Duel_of_Pushkin_and_d%27Anthes_%2819th_century%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Адриан Волков . Последний выстрел А. С. Пушкина",
       "alt": "Картина",
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Гибель"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1324._St._Petersburg._Obelisk_in_place_of_Pushkin%27s_duel_with_Dantes.jpg/1280px-1324._St._Petersburg._Obelisk_in_place_of_Pushkin%27s_duel_with_Dantes.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1324._St._Petersburg._Obelisk_in_place_of_Pushkin%27s_duel_with_Dantes.jpg/250px-1324._St._Petersburg._Obelisk_in_place_of_Pushkin%27s_duel_with_Dantes.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Памятная стела на месте дуэли",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Гибель"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/S._M._Lukyanov._About_the_last_days_of_A._S._Pushkin.jpg/1280px-S._M._Lukyanov._About_the_last_days_of_A._S._Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/S._M._Lukyanov._About_the_last_days_of_A._S._Pushkin.jpg/250px-S._M._Lukyanov._About_the_last_days_of_A._S._Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "С. М. Лукьянов «О последних днях жизни и о смерти А. С. Пушкина, с медицинской точки зрения» (1899)",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Гибель"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/PushkinGory_asv2018-07_img18_Svyatogorsky_Monastery.jpg/1280px-PushkinGory_asv2018-07_img18_Svyatogorsky_Monastery.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/PushkinGory_asv2018-07_img18_Svyatogorsky_Monastery.jpg/250px-PushkinGory_asv2018-07_img18_Svyatogorsky_Monastery.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Могила Пушкина",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Биография",
+          "Гибель"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Pushkin_Alexander%2C_self_portret%2C_1820s.jpg/1280px-Pushkin_Alexander%2C_self_portret%2C_1820s.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Pushkin_Alexander%2C_self_portret%2C_1820s.jpg/250px-Pushkin_Alexander%2C_self_portret%2C_1820s.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Автопортрет",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Внешность"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Pushkin_Selfportrait_with_Onegin.jpg/1280px-Pushkin_Selfportrait_with_Onegin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Pushkin_Selfportrait_with_Onegin.jpg/250px-Pushkin_Selfportrait_with_Onegin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Автограф Пушкина — автопортрет с Онегиным на набережной Невы",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Творчество Пушкина",
+          "Произведения"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4.jpg/1280px-%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4.jpg/250px-%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Полное академическое собрание сочинений Пушкина. Издание 1937 года",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Творчество Пушкина",
+          "Собрания сочинений"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.jpg/1280px-%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.jpg/250px-%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0._%D1%82%D0%BE%D0%BC_4_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Портрет Пушкина в академическом издании 1937 года",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Творчество Пушкина",
+          "Собрания сочинений"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%94%D0%BE%D0%BC_%D0%BD%D0%B0_%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%B9_%D1%83%D0%BB%D0%B8%D1%86%D0%B5_%28%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B4._57_%D0%B1%29%2C_%D0%B3%D0%B4%D0%B5_%D1%80%D0%BE%D0%B4%D0%B8%D0%BB%D1%81%D1%8F_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%2C_%D0%BA%D0%B0%D0%BA_%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B4%D0%BE_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8.JPG/1280px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%94%D0%BE%D0%BC_%D0%BD%D0%B0_%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%B9_%D1%83%D0%BB%D0%B8%D1%86%D0%B5_%28%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C_%D0%B4._57_%D0%B1%29%2C_%D0%B3%D0%B4%D0%B5_%D1%80%D0%BE%D0%B4%D0%B8%D0%BB%D1%81%D1%8F_%D0%90._%D0%A1._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%2C_%D0%BA%D0%B0%D0%BA_%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B4%D0%BE_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8.JPG/250px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Дом на Немецкой улице в Москве ( Бауманская , дом. 57 б), где родился А. С. Пушкин, как считалось до революции . На гравюре А. Шлипера видна доска из мрамора. Альбом к 100-летию А. С. Пушкина. 1899 год . Издательство А. Ф. Маркса",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Справочная информация",
+          "Адреса"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Fontanka_Embamkment_185.jpg/1280px-Fontanka_Embamkment_185.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Fontanka_Embamkment_185.jpg/250px-Fontanka_Embamkment_185.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Доходный дом Клокачёва на набережной реки Фонтанки, в котором с 1816 по 1820 год жил А. С. Пушкин",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Справочная информация",
+          "Адреса"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC._%D0%9C%D0%B0%D0%B9%D0%BA%D0%BE%D0%BF_%D1%83%D0%BB._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_179.jpg/1280px-%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC._%D0%9C%D0%B0%D0%B9%D0%BA%D0%BE%D0%BF_%D1%83%D0%BB._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_179.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC._%D0%9C%D0%B0%D0%B9%D0%BA%D0%BE%D0%BF_%D1%83%D0%BB._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_179.jpg/250px-%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC._%D0%9C%D0%B0%D0%B9%D0%BA%D0%BE%D0%BF_%D1%83%D0%BB._%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_179.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": "Здание, где была открыта первая общественная библиотека. Здесь работал городской комитет большевиков: улица Пушкина, 179, Майкоп, Адыгея",
       "alt": null,
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "figure",
+        "section_path": [
+          "Справочная информация",
+          "Адреса"
+        ],
+        "service_section": false
+      }
     },
     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kiprensky_Pushkin.jpg/1280px-Kiprensky_Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kiprensky_Pushkin.jpg/330px-Kiprensky_Pushkin.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": null,
       "alt": "Портрет кисти Ореста Кипренского (1827). Третьяковская галерея",
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "links": [],

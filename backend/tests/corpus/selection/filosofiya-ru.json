@@ -1,0 +1,752 @@
+{
+  "selected": {
+    "article": {
+      "id": 4255418,
+      "title": "Философия",
+      "language": "ru",
+      "url": "https://ru.wikipedia.org/wiki/Философия",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "История термина",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "Сущность философии",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-2",
+            "title": "Разделы философии",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "Предмет изучения",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-4",
+            "title": "Логика",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-5",
+            "title": "Теоретическая философия",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-6",
+                "title": "Метафизика",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-7",
+                "title": "Философия природы и теория познания",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-8",
+            "title": "Практическая философия. Аксиология",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-9",
+        "title": "История философии",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-10",
+            "title": "Зарождение философии",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-11",
+            "title": "Древнегреческая философия",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-12",
+                "title": "Ранняя греческая философия",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-13",
+                "title": "Классическая греческая философия",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-14",
+                "title": "Эллинистическая философия",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-15",
+            "title": "Древнеиндийская философия",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-16",
+            "title": "Древнекитайская философия",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-17",
+            "title": "Мировая философия в IV—XVI вв.",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-18",
+                "title": "Христианская философия",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-19",
+                "title": "Философия на Ближнем Востоке",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-20",
+                "title": "Философия в Индии и на Дальнем Востоке",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-21",
+                "title": "Философия эпохи Возрождения",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-22",
+            "title": "Философия Нового времени",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-23",
+                "title": "Французское Просвещение",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-24",
+                "title": "Материализм и идеализм",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-25",
+                "title": "Эмпиризм и рационализм",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-26",
+                "title": "Иммануил Кант",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-27",
+                "title": "Послекантовский немецкий идеализм",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-28",
+            "title": "Континентальная философия",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-29",
+                "title": "Критика континентальной философии",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-30",
+                "title": "Марксизм",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-31",
+                "title": "Феноменология и герменевтика",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-32",
+                "title": "Нигилизм и анархизм",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-33",
+                "title": "Экзистенциализм",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-34",
+                "title": "Семиотика и структурализм",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-35",
+                "title": "Постструктурализм",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-36",
+                "title": "Философия науки в континентальной традиции",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-37",
+            "title": "Аналитическая философия",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-38",
+                "title": "Критика аналитической философии",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-39",
+                "title": "Прагматизм",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-40",
+                "title": "Совершенствование логики",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-41",
+                "title": "Позитивизм",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-42",
+                "title": "Философия науки в аналитической традиции",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-43",
+                "title": "Философия языка и философия сознания",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-44",
+                "title": "Космизм, трансгуманизм",
+                "level": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "section-45",
+        "title": "Философия в России",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-46",
+        "title": "Философия и общество",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-47",
+        "title": "Комментарии",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-48",
+        "title": "Примечания",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-49",
+        "title": "Литература",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-50",
+            "title": "Справочная литература",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-51",
+            "title": "Вводная литература",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-52",
+            "title": "Тематическая литература по философским школам",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-53",
+                "title": "Ранняя греческая философия",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-54",
+                "title": "Греческая классическая философия",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-55",
+                "title": "Древнеиндийская философия",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-56",
+                "title": "Древнекитайская философия",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-57",
+                "title": "Средневековая философия Европы",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-58",
+                "title": "Средневековая философия Ближнего Востока",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-59",
+                "title": "Средневековая философия Индии и Дальнего Востока",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-60",
+                "title": "Философия Возрождения",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-61",
+                "title": "Философия Нового времени",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-62",
+                "title": "Континентальная философия",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-63",
+                "title": "Аналитическая философия",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-64",
+                "title": "Философия трансгуманизма и космизма",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-65",
+                "title": "Русская философия",
+                "level": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "section-66",
+        "title": "Ссылки",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "тема": {
+        "key": "тема",
+        "label": "Тема",
+        "group": null,
+        "value": "изучение бытия",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "предмет_изучения": {
+        "key": "предмет_изучения",
+        "label": "Предмет изучения",
+        "group": null,
+        "value": "обобщение знаний о мире",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "период_зарождения": {
+        "key": "период_зарождения",
+        "label": "Период зарождения",
+        "group": null,
+        "value": "античность",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "основные_направления": {
+        "key": "основные_направления",
+        "label": "Основные направления",
+        "group": null,
+        "value": "социальная философия, натурфилософия",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "значительные_учёные": {
+        "key": "значительные_учёные",
+        "label": "Значительные учёные",
+        "group": null,
+        "value": "Аристотель, Сократ, Платон, Пьер Абеляр, Томас Мор, Джон Локк, Вольтер, Иммануил Кант, Фридрих Ницше, Карл Маркс.",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [],
+    "locations": [],
+    "events": [
+      {
+        "id": "text-event-0",
+        "date": "2016-10-01",
+        "date_precision": "day",
+        "title": "История философии",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "other",
+          "section_path": [
+            "История философии"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-1",
+        "date": "2015-09-26",
+        "date_precision": "day",
+        "title": "Зарождение философии",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "other",
+          "section_path": [
+            "История философии",
+            "Зарождение философии"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-2",
+        "date": "1882-08-12",
+        "date_precision": "day",
+        "title": "Философия и общество",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Философия и общество"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Philly_Thinker.JPG/1280px-Philly_Thinker.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Philly_Thinker.JPG/330px-Philly_Thinker.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Скульптура «Мыслитель» ( фр. Le Penseur ) Огюста Родена , которая часто используется в качестве символа философии",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Huike_thinking.jpg/1280px-Huike_thinking.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Huike_thinking.jpg/330px-Huike_thinking.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Буддийский философ Хуэйкэ в размышлениях, гравюра китайского художника Ши Кэ [кит.] , X век",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Almeida_J%C3%BAnior_-_Mo%C3%A7a_com_Livro.jpg/1280px-Almeida_J%C3%BAnior_-_Mo%C3%A7a_com_Livro.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Almeida_J%C3%BAnior_-_Mo%C3%A7a_com_Livro.jpg/330px-Almeida_J%C3%BAnior_-_Mo%C3%A7a_com_Livro.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "«Каждый человек хотя бы изредка занимается философией». Картина Алмейды Жуниора «Девушка с книгой», XIX век",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F_%28%D0%BF%D0%BE_%D0%A1._%D0%9B._%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%83%29.png/1280px-%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F_%28%D0%BF%D0%BE_%D0%A1._%D0%9B._%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%83%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F_%28%D0%BF%D0%BE_%D0%A1._%D0%9B._%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%83%29.png/250px-%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F_%28%D0%BF%D0%BE_%D0%A1._%D0%9B._%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%83%29.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Схема философии по С. Л. Франку",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Сущность философии"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Systematik-Philosophie.png/1280px-Systematik-Philosophie.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Systematik-Philosophie.png/330px-Systematik-Philosophie.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Классическое разделение философии на предметы, дополненное современными разделами",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Сущность философии",
+            "Разделы философии"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Universum.jpg/1280px-Universum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Universum.jpg/250px-Universum.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "« Средневековый философ , заглядывающий за завесу небес». Гравюра из книги Фламмариона , 1888 г.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Предмет изучения",
+            "Теоретическая философия",
+            "Метафизика"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Wat_Tha_Thanon_01.jpg/1280px-Wat_Tha_Thanon_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Wat_Tha_Thanon_01.jpg/250px-Wat_Tha_Thanon_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Паринирвана — высшее счастье с точки зрения буддийской философии . Современная картина в храме провинции Уттарадит , Таиланд",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Предмет изучения",
+            "Практическая философия. Аксиология"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sanzio_01_Plato_Aristotle.jpg/1280px-Sanzio_01_Plato_Aristotle.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sanzio_01_Plato_Aristotle.jpg/250px-Sanzio_01_Plato_Aristotle.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Платон и Аристотель , фрагмент фрески Рафаеля « Афинская школа », Ватиканский дворец . Платон (слева) указывает на небо как на источник знаний, согласно своей теории идей [англ.] * , а Аристотель (справа) указывает на землю, демонстрируя свою приверженность получению знаний эмпирическим путём",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "История философии",
+            "Древнегреческая философия",
+            "Классическая греческая философия"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/1280px-Gandhara_Buddha_%28tnm%29.jpeg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/250px-Gandhara_Buddha_%28tnm%29.jpeg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Статуя Будды , Гандхара , I в н. э.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "История философии",
+            "Древнеиндийская философия"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/1280px-Confucius_Tang_Dynasty.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/120px-Confucius_Tang_Dynasty.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Конфуций , гравюра У Даоцзы , период династии Тан",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "История философии",
+            "Древнекитайская философия"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sughrat.jpg/1280px-Sughrat.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sughrat.jpg/250px-Sughrat.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "« Сократ с учениками» в представлении сельджукского иллюстратора к переводу Платона , XIII век",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "История философии",
+            "Мировая философия в IV—XVI вв.",
+            "Философия на Ближнем Востоке"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Hortus_Deliciarum%2C_Philosophy_and_the_seven_liberal_arts_%28cropped%29.jpg/1280px-Hortus_Deliciarum%2C_Philosophy_and_the_seven_liberal_arts_%28cropped%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Hortus_Deliciarum%2C_Philosophy_and_the_seven_liberal_arts_%28cropped%29.jpg/330px-Hortus_Deliciarum%2C_Philosophy_and_the_seven_liberal_arts_%28cropped%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "table",
+      "ref": "table-0",
+      "preview": "Собрание сочинений Соссюра |  | ",
+      "rule": "TBL-EMPTY",
+      "reason": "меньше двух строк или колонок"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "Перевод Четверокнижия Конфуция на латынь , Париж , 1687 г.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "Титульный лист первого издания « Критики чистого разума », 1781 г.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "Советское издание « Капитала » — самого фундаментального произведения Карла Маркса",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "Книга Циолковского с изложением принципов космизма",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "Знаменитые философские романы Герцена « Кто виноват? » и Чернышевского « Что делать? », которые сформулировали основные ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "Рекламные проспекты лекции Кропоткина (Англия, 1900 г.) и чтений трудов Бакунина (США, 1975 г.)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

@@ -57,7 +57,12 @@
       "title": "Royal assent",
       "description": null,
       "source": "infobox",
-      "confidence": 1.0
+      "confidence": 1.0,
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "id": "text-event-0",
@@ -66,7 +71,12 @@
       "title": "Introduction",
       "description": null,
       "source": "article_text",
-      "confidence": 0.6
+      "confidence": 0.6,
+      "context": {
+        "block": "paragraph",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "numbers": [
@@ -75,14 +85,24 @@
       "value": 1.0,
       "unit": null,
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     },
     {
       "label": "Dates — Amends",
       "value": 1838.0,
       "unit": "year",
       "year": null,
-      "source": "infobox"
+      "source": "infobox",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "people": [],
@@ -95,7 +115,12 @@
       "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Coat_of_arms_of_the_United_Kingdom_%281837%29.svg/250px-Coat_of_arms_of_the_United_Kingdom_%281837%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "caption": null,
       "alt": "coat of arms",
-      "source": "article_text"
+      "source": "article_text",
+      "context": {
+        "block": "infobox",
+        "section_path": [],
+        "service_section": false
+      }
     }
   ],
   "links": [],

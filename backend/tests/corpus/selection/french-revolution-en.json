@@ -1,0 +1,1026 @@
+{
+  "selected": {
+    "article": {
+      "id": 11188,
+      "title": "French Revolution",
+      "language": "en",
+      "url": "https://en.wikipedia.org/wiki/French_Revolution",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Causes",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "Crisis of the Ancien Régime",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-2",
+            "title": "Financial and political crisis",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-3",
+            "title": "Estates-General of 1789",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-4",
+        "title": "Constitutional monarchy (July 1789 – September 1792)",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-5",
+            "title": "Abolition of the Ancien Régime",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-6",
+            "title": "Creating a constitution",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-7",
+            "title": "Catholic Church",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-8",
+            "title": "Political divisions",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-9",
+            "title": "Varennes and after",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-10",
+            "title": "Fall of the monarchy",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-11",
+        "title": "First Republic (1792–1795)",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-12",
+            "title": "Proclamation of the First Republic",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-13",
+            "title": "Political crisis and fall of the Girondins",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-14",
+            "title": "Reign of Terror",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-15",
+            "title": "Thermidorian reaction",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-16",
+        "title": "French Directory (1795–1799)",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-17",
+        "title": "Role of ideology",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-18",
+        "title": "French Revolutionary Wars",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-19",
+        "title": "Slavery and the colonies",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-20",
+        "title": "Media and symbolism",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-21",
+            "title": "Newspapers",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-22",
+            "title": "Revolutionary symbols",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-23",
+                "title": "La Marseillaise",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-24",
+                "title": "Guillotine",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-25",
+                "title": "Cockade, tricolore, and liberty cap",
+                "level": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "section-26",
+        "title": "Role of women",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-27",
+            "title": "Prominent women",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-28",
+        "title": "Economic policies",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-29",
+        "title": "Impact",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-30",
+            "title": "France",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-31",
+            "title": "Europe outside France",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-32",
+            "title": "North America",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-33",
+        "title": "Historiography",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-34",
+        "title": "See also",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-35",
+        "title": "Notes",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-36",
+        "title": "References",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-37",
+            "title": "Citations",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-38",
+            "title": "Sources",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-39",
+        "title": "Further reading",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-40",
+        "title": "External links",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "part_of_the_age_of_revolution_date": {
+        "key": "part_of_the_age_of_revolution_date",
+        "label": "Date",
+        "group": "Part of the Age of Revolution",
+        "value": "5 May 1789 – 9 November 1799, (10 years, 6 months, and 4 days)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "part_of_the_age_of_revolution_location": {
+        "key": "part_of_the_age_of_revolution_location",
+        "label": "Location",
+        "group": "Part of the Age of Revolution",
+        "value": "France",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [],
+    "locations": [],
+    "events": [
+      {
+        "id": "event-0",
+        "date": "1789-05-05",
+        "date_precision": "day",
+        "title": "Date",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-0",
+        "date": "1799-11-09",
+        "date_precision": "day",
+        "title": "Introduction",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-1",
+        "date": "1792-08-10",
+        "date_precision": "day",
+        "title": "Introduction",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-2",
+        "date": "1788-08-08",
+        "date_precision": "day",
+        "title": "Financial and political crisis",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Crisis of the Ancien Régime",
+            "Financial and political crisis"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "1788-09-25",
+        "date_precision": "day",
+        "title": "Financial and political crisis",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Crisis of the Ancien Régime",
+            "Financial and political crisis"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-5",
+        "date": "1789-07-14",
+        "date_precision": "day",
+        "title": "Abolition of the Ancien Régime",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Abolition of the Ancien Régime"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-6",
+        "date": "1790-02-16",
+        "date_precision": "day",
+        "title": "Catholic Church",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Catholic Church"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-7",
+        "date": "1790-02-13",
+        "date_precision": "day",
+        "title": "Catholic Church",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Catholic Church"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-8",
+        "date": "1790-07-12",
+        "date_precision": "day",
+        "title": "Catholic Church",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Catholic Church"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-9",
+        "date": "1790-07-14",
+        "date_precision": "day",
+        "title": "Political divisions",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Political divisions"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-10",
+        "date": "1791-06-20",
+        "date_precision": "day",
+        "title": "Varennes and after",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Varennes and after"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-12",
+        "date": "1792-04-20",
+        "date_precision": "day",
+        "title": "Fall of the monarchy",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Fall of the monarchy"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-13",
+        "date": "1793-01-17",
+        "date_precision": "day",
+        "title": "Proclamation of the First Republic",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "First Republic (1792–1795)",
+            "Proclamation of the First Republic"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-14",
+        "date": "1793-04-06",
+        "date_precision": "day",
+        "title": "Political crisis and fall of the Girondins",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "First Republic (1792–1795)",
+            "Political crisis and fall of the Girondins"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-15",
+        "date": "1794-04-05",
+        "date_precision": "day",
+        "title": "Reign of Terror",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "First Republic (1792–1795)",
+            "Reign of Terror"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-16",
+        "date": "1794-07-28",
+        "date_precision": "day",
+        "title": "Reign of Terror",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "First Republic (1792–1795)",
+            "Reign of Terror"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-17",
+        "date": "1795-09-23",
+        "date_precision": "day",
+        "title": "Thermidorian reaction",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "First Republic (1792–1795)",
+            "Thermidorian reaction"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-18",
+        "date": "1795-10-05",
+        "date_precision": "day",
+        "title": "French Directory (1795–1799)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "French Directory (1795–1799)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-20",
+        "date": "1792-09-20",
+        "date_precision": "day",
+        "title": "French Revolutionary Wars",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "French Revolutionary Wars"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-21",
+        "date": "1794-02-04",
+        "date_precision": "day",
+        "title": "Slavery and the colonies",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Slavery and the colonies"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-22",
+        "date": "1789-07-12",
+        "date_precision": "day",
+        "title": "Cockade, tricolore, and liberty cap",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Media and symbolism",
+            "Revolutionary symbols",
+            "Cockade, tricolore, and liberty cap"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-23",
+        "date": "1793-10-30",
+        "date_precision": "day",
+        "title": "Role of women",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Role of women"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-24",
+        "date": "1790-09-29",
+        "date_precision": "day",
+        "title": "Economic policies",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Economic policies"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-25",
+        "date": "1789-11-04",
+        "date_precision": "day",
+        "title": "Europe outside France",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Impact",
+            "Europe outside France"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Parliaments_and_Sovereign_Councils_of_the_Kingdom_of_France_in_1789_%28fr%29.png/1280px-Parliaments_and_Sovereign_Councils_of_the_Kingdom_of_France_in_1789_%28fr%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Parliaments_and_Sovereign_Councils_of_the_Kingdom_of_France_in_1789_%28fr%29.png/250px-Parliaments_and_Sovereign_Councils_of_the_Kingdom_of_France_in_1789_%28fr%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The regional Parlements in 1789; note area covered by the Parlement of Paris",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Crisis of the Ancien Régime"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Troisordres.jpg/1280px-Troisordres.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Troisordres.jpg/250px-Troisordres.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Caricature of the Third Estate carrying the First Estate (clergy) and the Second Estate (nobility) on its back",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Crisis of the Ancien Régime",
+            "Estates-General of 1789"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg/1280px-Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg/250px-Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Le Serment du Jeu de paume by Jacques-Louis David ( c. 1791 ), depicting the Tennis Court Oath",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Crisis of the Ancien Régime",
+            "Estates-General of 1789"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Prise_de_la_Bastille.jpg/1280px-Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Prise_de_la_Bastille.jpg/250px-Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Storming of the Bastille on 14 July 1789; the iconic event of the Revolution, still commemorated each year as Bastille Day",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Abolition of the Ancien Régime"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Decret_de_l%27Assembl%C3%A9e_National_qui_supprime_les_Ordres_Religieux_et_Religieuses.jpg/1280px-Decret_de_l%27Assembl%C3%A9e_National_qui_supprime_les_Ordres_Religieux_et_Religieuses.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Decret_de_l%27Assembl%C3%A9e_National_qui_supprime_les_Ordres_Religieux_et_Religieuses.jpg/250px-Decret_de_l%27Assembl%C3%A9e_National_qui_supprime_les_Ordres_Religieux_et_Religieuses.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "In this caricature, monks and nuns enjoy their new freedom after the decree of 16 February 1790",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Catholic Church"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Federation.jpg/1280px-Federation.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Federation.jpg/250px-Federation.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Fête de la Fédération on 14 July 1790 celebrated the establishment of the constitutional monarchy",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Political divisions"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Retour_Varennes_1791.jpg/1280px-Retour_Varennes_1791.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Retour_Varennes_1791.jpg/330px-Retour_Varennes_1791.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "After the Flight to Varennes ; the royal family are escorted back to Paris",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Varennes and after"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Jacques_Bertaux_-_Der_Tuileriensturm_am_10._August_1792.jpg/1280px-Jacques_Bertaux_-_Der_Tuileriensturm_am_10._August_1792.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Jacques_Bertaux_-_Der_Tuileriensturm_am_10._August_1792.jpg/250px-Jacques_Bertaux_-_Der_Tuileriensturm_am_10._August_1792.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The insurrection of 10 August 1792",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Constitutional monarchy (July 1789 – September 1792)",
+            "Fall of the monarchy"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Execution_of_Louis_XVI.jpg/1280px-Execution_of_Louis_XVI.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Execution_of_Louis_XVI.jpg/250px-Execution_of_Louis_XVI.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Execution of Louis XVI in the Place de la Concorde , facing the empty pedestal where the statue of his grandfather Louis XV previously stood",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "First Republic (1792–1795)",
+            "Proclamation of the First Republic"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Death_of_Marat_by_David.jpg/1280px-Death_of_Marat_by_David.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Death_of_Marat_by_David.jpg/250px-Death_of_Marat_by_David.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Death of Marat by Jacques-Louis David (1793)",
+        "alt": "Death of Marat",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "First Republic (1792–1795)",
+            "Political crisis and fall of the Girondins"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Octobre_1793%2C_supplice_de_9_%C3%A9migr%C3%A9s.jpg/1280px-Octobre_1793%2C_supplice_de_9_%C3%A9migr%C3%A9s.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Octobre_1793%2C_supplice_de_9_%C3%A9migr%C3%A9s.jpg/250px-Octobre_1793%2C_supplice_de_9_%C3%A9migr%C3%A9s.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Nine émigrés are executed by guillotine , 1793",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "First Republic (1792–1795)",
+            "Reign of Terror"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/1280px-Anonymous_-_Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/330px-Anonymous_-_Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "1789-05-05 «Estates-General of 1789»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "1792-08-10 «Fall of the monarchy»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-19",
+      "preview": "1799-11-09 «French Directory (1795–1799)»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "number",
+      "ref": "0",
+      "preview": "Outcome = 1792 Reign",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "table",
+      "ref": "table-0",
+      "preview": "Preceded by Ancien Régime (Old Regime) | French Revolution 1789–1792 | Succeeded by French First Republic",
+      "rule": "TBL-NAV",
+      "reason": "таблица-навигация (кто был до и после)"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "part_of_the_age_of_revolution_outcome",
+      "preview": "Outcome: Abolition of the Ancien régime and creation of constitutional monarchy, Proclamation of the French First Republ",
+      "rule": "IB-LONG",
+      "reason": "значение длиннее 200 символов"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "Georges Danton ; Robespierre's close friend and Montagnard leader, executed 5 April 1794",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "The execution of Robespierre on 28 July 1794 marked the end of the Reign of Terror",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "Former Viscount and Montagnard Paul Barras , who took part in the Thermidorian reaction and later headed the French Dire",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "Troops under Napoleon fire on Royalist insurgents in Paris, 5 October 1795",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "Bonaparte at the Council of Five Hundred at Saint-Cloud by François Bouchot",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "The Battle of Valmy by Horace Vernet , 1826. French victory at the Battle of Valmy on 20 September 1792 validated the Re",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "The Crossing of the Arcole Bridge by Horace Vernet , 1826. Napoleon's Italian campaigns reshaped the map of Italy",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "The Saint-Domingue slave revolt in 1791",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "A copy of L'Ami du peuple stained with the blood of Marat",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "Marche des Marseillois, 1792, satirical etching, London",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "21",
+      "preview": "Cartoon attacking the excesses of the Revolution as symbolized by the guillotine",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "22",
+      "preview": "Simon Chenard as a Sans-Culotte by Louis-Léopold Boilly , 1792. A sans-culotte and Tricoloure",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "Club of patriotic women in a church",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "24",
+      "preview": "Olympe de Gouges , Girondist author of the Declaration of the Rights of Woman and of the Female Citizen , executed in No",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "25",
+      "preview": "Early Assignat of 29 September 1790: 500 livres",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "26",
+      "preview": "Hippolyte Taine , conservative historian of the French Revolution",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

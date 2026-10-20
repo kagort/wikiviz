@@ -1,0 +1,1055 @@
+{
+  "selected": {
+    "article": {
+      "id": 15573,
+      "title": "Japan",
+      "language": "en",
+      "url": "https://en.wikipedia.org/wiki/Japan",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Etymology",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "History",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-2",
+            "title": "Prehistoric to classical history",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-3",
+            "title": "Feudal era",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-4",
+            "title": "Modern era",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-5",
+        "title": "Geography",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-6",
+            "title": "Climate",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-7",
+            "title": "Biodiversity",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-8",
+            "title": "Environment",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-9",
+        "title": "Government and politics",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-10",
+            "title": "Administrative divisions",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-11",
+            "title": "Foreign relations",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-12",
+            "title": "Military",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-13",
+            "title": "Law enforcement",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-14",
+            "title": "Human rights",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-15",
+        "title": "Economy",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-16",
+            "title": "Agriculture and fishery",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-17",
+            "title": "Industry and services",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-18",
+            "title": "Science and technology",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-19",
+        "title": "Infrastructure",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-20",
+            "title": "Transportation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-21",
+            "title": "Energy",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-22",
+        "title": "Demographics",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-23",
+            "title": "Languages",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-24",
+            "title": "Religion",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-25",
+            "title": "Education",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-26",
+            "title": "Health",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-27",
+        "title": "Culture",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-28",
+            "title": "Art and architecture",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-29",
+            "title": "Literature and philosophy",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-30",
+            "title": "Performing arts",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-31",
+            "title": "Media",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-32",
+            "title": "Holidays",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-33",
+            "title": "Cuisine",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-34",
+            "title": "Sports",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-35",
+        "title": "See also",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-36",
+        "title": "Notes",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-37",
+        "title": "References",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-38",
+        "title": "External links",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "capital_and_largest_city": {
+        "key": "capital_and_largest_city",
+        "label": "Capital and largest city",
+        "group": null,
+        "value": "Tokyo, 35°41′N 139°46′E / 35.683°N 139.767°E",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "national_language": {
+        "key": "national_language",
+        "label": "National language",
+        "group": null,
+        "value": "Japanese",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "regional_languages": {
+        "key": "regional_languages",
+        "label": "Regional languages",
+        "group": null,
+        "value": "Ainu (recognized), Hachijō, Ryukyuan languages",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "demonym": {
+        "key": "demonym",
+        "label": "Demonym",
+        "group": null,
+        "value": "Japanese",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government": {
+        "key": "government",
+        "label": "Government",
+        "group": null,
+        "value": "Unitary parliamentary constitutional monarchy",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_emperor": {
+        "key": "government_emperor",
+        "label": "Emperor",
+        "group": "Government",
+        "value": "Naruhito",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_prime_minister": {
+        "key": "government_prime_minister",
+        "label": "Prime Minister",
+        "group": "Government",
+        "value": "Sanae Takaichi",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature": {
+        "key": "legislature",
+        "label": "Legislature",
+        "group": null,
+        "value": "National Diet",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature_upper_house": {
+        "key": "legislature_upper_house",
+        "label": "Upper house",
+        "group": "Legislature",
+        "value": "Senate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature_lower_house": {
+        "key": "legislature_lower_house",
+        "label": "Lower house",
+        "group": "Legislature",
+        "value": "House of Representatives",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_total": {
+        "key": "area_total",
+        "label": "Total",
+        "group": "Area",
+        "value": "377,975 km2 (145,937 sq mi) (62nd)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_water": {
+        "key": "area_water",
+        "label": "Water (%)",
+        "group": "Area",
+        "value": "1.4",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_january_1_2026_estimate": {
+        "key": "population_january_1_2026_estimate",
+        "label": "January 1, 2026 estimate",
+        "group": "Population",
+        "value": "122,950,000 (11th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2020_census": {
+        "key": "population_2020_census",
+        "label": "2020 census",
+        "group": "Population",
+        "value": "126,146,099",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_density": {
+        "key": "population_density",
+        "label": "Density",
+        "group": "Population",
+        "value": "330/km2 (854.7/sq mi) (39th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp": {
+        "key": "gdp_ppp",
+        "label": "GDP (PPP)",
+        "group": null,
+        "value": "2026 estimate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp_total": {
+        "key": "gdp_ppp_total",
+        "label": "Total",
+        "group": "GDP (PPP)",
+        "value": "$7.262 trillion (5th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp_per_capita": {
+        "key": "gdp_ppp_per_capita",
+        "label": "Per capita",
+        "group": "GDP (PPP)",
+        "value": "$59,207 (36th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal": {
+        "key": "gdp_nominal",
+        "label": "GDP (nominal)",
+        "group": null,
+        "value": "2026 estimate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal_total": {
+        "key": "gdp_nominal_total",
+        "label": "Total",
+        "group": "GDP (nominal)",
+        "value": "$4.379 trillion (4th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal_per_capita": {
+        "key": "gdp_nominal_per_capita",
+        "label": "Per capita",
+        "group": "GDP (nominal)",
+        "value": "$35,703 (39th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gini_2020": {
+        "key": "gini_2020",
+        "label": "Gini (2020)",
+        "group": null,
+        "value": "32.3, medium inequality",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "hdi_2023": {
+        "key": "hdi_2023",
+        "label": "HDI (2023)",
+        "group": null,
+        "value": "0.925, very high (23rd)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "currency": {
+        "key": "currency",
+        "label": "Currency",
+        "group": null,
+        "value": "Japanese yen (JPY)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "time_zone": {
+        "key": "time_zone",
+        "label": "Time zone",
+        "group": null,
+        "value": "UTC+09:00 (JST)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "calling_code": {
+        "key": "calling_code",
+        "label": "Calling code",
+        "group": null,
+        "value": "+81",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "iso_3166_code": {
+        "key": "iso_3166_code",
+        "label": "ISO 3166 code",
+        "group": null,
+        "value": "JP",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "internet_tld": {
+        "key": "internet_tld",
+        "label": "Internet TLD",
+        "group": null,
+        "value": ".jp",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [],
+    "locations": [
+      {
+        "id": "location-0",
+        "name": "Japan",
+        "latitude": 35.68333333333333,
+        "longitude": 139.76666666666668,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      },
+      {
+        "id": "location-1",
+        "name": "Japan",
+        "latitude": 36.0,
+        "longitude": 138.0,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      }
+    ],
+    "events": [
+      {
+        "id": "text-event-0",
+        "date": "1890-11-29",
+        "date_precision": "day",
+        "title": "Modern era",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Modern era"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-1",
+        "date": "1945-09-02",
+        "date_precision": "day",
+        "title": "Modern era",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Modern era"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-2",
+        "date": "2011-03-11",
+        "date_precision": "day",
+        "title": "Modern era",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Modern era"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "2019-05-01",
+        "date_precision": "day",
+        "title": "Modern era",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Modern era"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-4",
+        "date": "2025-08-05",
+        "date_precision": "day",
+        "title": "Climate",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Geography",
+            "Climate"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-5",
+        "date": "2007-10-04",
+        "date_precision": "day",
+        "title": "Science and technology",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Economy",
+            "Science and technology"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-6",
+        "date": "2009-06-11",
+        "date_precision": "day",
+        "title": "Science and technology",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Economy",
+            "Science and technology"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-7",
+        "date": "2019-04-01",
+        "date_precision": "day",
+        "title": "Demographics",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Demographics"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Emperor_Jimmu.jpg/1280px-Emperor_Jimmu.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Emperor_Jimmu.jpg/250px-Emperor_Jimmu.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Legendary Emperor Jimmu ( 神武天皇 , Jinmu-tennō )",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Prehistoric to classical history"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Mokoshuraiekotoba.jpg/1280px-Mokoshuraiekotoba.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Mokoshuraiekotoba.jpg/250px-Mokoshuraiekotoba.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Japanese samurai boarding a Mongol vessel during the Mongol invasions of Japan , depicted in the Mōko Shūrai Ekotoba , 1293",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Feudal era"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/The_Three_Unifiers_of_Japan.jpg/1280px-The_Three_Unifiers_of_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/The_Three_Unifiers_of_Japan.jpg/250px-The_Three_Unifiers_of_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Three unifiers of Japan. Left to right: Oda Nobunaga , Toyotomi Hideyoshi , and Tokugawa Ieyasu .",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Feudal era"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Meiji_tenno1.jpg/1280px-Meiji_tenno1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Meiji_tenno1.jpg/250px-Meiji_tenno1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Emperor Meiji ( 明治天皇 , Meiji-tennō ) ; 1852–1912",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Modern era"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg/1280px-Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg/250px-Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "On September 2, 1945, Japan surrendered to the Allies .",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Modern era"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Japan_topo_en.jpg/1280px-Japan_topo_en.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Japan_topo_en.jpg/330px-Japan_topo_en.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "A topographic map of Japan",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Geography"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Series-N700a-Mt.Fuji.jpg/1280px-Series-N700a-Mt.Fuji.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Series-N700a-Mt.Fuji.jpg/250px-Series-N700a-Mt.Fuji.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Mount Fuji and the Shinkansen",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Geography",
+            "Climate"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kongobuji_Koyasan07n3200.jpg/1280px-Kongobuji_Koyasan07n3200.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kongobuji_Koyasan07n3200.jpg/250px-Kongobuji_Koyasan07n3200.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Autumn maple leaves ( momiji ) at Kongōbu-ji on Mount Kōya , a UNESCO World Heritage Site",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Geography",
+            "Environment"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg/1280px-Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg/250px-Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Naruhito Emperor",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Government and politics"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/National_Diet_Building_02.jpg/1280px-National_Diet_Building_02.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/National_Diet_Building_02.jpg/250px-National_Diet_Building_02.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The National Diet Building",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Government and politics"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Participation_of_Ursula_von_der_Leyen%2C_President_of_the_European_Commission%2C_to_the_G7_Summit.jpg/1280px-Participation_of_Ursula_von_der_Leyen%2C_President_of_the_European_Commission%2C_to_the_G7_Summit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Participation_of_Ursula_von_der_Leyen%2C_President_of_the_European_Commission%2C_to_the_G7_Summit.jpg/250px-Participation_of_Ursula_von_der_Leyen%2C_President_of_the_European_Commission%2C_to_the_G7_Summit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Japan is a member of both the G7 and the G20 .",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Government and politics",
+            "Foreign relations"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/250px-Flag_of_Japan.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": "Centered deep red circle on a white rectangle",
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "number",
+      "ref": "2",
+      "preview": "Population — January 1, 2026 estimate = 1.2295e+08",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "3",
+      "preview": "Population — 2020 census = 1.26146e+08",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "5",
+      "preview": "GDP ( PPP ) — Total = 7.262e+12",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "6",
+      "preview": "GDP ( PPP ) — Per capita = 59207",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "7",
+      "preview": "GDP (nominal) — Total = 4.379e+12",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "8",
+      "preview": "GDP (nominal) — Per capita = 35703",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "9",
+      "preview": "GDP (nominal) — Gini (2020) = 32.3 medium",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "10",
+      "preview": "GDP (nominal) — HDI (2023) = 0.925 very",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "11",
+      "preview": "GDP (nominal) — Time zone = 9",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "number",
+      "ref": "12",
+      "preview": "GDP (nominal) — Calling code = 81",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "number",
+      "ref": "0",
+      "preview": "Area — Total = 377975 km²",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "1",
+      "preview": "Area — Water (%) = 1.4 %",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "4",
+      "preview": "Population — Density = 330 /km²",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "Kongō -class destroyer of the Japan Maritime Self-Defense Force",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "The headquarters of the Tokyo Metropolitan Police Department",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "Skyscrapers in Nakanoshima , Osaka; a major financial center in Japan",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "A rice paddy in Aizu , Fukushima Prefecture",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "The Nissan GT-R , a sports car manufactured by Nissan . Japan is the third-largest producer of motor vehicles in the wor",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "The Japanese Experiment Module ( Kibō ) at the International Space Station",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "Japan Airlines , the flag carrier of Japan",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "Wind turbines at Katagami , in Akita Prefecture",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "View of Tokyo from the top of the Tokyo Skytree . The Greater Tokyo Area is ranked as the most populous metropolitan are",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "Kanji and hiragana signs",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "21",
+      "preview": "The torii of Itsukushima Shinto Shrine near Hiroshima",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "22",
+      "preview": "Students celebrating after the announcement of the results of the entrance examinations to the University of Tokyo",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "University of Tokyo Hospital",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "24",
+      "preview": "Hokusai 's 19th-century ukiyo-e woodblock print The Great Wave off Kanagawa",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "25",
+      "preview": "12th-century illustrated handscroll of The Tale of Genji , a National Treasure",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "26",
+      "preview": "Noh performance at a Shinto shrine",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "27",
+      "preview": "The Japanese media franchise Pokémon is the highest-grossing media franchise of all time.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "28",
+      "preview": "Young women celebrate Coming of Age Day ( 成人の日 , Seijin no Hi ) in Harajuku , Tokyo.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "29",
+      "preview": "A plate of nigirizushi",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "30",
+      "preview": "Sumo wrestlers form around the referee during the ring-entering ceremony.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}
