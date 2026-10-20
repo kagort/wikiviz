@@ -395,14 +395,6 @@
         "value": "119991, Российская Федерация, г. Москва, Ленинские горы, д. 1, МГУ имени М. В. Ломоносова",
         "normalized_value": null,
         "source": "infobox"
-      },
-      "сайт": {
-        "key": "сайт",
-        "label": "Сайт",
-        "group": null,
-        "value": "msu.ru",
-        "normalized_value": null,
-        "source": "infobox"
       }
     },
     "tables": [
@@ -536,390 +528,7 @@
       }
     ],
     "locations": [],
-    "events": [
-      {
-        "id": "text-event-8",
-        "date": "1804-11-05",
-        "date_precision": "day",
-        "title": "Московский университет в XIX веке",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Императорский Московский университет 1755—1917",
-            "Московский университет в XIX веке"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-9",
-        "date": "1918-10-01",
-        "date_precision": "day",
-        "title": "Московский университет 1917—1929",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "Московский университет 1917—1929"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-10",
-        "date": "1919-04-14",
-        "date_precision": "day",
-        "title": "Московский университет 1917—1929",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "Московский университет 1917—1929"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-11",
-        "date": "1920-10-05",
-        "date_precision": "day",
-        "title": "Московский университет 1917—1929",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "Московский университет 1917—1929"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "1927-05-01",
-        "date_precision": "day",
-        "title": "Московский университет 1917—1929",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "Московский университет 1917—1929"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-13",
-        "date": "1930-06-30",
-        "date_precision": "day",
-        "title": "Реорганизация МГУ 1929—1934",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "Реорганизация МГУ 1929—1934"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-14",
-        "date": "1941-06-01",
-        "date_precision": "day",
-        "title": "МГУ в 1934—1941 годах",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "МГУ в 1934—1941 годах"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-15",
-        "date": "1943-06-10",
-        "date_precision": "day",
-        "title": "МГУ в годы Великой Отечественной войны (1941—1945)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "МГУ в годы Великой Отечественной войны (1941—1945)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-16",
-        "date": "1955-05-06",
-        "date_precision": "day",
-        "title": "МГУ после 1945 года",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "МГУ после 1945 года"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-17",
-        "date": "1980-01-22",
-        "date_precision": "day",
-        "title": "МГУ после 1945 года",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "МГУ после 1945 года"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-18",
-        "date": "2019-03-28",
-        "date_precision": "day",
-        "title": "МГУ после 1945 года",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "МГУ после 1945 года"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-19",
-        "date": "2023-01-25",
-        "date_precision": "day",
-        "title": "МГУ после 1945 года",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "МГУ после 1945 года"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-20",
-        "date": "2024-12-28",
-        "date_precision": "day",
-        "title": "МГУ после 1945 года",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "История",
-            "Московский государственный университет",
-            "МГУ после 1945 года"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-21",
-        "date": "2007-09-01",
-        "date_precision": "day",
-        "title": "Современный МГУ",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Современный МГУ"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-22",
-        "date": "2009-01-23",
-        "date_precision": "day",
-        "title": "Современный МГУ",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Современный МГУ"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-23",
-        "date": "2010-01-25",
-        "date_precision": "day",
-        "title": "Современный МГУ",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Современный МГУ"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-24",
-        "date": "2009-11-11",
-        "date_precision": "day",
-        "title": "Изменение статуса МГУ",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Современный МГУ",
-            "Изменение статуса МГУ"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-25",
-        "date": "2011-08-18",
-        "date_precision": "day",
-        "title": "Изменение статуса МГУ",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Современный МГУ",
-            "Изменение статуса МГУ"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-26",
-        "date": "2016-09-01",
-        "date_precision": "day",
-        "title": "Отделения",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Отделения"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-27",
-        "date": "1944-05-29",
-        "date_precision": "day",
-        "title": "Награды и поощрения Московского университета",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Награды и поощрения Московского университета"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-28",
-        "date": "2011-11-18",
-        "date_precision": "day",
-        "title": "Русская православная церковь",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Религиозные организации при МГУ",
-            "Русская православная церковь"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-29",
-        "date": "2012-09-28",
-        "date_precision": "day",
-        "title": "Русская православная церковь",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Религиозные организации при МГУ",
-            "Русская православная церковь"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -1110,57 +719,211 @@
       "kind": "event",
       "ref": "text-event-0",
       "preview": "1932-10-20 «История»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-1",
       "preview": "1937-11-11 «История»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-2",
       "preview": "1940-05-07 «История»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-3",
       "preview": "1955-05-07 «История»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-4",
       "preview": "1980-01-22 «История»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-5",
       "preview": "2008-03-28 «История»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-6",
       "preview": "2010-12-31 «История»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-7",
       "preview": "2014-10-22 «История»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "1804-11-05 «Московский университет в XIX веке»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "1918-10-01 «Московский университет 1917—1929»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "1919-04-14 «Московский университет 1917—1929»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "1920-10-05 «Московский университет 1917—1929»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "1927-05-01 «Московский университет 1917—1929»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-13",
+      "preview": "1930-06-30 «Реорганизация МГУ 1929—1934»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-14",
+      "preview": "1941-06-01 «МГУ в 1934—1941 годах»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-15",
+      "preview": "1943-06-10 «МГУ в годы Великой Отечественной войны (1941—1945)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-16",
+      "preview": "1955-05-06 «МГУ после 1945 года»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-17",
+      "preview": "1980-01-22 «МГУ после 1945 года»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-18",
+      "preview": "2019-03-28 «МГУ после 1945 года»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-19",
+      "preview": "2023-01-25 «МГУ после 1945 года»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-20",
+      "preview": "2024-12-28 «МГУ после 1945 года»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-21",
+      "preview": "2007-09-01 «Современный МГУ»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-22",
+      "preview": "2009-01-23 «Современный МГУ»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-23",
+      "preview": "2010-01-25 «Современный МГУ»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-24",
+      "preview": "2009-11-11 «Изменение статуса МГУ»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-25",
+      "preview": "2011-08-18 «Изменение статуса МГУ»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-26",
+      "preview": "2016-09-01 «Отделения»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-27",
+      "preview": "1944-05-29 «Награды и поощрения Московского университета»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-28",
+      "preview": "2011-11-18 «Русская православная церковь»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-29",
+      "preview": "2012-09-28 «Русская православная церковь»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "number",
@@ -1217,6 +980,13 @@
       "preview": "Юридический адрес = 119991",
       "rule": "NUM-UNIT",
       "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "сайт",
+      "preview": "Сайт: msu.ru",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "image",

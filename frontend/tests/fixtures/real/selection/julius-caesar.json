@@ -778,90 +778,6 @@
           "section_path": [],
           "service_section": false
         }
-      },
-      {
-        "id": "text-event-3",
-        "date": "-0050",
-        "date_precision": "year",
-        "title": "Civil war",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Civil war"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "-0048",
-        "date_precision": "year",
-        "title": "Italy, Spain, and Greece",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Civil war",
-            "Italy, Spain, and Greece"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "-0047",
-        "date_precision": "year",
-        "title": "Italy, Africa, and Spain",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Civil war",
-            "Italy, Africa, and Spain"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-8",
-        "date": "-0046",
-        "date_precision": "year",
-        "title": "Italy, Africa, and Spain",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Civil war",
-            "Italy, Africa, and Spain"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "-0042",
-        "date_precision": "year",
-        "title": "Aftermath of the assassination",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Dictatorship and assassination",
-            "Aftermath of the assassination"
-          ],
-          "service_section": false
-        }
       }
     ],
     "numbers": [],
@@ -1054,57 +970,92 @@
       "kind": "event",
       "ref": "text-event-0",
       "preview": "-0100 «Introduction»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-1",
       "preview": "-0044 «Introduction»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-2",
       "preview": "-0100 «Early life and career»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "-0050 «Civil war»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-4",
       "preview": "-0049 «Italy, Spain, and Greece»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "-0048 «Italy, Spain, and Greece»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-6",
       "preview": "-0048 «Alexandrine war and Asia Minor»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "-0047 «Italy, Africa, and Spain»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "-0046 «Italy, Africa, and Spain»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-9",
       "preview": "-0045 «Italy, Africa, and Spain»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-10",
       "preview": "-0044 «Italy, Africa, and Spain»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-11",
       "preview": "-0044 «Conspiracy and death»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "-0042 «Aftermath of the assassination»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "number",

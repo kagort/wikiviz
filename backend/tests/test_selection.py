@@ -22,6 +22,11 @@ from app.models import (
 from app.models.article import Article
 from app.transformers.selection import DEFAULT_CONFIG, select_reliable
 
+# Правила для дат из текста (EV-LIST, EV-DENSE, ...) проверяются в режиме,
+# где такие даты включены; по умолчанию они отсекаются (EV-TEXT, решение
+# владельца 20.10 по разметке).
+TEXT_ON = replace(DEFAULT_CONFIG, text_events=True)
+
 CORPUS = Path(__file__).parent / "corpus" / "articles"
 FIXTURES = Path(__file__).parent.parent.parent / "frontend" / "tests" / "fixtures" / "real"
 
@@ -57,7 +62,7 @@ def test_list_item_dates_are_rejected_paragraph_dates_kept():
         text_event(0, "1961-04-12"),
         text_event(1, "1961-04-14", block=BlockType.LIST_ITEM, path=("Awards",)),
         text_event(2, "1968-03-27"),
-    ]))
+    ]), TEXT_ON)
 
     assert [e.date for e in result.selected.events] == ["1961-04-12", "1968-03-27"]
     assert rules(result) == [("event", "EV-LIST")]
@@ -68,7 +73,7 @@ def test_dense_section_is_treated_as_enumeration():
     events = [text_event(i, f"20{i:02d}-01-01", path=("Scientific",)) for i in range(10)]
     events += [text_event(10, "1879-03-14", path=("Life",)), text_event(11, "1955-04-18", path=("Life",))]
 
-    result = select_reliable(model(events=events))
+    result = select_reliable(model(events=events), TEXT_ON)
 
     assert [e.date for e in result.selected.events] == ["1879-03-14", "1955-04-18"]
     assert {r.rule for r in result.rejected} == {"EV-DENSE"}
@@ -80,7 +85,7 @@ def test_same_date_is_shown_once_and_infobox_wins():
         text_event(1, "1879-03-14", path=()),
         text_event(2, "1905-06-30", path=("Career",)),
         text_event(3, "1905-06-30", path=("Legacy",)),
-    ]))
+    ]), TEXT_ON)
 
     assert [(e.source.value, e.date) for e in result.selected.events] == [
         ("infobox", "1879-03-14"), ("article_text", "1905-06-30")]
@@ -91,7 +96,7 @@ def test_single_event_after_selection_gives_no_timeline():
     result = select_reliable(model(events=[
         text_event(0, "1961-04-12"),
         text_event(1, "1961-04-14", block=BlockType.LIST_ITEM),
-    ]))
+    ]), TEXT_ON)
 
     assert result.selected.events == []
     assert [r.rule for r in result.rejected] == ["EV-LIST", "EV-MIN"]
@@ -101,7 +106,7 @@ def test_service_section_values_are_rejected():
     result = select_reliable(model(events=[
         text_event(0, "2015-05-21", path=("Литература", "Статьи"), service=True),
         text_event(1, "1961-04-12"), text_event(2, "1968-03-27"),
-    ]))
+    ]), TEXT_ON)
 
     assert [r.rule for r in result.rejected] == ["EV-SERVICE"]
 
@@ -109,9 +114,9 @@ def test_service_section_values_are_rejected():
 def test_max_events_is_off_by_default_and_prefers_infobox_when_on():
     events = [infobox_event(0, "1879-03-14")] + [text_event(i, f"19{i:02d}-01-01", path=(f"S{i}",)) for i in range(1, 6)]
 
-    assert len(select_reliable(model(events=events)).selected.events) == 6
+    assert len(select_reliable(model(events=events), TEXT_ON).selected.events) == 6
 
-    limited = select_reliable(model(events=events), replace(DEFAULT_CONFIG, max_events=3))
+    limited = select_reliable(model(events=events), replace(TEXT_ON, max_events=3))
     assert [e.date for e in limited.selected.events] == ["1879-03-14", "1901-01-01", "1902-01-01"]
 
 
@@ -186,6 +191,46 @@ def test_long_and_link_text_infobox_values_are_rejected():
     assert [r.rule for r in result.rejected] == ["IB-LONG", "IB-LINKTEXT"]
 
 
+def test_identifier_fields_are_rejected():
+    result = select_reliable(model(infobox={
+        "website": field("website", "Website", "alberteinstein.com"),
+        "unii": field("unii", "UNII", "059QF0KO0R"),
+        "телефонный_код": field("телефонный_код", "Телефонный код", "+49"),
+        "odor": field("odor", "Odor", "Odorless"),
+    }))
+
+    assert list(result.selected.infobox) == ["odor"]
+    assert [r.rule for r in result.rejected] == ["IB-ID", "IB-ID", "IB-ID"]
+
+
+def test_taxonomy_rows_are_rejected_only_as_a_block():
+    taxobox = {k: field(k, f"{k.title()}:", v) for k, v in
+               [("kingdom", "Animalia"), ("phylum", "Chordata"), ("class", "Mammalia"), ("family", "Felidae")]}
+    taxobox["conservation"] = field("conservation", "Conservation status", "Endangered")
+
+    result = select_reliable(model(infobox=taxobox))
+
+    assert list(result.selected.infobox) == ["conservation"]
+    assert {r.rule for r in result.rejected} == {"IB-TAXO"}
+
+    # Одиночное поле "Тип" (например, тип населённого пункта) - не классификация.
+    single = select_reliable(model(infobox={"тип": field("тип", "Тип", "город")}))
+    assert list(single.selected.infobox) == ["тип"]
+
+
+def test_parent_row_without_own_value_is_rejected():
+    result = select_reliable(model(infobox={
+        "gdp_ppp": InfoboxField(key="gdp_ppp", label="GDP (PPP)", value="2026 estimate"),
+        "gdp_ppp_total": InfoboxField(key="gdp_ppp_total", label="Total", group="GDP (PPP)", value="$4.734 trillion"),
+        "government": InfoboxField(key="government", label="Government", value="Unitary republic"),
+        "government_president": InfoboxField(key="government_president", label="President", group="Government",
+                                             value="Emmanuel Macron"),
+    }))
+
+    assert list(result.selected.infobox) == ["gdp_ppp_total", "government", "government_president"]
+    assert [r.rule for r in result.rejected] == ["IB-PARENT"]
+
+
 # --- Изображения --------------------------------------------------------------
 
 
@@ -226,7 +271,7 @@ def load(path: Path) -> NormalizedArticleModel:
 
 
 def test_gagarin_awards_list_does_not_reach_the_timeline():
-    result = select_reliable(load(CORPUS / "gagarin-ru.json"))
+    result = select_reliable(load(CORPUS / "gagarin-ru.json"), TEXT_ON)
 
     shown_sections = {tuple(e.context.section_path) for e in result.selected.events if e.context}
     assert not any(path and path[0] == "Почётные звания и награды" for path in shown_sections)

@@ -505,14 +505,6 @@
         "normalized_value": null,
         "source": "infobox"
       },
-      "gdp_ppp": {
-        "key": "gdp_ppp",
-        "label": "GDP (PPP)",
-        "group": null,
-        "value": "2026 estimate",
-        "normalized_value": null,
-        "source": "infobox"
-      },
       "gdp_ppp_total": {
         "key": "gdp_ppp_total",
         "label": "Total",
@@ -526,14 +518,6 @@
         "label": "Per capita",
         "group": "GDP (PPP)",
         "value": "$24,428 (82nd)",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "gdp_nominal": {
-        "key": "gdp_nominal",
-        "label": "GDP (nominal)",
-        "group": null,
-        "value": "2026 estimate",
         "normalized_value": null,
         "source": "infobox"
       },
@@ -590,30 +574,6 @@
         "label": "Date format",
         "group": null,
         "value": "dd/mm/yyyy (CE)",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "calling_code": {
-        "key": "calling_code",
-        "label": "Calling code",
-        "group": null,
-        "value": "+55",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "iso_3166_code": {
-        "key": "iso_3166_code",
-        "label": "ISO 3166 code",
-        "group": null,
-        "value": "BR",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "internet_tld": {
-        "key": "internet_tld",
-        "label": "Internet TLD",
-        "group": null,
-        "value": ".br",
         "normalized_value": null,
         "source": "infobox"
       }
@@ -711,243 +671,6 @@
         "context": {
           "block": "infobox",
           "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-0",
-        "date": "1500-04-22",
-        "date_precision": "day",
-        "title": "European colonization and Colonial Brazil",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "European colonization and Colonial Brazil"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "1818-02-06",
-        "date_precision": "day",
-        "title": "Kingdom of Brazil",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "History",
-            "Kingdom of Brazil"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "1824-03-08",
-        "date_precision": "day",
-        "title": "Empire of Brazil",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Empire of Brazil"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "1831-04-07",
-        "date_precision": "day",
-        "title": "Empire of Brazil",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Empire of Brazil"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "2023-01-08",
-        "date_precision": "day",
-        "title": "Contemporary era",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Contemporary era"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-9",
-        "date": "1974-09-14",
-        "date_precision": "day",
-        "title": "Transportation",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Economy",
-            "Transportation"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-10",
-        "date": "2026-07-01",
-        "date_precision": "day",
-        "title": "Demographics",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Demographics"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-11",
-        "date": "2025-05-18",
-        "date_precision": "day",
-        "title": "Cinema",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Culture",
-            "Cinema"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "1808-05-13",
-        "date_precision": "day",
-        "title": "Media",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Culture",
-            "Media"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-13",
-        "date": "1808-09-10",
-        "date_precision": "day",
-        "title": "Media",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Culture",
-            "Media"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-14",
-        "date": "1922-09-07",
-        "date_precision": "day",
-        "title": "Media",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Culture",
-            "Media"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-15",
-        "date": "1923-04-20",
-        "date_precision": "day",
-        "title": "Media",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Culture",
-            "Media"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-16",
-        "date": "1950-09-18",
-        "date_precision": "day",
-        "title": "Media",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Culture",
-            "Media"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-17",
-        "date": "2009-10-02",
-        "date_precision": "day",
-        "title": "Sports",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Culture",
-            "Sports"
-          ],
           "service_section": false
         }
       }
@@ -1287,31 +1010,129 @@
   "rejected": [
     {
       "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1500-04-22 «European colonization and Colonial Brazil»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "1818-02-06 «Kingdom of Brazil»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
       "ref": "text-event-2",
       "preview": "1822-09-07 «Empire of Brazil»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "1824-03-08 «Empire of Brazil»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-4",
       "preview": "1825-08-29 «Empire of Brazil»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "1831-04-07 «Empire of Brazil»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-6",
       "preview": "1889-11-15 «Empire of Brazil»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "2023-01-08 «Contemporary era»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-8",
       "preview": "1988-10-05 «Law»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "1974-09-14 «Transportation»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "2026-07-01 «Demographics»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "2025-05-18 «Cinema»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "1808-05-13 «Media»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-13",
+      "preview": "1808-09-10 «Media»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-14",
+      "preview": "1922-09-07 «Media»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-15",
+      "preview": "1923-04-20 «Media»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-16",
+      "preview": "1950-09-18 «Media»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-17",
+      "preview": "2009-10-02 «Sports»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "number",
@@ -1403,6 +1224,41 @@
       "preview": "Population — Density = 23.8 /km²",
       "rule": "NUM-GROUP",
       "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "gdp_ppp",
+      "preview": "GDP (PPP): 2026 estimate",
+      "rule": "IB-PARENT",
+      "reason": "заголовок группы без собственного значения"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "gdp_nominal",
+      "preview": "GDP (nominal): 2026 estimate",
+      "rule": "IB-PARENT",
+      "reason": "заголовок группы без собственного значения"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "calling_code",
+      "preview": "Calling code: +55",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "iso_3166_code",
+      "preview": "ISO 3166 code: BR",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "internet_tld",
+      "preview": "Internet TLD: .br",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "image",

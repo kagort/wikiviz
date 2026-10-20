@@ -570,14 +570,6 @@
         "value": ".london",
         "normalized_value": null,
         "source": "infobox"
-      },
-      "website": {
-        "key": "website",
-        "label": "Website",
-        "group": null,
-        "value": "london.gov.uk",
-        "normalized_value": null,
-        "source": "infobox"
       }
     },
     "tables": [
@@ -844,59 +836,7 @@
         "confidence": 1.0
       }
     ],
-    "events": [
-      {
-        "id": "text-event-0",
-        "date": "1605-11-05",
-        "date_precision": "day",
-        "title": "Early modern",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Early modern"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "1920-11-11",
-        "date_precision": "day",
-        "title": "Late modern and contemporary",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Late modern and contemporary"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "2005-07-07",
-        "date_precision": "day",
-        "title": "Late modern and contemporary",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Late modern and contemporary"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [
       {
         "label": "Ethnicity ( 2021 ) — Ethnic groups — White",
@@ -1257,6 +1197,27 @@
   },
   "rejected": [
     {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1605-11-05 «Early modern»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "1920-11-11 «Late modern and contemporary»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "2005-07-07 «Late modern and contemporary»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
       "kind": "number",
       "ref": "0",
       "preview": "Settled by Romans = 47",
@@ -1374,6 +1335,13 @@
       "preview": "Religion (2021) — GSS code = 1.2e+07",
       "rule": "NUM-UNIT",
       "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "website",
+      "preview": "Website: london.gov.uk",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "image",

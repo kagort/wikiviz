@@ -296,89 +296,7 @@
     },
     "tables": [],
     "locations": [],
-    "events": [
-      {
-        "id": "text-event-0",
-        "date": "1812-09-07",
-        "date_precision": "day",
-        "title": "Book Three",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Plot summary",
-            "Book Three"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "1868-04-10",
-        "date_precision": "day",
-        "title": "Reception",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Reception"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "1878-07-17",
-        "date_precision": "day",
-        "title": "Reception",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Reception"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "1871-05-30",
-        "date_precision": "day",
-        "title": "Reception",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Reception"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "1870-01-01",
-        "date_precision": "day",
-        "title": "Reception",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Reception"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -562,38 +480,73 @@
   "rejected": [
     {
       "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1812-09-07 «Book Three»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "1868-04-10 «Reception»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "1878-07-17 «Reception»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "1871-05-30 «Reception»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "1870-01-01 «Reception»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
       "ref": "text-event-5",
       "preview": "2015-12-08 «Television»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-6",
       "preview": "2012-10-01 «Theatre»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-7",
       "preview": "1943-02-07 «Radio»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-8",
       "preview": "1969-12-30 «Radio»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-9",
       "preview": "1970-05-12 «Radio»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "number",

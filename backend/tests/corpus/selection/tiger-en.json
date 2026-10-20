@@ -185,64 +185,7 @@
         "children": []
       }
     ],
-    "infobox": {
-      "kingdom": {
-        "key": "kingdom",
-        "label": "Kingdom:",
-        "group": null,
-        "value": "Animalia",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "phylum": {
-        "key": "phylum",
-        "label": "Phylum:",
-        "group": null,
-        "value": "Chordata",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "class": {
-        "key": "class",
-        "label": "Class:",
-        "group": null,
-        "value": "Mammalia",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "order": {
-        "key": "order",
-        "label": "Order:",
-        "group": null,
-        "value": "Carnivora",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "family": {
-        "key": "family",
-        "label": "Family:",
-        "group": null,
-        "value": "Felidae",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "genus": {
-        "key": "genus",
-        "label": "Genus:",
-        "group": null,
-        "value": "Panthera",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "species": {
-        "key": "species",
-        "label": "Species:",
-        "group": null,
-        "value": "P. tigris",
-        "normalized_value": null,
-        "source": "infobox"
-      }
-    },
+    "infobox": {},
     "tables": [
       {
         "id": "table-2",
@@ -516,6 +459,55 @@
       "preview": "Panthera tigris sondaica (Temminck, 1844)",
       "rule": "TBL-BLANK",
       "reason": "слишком много пустых ячеек"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "kingdom",
+      "preview": "Kingdom:: Animalia",
+      "rule": "IB-TAXO",
+      "reason": "строка биологической классификации"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "phylum",
+      "preview": "Phylum:: Chordata",
+      "rule": "IB-TAXO",
+      "reason": "строка биологической классификации"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "class",
+      "preview": "Class:: Mammalia",
+      "rule": "IB-TAXO",
+      "reason": "строка биологической классификации"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "order",
+      "preview": "Order:: Carnivora",
+      "rule": "IB-TAXO",
+      "reason": "строка биологической классификации"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "family",
+      "preview": "Family:: Felidae",
+      "rule": "IB-TAXO",
+      "reason": "строка биологической классификации"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "genus",
+      "preview": "Genus:: Panthera",
+      "rule": "IB-TAXO",
+      "reason": "строка биологической классификации"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "species",
+      "preview": "Species:: P. tigris",
+      "rule": "IB-TAXO",
+      "reason": "строка биологической классификации"
     },
     {
       "kind": "image",

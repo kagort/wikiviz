@@ -36,12 +36,33 @@ _CODE_LABEL_RE = re.compile(
 )
 # \s - и неразрывный пробел: в разметке Wikipedia "Preceded&nbsp;by".
 _NAVIGATION_RE = re.compile(r"Preceded\s+by|Succeeded\s+by|Предшественник|Преемник")
+# IB-ID: идентификаторы, коды и сайты - не факты о предмете статьи.
+_IDENTIFIER_LABEL_RE = re.compile(
+    r"^(website|official website|сайт|официальный сайт|unii|cas number|pubchem.*|chemspider|chebi|chembl|"
+    r"echa infocard|ec number|kegg|rtecs number|un number|inchi.*|smiles|e number|3d model.*|jmol.*|"
+    r"beilstein.*|gmelin.*|mesh|drugbank|iso 3166 code|iso 3166-2.*|internet tld|calling code|"
+    r"телефонный код|код iso|код .*|почтовый индекс|почтовые индексы|автомобильный код|окато|октмо|iata|icao)$",
+    re.IGNORECASE,
+)
+# IB-TAXO: строки биологической классификации (таксобокс).
+_TAXONOMY_LABEL_RE = re.compile(
+    r"^(domain|kingdom|phylum|division|class|order|family|subfamily|tribe|genus|species|clade|"
+    r"домен|царство|тип|отдел|класс|отряд|порядок|семейство|подсемейство|род|вид)$",
+    re.IGNORECASE,
+)
+_MIN_TAXONOMY_ROWS = 3
+# IB-PARENT: у строки-заголовка группы вместо значения - только год оценки.
+_PARENT_ONLY_VALUE_RE = re.compile(r"^\d{4}\s*(estimate|census|оценка|перепись)?$", re.IGNORECASE)
 _LINK_TEXT_RE = re.compile(r"^(?:(?:Подробнее|More|See also|См\. также)[\s,]*)+$", re.IGNORECASE)
 
 
 @dataclass(frozen=True)
 class SelectionConfig:
     # Даты (Timeline)
+    # EV-TEXT: даты из текста статьи не показываются - по разметке владельца
+    # верны в ~19% случаев (20.10, вариант А: шкала только по инфобоксу).
+    # Правила ниже для дат из текста сохранены на случай их возвращения (NLP).
+    text_events: bool = False
     dense_section_dates: int = 10   # EV-DENSE: столько дат из абзацев одного раздела - перечень
     min_events: int = 2             # EV-MIN
     max_events: Optional[int] = None  # EV-MAX: под вопросом, по умолчанию выключено
@@ -83,8 +104,10 @@ def _event_preview(event: Event) -> str:
     return f"{event.date} «{event.title}»"
 
 
-def _event_rule(event: Event) -> Optional[tuple[str, str]]:
+def _event_rule(event: Event, config: SelectionConfig) -> Optional[tuple[str, str]]:
     context = event.context
+    if event.source == SourceType.ARTICLE_TEXT and not config.text_events:
+        return "EV-TEXT", "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     if context is not None and context.service_section:
         return "EV-SERVICE", "дата из служебного раздела"
     if event.source == SourceType.ARTICLE_TEXT and context is not None and context.block == BlockType.LIST_ITEM:
@@ -95,7 +118,7 @@ def _event_rule(event: Event) -> Optional[tuple[str, str]]:
 def select_events(events: list[Event], config: SelectionConfig, rejected: _Rejections) -> list[Event]:
     kept: list[Event] = []
     for event in events:
-        rule = _event_rule(event)
+        rule = _event_rule(event, config)
         if rule:
             rejected.add("event", event.id, _event_preview(event), *rule)
         else:
@@ -234,11 +257,26 @@ def select_tables(tables: list[Table], config: SelectionConfig, rejected: _Rejec
 # --- Инфобокс -----------------------------------------------------------------
 
 
+def _clean_label(label: str) -> str:
+    return label.strip().rstrip(":").strip()
+
+
 def select_infobox(infobox: dict, config: SelectionConfig, rejected: _Rejections) -> dict:
+    taxonomy_rows = sum(bool(_TAXONOMY_LABEL_RE.match(_clean_label(f.label))) for f in infobox.values())
+    group_names = {f.group for f in infobox.values() if f.group}
     kept = {}
     for key, item in infobox.items():
         preview = f"{item.label}: {item.value}"
-        if len(item.value) > config.max_infobox_value:
+        label = _clean_label(item.label)
+        if _IDENTIFIER_LABEL_RE.match(label):
+            rejected.add("infobox_field", key, preview, "IB-ID", "идентификатор, код или сайт - не факт о предмете")
+        elif taxonomy_rows >= _MIN_TAXONOMY_ROWS and _TAXONOMY_LABEL_RE.match(label):
+            rejected.add("infobox_field", key, preview, "IB-TAXO", "строка биологической классификации")
+        elif (item.group is None and item.label in group_names
+              and _PARENT_ONLY_VALUE_RE.match(item.value.strip())):
+            rejected.add("infobox_field", key, preview, "IB-PARENT",
+                         "заголовок группы без собственного значения")
+        elif len(item.value) > config.max_infobox_value:
             rejected.add("infobox_field", key, preview, "IB-LONG",
                          f"значение длиннее {config.max_infobox_value} символов")
         elif _LINK_TEXT_RE.match(item.value):

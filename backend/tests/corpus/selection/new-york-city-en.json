@@ -623,14 +623,6 @@
         "value": "975772",
         "normalized_value": null,
         "source": "infobox"
-      },
-      "website": {
-        "key": "website",
-        "label": "Website",
-        "group": null,
-        "value": "nyc.gov",
-        "normalized_value": null,
-        "source": "infobox"
       }
     },
     "tables": [
@@ -1454,347 +1446,6 @@
           "section_path": [],
           "service_section": false
         }
-      },
-      {
-        "id": "text-event-0",
-        "date": "1673-08-24",
-        "date_precision": "day",
-        "title": "English rule",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "English rule"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "1776-08-27",
-        "date_precision": "day",
-        "title": "American Revolution",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "History",
-            "American Revolution"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "1776-09-11",
-        "date_precision": "day",
-        "title": "American Revolution",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "American Revolution"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "1861-04-19",
-        "date_precision": "day",
-        "title": "American Civil War",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "History",
-            "American Civil War"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "1969-06-28",
-        "date_precision": "day",
-        "title": "Late 20th and early 21st centuries",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Late 20th and early 21st centuries"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "2011-09-17",
-        "date_precision": "day",
-        "title": "Late 20th and early 21st centuries",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Late 20th and early 21st centuries"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-6",
-        "date": "2026-07-02",
-        "date_precision": "day",
-        "title": "Climate",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Geography",
-            "Climate"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "2016-02-14",
-        "date_precision": "day",
-        "title": "Climate",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Geography",
-            "Climate"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-8",
-        "date": "1936-07-09",
-        "date_precision": "day",
-        "title": "Climate",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Geography",
-            "Climate"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-9",
-        "date": "1934-02-09",
-        "date_precision": "day",
-        "title": "Climate",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Geography",
-            "Climate"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-10",
-        "date": "1917-12-30",
-        "date_precision": "day",
-        "title": "Climate",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Geography",
-            "Climate"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-11",
-        "date": "1903-07-02",
-        "date_precision": "day",
-        "title": "Climate",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Geography",
-            "Climate"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "2012-10-29",
-        "date_precision": "day",
-        "title": "Climate",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Geography",
-            "Climate"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-13",
-        "date": "2011-06-24",
-        "date_precision": "day",
-        "title": "Sexual orientation and gender identity",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Demographics",
-            "Sexual orientation and gender identity"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-14",
-        "date": "2011-07-23",
-        "date_precision": "day",
-        "title": "Sexual orientation and gender identity",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Demographics",
-            "Sexual orientation and gender identity"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-15",
-        "date": "2020-06-14",
-        "date_precision": "day",
-        "title": "Sexual orientation and gender identity",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Demographics",
-            "Sexual orientation and gender identity"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-16",
-        "date": "2011-12-19",
-        "date_precision": "day",
-        "title": "Tech and biotech",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Economy",
-            "Tech and biotech"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-17",
-        "date": "1904-10-27",
-        "date_precision": "day",
-        "title": "Rail",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Transportation",
-            "Rapid transit",
-            "Rail"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-18",
-        "date": "2016-07-12",
-        "date_precision": "day",
-        "title": "Streets and highways",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Transportation",
-            "Streets and highways"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-19",
-        "date": "2026-01-01",
-        "date_precision": "day",
-        "title": "Politics",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Government and politics",
-            "Politics"
-          ],
-          "service_section": false
-        }
       }
     ],
     "numbers": [],
@@ -1989,6 +1640,146 @@
   },
   "rejected": [
     {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1673-08-24 «English rule»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "1776-08-27 «American Revolution»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "1776-09-11 «American Revolution»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "1861-04-19 «American Civil War»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "1969-06-28 «Late 20th and early 21st centuries»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "2011-09-17 «Late 20th and early 21st centuries»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "2026-07-02 «Climate»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "2016-02-14 «Climate»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "1936-07-09 «Climate»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "1934-02-09 «Climate»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "1917-12-30 «Climate»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "1903-07-02 «Climate»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "2012-10-29 «Climate»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-13",
+      "preview": "2011-06-24 «Sexual orientation and gender identity»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-14",
+      "preview": "2011-07-23 «Sexual orientation and gender identity»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-15",
+      "preview": "2020-06-14 «Sexual orientation and gender identity»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-16",
+      "preview": "2011-12-19 «Tech and biotech»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-17",
+      "preview": "1904-10-27 «Rail»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-18",
+      "preview": "2016-07-12 «Streets and highways»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-19",
+      "preview": "2026-01-01 «Politics»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
       "kind": "number",
       "ref": "0",
       "preview": "Settled = 20",
@@ -2162,6 +1953,13 @@
       "preview": "Preceded by Trenton, New Jersey | Capital of the United States of America 1785–1791 | Succeeded by Philadelphia , Pennsy",
       "rule": "TBL-NAV",
       "reason": "таблица-навигация (кто был до и после)"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "website",
+      "preview": "Website: nyc.gov",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "image",

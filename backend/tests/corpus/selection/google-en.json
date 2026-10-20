@@ -488,14 +488,6 @@
         "value": "15169",
         "normalized_value": null,
         "source": "infobox"
-      },
-      "website": {
-        "key": "website",
-        "label": "Website",
-        "group": null,
-        "value": "about.google",
-        "normalized_value": null,
-        "source": "infobox"
       }
     },
     "tables": [
@@ -1209,576 +1201,7 @@
       }
     ],
     "locations": [],
-    "events": [
-      {
-        "id": "event-0",
-        "date": "1998-09-04",
-        "date_precision": "day",
-        "title": "Founded",
-        "description": null,
-        "source": "infobox",
-        "confidence": 1.0,
-        "context": {
-          "block": "infobox",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-0",
-        "date": "1999-06-07",
-        "date_precision": "day",
-        "title": "Founding",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Corporate affairs",
-            "Founding"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "2004-08-19",
-        "date_precision": "day",
-        "title": "Initial public offering",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Corporate affairs",
-            "Initial public offering"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "2008-03-11",
-        "date_precision": "day",
-        "title": "Acquisitions",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Corporate affairs",
-            "Acquisitions"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "2013-09-19",
-        "date_precision": "day",
-        "title": "Acquisitions",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Corporate affairs",
-            "Acquisitions"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "2014-01-26",
-        "date_precision": "day",
-        "title": "Acquisitions",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Corporate affairs",
-            "Acquisitions"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "2015-08-10",
-        "date_precision": "day",
-        "title": "Alphabet",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Corporate affairs",
-            "Alphabet"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-6",
-        "date": "2018-10-25",
-        "date_precision": "day",
-        "title": "Alphabet",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Corporate affairs",
-            "Alphabet"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "2018-11-01",
-        "date_precision": "day",
-        "title": "Alphabet",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Corporate affairs",
-            "Alphabet"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-8",
-        "date": "2019-03-19",
-        "date_precision": "day",
-        "title": "Alphabet",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Corporate affairs",
-            "Alphabet"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-9",
-        "date": "2005-02-14",
-        "date_precision": "day",
-        "title": "YouTube",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "YouTube"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-10",
-        "date": "2006-11-13",
-        "date_precision": "day",
-        "title": "YouTube",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "YouTube"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-11",
-        "date": "2012-09-24",
-        "date_precision": "day",
-        "title": "Enterprise services",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Products and services",
-            "Enterprise services"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "2016-03-15",
-        "date_precision": "day",
-        "title": "Enterprise services",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Products and services",
-            "Enterprise services"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-13",
-        "date": "2018-01-08",
-        "date_precision": "day",
-        "title": "Workplace",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Culture",
-            "Workplace"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-14",
-        "date": "2020-01-25",
-        "date_precision": "day",
-        "title": "Workplace",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Culture",
-            "Workplace"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-15",
-        "date": "2019-11-15",
-        "date_precision": "day",
-        "title": "Data centers",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Data centers"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-16",
-        "date": "2023-05-01",
-        "date_precision": "day",
-        "title": "Brazil",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Political controversies",
-            "Brazil"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-17",
-        "date": "2017-06-27",
-        "date_precision": "day",
-        "title": "European Union",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Monopoly",
-            "European Union"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-18",
-        "date": "2018-07-18",
-        "date_precision": "day",
-        "title": "European Union",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Monopoly",
-            "European Union"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-19",
-        "date": "2018-10-09",
-        "date_precision": "day",
-        "title": "European Union",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Monopoly",
-            "European Union"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-20",
-        "date": "2019-03-20",
-        "date_precision": "day",
-        "title": "European Union",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Monopoly",
-            "European Union"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-21",
-        "date": "2022-09-14",
-        "date_precision": "day",
-        "title": "European Union",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Monopoly",
-            "European Union"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-22",
-        "date": "2026-07-02",
-        "date_precision": "day",
-        "title": "European Union",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Monopoly",
-            "European Union"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-23",
-        "date": "2024-09-10",
-        "date_precision": "day",
-        "title": "European Union",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Monopoly",
-            "European Union"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-24",
-        "date": "2024-09-18",
-        "date_precision": "day",
-        "title": "European Union",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Monopoly",
-            "European Union"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-25",
-        "date": "2025-09-05",
-        "date_precision": "day",
-        "title": "European Union",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Monopoly",
-            "European Union"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-26",
-        "date": "2020-10-20",
-        "date_precision": "day",
-        "title": "United States",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Monopoly",
-            "United States"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-27",
-        "date": "2024-10-08",
-        "date_precision": "day",
-        "title": "United States",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Monopoly",
-            "United States"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-28",
-        "date": "2018-10-08",
-        "date_precision": "day",
-        "title": "Data privacy",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Data privacy"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-29",
-        "date": "2019-01-21",
-        "date_precision": "day",
-        "title": "Data privacy",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Data privacy"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-30",
-        "date": "2022-01-06",
-        "date_precision": "day",
-        "title": "Data privacy",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Data privacy"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-31",
-        "date": "2024-03-20",
-        "date_precision": "day",
-        "title": "Copyright infringement",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism and controversies",
-            "Data privacy",
-            "Copyright infringement"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -1967,6 +1390,237 @@
   },
   "rejected": [
     {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1999-06-07 «Founding»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "2004-08-19 «Initial public offering»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "2008-03-11 «Acquisitions»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "2013-09-19 «Acquisitions»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "2014-01-26 «Acquisitions»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "2015-08-10 «Alphabet»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "2018-10-25 «Alphabet»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "2018-11-01 «Alphabet»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "2019-03-19 «Alphabet»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "2005-02-14 «YouTube»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "2006-11-13 «YouTube»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "2012-09-24 «Enterprise services»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "2016-03-15 «Enterprise services»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-13",
+      "preview": "2018-01-08 «Workplace»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-14",
+      "preview": "2020-01-25 «Workplace»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-15",
+      "preview": "2019-11-15 «Data centers»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-16",
+      "preview": "2023-05-01 «Brazil»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-17",
+      "preview": "2017-06-27 «European Union»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-18",
+      "preview": "2018-07-18 «European Union»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-19",
+      "preview": "2018-10-09 «European Union»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-20",
+      "preview": "2019-03-20 «European Union»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-21",
+      "preview": "2022-09-14 «European Union»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-22",
+      "preview": "2026-07-02 «European Union»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-23",
+      "preview": "2024-09-10 «European Union»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-24",
+      "preview": "2024-09-18 «European Union»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-25",
+      "preview": "2025-09-05 «European Union»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-26",
+      "preview": "2020-10-20 «United States»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-27",
+      "preview": "2024-10-08 «United States»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-28",
+      "preview": "2018-10-08 «Data privacy»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-29",
+      "preview": "2019-01-21 «Data privacy»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-30",
+      "preview": "2022-01-06 «Data privacy»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-31",
+      "preview": "2024-03-20 «Copyright infringement»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "event-0",
+      "preview": "1998-09-04 «Founded»",
+      "rule": "EV-MIN",
+      "reason": "после отбора меньше 2 событий - шкала не нужна"
+    },
+    {
       "kind": "number",
       "ref": "0",
       "preview": "Formerly = 1998 year",
@@ -1993,6 +1647,13 @@
       "preview": "ASN = 15169",
       "rule": "NUM-UNIT",
       "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "website",
+      "preview": "Website: about.google",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "image",

@@ -436,44 +436,7 @@
     "infobox": {},
     "tables": [],
     "locations": [],
-    "events": [
-      {
-        "id": "text-event-0",
-        "date": "1791-05-03",
-        "date_precision": "day",
-        "title": "18th and 19th centuries",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Modern era",
-            "18th and 19th centuries"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "1926-05-28",
-        "date_precision": "day",
-        "title": "Disruption",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Democratic transitions",
-            "Autocratization",
-            "Disruption"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -668,6 +631,20 @@
     "metadata": {}
   },
   "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1791-05-03 «18th and 19th centuries»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "1926-05-28 «Disruption»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
     {
       "kind": "image",
       "ref": "12",

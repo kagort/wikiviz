@@ -144,36 +144,7 @@
     },
     "tables": [],
     "locations": [],
-    "events": [
-      {
-        "id": "event-0",
-        "date": "1965-04-25",
-        "date_precision": "day",
-        "title": "Date of birth",
-        "description": null,
-        "source": "infobox",
-        "confidence": 1.0,
-        "context": {
-          "block": "infobox",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "1990-09-12",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -201,8 +172,22 @@
       "kind": "event",
       "ref": "text-event-0",
       "preview": "1965-04-25 «Introduction»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "1990-09-12 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "event-0",
+      "preview": "1965-04-25 «Date of birth»",
+      "rule": "EV-MIN",
+      "reason": "после отбора меньше 2 событий - шкала не нужна"
     },
     {
       "kind": "number",

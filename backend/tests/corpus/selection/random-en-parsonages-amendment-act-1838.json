@@ -78,8 +78,8 @@
       "kind": "event",
       "ref": "text-event-0",
       "preview": "1838-07-04 «Introduction»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",

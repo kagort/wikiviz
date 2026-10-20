@@ -467,57 +467,7 @@
     },
     "tables": [],
     "locations": [],
-    "events": [
-      {
-        "id": "text-event-0",
-        "date": "2016-10-01",
-        "date_precision": "day",
-        "title": "История философии",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "История философии"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "2015-09-26",
-        "date_precision": "day",
-        "title": "Зарождение философии",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "История философии",
-            "Зарождение философии"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "1882-08-12",
-        "date_precision": "day",
-        "title": "Философия и общество",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Философия и общество"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -699,6 +649,27 @@
     "metadata": {}
   },
   "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "2016-10-01 «История философии»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "2015-09-26 «Зарождение философии»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "1882-08-12 «Философия и общество»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
     {
       "kind": "table",
       "ref": "table-0",

@@ -372,14 +372,6 @@
         "normalized_value": null,
         "source": "infobox"
       },
-      "gdp_ppp": {
-        "key": "gdp_ppp",
-        "label": "GDP (PPP)",
-        "group": null,
-        "value": "2026 estimate",
-        "normalized_value": null,
-        "source": "infobox"
-      },
       "gdp_ppp_total": {
         "key": "gdp_ppp_total",
         "label": "Total",
@@ -393,14 +385,6 @@
         "label": "Per capita",
         "group": "GDP (PPP)",
         "value": "$59,207 (36th)",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "gdp_nominal": {
-        "key": "gdp_nominal",
-        "label": "GDP (nominal)",
-        "group": null,
-        "value": "2026 estimate",
         "normalized_value": null,
         "source": "infobox"
       },
@@ -451,30 +435,6 @@
         "value": "UTC+09:00 (JST)",
         "normalized_value": null,
         "source": "infobox"
-      },
-      "calling_code": {
-        "key": "calling_code",
-        "label": "Calling code",
-        "group": null,
-        "value": "+81",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "iso_3166_code": {
-        "key": "iso_3166_code",
-        "label": "ISO 3166 code",
-        "group": null,
-        "value": "JP",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "internet_tld": {
-        "key": "internet_tld",
-        "label": "Internet TLD",
-        "group": null,
-        "value": ".jp",
-        "normalized_value": null,
-        "source": "infobox"
       }
     },
     "tables": [],
@@ -498,143 +458,7 @@
         "confidence": 1.0
       }
     ],
-    "events": [
-      {
-        "id": "text-event-0",
-        "date": "1890-11-29",
-        "date_precision": "day",
-        "title": "Modern era",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Modern era"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "1945-09-02",
-        "date_precision": "day",
-        "title": "Modern era",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "History",
-            "Modern era"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "2011-03-11",
-        "date_precision": "day",
-        "title": "Modern era",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Modern era"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "2019-05-01",
-        "date_precision": "day",
-        "title": "Modern era",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Modern era"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "2025-08-05",
-        "date_precision": "day",
-        "title": "Climate",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Geography",
-            "Climate"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "2007-10-04",
-        "date_precision": "day",
-        "title": "Science and technology",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Economy",
-            "Science and technology"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-6",
-        "date": "2009-06-11",
-        "date_precision": "day",
-        "title": "Science and technology",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Economy",
-            "Science and technology"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "2019-04-01",
-        "date_precision": "day",
-        "title": "Demographics",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Demographics"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -821,6 +645,62 @@
   },
   "rejected": [
     {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1890-11-29 «Modern era»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "1945-09-02 «Modern era»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "2011-03-11 «Modern era»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "2019-05-01 «Modern era»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "2025-08-05 «Climate»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "2007-10-04 «Science and technology»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "2009-06-11 «Science and technology»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "2019-04-01 «Demographics»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
       "kind": "number",
       "ref": "2",
       "preview": "Population — January 1, 2026 estimate = 1.2295e+08",
@@ -910,6 +790,41 @@
       "preview": "Population — Density = 330 /km²",
       "rule": "NUM-GROUP",
       "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "gdp_ppp",
+      "preview": "GDP (PPP): 2026 estimate",
+      "rule": "IB-PARENT",
+      "reason": "заголовок группы без собственного значения"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "gdp_nominal",
+      "preview": "GDP (nominal): 2026 estimate",
+      "rule": "IB-PARENT",
+      "reason": "заголовок группы без собственного значения"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "calling_code",
+      "preview": "Calling code: +81",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "iso_3166_code",
+      "preview": "ISO 3166 code: JP",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "internet_tld",
+      "preview": "Internet TLD: .jp",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "image",

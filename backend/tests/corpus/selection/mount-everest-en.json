@@ -748,342 +748,7 @@
         "confidence": 1.0
       }
     ],
-    "events": [
-      {
-        "id": "event-0",
-        "date": "1953-05-29",
-        "date_precision": "day",
-        "title": "First ascent",
-        "description": null,
-        "source": "infobox",
-        "confidence": 1.0,
-        "context": {
-          "block": "infobox",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-0",
-        "date": "1960-05-25",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "2005-10-09",
-        "date_precision": "day",
-        "title": "21st century",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Surveys",
-            "21st century"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "2020-12-08",
-        "date_precision": "day",
-        "title": "21st century",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Surveys",
-            "21st century"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "2020-01-20",
-        "date_precision": "day",
-        "title": "Meteorology",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Climate",
-            "Meteorology"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "1924-06-08",
-        "date_precision": "day",
-        "title": "Early attempts",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Expeditions",
-            "Early attempts"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "1999-05-01",
-        "date_precision": "day",
-        "title": "Early attempts",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Expeditions",
-            "Early attempts"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-6",
-        "date": "1953-05-26",
-        "date_precision": "day",
-        "title": "First successful ascent by Tenzing and Hillary, 1953",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Expeditions",
-            "First successful ascent by Tenzing and Hillary, 1953"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-8",
-        "date": "1956-05-23",
-        "date_precision": "day",
-        "title": "1950s–60s",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Expeditions",
-            "1950s–60s"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-9",
-        "date": "1963-05-01",
-        "date_precision": "day",
-        "title": "1950s–60s",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Expeditions",
-            "1950s–60s"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-10",
-        "date": "1996-05-11",
-        "date_precision": "day",
-        "title": "1996 disaster",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Expeditions",
-            "1996 disaster"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-11",
-        "date": "2007-05-21",
-        "date_precision": "day",
-        "title": "2007",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Expeditions",
-            "2007"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "2010-05-23",
-        "date_precision": "day",
-        "title": "Ascent statistics up to 2010 season",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Expeditions",
-            "Ascent statistics up to 2010 season"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-13",
-        "date": "2011-05-15",
-        "date_precision": "day",
-        "title": "2010s",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Expeditions",
-            "2010s"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-14",
-        "date": "2014-04-18",
-        "date_precision": "day",
-        "title": "2014 avalanche",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Expeditions",
-            "2014 avalanche"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-15",
-        "date": "2015-04-25",
-        "date_precision": "day",
-        "title": "2015 avalanche and earthquake",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Expeditions",
-            "2015 avalanche and earthquake"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-16",
-        "date": "2021-05-10",
-        "date_precision": "day",
-        "title": "Permits",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Climbing",
-            "Permits"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-17",
-        "date": "1988-09-26",
-        "date_precision": "day",
-        "title": "1988: First climb and glide",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Aviation",
-            "1988: First climb and glide"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-18",
-        "date": "2011-05-21",
-        "date_precision": "day",
-        "title": "2011: Paraglide off summit",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Aviation",
-            "2011: Paraglide off summit"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-19",
-        "date": "2011-06-27",
-        "date_precision": "day",
-        "title": "2011: Paraglide off summit",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Aviation",
-            "2011: Paraglide off summit"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -1267,10 +932,150 @@
   "rejected": [
     {
       "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1960-05-25 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "2005-10-09 «21st century»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "2020-12-08 «21st century»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "2020-01-20 «Meteorology»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "1924-06-08 «Early attempts»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "1999-05-01 «Early attempts»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "1953-05-26 «First successful ascent by Tenzing and Hillary, 1953»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
       "ref": "text-event-7",
       "preview": "1953-05-29 «First successful ascent by Tenzing and Hillary, 1953»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "1956-05-23 «1950s–60s»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "1963-05-01 «1950s–60s»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "1996-05-11 «1996 disaster»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "2007-05-21 «2007»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "2010-05-23 «Ascent statistics up to 2010 season»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-13",
+      "preview": "2011-05-15 «2010s»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-14",
+      "preview": "2014-04-18 «2014 avalanche»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-15",
+      "preview": "2015-04-25 «2015 avalanche and earthquake»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-16",
+      "preview": "2021-05-10 «Permits»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-17",
+      "preview": "1988-09-26 «1988: First climb and glide»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-18",
+      "preview": "2011-05-21 «2011: Paraglide off summit»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-19",
+      "preview": "2011-06-27 «2011: Paraglide off summit»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "event-0",
+      "preview": "1953-05-29 «First ascent»",
+      "rule": "EV-MIN",
+      "reason": "после отбора меньше 2 событий - шкала не нужна"
     },
     {
       "kind": "number",

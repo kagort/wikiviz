@@ -453,23 +453,6 @@
           "section_path": [],
           "service_section": false
         }
-      },
-      {
-        "id": "text-event-0",
-        "date": "2014-03-26",
-        "date_precision": "day",
-        "title": "Политические идеи в диалоге «Политик»",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Политико-правовое учение Платона",
-            "Политические идеи в диалоге «Политик»"
-          ],
-          "service_section": false
-        }
       }
     ],
     "numbers": [],
@@ -552,6 +535,13 @@
     "metadata": {}
   },
   "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "2014-03-26 «Политические идеи в диалоге «Политик»»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
     {
       "kind": "number",
       "ref": "0",

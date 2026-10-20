@@ -2170,723 +2170,7 @@
       }
     ],
     "locations": [],
-    "events": [
-      {
-        "id": "text-event-0",
-        "date": "2018-07-15",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "2010-12-02",
-        "date_precision": "day",
-        "title": "Host selection",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Host selection"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "2009-02-02",
-        "date_precision": "day",
-        "title": "Host selection",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Host selection"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "2015-06-03",
-        "date_precision": "day",
-        "title": "Host selection criticism",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Host selection",
-            "Host selection criticism"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "2015-06-07",
-        "date_precision": "day",
-        "title": "Host selection criticism",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Host selection",
-            "Host selection criticism"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "2016-05-13",
-        "date_precision": "day",
-        "title": "Qualification",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Teams",
-            "Qualification"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-6",
-        "date": "2015-03-12",
-        "date_precision": "day",
-        "title": "Qualification",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Teams",
-            "Qualification"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "2015-07-25",
-        "date_precision": "day",
-        "title": "Qualification",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Teams",
-            "Qualification"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-8",
-        "date": "2017-12-01",
-        "date_precision": "day",
-        "title": "Draw",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Teams",
-            "Draw"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-9",
-        "date": "2018-05-27",
-        "date_precision": "day",
-        "title": "Squads",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Squads"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-10",
-        "date": "2018-03-29",
-        "date_precision": "day",
-        "title": "Officiating",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Officiating"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-11",
-        "date": "2018-04-30",
-        "date_precision": "day",
-        "title": "Officiating",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Officiating"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-12",
-        "date": "2018-05-30",
-        "date_precision": "day",
-        "title": "Officiating",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Officiating"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-13",
-        "date": "2018-03-16",
-        "date_precision": "day",
-        "title": "Video assistant referees",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Officiating",
-            "Video assistant referees"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-14",
-        "date": "2018-06-15",
-        "date_precision": "day",
-        "title": "Video assistant referees",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Officiating",
-            "Video assistant referees"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-15",
-        "date": "2012-09-29",
-        "date_precision": "day",
-        "title": "Venues",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Venues"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-16",
-        "date": "2015-10-08",
-        "date_precision": "day",
-        "title": "Venues",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Venues"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-24",
-        "date": "2018-02-09",
-        "date_precision": "day",
-        "title": "Team base camps",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Venues",
-            "Team base camps"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-25",
-        "date": "2016-06-01",
-        "date_precision": "day",
-        "title": "Volunteers",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Preparation and costs",
-            "Volunteers"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-26",
-        "date": "2015-07-24",
-        "date_precision": "day",
-        "title": "Schedule",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Schedule"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-28",
-        "date": "2018-06-14",
-        "date_precision": "day",
-        "title": "Opening ceremony",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Opening ceremony"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-29",
-        "date": "2018-06-30",
-        "date_precision": "day",
-        "title": "Round of 16",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Knockout stage",
-            "Round of 16"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-30",
-        "date": "2018-07-01",
-        "date_precision": "day",
-        "title": "Round of 16",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Knockout stage",
-            "Round of 16"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-31",
-        "date": "2018-07-02",
-        "date_precision": "day",
-        "title": "Round of 16",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Knockout stage",
-            "Round of 16"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-32",
-        "date": "2018-07-03",
-        "date_precision": "day",
-        "title": "Round of 16",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Knockout stage",
-            "Round of 16"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-33",
-        "date": "2018-07-06",
-        "date_precision": "day",
-        "title": "Quarter-finals",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Knockout stage",
-            "Quarter-finals"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-34",
-        "date": "2018-07-07",
-        "date_precision": "day",
-        "title": "Quarter-finals",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Knockout stage",
-            "Quarter-finals"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-35",
-        "date": "2018-07-10",
-        "date_precision": "day",
-        "title": "Semi-finals",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Knockout stage",
-            "Semi-finals"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-36",
-        "date": "2018-07-11",
-        "date_precision": "day",
-        "title": "Semi-finals",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Knockout stage",
-            "Semi-finals"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-37",
-        "date": "2018-07-14",
-        "date_precision": "day",
-        "title": "Match for third place",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "other",
-          "section_path": [
-            "Knockout stage",
-            "Match for third place"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-39",
-        "date": "2014-10-28",
-        "date_precision": "day",
-        "title": "Branding",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Marketing",
-            "Branding"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-40",
-        "date": "2018-06-02",
-        "date_precision": "day",
-        "title": "Broadcasting rights",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Marketing",
-            "Broadcasting rights"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-41",
-        "date": "2018-07-12",
-        "date_precision": "day",
-        "title": "Broadcasting rights",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Marketing",
-            "Broadcasting rights"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-42",
-        "date": "2017-09-14",
-        "date_precision": "day",
-        "title": "Ticketing",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Marketing",
-            "Ticketing"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-43",
-        "date": "2017-10-12",
-        "date_precision": "day",
-        "title": "Ticketing",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Marketing",
-            "Ticketing"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-44",
-        "date": "2018-05-29",
-        "date_precision": "day",
-        "title": "Merchandise",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Marketing",
-            "Merchandise"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-45",
-        "date": "2016-10-21",
-        "date_precision": "day",
-        "title": "Mascot",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Symbols",
-            "Mascot"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-46",
-        "date": "2017-11-09",
-        "date_precision": "day",
-        "title": "Match ball",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Symbols",
-            "Match ball"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-47",
-        "date": "2018-05-25",
-        "date_precision": "day",
-        "title": "Music",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Symbols",
-            "Music"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-48",
-        "date": "2018-06-08",
-        "date_precision": "day",
-        "title": "Music",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Symbols",
-            "Music"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-49",
-        "date": "2017-12-22",
-        "date_precision": "day",
-        "title": "Controversies",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Controversies"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-50",
-        "date": "2018-05-22",
-        "date_precision": "day",
-        "title": "Controversies",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Controversies"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-51",
-        "date": "2018-12-31",
-        "date_precision": "day",
-        "title": "Controversies",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Controversies"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -3073,66 +2357,367 @@
   "rejected": [
     {
       "kind": "event",
+      "ref": "text-event-0",
+      "preview": "2018-07-15 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "2010-12-02 «Host selection»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "2009-02-02 «Host selection»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "2015-06-03 «Host selection criticism»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "2015-06-07 «Host selection criticism»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "2016-05-13 «Qualification»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "2015-03-12 «Qualification»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "2015-07-25 «Qualification»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "2017-12-01 «Draw»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "2018-05-27 «Squads»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "2018-03-29 «Officiating»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "2018-04-30 «Officiating»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "2018-05-30 «Officiating»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-13",
+      "preview": "2018-03-16 «Video assistant referees»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-14",
+      "preview": "2018-06-15 «Video assistant referees»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-15",
+      "preview": "2012-09-29 «Venues»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-16",
+      "preview": "2015-10-08 «Venues»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
       "ref": "text-event-17",
       "preview": "2018-04-11 «Stadiums»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-18",
       "preview": "2014-09-05 «Stadiums»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-19",
       "preview": "2017-12-22 «Stadiums»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-20",
       "preview": "2016-12-29 «Stadiums»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-21",
       "preview": "2014-07-21 «Stadiums»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-22",
       "preview": "2018-04-21 «Stadiums»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-23",
       "preview": "2018-04-03 «Stadiums»",
-      "rule": "EV-LIST",
-      "reason": "дата из пункта списка, а не из рассказа"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-24",
+      "preview": "2018-02-09 «Team base camps»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-25",
+      "preview": "2016-06-01 «Volunteers»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-26",
+      "preview": "2015-07-24 «Schedule»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-27",
       "preview": "2017-12-01 «Schedule»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-28",
+      "preview": "2018-06-14 «Opening ceremony»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-29",
+      "preview": "2018-06-30 «Round of 16»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-30",
+      "preview": "2018-07-01 «Round of 16»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-31",
+      "preview": "2018-07-02 «Round of 16»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-32",
+      "preview": "2018-07-03 «Round of 16»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-33",
+      "preview": "2018-07-06 «Quarter-finals»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-34",
+      "preview": "2018-07-07 «Quarter-finals»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-35",
+      "preview": "2018-07-10 «Semi-finals»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-36",
+      "preview": "2018-07-11 «Semi-finals»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-37",
+      "preview": "2018-07-14 «Match for third place»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-38",
       "preview": "2018-07-15 «Final»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-39",
+      "preview": "2014-10-28 «Branding»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-40",
+      "preview": "2018-06-02 «Broadcasting rights»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-41",
+      "preview": "2018-07-12 «Broadcasting rights»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-42",
+      "preview": "2017-09-14 «Ticketing»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-43",
+      "preview": "2017-10-12 «Ticketing»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-44",
+      "preview": "2018-05-29 «Merchandise»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-45",
+      "preview": "2016-10-21 «Mascot»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-46",
+      "preview": "2017-11-09 «Match ball»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-47",
+      "preview": "2018-05-25 «Music»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-48",
+      "preview": "2018-06-08 «Music»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-49",
+      "preview": "2017-12-22 «Controversies»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-50",
+      "preview": "2018-05-22 «Controversies»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-51",
+      "preview": "2018-12-31 «Controversies»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "number",

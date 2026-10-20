@@ -388,118 +388,6 @@
       }
     ],
     "infobox": {
-      "cas_number": {
-        "key": "cas_number",
-        "label": "CAS Number",
-        "group": null,
-        "value": "7732-18-5",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "3d_model_jsmol": {
-        "key": "3d_model_jsmol",
-        "label": "3D model (JSmol)",
-        "group": null,
-        "value": "Interactive image",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "beilstein_reference": {
-        "key": "beilstein_reference",
-        "label": "Beilstein Reference",
-        "group": null,
-        "value": "3587155",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "chebi": {
-        "key": "chebi",
-        "label": "ChEBI",
-        "group": null,
-        "value": "CHEBI:15377",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "chembl": {
-        "key": "chembl",
-        "label": "ChEMBL",
-        "group": null,
-        "value": "ChEMBL1098659",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "chemspider": {
-        "key": "chemspider",
-        "label": "ChemSpider",
-        "group": null,
-        "value": "937",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "drugbank": {
-        "key": "drugbank",
-        "label": "DrugBank",
-        "group": null,
-        "value": "DB09145",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "echa_infocard": {
-        "key": "echa_infocard",
-        "label": "ECHA InfoCard",
-        "group": null,
-        "value": "100.028.902",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "ec_number": {
-        "key": "ec_number",
-        "label": "EC Number",
-        "group": null,
-        "value": "231-791-2",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "gmelin_reference": {
-        "key": "gmelin_reference",
-        "label": "Gmelin Reference",
-        "group": null,
-        "value": "117",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "kegg": {
-        "key": "kegg",
-        "label": "KEGG",
-        "group": null,
-        "value": "C00001",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "pubchem_cid": {
-        "key": "pubchem_cid",
-        "label": "PubChem CID",
-        "group": null,
-        "value": "962",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "rtecs_number": {
-        "key": "rtecs_number",
-        "label": "RTECS number",
-        "group": null,
-        "value": "ZC0110000",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "unii": {
-        "key": "unii",
-        "label": "UNII",
-        "group": null,
-        "value": "059QF0KO0R",
-        "normalized_value": null,
-        "source": "infobox"
-      },
       "comptox_dashboard_epa": {
         "key": "comptox_dashboard_epa",
         "label": "CompTox Dashboard (EPA)",
@@ -727,43 +615,7 @@
     },
     "tables": [],
     "locations": [],
-    "events": [
-      {
-        "id": "text-event-0",
-        "date": "1795-04-07",
-        "date_precision": "day",
-        "title": "As a scientific standard",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Effects on human civilization",
-            "Human uses",
-            "As a scientific standard"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "2011-07-22",
-        "date_precision": "day",
-        "title": "In the universe",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Distribution in nature",
-            "In the universe"
-          ],
-          "service_section": false
-        }
-      }
-    ],
+    "events": [],
     "numbers": [],
     "people": [],
     "organizations": [],
@@ -954,6 +806,20 @@
     "metadata": {}
   },
   "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1795-04-07 «As a scientific standard»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "2011-07-22 «In the universe»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
     {
       "kind": "number",
       "ref": "0",
@@ -1198,6 +1064,104 @@
       "preview": "Boiling point = 99.98 °C",
       "rule": "NUM-GROUP",
       "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "cas_number",
+      "preview": "CAS Number: 7732-18-5",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "3d_model_jsmol",
+      "preview": "3D model (JSmol): Interactive image",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "beilstein_reference",
+      "preview": "Beilstein Reference: 3587155",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "chebi",
+      "preview": "ChEBI: CHEBI:15377",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "chembl",
+      "preview": "ChEMBL: ChEMBL1098659",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "chemspider",
+      "preview": "ChemSpider: 937",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "drugbank",
+      "preview": "DrugBank: DB09145",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "echa_infocard",
+      "preview": "ECHA InfoCard: 100.028.902",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "ec_number",
+      "preview": "EC Number: 231-791-2",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "gmelin_reference",
+      "preview": "Gmelin Reference: 117",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "kegg",
+      "preview": "KEGG: C00001",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "pubchem_cid",
+      "preview": "PubChem CID: 962",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "rtecs_number",
+      "preview": "RTECS number: ZC0110000",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "unii",
+      "preview": "UNII: 059QF0KO0R",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "infobox_field",

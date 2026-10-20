@@ -537,14 +537,6 @@
         "normalized_value": null,
         "source": "infobox"
       },
-      "gdp_ppp": {
-        "key": "gdp_ppp",
-        "label": "GDP (PPP)",
-        "group": null,
-        "value": "2026 estimate",
-        "normalized_value": null,
-        "source": "infobox"
-      },
       "gdp_ppp_total": {
         "key": "gdp_ppp_total",
         "label": "Total",
@@ -558,14 +550,6 @@
         "label": "Per capita",
         "group": "GDP (PPP)",
         "value": "$94,430 (10th)",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "gdp_nominal": {
-        "key": "gdp_nominal",
-        "label": "GDP (nominal)",
-        "group": null,
-        "value": "2026 estimate",
         "normalized_value": null,
         "source": "infobox"
       },
@@ -630,30 +614,6 @@
         "label": "Date format",
         "group": null,
         "value": "mm/dd/yyyy",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "calling_code": {
-        "key": "calling_code",
-        "label": "Calling code",
-        "group": null,
-        "value": "+1",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "iso_3166_code": {
-        "key": "iso_3166_code",
-        "label": "ISO 3166 code",
-        "group": null,
-        "value": "US",
-        "normalized_value": null,
-        "source": "infobox"
-      },
-      "internet_tld": {
-        "key": "internet_tld",
-        "label": "Internet TLD",
-        "group": null,
-        "value": ".us",
         "normalized_value": null,
         "source": "infobox"
       }
@@ -742,153 +702,6 @@
         "context": {
           "block": "infobox",
           "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-0",
-        "date": "1776-07-02",
-        "date_precision": "day",
-        "title": "Introduction",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-1",
-        "date": "1776-01-02",
-        "date_precision": "day",
-        "title": "Etymology",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Etymology"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "1776-04-06",
-        "date_precision": "day",
-        "title": "Etymology",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Etymology"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "1776-06-11",
-        "date_precision": "day",
-        "title": "Etymology",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Etymology"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "1776-06-28",
-        "date_precision": "day",
-        "title": "American Revolution and the early republic (1765–1800)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "History",
-            "American Revolution and the early republic (1765–1800)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "1863-01-01",
-        "date_precision": "day",
-        "title": "Westward expansion and Civil War (1800–1865)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Westward expansion and Civil War (1800–1865)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-8",
-        "date": "1946-07-04",
-        "date_precision": "day",
-        "title": "Reconstruction, Gilded Age, and Progressive Era (1866–1917)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Reconstruction, Gilded Age, and Progressive Era (1866–1917)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-9",
-        "date": "2020-04-01",
-        "date_precision": "day",
-        "title": "Population",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Demographics",
-            "Population"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-10",
-        "date": "2024-07-01",
-        "date_precision": "day",
-        "title": "Population",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Demographics",
-            "Population"
-          ],
           "service_section": false
         }
       }
@@ -1298,17 +1111,80 @@
   "rejected": [
     {
       "kind": "event",
+      "ref": "text-event-0",
+      "preview": "1776-07-02 «Introduction»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "1776-01-02 «Etymology»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "1776-04-06 «Etymology»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "1776-06-11 «Etymology»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
       "ref": "text-event-4",
       "preview": "1776-07-04 «Etymology»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "1776-06-28 «American Revolution and the early republic (1765–1800)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-6",
       "preview": "1776-07-04 «American Revolution and the early republic (1765–1800)»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "1863-01-01 «Westward expansion and Civil War (1800–1865)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "1946-07-04 «Reconstruction, Gilded Age, and Progressive Era (1866–1917)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "2020-04-01 «Population»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "2024-07-01 «Population»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "number",
@@ -1442,6 +1318,41 @@
       "preview": "Area — Water (%) = 7 %",
       "rule": "NUM-GROUP",
       "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "gdp_ppp",
+      "preview": "GDP (PPP): 2026 estimate",
+      "rule": "IB-PARENT",
+      "reason": "заголовок группы без собственного значения"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "gdp_nominal",
+      "preview": "GDP (nominal): 2026 estimate",
+      "rule": "IB-PARENT",
+      "reason": "заголовок группы без собственного значения"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "calling_code",
+      "preview": "Calling code: +1",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "iso_3166_code",
+      "preview": "ISO 3166 code: US",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "internet_tld",
+      "preview": "Internet TLD: .us",
+      "rule": "IB-ID",
+      "reason": "идентификатор, код или сайт - не факт о предмете"
     },
     {
       "kind": "image",

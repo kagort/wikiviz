@@ -709,342 +709,6 @@
           "section_path": [],
           "service_section": false
         }
-      },
-      {
-        "id": "text-event-1",
-        "date": "1920-01-10",
-        "date_precision": "day",
-        "title": "Background (pre-1941)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Background (pre-1941)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-2",
-        "date": "1941-06-12",
-        "date_precision": "day",
-        "title": "Declarations by the Allies of World War II (1941–1944)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Declarations by the Allies of World War II (1941–1944)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-3",
-        "date": "1941-09-24",
-        "date_precision": "day",
-        "title": "Declarations by the Allies of World War II (1941–1944)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Declarations by the Allies of World War II (1941–1944)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-4",
-        "date": "1941-12-29",
-        "date_precision": "day",
-        "title": "Declarations by the Allies of World War II (1941–1944)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Declarations by the Allies of World War II (1941–1944)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-5",
-        "date": "1944-10-07",
-        "date_precision": "day",
-        "title": "Declarations by the Allies of World War II (1941–1944)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Declarations by the Allies of World War II (1941–1944)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-6",
-        "date": "1945-03-01",
-        "date_precision": "day",
-        "title": "Founding (1945)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Founding (1945)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-7",
-        "date": "1945-04-25",
-        "date_precision": "day",
-        "title": "Founding (1945)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Founding (1945)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-10",
-        "date": "1948-09-14",
-        "date_precision": "day",
-        "title": "Founding (1945)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Founding (1945)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-11",
-        "date": "1952-10-09",
-        "date_precision": "day",
-        "title": "Founding (1945)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "Founding (1945)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-22",
-        "date": "2017-01-01",
-        "date_precision": "day",
-        "title": "After the Cold War (1991–1999)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "After the Cold War (1991–1999)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-23",
-        "date": "2019-06-13",
-        "date_precision": "day",
-        "title": "After the Cold War (1991–1999)",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "After the Cold War (1991–1999)"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-24",
-        "date": "2025-05-19",
-        "date_precision": "day",
-        "title": "2020s: financial crisis",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "History",
-            "2020s: financial crisis"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-25",
-        "date": "1994-11-01",
-        "date_precision": "day",
-        "title": "Structure",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Structure"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-26",
-        "date": "1946-01-10",
-        "date_precision": "day",
-        "title": "General Assembly",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Structure",
-            "General Assembly"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-27",
-        "date": "2003-02-05",
-        "date_precision": "day",
-        "title": "Security Council",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "figure",
-          "section_path": [
-            "Structure",
-            "Security Council"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-28",
-        "date": "2011-07-14",
-        "date_precision": "day",
-        "title": "Membership",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Membership"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-29",
-        "date": "1964-06-15",
-        "date_precision": "day",
-        "title": "Group of 77",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Membership",
-            "Group of 77"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-30",
-        "date": "2025-03-21",
-        "date_precision": "day",
-        "title": "Awards",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Awards"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-31",
-        "date": "1949-10-01",
-        "date_precision": "day",
-        "title": "Exclusion of nations",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Criticism",
-            "Exclusion of nations"
-          ],
-          "service_section": false
-        }
-      },
-      {
-        "id": "text-event-32",
-        "date": "1971-10-24",
-        "date_precision": "day",
-        "title": "Hymn to the United Nations",
-        "description": null,
-        "source": "article_text",
-        "confidence": 0.6,
-        "context": {
-          "block": "paragraph",
-          "section_path": [
-            "Hymn to the United Nations"
-          ],
-          "service_section": false
-        }
       }
     ],
     "numbers": [],
@@ -1236,94 +900,234 @@
   "rejected": [
     {
       "kind": "event",
-      "ref": "text-event-12",
-      "preview": "1950-07-07 «Cold War (1947–1991)»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-13",
-      "preview": "1953-07-27 «Cold War (1947–1991)»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-14",
-      "preview": "1947-11-29 «Cold War (1947–1991)»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-15",
-      "preview": "1948-05-15 «Cold War (1947–1991)»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-16",
-      "preview": "1956-11-07 «Cold War (1947–1991)»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-17",
-      "preview": "1960-07-14 «Cold War (1947–1991)»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-18",
-      "preview": "1964-05-11 «Cold War (1947–1991)»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-19",
-      "preview": "1971-10-25 «Cold War (1947–1991)»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-20",
-      "preview": "1975-11-10 «Cold War (1947–1991)»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
-    },
-    {
-      "kind": "event",
-      "ref": "text-event-21",
-      "preview": "1991-12-16 «Cold War (1947–1991)»",
-      "rule": "EV-DENSE",
-      "reason": "раздел даёт 10 и больше дат - похоже на перечень"
-    },
-    {
-      "kind": "event",
       "ref": "text-event-0",
       "preview": "1945-06-26 «Introduction»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "1920-01-10 «Background (pre-1941)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "1941-06-12 «Declarations by the Allies of World War II (1941–1944)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-3",
+      "preview": "1941-09-24 «Declarations by the Allies of World War II (1941–1944)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "1941-12-29 «Declarations by the Allies of World War II (1941–1944)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-5",
+      "preview": "1944-10-07 «Declarations by the Allies of World War II (1941–1944)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "1945-03-01 «Founding (1945)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-7",
+      "preview": "1945-04-25 «Founding (1945)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-8",
       "preview": "1945-06-26 «Founding (1945)»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "event",
       "ref": "text-event-9",
       "preview": "1945-10-24 «Founding (1945)»",
-      "rule": "EV-DUP",
-      "reason": "эта дата уже показана"
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "1948-09-14 «Founding (1945)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "1952-10-09 «Founding (1945)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "1950-07-07 «Cold War (1947–1991)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-13",
+      "preview": "1953-07-27 «Cold War (1947–1991)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-14",
+      "preview": "1947-11-29 «Cold War (1947–1991)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-15",
+      "preview": "1948-05-15 «Cold War (1947–1991)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-16",
+      "preview": "1956-11-07 «Cold War (1947–1991)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-17",
+      "preview": "1960-07-14 «Cold War (1947–1991)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-18",
+      "preview": "1964-05-11 «Cold War (1947–1991)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-19",
+      "preview": "1971-10-25 «Cold War (1947–1991)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-20",
+      "preview": "1975-11-10 «Cold War (1947–1991)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-21",
+      "preview": "1991-12-16 «Cold War (1947–1991)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-22",
+      "preview": "2017-01-01 «After the Cold War (1991–1999)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-23",
+      "preview": "2019-06-13 «After the Cold War (1991–1999)»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-24",
+      "preview": "2025-05-19 «2020s: financial crisis»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-25",
+      "preview": "1994-11-01 «Structure»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-26",
+      "preview": "1946-01-10 «General Assembly»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-27",
+      "preview": "2003-02-05 «Security Council»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-28",
+      "preview": "2011-07-14 «Membership»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-29",
+      "preview": "1964-06-15 «Group of 77»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-30",
+      "preview": "2025-03-21 «Awards»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-31",
+      "preview": "1949-10-01 «Exclusion of nations»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-32",
+      "preview": "1971-10-24 «Hymn to the United Nations»",
+      "rule": "EV-TEXT",
+      "reason": "дата из текста статьи: такие даты редко бывают вехами (шкала - по инфобоксу)"
     },
     {
       "kind": "number",
