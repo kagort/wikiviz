@@ -181,6 +181,10 @@ def main() -> None:
         save_manifest(MANIFEST_PATH, result)
         print(f"\nManifest updated: {MANIFEST_PATH}")
 
+    # Результаты отбора надёжных данных пересчитываются вслед за фикстурами.
+    from scripts.apply_selection import apply_selection
+    print(f"Selection: {apply_selection(OUTPUT_DIR, OUTPUT_DIR / 'selection')} fixtures")
+
     print("\nDone.")
 
 

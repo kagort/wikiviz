@@ -252,3 +252,17 @@ def test_selection_never_fails_on_the_whole_corpus():
     for path in sorted(CORPUS.glob("*.json")):
         result = select_reliable(load(path))
         assert len(result.selected.events) != 1  # EV-MIN: либо пусто, либо хронология
+
+
+def test_stored_selection_files_match_current_rules():
+    # Результаты отбора рядом с фикстурами и корпусом (scripts.apply_selection)
+    # должны соответствовать текущим правилам: иначе /dev/widgets и тесты
+    # frontend показывают устаревший отбор. Исправление - перезапустить
+    # python -m scripts.apply_selection.
+    for source in (FIXTURES, CORPUS):
+        for path in sorted(source.glob("*.json")):
+            if path.name == "manifest.json":
+                continue
+            stored = (path.parent.parent / "selection" / path.name) if source == CORPUS else (path.parent / "selection" / path.name)
+            expected = select_reliable(load(path)).model_dump_json(indent=2)
+            assert stored.read_text(encoding="utf-8") == expected, f"{stored} устарел"

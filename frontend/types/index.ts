@@ -9,3 +9,5 @@ export * from "./event";
 export * from "./number";
 export * from "./image";
 export * from "./articleModel";
+export * from "./selection";
+

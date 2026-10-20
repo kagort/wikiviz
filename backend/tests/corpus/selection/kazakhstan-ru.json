@@ -1,0 +1,2984 @@
+{
+  "selected": {
+    "article": {
+      "id": 1657,
+      "title": "Казахстан",
+      "language": "ru",
+      "url": "https://ru.wikipedia.org/wiki/Казахстан",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Этимология названия",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "География",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-2",
+            "title": "Геология",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-3",
+            "title": "Рельеф",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-4",
+            "title": "Воды",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-5",
+            "title": "Климат",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-6",
+            "title": "Природные ресурсы",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-7",
+            "title": "Почвы",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-8",
+            "title": "Флора и фауна",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-9",
+            "title": "Экологическое состояние",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-10",
+        "title": "История",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-11",
+            "title": "Древность",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-12",
+            "title": "Тюркский период",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-13",
+            "title": "Монгольская империя. Золотая Орда",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-14",
+            "title": "Казахское ханство",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-15",
+            "title": "В составе Российской империи",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-16",
+            "title": "РСФСР",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-17",
+            "title": "Советский Союз",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-18",
+            "title": "После обретения независимости",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-19",
+        "title": "Население",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-20",
+            "title": "Этнический состав",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-21",
+            "title": "Языки",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-22",
+            "title": "Религиозный состав",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-23",
+        "title": "Государственный строй и политика",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-24",
+            "title": "Политическая система",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-25",
+            "title": "Выборы",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-26",
+            "title": "Судебная власть",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-27",
+            "title": "Административное деление",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-28",
+            "title": "Муниципальные образования",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-29",
+            "title": "Города Казахстана",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-30",
+            "title": "Внешняя политика",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-31",
+                "title": "Концепция внешней политики",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-32",
+            "title": "Политические реформы",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-33",
+            "title": "Права человека",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-34",
+        "title": "Экономика",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-35",
+            "title": "Рейтинги",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-36",
+            "title": "Приватизация",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-37",
+            "title": "Сельское хозяйство",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-38",
+            "title": "Промышленность",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-39",
+            "title": "Энергетика",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-40",
+            "title": "Транспорт и связь",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-41",
+                "title": "Железнодорожный транспорт",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-42",
+                "title": "Водный транспорт",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-43",
+                "title": "Воздушный траснпорт",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-44",
+            "title": "Туризм",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-45",
+            "title": "Банковское дело",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-46",
+                "title": "Валюта",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-47",
+                "title": "Рынок облигаций",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-48",
+            "title": "Рынок недвижимости",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-49",
+            "title": "Инвестиции",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-50",
+            "title": "Предпринимательство",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-51",
+            "title": "Коррупция",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-52",
+            "title": "Внешнеэкономические связи",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-53",
+            "title": "Здравоохранение",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-54",
+            "title": "Социальное обеспечение",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-55",
+            "title": "Бедность",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-56",
+        "title": "Наука и образование",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-57",
+            "title": "Наука и технология",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-58",
+            "title": "Образование",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-59",
+        "title": "Культура",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-60",
+            "title": "Архитектура",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-61",
+            "title": "Музыка",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-62",
+            "title": "Литература",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-63",
+            "title": "Изобразительное искусство",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-64",
+            "title": "Театр",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-65",
+            "title": "Кинематограф",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-66",
+            "title": "Музеи",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-67",
+            "title": "Спорт",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-68",
+            "title": "СМИ",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-69",
+            "title": "Кухня",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-70",
+            "title": "Праздники",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-71",
+            "title": "Объекты Всемирного наследия ЮНЕСКО",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-72",
+            "title": "Галерея",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-73",
+        "title": "Армия и полиция",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-74",
+            "title": "Армия и органы национальной безопасности",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-75",
+            "title": "Полиция",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-76",
+        "title": "Примечания",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-77",
+        "title": "Литература",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-78",
+        "title": "Ссылки",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "дата_независимости": {
+        "key": "дата_независимости",
+        "label": "Дата независимости",
+        "group": null,
+        "value": "16 декабря 1991 (от СССР)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "официальные_языки": {
+        "key": "официальные_языки",
+        "label": "Официальные языки",
+        "group": null,
+        "value": "казахский, русский",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "столица": {
+        "key": "столица",
+        "label": "Столица",
+        "group": null,
+        "value": "Астана",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "крупнейшие_города": {
+        "key": "крупнейшие_города",
+        "label": "Крупнейшие города",
+        "group": null,
+        "value": "Алма-Ата, Астана, Шымкент, Актобе, Караганда",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "форма_правления": {
+        "key": "форма_правления",
+        "label": "Форма правления",
+        "group": null,
+        "value": "президентская республика",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "форма_гос_устройства": {
+        "key": "форма_гос_устройства",
+        "label": "Форма гос. устройства",
+        "group": null,
+        "value": "унитарное государство",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "президент": {
+        "key": "президент",
+        "label": "Президент",
+        "group": null,
+        "value": "Касым-Жомарт Токаев",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "вице_президент": {
+        "key": "вице_президент",
+        "label": "Вице-президент",
+        "group": null,
+        "value": "Ерлан Карин",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "премьер_министр": {
+        "key": "премьер_министр",
+        "label": "Премьер-министр",
+        "group": null,
+        "value": "Олжас Бектенов",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гос_религия": {
+        "key": "гос_религия",
+        "label": "Гос. религия",
+        "group": null,
+        "value": "светское государство",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гос_религия_всего": {
+        "key": "гос_религия_всего",
+        "label": "Всего",
+        "group": "Гос. религия",
+        "value": "2 724 902 км² (9-я в мире)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гос_религия_водной_поверхности": {
+        "key": "гос_религия_водной_поверхности",
+        "label": "% водной поверхности",
+        "group": "Гос. религия",
+        "value": "2,8",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гос_религия_оценка_1_июня_2026": {
+        "key": "гос_религия_оценка_1_июня_2026",
+        "label": "Оценка (1 июня 2026)",
+        "group": "Гос. религия",
+        "value": "↗ 20 575 979 чел. (62-е)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гос_религия_перепись_2021": {
+        "key": "гос_религия_перепись_2021",
+        "label": "Перепись (2021)",
+        "group": "Гос. религия",
+        "value": "↗ 19 082 467 чел.",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гос_религия_плотность": {
+        "key": "гос_религия_плотность",
+        "label": "Плотность",
+        "group": "Гос. религия",
+        "value": "7,55 чел./км² (184-я)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гос_религия_итого_2026": {
+        "key": "гос_религия_итого_2026",
+        "label": "Итого (2026)",
+        "group": "Гос. религия",
+        "value": "▲ 973,36 млрд долл. (36-й)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гос_религия_на_душу_населения": {
+        "key": "гос_религия_на_душу_населения",
+        "label": "На душу населения",
+        "group": "Гос. религия",
+        "value": "▲ 47,26 тыс. долл. (56-й)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гос_религия_итого_2026_2": {
+        "key": "гос_религия_итого_2026_2",
+        "label": "Итого (2026)",
+        "group": "Гос. религия",
+        "value": "▲ 319,77 млрд. долл. (49-й)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гос_религия_на_душу_населения_2": {
+        "key": "гос_религия_на_душу_населения_2",
+        "label": "На душу населения",
+        "group": "Гос. религия",
+        "value": "15,53 тыс. долл. (64-й)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "ичр_2023": {
+        "key": "ичр_2023",
+        "label": "ИЧР (2023)",
+        "group": null,
+        "value": "0,837 (очень высокий; 60-е место)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "названия_жителей": {
+        "key": "названия_жителей",
+        "label": "Названия жителей",
+        "group": null,
+        "value": "казахстанцы, казахстанец, казахстанка",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "валюта": {
+        "key": "валюта",
+        "label": "Валюта",
+        "group": null,
+        "value": "тенге ₸, (KZT, код 398)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "интернет_домен": {
+        "key": "интернет_домен",
+        "label": "Интернет-домен",
+        "group": null,
+        "value": ".kz",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "код_iso": {
+        "key": "код_iso",
+        "label": "Код ISO",
+        "group": null,
+        "value": "KZ",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "телефонный_код": {
+        "key": "телефонный_код",
+        "label": "Телефонный код",
+        "group": null,
+        "value": "+7",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "часовой_пояс": {
+        "key": "часовой_пояс",
+        "label": "Часовой пояс",
+        "group": null,
+        "value": "UTC+5",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "автомобильное_движение": {
+        "key": "автомобильное_движение",
+        "label": "Автомобильное движение",
+        "group": null,
+        "value": "справа",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [
+      {
+        "id": "table-0",
+        "title": "Среднесуточные максимальные и минимальные температуры крупных городов Казахстана",
+        "columns": [
+          "Местоположение",
+          "Июль (°C)",
+          "Январь (°C)"
+        ],
+        "rows": [
+          [
+            "Алма-Ата",
+            "30/18",
+            "0/−8"
+          ],
+          [
+            "Шымкент",
+            "32/17",
+            "4/−4"
+          ],
+          [
+            "Караганда",
+            "27/14",
+            "−8/−17"
+          ],
+          [
+            "Астана",
+            "27/15",
+            "−10/−18"
+          ],
+          [
+            "Павлодар",
+            "28/15",
+            "−11/−20"
+          ],
+          [
+            "Актобе",
+            "30/15",
+            "−8/−16"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      },
+      {
+        "id": "table-1",
+        "title": "Население Казахстана по основным этническим группам(по переписям населения)",
+        "columns": [
+          "Этническая группа",
+          "перепись 1926 — Числен- ность",
+          "перепись 1926 — %",
+          "перепись 1970 — Числен- ность",
+          "перепись 1970 — %",
+          "перепись 1989 — Числен- ность",
+          "перепись 1989 — %",
+          "перепись 1999 — Числен- ность",
+          "перепись 1999 — %",
+          "перепись 2009 — Числен- ность",
+          "перепись 2009 — %",
+          "перепись 2021 — Числен- ность",
+          "перепись 2021 — %"
+        ],
+        "rows": [
+          [
+            "Казахи",
+            "3 627 612",
+            "58,5",
+            "4 161 164",
+            "32,4",
+            "6 534 616",
+            "39,7",
+            "8 011 452",
+            "53,5",
+            "10 096 763",
+            "63,1",
+            "13 497 891",
+            "70,4"
+          ],
+          [
+            "Русские",
+            "1 275 055",
+            "20,6",
+            "5 499 826",
+            "42,8",
+            "6 227 549",
+            "37,8",
+            "4 480 675",
+            "29,9",
+            "3 793 764",
+            "23,7",
+            "2 981 946",
+            "15,5"
+          ],
+          [
+            "Узбеки",
+            "129 407",
+            "2,1",
+            "207 514",
+            "1,6",
+            "332 017",
+            "2",
+            "370 765",
+            "2,5",
+            "456 997",
+            "2,8",
+            "614 047",
+            "3,2"
+          ],
+          [
+            "Украинцы",
+            "860 201",
+            "13,9",
+            "930 158",
+            "7,2",
+            "896 240",
+            "5,4",
+            "547 065",
+            "3,7",
+            "333 031",
+            "2,1",
+            "387 327",
+            "2,0"
+          ],
+          [
+            "Немцы",
+            "51 094",
+            "0,8",
+            "839 649",
+            "6,5",
+            "957 518",
+            "5,8",
+            "353 462",
+            "2,4",
+            "178 409",
+            "1,1",
+            "226 092",
+            "1,2"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      },
+      {
+        "id": "table-3",
+        "title": "Крупнейшие города Казахстана (населением св. 100 тыс. жит.) на 1 октября 2022 г.",
+        "columns": [
+          "Место",
+          "Название города",
+          "Область",
+          "Население",
+          "Место",
+          "Название города",
+          "Область",
+          "Население"
+        ],
+        "rows": [
+          [
+            "1",
+            "Алма-Ата",
+            "город республиканского значения",
+            "2 147 113",
+            "12",
+            "Костанай",
+            "Костанайская",
+            "263 432"
+          ],
+          [
+            "2",
+            "Астана",
+            "город республиканского значения",
+            "1 340 782",
+            "13",
+            "Актау",
+            "Мангистауская",
+            "261 907"
+          ],
+          [
+            "3",
+            "Шымкент",
+            "город республиканского значения",
+            "1 184 113",
+            "14",
+            "Уральск",
+            "Западно-Казахстанская",
+            "253 177"
+          ],
+          [
+            "4",
+            "Актобе",
+            "Актюбинская",
+            "555 976",
+            "15",
+            "Петропавловск",
+            "Северо-Казахстанская",
+            "221 902"
+          ],
+          [
+            "5",
+            "Караганда",
+            "Карагандинская",
+            "514 316",
+            "16",
+            "Туркестан",
+            "Туркестанская",
+            "218 331"
+          ],
+          [
+            "6",
+            "Тараз",
+            "Жамбылская",
+            "425 959",
+            "17",
+            "Кокшетау",
+            "Акмолинская",
+            "174 096"
+          ],
+          [
+            "7",
+            "Усть-Каменогорск",
+            "Восточно-Казахстанская",
+            "352 418",
+            "18",
+            "Темиртау",
+            "Карагандинская",
+            "171 880"
+          ],
+          [
+            "8",
+            "Павлодар",
+            "Павлодарская",
+            "333 703",
+            "19",
+            "Талдыкорган",
+            "Жетысуская",
+            "168 627"
+          ],
+          [
+            "9",
+            "Атырау",
+            "Атырауская",
+            "315 274",
+            "20",
+            "Экибастуз",
+            "Павлодарская",
+            "129 048"
+          ],
+          [
+            "10",
+            "Семей",
+            "Абайская",
+            "306 838",
+            "21",
+            "Рудный",
+            "Костанайская",
+            "111 990"
+          ],
+          [
+            "11",
+            "Кызылорда",
+            "Кызылординская",
+            "277 678",
+            ""
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      },
+      {
+        "id": "table-4",
+        "title": null,
+        "columns": [
+          "",
+          "",
+          "",
+          "1992",
+          "1993",
+          "1994",
+          "1995",
+          "1996",
+          "1997",
+          "1998",
+          "1999"
+        ],
+        "rows": [
+          [
+            "млрд долл.",
+            "",
+            "",
+            "2,9",
+            "5,2",
+            "11,9",
+            "16,6",
+            "21,0",
+            "22,2",
+            "22,1",
+            "16,9"
+          ],
+          [
+            "",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009"
+          ],
+          [
+            "млрд долл.",
+            "18,3",
+            "22,2",
+            "24,6",
+            "30,8",
+            "43,2",
+            "57,1",
+            "81,0",
+            "104,9",
+            "133,4",
+            "115,3"
+          ],
+          [
+            "",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+          ],
+          [
+            "млрд долл.",
+            "148,0",
+            "192,6",
+            "208,0",
+            "236,6",
+            "221,4",
+            "184,4",
+            "137,3",
+            "166,8",
+            "179,3",
+            "181,7"
+          ],
+          [
+            "",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "2025",
+            "2026",
+            "2027",
+            "2028",
+            "2029"
+          ],
+          [
+            "млрд долл.",
+            "171,1",
+            "197,1",
+            "225,5",
+            "261,8",
+            "284,8",
+            "—",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      },
+      {
+        "id": "table-5",
+        "title": "2024 год. Урожай пшеницы",
+        "columns": [
+          "Регион",
+          "Площадь посева",
+          "Урожай"
+        ],
+        "rows": [
+          [
+            "Акмолинская область",
+            "4,7 млн га",
+            "5,9 млн тонн"
+          ],
+          [
+            "Северо-Казахстанская область",
+            "3,3 млн га",
+            "5,6 млн тонн"
+          ],
+          [
+            "Костанайская область",
+            "4,3 млн га",
+            "5,3 млн тонн"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      },
+      {
+        "id": "table-6",
+        "title": "Нерабочие праздничные дни",
+        "columns": [
+          "Дата",
+          "Название на русском языке",
+          "Название на казахском языке"
+        ],
+        "rows": [
+          [
+            "1 января",
+            "Новый год",
+            "Жаңа жыл"
+          ],
+          [
+            "7 января",
+            "Рождество Христово",
+            "Иса Мәсіхтің туған күні, православиелік Рождество"
+          ],
+          [
+            "8 марта",
+            "Международный женский день",
+            "Халықаралық әйелдер күні"
+          ],
+          [
+            "21 марта",
+            "Наурыз",
+            "Наурыз мейрамы"
+          ],
+          [
+            "1 мая",
+            "Праздник единства народа",
+            "Қазақстан халқының бірлігі күні"
+          ],
+          [
+            "7 мая",
+            "День защитника Отечества",
+            "Отан Қорғаушы күні"
+          ],
+          [
+            "9 мая",
+            "День Победы",
+            "Жеңіс күні"
+          ],
+          [
+            "6 июля",
+            "День столицы",
+            "Астана күні"
+          ],
+          [
+            "30 августа",
+            "День конституции",
+            "Конституция күні"
+          ],
+          [
+            "По лунному календарю",
+            "Курбан айт (Курбан-байрам)",
+            "Құрбан айт"
+          ],
+          [
+            "25 октября",
+            "День Республики",
+            "Республика күні"
+          ],
+          [
+            "16 декабря",
+            "День независимости Казахстана",
+            "Тәуелсіздік күні"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      }
+    ],
+    "locations": [],
+    "events": [
+      {
+        "id": "event-0",
+        "date": "1991-12-16",
+        "date_precision": "day",
+        "title": "Дата независимости",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-0",
+        "date": "2019-03-20",
+        "date_precision": "day",
+        "title": "Introduction",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-1",
+        "date": "2019-06-09",
+        "date_precision": "day",
+        "title": "Introduction",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-2",
+        "date": "1936-12-05",
+        "date_precision": "day",
+        "title": "Introduction",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "1991-12-10",
+        "date_precision": "day",
+        "title": "Introduction",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-4",
+        "date": "2024-01-01",
+        "date_precision": "day",
+        "title": "Introduction",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-5",
+        "date": "2013-10-17",
+        "date_precision": "day",
+        "title": "Природные ресурсы",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "География",
+            "Природные ресурсы"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-6",
+        "date": "1391-06-18",
+        "date_precision": "day",
+        "title": "Монгольская империя. Золотая Орда",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "История",
+            "Монгольская империя. Золотая Орда"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-7",
+        "date": "2026-08-25",
+        "date_precision": "day",
+        "title": "РСФСР",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "other",
+          "section_path": [
+            "История",
+            "РСФСР"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-8",
+        "date": "1919-07-10",
+        "date_precision": "day",
+        "title": "РСФСР",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "История",
+            "РСФСР"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-9",
+        "date": "1920-08-26",
+        "date_precision": "day",
+        "title": "РСФСР",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "История",
+            "РСФСР"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-12",
+        "date": "1957-10-04",
+        "date_precision": "day",
+        "title": "Советский Союз",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "История",
+            "Советский Союз"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-13",
+        "date": "1961-04-12",
+        "date_precision": "day",
+        "title": "Советский Союз",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "История",
+            "Советский Союз"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-15",
+        "date": "1990-10-25",
+        "date_precision": "day",
+        "title": "После обретения независимости",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "История",
+            "После обретения независимости"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-17",
+        "date": "2019-03-23",
+        "date_precision": "day",
+        "title": "После обретения независимости",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "История",
+            "После обретения независимости"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-18",
+        "date": "2022-09-17",
+        "date_precision": "day",
+        "title": "После обретения независимости",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "История",
+            "После обретения независимости"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-20",
+        "date": "2022-01-02",
+        "date_precision": "day",
+        "title": "После обретения независимости",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "История",
+            "После обретения независимости"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-21",
+        "date": "2022-04-29",
+        "date_precision": "day",
+        "title": "После обретения независимости",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "История",
+            "После обретения независимости"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-22",
+        "date": "2025-10-01",
+        "date_precision": "day",
+        "title": "Население",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Население"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-23",
+        "date": "2022-09-01",
+        "date_precision": "day",
+        "title": "Этнический состав",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Население",
+            "Этнический состав"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-25",
+        "date": "2005-12-04",
+        "date_precision": "day",
+        "title": "Выборы",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Выборы"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-26",
+        "date": "2007-08-17",
+        "date_precision": "day",
+        "title": "Выборы",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Выборы"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-27",
+        "date": "2011-04-03",
+        "date_precision": "day",
+        "title": "Выборы",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Выборы"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-28",
+        "date": "2015-04-26",
+        "date_precision": "day",
+        "title": "Выборы",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Выборы"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-29",
+        "date": "2019-03-19",
+        "date_precision": "day",
+        "title": "Выборы",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Выборы"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-30",
+        "date": "2022-09-21",
+        "date_precision": "day",
+        "title": "Выборы",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Выборы"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-31",
+        "date": "2022-11-20",
+        "date_precision": "day",
+        "title": "Выборы",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Выборы"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-32",
+        "date": "2026-08-31",
+        "date_precision": "day",
+        "title": "Выборы",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Выборы"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-33",
+        "date": "2026-07-08",
+        "date_precision": "day",
+        "title": "Судебная власть",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Судебная власть"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-34",
+        "date": "2007-12-01",
+        "date_precision": "day",
+        "title": "Внешняя политика",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Внешняя политика"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-35",
+        "date": "2012-11-12",
+        "date_precision": "day",
+        "title": "Внешняя политика",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Внешняя политика"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-36",
+        "date": "2025-11-06",
+        "date_precision": "day",
+        "title": "Внешняя политика",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Государственный строй и политика",
+            "Внешняя политика"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-37",
+        "date": "2020-03-06",
+        "date_precision": "day",
+        "title": "Концепция внешней политики",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Государственный строй и политика",
+            "Внешняя политика",
+            "Концепция внешней политики"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-38",
+        "date": "2025-01-27",
+        "date_precision": "day",
+        "title": "Экономика",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экономика"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-39",
+        "date": "2014-11-11",
+        "date_precision": "day",
+        "title": "Экономика",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экономика"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-40",
+        "date": "2017-05-31",
+        "date_precision": "day",
+        "title": "Железнодорожный транспорт",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экономика",
+            "Транспорт и связь",
+            "Железнодорожный транспорт"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-41",
+        "date": "2015-05-07",
+        "date_precision": "day",
+        "title": "Железнодорожный транспорт",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экономика",
+            "Транспорт и связь",
+            "Железнодорожный транспорт"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-42",
+        "date": "2009-01-30",
+        "date_precision": "day",
+        "title": "Банковское дело",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "other",
+          "section_path": [
+            "Экономика",
+            "Банковское дело"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-43",
+        "date": "1993-11-15",
+        "date_precision": "day",
+        "title": "Валюта",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экономика",
+            "Банковское дело",
+            "Валюта"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-44",
+        "date": "2014-10-05",
+        "date_precision": "day",
+        "title": "Рынок облигаций",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экономика",
+            "Банковское дело",
+            "Рынок облигаций"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-45",
+        "date": "2020-01-01",
+        "date_precision": "day",
+        "title": "Предпринимательство",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экономика",
+            "Предпринимательство"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-48",
+        "date": "2019-06-14",
+        "date_precision": "day",
+        "title": "Культура",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "other",
+          "section_path": [
+            "Культура"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-50",
+        "date": "1926-10-20",
+        "date_precision": "day",
+        "title": "Изобразительное искусство",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Культура",
+            "Изобразительное искусство"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-51",
+        "date": "1940-06-24",
+        "date_precision": "day",
+        "title": "Изобразительное искусство",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Культура",
+            "Изобразительное искусство"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-52",
+        "date": "1951-03-17",
+        "date_precision": "day",
+        "title": "Театр",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Культура",
+            "Театр"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-53",
+        "date": "1952-11-18",
+        "date_precision": "day",
+        "title": "Кинематограф",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Культура",
+            "Кинематограф"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-54",
+        "date": "2006-08-12",
+        "date_precision": "day",
+        "title": "Спорт",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Культура",
+            "Спорт"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-55",
+        "date": "2019-01-15",
+        "date_precision": "day",
+        "title": "СМИ",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Культура",
+            "СМИ"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-56",
+        "date": "2023-06-13",
+        "date_precision": "day",
+        "title": "Праздники",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "other",
+          "section_path": [
+            "Культура",
+            "Праздники"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-57",
+        "date": "1991-03-15",
+        "date_precision": "day",
+        "title": "Праздники",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Культура",
+            "Праздники"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-58",
+        "date": "1992-07-13",
+        "date_precision": "day",
+        "title": "Армия и органы национальной безопасности",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Армия и полиция",
+            "Армия и органы национальной безопасности"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kazakhstan_BMNG.jpg/1280px-Kazakhstan_BMNG.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kazakhstan_BMNG.jpg/250px-Kazakhstan_BMNG.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Спутниковый снимок Казахстана в ноябре 2004 года",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Reserve_Karkaraly.jpg/1280px-Reserve_Karkaraly.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Reserve_Karkaraly.jpg/250px-Reserve_Karkaraly.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Карагандинская область",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Astana-steppe-7748.jpg/1280px-Astana-steppe-7748.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Astana-steppe-7748.jpg/250px-Astana-steppe-7748.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Казахская степь в Акмолинской области",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Eurasian_steppe_belt.jpg/1280px-Eurasian_steppe_belt.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Eurasian_steppe_belt.jpg/250px-Eurasian_steppe_belt.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Казахская степь в части Евразийского степного пояса ( на карте)",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0.png/1280px-%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0.png/250px-%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Геологическое строение Казахстана",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Геология"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-201005.jpg/1280px-%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-201005.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-201005.jpg/250px-%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-201005.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Боровое , гора Окжетпес",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Геология"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Panorama%28sharyn%29.jpg/1280px-Panorama%28sharyn%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Panorama%28sharyn%29.jpg/250px-Panorama%28sharyn%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Каньон Чарын",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Рельеф"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%9D%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE_%D0%BE%D1%82_%D0%BF%D0%B8%D0%BA%D0%B0_-_panoramio.jpg/1280px-%D0%9D%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE_%D0%BE%D1%82_%D0%BF%D0%B8%D0%BA%D0%B0_-_panoramio.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%9D%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE_%D0%BE%D1%82_%D0%BF%D0%B8%D0%BA%D0%B0_-_panoramio.jpg/250px-%D0%9D%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE_%D0%BE%D1%82_%D0%BF%D0%B8%D0%BA%D0%B0_-_panoramio.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Горные области Тянь-Шаня на юго-востоке Казахстана",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Рельеф"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kaindy_lake_south-east_Kazakhstan.jpg/1280px-Kaindy_lake_south-east_Kazakhstan.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kaindy_lake_south-east_Kazakhstan.jpg/250px-Kaindy_lake_south-east_Kazakhstan.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Озеро Каинды на юго-востоке Казахстана",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Воды"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Aral_Sea_1989-2008.jpg/1280px-Aral_Sea_1989-2008.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Aral_Sea_1989-2008.jpg/250px-Aral_Sea_1989-2008.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Аральское море в 1989 и 2008 годах",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Воды"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Qarmet_Combine_in_Temirtau_%282019-02-16%29.jpg/1280px-Qarmet_Combine_in_Temirtau_%282019-02-16%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Qarmet_Combine_in_Temirtau_%282019-02-16%29.jpg/250px-Qarmet_Combine_in_Temirtau_%282019-02-16%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Комбинат Qarmet",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Природные ресурсы"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1280px-Flag_of_Kazakhstan.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/250px-Flag_of_Kazakhstan.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": "Флаг",
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "2026-08-25 «Советский Союз»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "1936-12-05 «Советский Союз»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-14",
+      "preview": "2026-08-25 «После обретения независимости»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-16",
+      "preview": "1991-12-16 «После обретения независимости»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-19",
+      "preview": "2019-03-20 «После обретения независимости»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-24",
+      "preview": "2019-03-20 «Политическая система»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-46",
+      "preview": "2020-01-01 «Социальное обеспечение»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-47",
+      "preview": "2024-01-01 «Социальное обеспечение»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-49",
+      "preview": "2009-01-30 «Культура»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "number",
+      "ref": "0",
+      "preview": "Официальные языки = 1",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "1",
+      "preview": "Форма правления = 2",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "2",
+      "preview": "Всего = 2.7249e+06",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "3",
+      "preview": "% водной поверхности = 2.8",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "9",
+      "preview": "Итого (2026) = 3.1977e+11",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "11",
+      "preview": "ИЧР (2023) = 0.837",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "12",
+      "preview": "Валюта = 398",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "13",
+      "preview": "Телефонный код = 7",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "number",
+      "ref": "14",
+      "preview": "Часовой пояс = 5",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "number",
+      "ref": "4",
+      "preview": "Оценка (1 июня 2026) = 2.0576e+07 чел.",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "5",
+      "preview": "Перепись (2021) = 1.90825e+07 чел.",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "6",
+      "preview": "Плотность = 7.55 чел./км²",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "7",
+      "preview": "Итого (2026) = 9.7336e+11 долл.",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "8",
+      "preview": "На душу населения = 47260 долл.",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "10",
+      "preview": "На душу населения = 15530 долл.",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "table",
+      "ref": "table-2",
+      "preview": " |  | ",
+      "rule": "TBL-EMPTY",
+      "reason": "меньше двух строк или колонок"
+    },
+    {
+      "kind": "image",
+      "ref": "64",
+      "preview": "Марка почты СССР в честь казахского эссеиста и поэта Абая Кунанбаева",
+      "rule": "IMG-SERVICE",
+      "reason": "изображение из служебного раздела"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "Корсак",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "Погребальное изображение длинноволосых тюрков в казахской степи . Погребальный диван Михо, около 570 года",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "Мавзолей Джучи в Улытауской области , Казахстан",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "Миниатюра с изображением Менгу-Тимура из тимуридской генеалогической рукописи, около 1405–1409 года.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "Улусы Монгольской империи : Золотая Орда Чагатайский улус Государство Хулагуидов Империя Юань",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "Битва между Тохтамышом (слева) и Тимуром (справа) 18 июня 1391 года. Зафар-наме «Книга побед»",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "Казахские воины XV—XVIII веков. Иллюстрация «КНЭ»",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "Мавзолеи Рабиги Султан Бегим и Ходжи Ахмеда Ясави в городе Туркестан",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "Карта Тартарии , Cosaki Horda , Предположительно отражает расселение казахских племён в 1600—1620-е годы, Филипп Иоганн ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "Падишах Дешт-и-Кипчака. Вероятный портрет казахского хана , 1550 г.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "21",
+      "preview": "Портрет Абулхаира, Джон Кэстль",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "22",
+      "preview": "Письмо Абулхаир-хана императрице Анне Иоанновне, 1731 год",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "Оргская крепость, (1736)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "24",
+      "preview": "Бой с пугачёвцами",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "25",
+      "preview": "Объясачение Средней орды. Царский указ. 1824 год",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "26",
+      "preview": "Набег казаков на поселение туземцев",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "27",
+      "preview": "Орловский А . «Сражение между казаками и киргизами» (русские называли казахов «киргизами», киргиз-кайсаками ), литографи",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "28",
+      "preview": "Алихан Букейханов",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "29",
+      "preview": "Карта Алашской автономии, составленная деятелями партии «Алаш». Хранится в фонде Государственного архива России в Москве",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "30",
+      "preview": "АЛЖИР (Акмолинский лагерь жён изменников Родины) . Один из коммунистических лагерей в системе ГУЛАГ , созданный по прика",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "31",
+      "preview": "Слева направо: Бауыржан Момышулы (с тростью в руках), Алькей Маргулан и Мекемтас Мырзахметулы на съезде Союза писателей ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "32",
+      "preview": "Международная конференция по первичной медико-санитарной помощи в 1978 году, известная как Алма-Атинская декларация",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "33",
+      "preview": "Монумент независимости , площадь Республики , Алма-Ата",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "34",
+      "preview": "Демографическая пирамида Казахстана на 2020 год",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "35",
+      "preview": "Распределение этнических групп в Средней Азии, 1992 год (англ.)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "36",
+      "preview": "Вознесенский собор в Алма-Ате",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "37",
+      "preview": "Собор Пресвятой Девы Марии Фатимской — самый большой католический храм в Центральной Азии",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "38",
+      "preview": "Акорда , президентская резиденция",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "39",
+      "preview": "Курултай Казахстана",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "40",
+      "preview": "Штаб правящей партии ӘDILET в столице Казахстана",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "41",
+      "preview": "Лидеры стран Организации тюркских государств на саммите в Астане , 2023 год",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "42",
+      "preview": "Касым-Жомарт Токаев и Дональд Трамп в овальном кабинете, 6 ноября 2025 года",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "43",
+      "preview": "Президент Касым-Жомарт Токаев с президентом России Владимиром Путиным в 2025 году",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "44",
+      "preview": "Карта казахстанского импорта , 2013",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "45",
+      "preview": "Экспорт товаров Казахстана в 2007—2025 гг.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "46",
+      "preview": "Павильон выставки ЭКСПО-2017 «Нур Алем», Астана",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "47",
+      "preview": "Пшеничные поля возле Кокшетау",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "48",
+      "preview": "Экибастузская ГРЭС-1 является крупнейшей тепловой электростанцией в стране",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "49",
+      "preview": "Карта железнодорожной сети Казахстана",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "50",
+      "preview": "Боровое , вид с горы Болектау, осень",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "51",
+      "preview": "Горнолыжный курорт в Алма-Ате",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "52",
+      "preview": "Банкнота достоинством в 10000 тенге (ноябрь 2023)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "53",
+      "preview": "Алма-Ата",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "54",
+      "preview": "Космодром Байконур является старейшим и крупнейшим в мире оперативным космическим комплексом",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "55",
+      "preview": "Национальный педагогический университет",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "56",
+      "preview": "Казахский исполнитель демонстрирует многолетнее конное наследие в рамках гала-концерта во время церемонии открытия Центр",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "57",
+      "preview": "Юрта в Астане",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "58",
+      "preview": "Кладбище в степи у Эмбы",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "59",
+      "preview": "Мечеть Коркембая в каньоне Манашы, памятник архитектуры Мангистау XIX века",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "60",
+      "preview": "Детская больница в Зачаганске",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "61",
+      "preview": "Новостройки Актобе",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "62",
+      "preview": "Наурыз на марке Казахстана",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "63",
+      "preview": "Данэлия Тулешова представляла Казахстан на Детском Евровидении — 2018",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "65",
+      "preview": "Николай Хлудов . «Битьё шерсти». Российская империя, Степное генерал-губернаторство , Семиреченская область , Верненский",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "66",
+      "preview": "Абылхан Кастеев . «Похищение невесты». СССР , РСФСР , Москва , художественная студия имени Н. К. Крупской, 1937 г. Госуд",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "67",
+      "preview": "Алексей Бортников. « Николай Гаврилович Хлудов на жайлау». СССР, КазССР , Алма-Ата , 1960 г. Государственный музей искус",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "68",
+      "preview": "Гульфайрус Исмаилова . «Автопортрет с мужем Евгением Сидоркиным и сыном Вадимом». СССР, КазССР, Алма-Ата, 1978 г. Госуда",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "69",
+      "preview": "Центральный концертный зал «Казахстан»",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "70",
+      "preview": "Благотворительный бал в Алма-Ате",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "71",
+      "preview": "Фестиваль экшн-фильмов в Астане, 2010",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "72",
+      "preview": "Музей казахских народных музыкальных инструментов имени Ыкыласа",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "73",
+      "preview": "Мавзолей Махамбета Утемисова в Индерском районе Атырауской области",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "74",
+      "preview": "Astana Pro Team , профессиональная велокоманда, представляющая Казахстан и спонсируемая государственными компаниями Каза",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "75",
+      "preview": "« Астана Арена », открытая в 2009 году",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "76",
+      "preview": "Игроки ФК « Шахтёр », Караганда",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "77",
+      "preview": "Барыс Арена в 2015 году",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "78",
+      "preview": "Тимур Бекмамбетов , известный казахстанский режиссёр",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "79",
+      "preview": "Казахский бешбармак с картофелем",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "80",
+      "preview": "Празднование Наурыза",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "81",
+      "preview": "Улица Панфилова в Алма-Ате",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "82",
+      "preview": "« Алтын-Эмель ». Долина реки Или , Алматинская область",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "83",
+      "preview": "Горный приют, Туркестанская область",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "84",
+      "preview": "Урочище Тамгалы-Тас , Алматинская область",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "85",
+      "preview": "Мавзолей Ходжи Ахмеда Ясави в городе Туркестан",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "86",
+      "preview": "Уральский драматический театр",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "87",
+      "preview": "Мангистауская область , Каракиянский район",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "88",
+      "preview": "Казахи-егеря. Маркакольский заповедник , Алтай",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "89",
+      "preview": "Силы специальных операций Вооружённых сил Республики Казахстан",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "90",
+      "preview": "Военная полиция Вооружённых сил Республики Казахстан",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "91",
+      "preview": "Бронеразведывательная машина SandCat на параде в Астане",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "92",
+      "preview": "Эмблема Министерства внутренних дел Казахстана",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

@@ -2,8 +2,6 @@ import type { NormalizedArticleModel } from '../../types'
 import type { Widget } from '../../lib/widgets/types'
 import { TimelineWidgetView } from '../../components/widgets/TimelineWidgetView'
 
-/** Минимум событий для шкалы: одна дата - ещё не хронология (решение владельца). */
-export const MIN_TIMELINE_EVENTS = 2
 
 /**
  * Widget-обёртка над TimelineWidgetView (Phase 6).
@@ -17,6 +15,8 @@ export const timelineWidget: Widget = {
   name: 'Timeline',
   version: '1.0.0',
   description: 'Отображает события статьи списком по возрастанию даты',
-  supports: (data: NormalizedArticleModel) => data.events.length >= MIN_TIMELINE_EVENTS,
+  // Минимум в 2 события (решение владельца) проверяет отбор надёжных данных
+  // на backend (правило EV-MIN): виджет получает либо хронологию, либо ничего.
+  supports: (data: NormalizedArticleModel) => data.events.length > 0,
   render: TimelineWidgetRoot,
 }

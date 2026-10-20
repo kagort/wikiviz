@@ -1,0 +1,2475 @@
+{
+  "selected": {
+    "article": {
+      "id": 645042,
+      "title": "New York City",
+      "language": "en",
+      "url": "https://en.wikipedia.org/wiki/New_York_City",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Etymology",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "History",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-2",
+            "title": "Early history",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-3",
+            "title": "Dutch rule",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-4",
+            "title": "English rule",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-5",
+            "title": "American Revolution",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-6",
+            "title": "Post-revolutionary period and early 19th century",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-7",
+            "title": "American Civil War",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-8",
+            "title": "Late 19th and early 20th century",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-9",
+            "title": "Late 20th and early 21st centuries",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-10",
+        "title": "Geography",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-11",
+            "title": "Boroughs",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-12",
+            "title": "Climate",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-13",
+            "title": "Parks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-14",
+            "title": "Environment",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-15",
+        "title": "Demographics",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-16",
+            "title": "Ethnicity and nationality",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-17",
+            "title": "Sexual orientation and gender identity",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-18",
+            "title": "Religion",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-19",
+        "title": "Economy",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-20",
+            "title": "Wall Street",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-21",
+            "title": "Tech and biotech",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-22",
+            "title": "Real estate",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-23",
+            "title": "Tourism",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-24",
+            "title": "Media and entertainment",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-25",
+        "title": "Education",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-26",
+        "title": "Culture",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-27",
+            "title": "Pace",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-28",
+            "title": "Theater",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-29",
+            "title": "Accent and dialect",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-30",
+            "title": "Architecture",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-31",
+            "title": "Arts",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-32",
+            "title": "Cuisine",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-33",
+            "title": "Fashion",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-34",
+            "title": "Parades",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-35",
+            "title": "Sports",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-36",
+        "title": "Human services",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-37",
+            "title": "Health",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-38",
+            "title": "Public safety",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-39",
+        "title": "Transportation",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-40",
+            "title": "Rapid transit",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-41",
+                "title": "Buses",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-42",
+                "title": "Rail",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-43",
+            "title": "Air",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-44",
+            "title": "Ferries, taxis and trams",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-45",
+            "title": "Cycling network",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-46",
+            "title": "Streets and highways",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-47",
+            "title": "Bridges and tunnels",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-48",
+        "title": "Government and politics",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-49",
+            "title": "Government",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-50",
+            "title": "Politics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-51",
+            "title": "International relations",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-52",
+        "title": "Notable people",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-53",
+        "title": "See also",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-54",
+        "title": "Notes",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-55",
+        "title": "References",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-56",
+        "title": "Further reading",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-57",
+        "title": "External links",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "city_country": {
+        "key": "city_country",
+        "label": "Country",
+        "group": "City",
+        "value": "United States",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "city_state": {
+        "key": "city_state",
+        "label": "State",
+        "group": "City",
+        "value": "New York",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "city_settled": {
+        "key": "city_settled",
+        "label": "Settled",
+        "group": "City",
+        "value": "May 20, 1624",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "city_current_name": {
+        "key": "city_current_name",
+        "label": "Current name",
+        "group": "City",
+        "value": "September 8, 1664",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "city_consolidated": {
+        "key": "city_consolidated",
+        "label": "Consolidated",
+        "group": "City",
+        "value": "January 1, 1898",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "city_founder": {
+        "key": "city_founder",
+        "label": "Founder",
+        "group": "City",
+        "value": "Dutch West India Company",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "city_named_for": {
+        "key": "city_named_for",
+        "label": "Named for",
+        "group": "City",
+        "value": "York, England (in honor of James, the Duke of York)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "city_constituent_counties_boroughs": {
+        "key": "city_constituent_counties_boroughs",
+        "label": "Constituent counties (boroughs)",
+        "group": "City",
+        "value": "Bronx (the Bronx), Kings (Brooklyn), New York (Manhattan), Queens (Queens), Richmond (Staten Island)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_type": {
+        "key": "government_type",
+        "label": "Type",
+        "group": "Government",
+        "value": "Strong mayor–council",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_body": {
+        "key": "government_body",
+        "label": "Body",
+        "group": "Government",
+        "value": "New York City Council",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_mayor": {
+        "key": "government_mayor",
+        "label": "Mayor",
+        "group": "Government",
+        "value": "Zohran Mamdani (D)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_total": {
+        "key": "area_total",
+        "label": "Total",
+        "group": "Area",
+        "value": "472.43 sq mi (1,223.59 km2)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_land": {
+        "key": "area_land",
+        "label": "Land",
+        "group": "Area",
+        "value": "300.46 sq mi (778.18 km2)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_water": {
+        "key": "area_water",
+        "label": "Water",
+        "group": "Area",
+        "value": "171.97 sq mi (445.41 km2)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "highest_elevation": {
+        "key": "highest_elevation",
+        "label": "Highest elevation",
+        "group": null,
+        "value": "400 ft (122 m)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "lowest_elevation": {
+        "key": "lowest_elevation",
+        "label": "Lowest elevation",
+        "group": null,
+        "value": "0 ft (0 m)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2020_total": {
+        "key": "population_2020_total",
+        "label": "Total",
+        "group": "Population, (2020)",
+        "value": "8,804,190",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2020_estimate_2025": {
+        "key": "population_2020_estimate_2025",
+        "label": "Estimate (2025)",
+        "group": "Population, (2020)",
+        "value": "8,584,629",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2020_rank": {
+        "key": "population_2020_rank",
+        "label": "Rank",
+        "group": "Population, (2020)",
+        "value": "1st in the United States",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2020_density": {
+        "key": "population_2020_density",
+        "label": "Density",
+        "group": "Population, (2020)",
+        "value": "29,303/sq mi (11,313.8/km2)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2020_urban": {
+        "key": "population_2020_urban",
+        "label": "Urban",
+        "group": "Population, (2020)",
+        "value": "19,426,449",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2020_urban_density": {
+        "key": "population_2020_urban_density",
+        "label": "Urban density",
+        "group": "Population, (2020)",
+        "value": "5,981/sq mi (2,309.2/km2)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2020_metro": {
+        "key": "population_2020_metro",
+        "label": "Metro",
+        "group": "Population, (2020)",
+        "value": "20,140,470",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "demonym": {
+        "key": "demonym",
+        "label": "Demonym",
+        "group": null,
+        "value": "New Yorker",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_total": {
+        "key": "gdp_total",
+        "label": "Total",
+        "group": "GDP",
+        "value": "$1.378 trillion (2024)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_metro": {
+        "key": "gdp_metro",
+        "label": "Metro",
+        "group": "GDP",
+        "value": "$2.443 trillion (2024) (1st)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "time_zone": {
+        "key": "time_zone",
+        "label": "Time zone",
+        "group": null,
+        "value": "UTC–5 (EST)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "time_zone_summer_dst": {
+        "key": "time_zone_summer_dst",
+        "label": "Summer (DST)",
+        "group": "Time zone",
+        "value": "UTC–4 (EDT)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "zip_codes": {
+        "key": "zip_codes",
+        "label": "ZIP Codes",
+        "group": null,
+        "value": "100xx–104xx, 11004–05, 111xx–114xx, 116xx",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_codes": {
+        "key": "area_codes",
+        "label": "Area codes",
+        "group": null,
+        "value": "212/646/332, 718/347/929, 917",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "fips_code": {
+        "key": "fips_code",
+        "label": "FIPS code",
+        "group": null,
+        "value": "36-51000",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gnis_feature_id": {
+        "key": "gnis_feature_id",
+        "label": "GNIS feature ID",
+        "group": null,
+        "value": "975772",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "website": {
+        "key": "website",
+        "label": "Website",
+        "group": null,
+        "value": "nyc.gov",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [
+      {
+        "id": "table-0",
+        "title": null,
+        "columns": [
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Month",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Jan",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Feb",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Mar",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Apr",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — May",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Jun",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Jul",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Aug",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Sep",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Oct",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Nov",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Dec",
+          "v t e Climate data for New York ( Belvedere Castle , Central Park ), 1991–2020 normals, extremes 1869–present — Year"
+        ],
+        "rows": [
+          [
+            "Record high °F (°C)",
+            "72 (22)",
+            "78 (26)",
+            "86 (30)",
+            "96 (36)",
+            "99 (37)",
+            "101 (38)",
+            "106 (41)",
+            "104 (40)",
+            "102 (39)",
+            "94 (34)",
+            "84 (29)",
+            "75 (24)",
+            "106 (41)"
+          ],
+          [
+            "Mean maximum °F (°C)",
+            "60.4 (15.8)",
+            "60.7 (15.9)",
+            "70.3 (21.3)",
+            "82.9 (28.3)",
+            "88.5 (31.4)",
+            "92.1 (33.4)",
+            "95.7 (35.4)",
+            "93.4 (34.1)",
+            "89.0 (31.7)",
+            "79.7 (26.5)",
+            "70.7 (21.5)",
+            "62.9 (17.2)",
+            "97.0 (36.1)"
+          ],
+          [
+            "Mean daily maximum °F (°C)",
+            "39.5 (4.2)",
+            "42.2 (5.7)",
+            "49.9 (9.9)",
+            "61.8 (16.6)",
+            "71.4 (21.9)",
+            "79.7 (26.5)",
+            "84.9 (29.4)",
+            "83.3 (28.5)",
+            "76.2 (24.6)",
+            "64.5 (18.1)",
+            "54.0 (12.2)",
+            "44.3 (6.8)",
+            "62.6 (17.0)"
+          ],
+          [
+            "Daily mean °F (°C)",
+            "33.7 (0.9)",
+            "35.9 (2.2)",
+            "42.8 (6.0)",
+            "53.7 (12.1)",
+            "63.2 (17.3)",
+            "72.0 (22.2)",
+            "77.5 (25.3)",
+            "76.1 (24.5)",
+            "69.2 (20.7)",
+            "57.9 (14.4)",
+            "48.0 (8.9)",
+            "39.1 (3.9)",
+            "55.8 (13.2)"
+          ],
+          [
+            "Mean daily minimum °F (°C)",
+            "27.9 (−2.3)",
+            "29.5 (−1.4)",
+            "35.8 (2.1)",
+            "45.5 (7.5)",
+            "55.0 (12.8)",
+            "64.4 (18.0)",
+            "70.1 (21.2)",
+            "68.9 (20.5)",
+            "62.3 (16.8)",
+            "51.4 (10.8)",
+            "42.0 (5.6)",
+            "33.8 (1.0)",
+            "48.9 (9.4)"
+          ],
+          [
+            "Mean minimum °F (°C)",
+            "9.8 (−12.3)",
+            "12.7 (−10.7)",
+            "19.7 (−6.8)",
+            "32.8 (0.4)",
+            "43.9 (6.6)",
+            "52.7 (11.5)",
+            "61.8 (16.6)",
+            "60.3 (15.7)",
+            "50.2 (10.1)",
+            "38.4 (3.6)",
+            "27.7 (−2.4)",
+            "18.0 (−7.8)",
+            "7.7 (−13.5)"
+          ],
+          [
+            "Record low °F (°C)",
+            "−6 (−21)",
+            "−15 (−26)",
+            "3 (−16)",
+            "12 (−11)",
+            "32 (0)",
+            "44 (7)",
+            "52 (11)",
+            "50 (10)",
+            "39 (4)",
+            "28 (−2)",
+            "5 (−15)",
+            "−13 (−25)",
+            "−15 (−26)"
+          ],
+          [
+            "Average precipitation inches (mm)",
+            "3.64 (92)",
+            "3.19 (81)",
+            "4.29 (109)",
+            "4.09 (104)",
+            "3.96 (101)",
+            "4.54 (115)",
+            "4.60 (117)",
+            "4.56 (116)",
+            "4.31 (109)",
+            "4.38 (111)",
+            "3.58 (91)",
+            "4.38 (111)",
+            "49.52 (1,258)"
+          ],
+          [
+            "Average snowfall inches (cm)",
+            "8.8 (22)",
+            "10.1 (26)",
+            "5.0 (13)",
+            "0.4 (1.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.1 (0.25)",
+            "0.5 (1.3)",
+            "4.9 (12)",
+            "29.8 (76)"
+          ],
+          [
+            "Average precipitation days (≥ 0.01 in)",
+            "10.8",
+            "10.0",
+            "11.1",
+            "11.4",
+            "11.5",
+            "11.2",
+            "10.5",
+            "10.0",
+            "8.8",
+            "9.5",
+            "9.2",
+            "11.4",
+            "125.4"
+          ],
+          [
+            "Average snowy days (≥ 0.1 in)",
+            "3.7",
+            "3.2",
+            "2.0",
+            "0.2",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.2",
+            "2.1",
+            "11.4"
+          ],
+          [
+            "Average relative humidity (%)",
+            "61.5",
+            "60.2",
+            "58.5",
+            "55.3",
+            "62.7",
+            "65.2",
+            "64.2",
+            "66.0",
+            "67.8",
+            "65.6",
+            "64.6",
+            "64.1",
+            "63.0"
+          ],
+          [
+            "Average dew point °F (°C)",
+            "18.0 (−7.8)",
+            "19.0 (−7.2)",
+            "25.9 (−3.4)",
+            "34.0 (1.1)",
+            "47.3 (8.5)",
+            "57.4 (14.1)",
+            "61.9 (16.6)",
+            "62.1 (16.7)",
+            "55.6 (13.1)",
+            "44.1 (6.7)",
+            "34.0 (1.1)",
+            "24.6 (−4.1)",
+            "40.3 (4.6)"
+          ],
+          [
+            "Mean monthly sunshine hours",
+            "162.7",
+            "163.1",
+            "212.5",
+            "225.6",
+            "256.6",
+            "257.3",
+            "268.2",
+            "268.2",
+            "219.3",
+            "211.2",
+            "151.0",
+            "139.0",
+            "2,534.7"
+          ],
+          [
+            "Percentage possible sunshine",
+            "54",
+            "55",
+            "57",
+            "57",
+            "57",
+            "57",
+            "59",
+            "63",
+            "59",
+            "61",
+            "51",
+            "48",
+            "57"
+          ],
+          [
+            "Average ultraviolet index",
+            "2",
+            "3",
+            "4",
+            "6",
+            "7",
+            "8",
+            "8",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "5"
+          ]
+        ],
+        "notes": [
+          "Source: NOAA (relative humidity and sun 1961–1990; dew point 1965–1984)"
+        ],
+        "source": "table"
+      },
+      {
+        "id": "table-1",
+        "title": null,
+        "columns": [
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Month",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Jan",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Feb",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Mar",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Apr",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — May",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Jun",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Jul",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Aug",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Sep",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Oct",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Nov",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Dec",
+          "Climate data for JFK Airport , New York (1991–2020 normals, extremes 1948–present) — Year"
+        ],
+        "rows": [
+          [
+            "Record high °F (°C)",
+            "71 (22)",
+            "71 (22)",
+            "85 (29)",
+            "90 (32)",
+            "99 (37)",
+            "102 (39)",
+            "104 (40)",
+            "101 (38)",
+            "98 (37)",
+            "95 (35)",
+            "82 (28)",
+            "75 (24)",
+            "104 (40)"
+          ],
+          [
+            "Mean maximum °F (°C)",
+            "57.7 (14.3)",
+            "58.3 (14.6)",
+            "67.5 (19.7)",
+            "77.9 (25.5)",
+            "85.6 (29.8)",
+            "92.4 (33.6)",
+            "95.2 (35.1)",
+            "91.9 (33.3)",
+            "87.9 (31.1)",
+            "79.7 (26.5)",
+            "68.9 (20.5)",
+            "60.6 (15.9)",
+            "96.8 (36.0)"
+          ],
+          [
+            "Mean daily maximum °F (°C)",
+            "39.5 (4.2)",
+            "41.7 (5.4)",
+            "48.7 (9.3)",
+            "58.8 (14.9)",
+            "68.4 (20.2)",
+            "78.0 (25.6)",
+            "83.6 (28.7)",
+            "82.2 (27.9)",
+            "75.8 (24.3)",
+            "64.7 (18.2)",
+            "53.8 (12.1)",
+            "44.5 (6.9)",
+            "61.6 (16.4)"
+          ],
+          [
+            "Daily mean °F (°C)",
+            "32.8 (0.4)",
+            "34.5 (1.4)",
+            "41.1 (5.1)",
+            "50.9 (10.5)",
+            "60.5 (15.8)",
+            "70.2 (21.2)",
+            "76.1 (24.5)",
+            "75.0 (23.9)",
+            "68.4 (20.2)",
+            "57.2 (14.0)",
+            "46.8 (8.2)",
+            "38.3 (3.5)",
+            "54.3 (12.4)"
+          ],
+          [
+            "Mean daily minimum °F (°C)",
+            "26.2 (−3.2)",
+            "27.4 (−2.6)",
+            "33.6 (0.9)",
+            "42.9 (6.1)",
+            "52.5 (11.4)",
+            "62.4 (16.9)",
+            "68.7 (20.4)",
+            "67.8 (19.9)",
+            "61.0 (16.1)",
+            "49.8 (9.9)",
+            "39.8 (4.3)",
+            "32.0 (0.0)",
+            "47.0 (8.3)"
+          ],
+          [
+            "Mean minimum °F (°C)",
+            "10.2 (−12.1)",
+            "13.3 (−10.4)",
+            "20.2 (−6.6)",
+            "32.6 (0.3)",
+            "42.9 (6.1)",
+            "52.6 (11.4)",
+            "62.8 (17.1)",
+            "60.1 (15.6)",
+            "50.0 (10.0)",
+            "37.9 (3.3)",
+            "26.9 (−2.8)",
+            "18.6 (−7.4)",
+            "8.2 (−13.2)"
+          ],
+          [
+            "Record low °F (°C)",
+            "−2 (−19)",
+            "−2 (−19)",
+            "7 (−14)",
+            "20 (−7)",
+            "34 (1)",
+            "45 (7)",
+            "55 (13)",
+            "46 (8)",
+            "40 (4)",
+            "30 (−1)",
+            "15 (−9)",
+            "2 (−17)",
+            "−2 (−19)"
+          ],
+          [
+            "Average precipitation inches (mm)",
+            "3.23 (82)",
+            "2.76 (70)",
+            "3.94 (100)",
+            "3.55 (90)",
+            "3.66 (93)",
+            "3.85 (98)",
+            "3.86 (98)",
+            "4.11 (104)",
+            "3.58 (91)",
+            "3.72 (94)",
+            "3.07 (78)",
+            "3.96 (101)",
+            "43.29 (1,100)"
+          ],
+          [
+            "Average snowfall inches (cm)",
+            "7.5 (19)",
+            "8.6 (22)",
+            "4.3 (11)",
+            "0.6 (1.5)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.4 (1.0)",
+            "4.5 (11)",
+            "25.9 (66)"
+          ],
+          [
+            "Average precipitation days (≥ 0.01 inch)",
+            "10.7",
+            "9.8",
+            "10.8",
+            "11.4",
+            "11.8",
+            "10.6",
+            "9.4",
+            "9.0",
+            "8.2",
+            "9.4",
+            "8.9",
+            "11.2",
+            "121.2"
+          ],
+          [
+            "Average snowy days (≥ 0.1 in)",
+            "4.6",
+            "3.8",
+            "2.5",
+            "0.3",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.2",
+            "2.6",
+            "14.0"
+          ],
+          [
+            "Average relative humidity (%)",
+            "64.9",
+            "64.4",
+            "63.4",
+            "64.1",
+            "69.5",
+            "71.5",
+            "71.4",
+            "71.7",
+            "71.9",
+            "69.1",
+            "67.9",
+            "66.3",
+            "68.0"
+          ]
+        ],
+        "notes": [
+          "Source: NOAA (relative humidity 1961–1990)"
+        ],
+        "source": "table"
+      },
+      {
+        "id": "table-2",
+        "title": null,
+        "columns": [
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Month",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Jan",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Feb",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Mar",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Apr",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — May",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Jun",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Jul",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Aug",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Sep",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Oct",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Nov",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Dec",
+          "Climate data for New York LaGuardia Airport, NY (1991-2020 normals, extremes 1939-present) — Year"
+        ],
+        "rows": [
+          [
+            "Record high °F (°C)",
+            "72 (22)",
+            "79 (26)",
+            "86 (30)",
+            "94 (34)",
+            "97 (36)",
+            "101 (38)",
+            "107 (42)",
+            "104 (40)",
+            "102 (39)",
+            "95 (35)",
+            "83 (28)",
+            "75 (24)",
+            "107 (42)"
+          ],
+          [
+            "Mean maximum °F (°C)",
+            "60.2 (15.7)",
+            "60.0 (15.6)",
+            "69.3 (20.7)",
+            "81.7 (27.6)",
+            "89.3 (31.8)",
+            "94.1 (34.5)",
+            "97.4 (36.3)",
+            "94.7 (34.8)",
+            "89.6 (32.0)",
+            "81.2 (27.3)",
+            "70.9 (21.6)",
+            "62.8 (17.1)",
+            "98.7 (37.1)"
+          ],
+          [
+            "Mean daily maximum °F (°C)",
+            "40.2 (4.6)",
+            "42.7 (5.9)",
+            "49.9 (9.9)",
+            "61.3 (16.3)",
+            "71.8 (22.1)",
+            "81.1 (27.3)",
+            "86.4 (30.2)",
+            "84.5 (29.2)",
+            "77.2 (25.1)",
+            "66.0 (18.9)",
+            "55.0 (12.8)",
+            "45.4 (7.4)",
+            "63.5 (17.5)"
+          ],
+          [
+            "Daily mean °F (°C)",
+            "34.4 (1.3)",
+            "36.3 (2.4)",
+            "43.1 (6.2)",
+            "53.6 (12.0)",
+            "63.7 (17.6)",
+            "73.4 (23.0)",
+            "79.2 (26.2)",
+            "77.7 (25.4)",
+            "70.8 (21.6)",
+            "59.6 (15.3)",
+            "49.1 (9.5)",
+            "40.0 (4.4)",
+            "56.8 (13.8)"
+          ],
+          [
+            "Mean daily minimum °F (°C)",
+            "28.6 (−1.9)",
+            "29.9 (−1.2)",
+            "36.2 (2.3)",
+            "46.0 (7.8)",
+            "55.7 (13.2)",
+            "65.7 (18.7)",
+            "71.9 (22.2)",
+            "71.0 (21.7)",
+            "64.4 (18.0)",
+            "53.3 (11.8)",
+            "43.2 (6.2)",
+            "34.7 (1.5)",
+            "50.1 (10.1)"
+          ],
+          [
+            "Mean minimum °F (°C)",
+            "11.1 (−11.6)",
+            "13.6 (−10.2)",
+            "21.0 (−6.1)",
+            "34.2 (1.2)",
+            "45.6 (7.6)",
+            "54.3 (12.4)",
+            "63.5 (17.5)",
+            "62.4 (16.9)",
+            "52.9 (11.6)",
+            "40.7 (4.8)",
+            "29.4 (−1.4)",
+            "19.4 (−7.0)",
+            "8.7 (−12.9)"
+          ],
+          [
+            "Record low °F (°C)",
+            "−3 (−19)",
+            "−7 (−22)",
+            "7 (−14)",
+            "22 (−6)",
+            "36 (2)",
+            "46 (8)",
+            "56 (13)",
+            "51 (11)",
+            "42 (6)",
+            "30 (−1)",
+            "17 (−8)",
+            "−2 (−19)",
+            "−7 (−22)"
+          ],
+          [
+            "Average precipitation inches (mm)",
+            "3.25 (83)",
+            "2.93 (74)",
+            "4.01 (102)",
+            "3.85 (98)",
+            "3.58 (91)",
+            "4.03 (102)",
+            "4.30 (109)",
+            "4.41 (112)",
+            "3.88 (99)",
+            "3.81 (97)",
+            "3.15 (80)",
+            "4.08 (104)",
+            "45.28 (1,150)"
+          ],
+          [
+            "Average snowfall inches (cm)",
+            "8.6 (22)",
+            "9.8 (25)",
+            "5.4 (14)",
+            "0.4 (1.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.0 (0.0)",
+            "0.1 (0.25)",
+            "0.3 (0.76)",
+            "5.2 (13)",
+            "29.8 (76)"
+          ],
+          [
+            "Average precipitation days (≥ 0.01 in)",
+            "10.3",
+            "10.2",
+            "10.9",
+            "11.2",
+            "11.6",
+            "10.7",
+            "9.7",
+            "9.5",
+            "8.3",
+            "9.0",
+            "8.8",
+            "11.5",
+            "121.7"
+          ],
+          [
+            "Average snowy days (≥ 0.1 in)",
+            "4.4",
+            "3.7",
+            "2.6",
+            "0.2",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.2",
+            "2.7",
+            "13.8"
+          ]
+        ],
+        "notes": [
+          "Source: NOAA"
+        ],
+        "source": "table"
+      },
+      {
+        "id": "table-3",
+        "title": null,
+        "columns": [
+          "Historical demographics",
+          "2020",
+          "2010",
+          "1990",
+          "1970",
+          "1940"
+        ],
+        "rows": [
+          [
+            "White (non-Hispanic)",
+            "30.9%",
+            "33.3%",
+            "43.4%",
+            "64.0%",
+            "92.1%"
+          ],
+          [
+            "Hispanic or Latino",
+            "28.3%",
+            "28.6%",
+            "23.7%",
+            "15.2%",
+            "1.6%"
+          ],
+          [
+            "Black or African American (non-Hispanic)",
+            "20.2%",
+            "22.8%",
+            "28.8%",
+            "21.1%",
+            "6.1%"
+          ],
+          [
+            "Asian and Pacific Islander (non-Hispanic)",
+            "15.6%",
+            "12.6%",
+            "7.0%",
+            "1.2%",
+            "0.2%"
+          ],
+          [
+            "Native American (non-Hispanic)",
+            "0.2%",
+            "0.2%",
+            "0.4%",
+            "0.1%",
+            "N/A"
+          ],
+          [
+            "Two or more races (non-Hispanic)",
+            "3.4%",
+            "1.8%",
+            "N/A",
+            "N/A",
+            "N/A"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      }
+    ],
+    "locations": [
+      {
+        "id": "location-0",
+        "name": "New York City",
+        "latitude": 40.71277777777778,
+        "longitude": -74.00611111111111,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      }
+    ],
+    "events": [
+      {
+        "id": "event-0",
+        "date": "1624-05-20",
+        "date_precision": "day",
+        "title": "Settled",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-1",
+        "date": "1664-09-08",
+        "date_precision": "day",
+        "title": "Current name",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-2",
+        "date": "1898-01-01",
+        "date_precision": "day",
+        "title": "Consolidated",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-0",
+        "date": "1673-08-24",
+        "date_precision": "day",
+        "title": "English rule",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "English rule"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-1",
+        "date": "1776-08-27",
+        "date_precision": "day",
+        "title": "American Revolution",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "American Revolution"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-2",
+        "date": "1776-09-11",
+        "date_precision": "day",
+        "title": "American Revolution",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "American Revolution"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "1861-04-19",
+        "date_precision": "day",
+        "title": "American Civil War",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "American Civil War"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-4",
+        "date": "1969-06-28",
+        "date_precision": "day",
+        "title": "Late 20th and early 21st centuries",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Late 20th and early 21st centuries"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-5",
+        "date": "2011-09-17",
+        "date_precision": "day",
+        "title": "Late 20th and early 21st centuries",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Late 20th and early 21st centuries"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-6",
+        "date": "2026-07-02",
+        "date_precision": "day",
+        "title": "Climate",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Geography",
+            "Climate"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-7",
+        "date": "2016-02-14",
+        "date_precision": "day",
+        "title": "Climate",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Geography",
+            "Climate"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-8",
+        "date": "1936-07-09",
+        "date_precision": "day",
+        "title": "Climate",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Geography",
+            "Climate"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-9",
+        "date": "1934-02-09",
+        "date_precision": "day",
+        "title": "Climate",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Geography",
+            "Climate"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-10",
+        "date": "1917-12-30",
+        "date_precision": "day",
+        "title": "Climate",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Geography",
+            "Climate"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-11",
+        "date": "1903-07-02",
+        "date_precision": "day",
+        "title": "Climate",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Geography",
+            "Climate"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-12",
+        "date": "2012-10-29",
+        "date_precision": "day",
+        "title": "Climate",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Geography",
+            "Climate"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-13",
+        "date": "2011-06-24",
+        "date_precision": "day",
+        "title": "Sexual orientation and gender identity",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Demographics",
+            "Sexual orientation and gender identity"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-14",
+        "date": "2011-07-23",
+        "date_precision": "day",
+        "title": "Sexual orientation and gender identity",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Demographics",
+            "Sexual orientation and gender identity"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-15",
+        "date": "2020-06-14",
+        "date_precision": "day",
+        "title": "Sexual orientation and gender identity",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Demographics",
+            "Sexual orientation and gender identity"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-16",
+        "date": "2011-12-19",
+        "date_precision": "day",
+        "title": "Tech and biotech",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Economy",
+            "Tech and biotech"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-17",
+        "date": "1904-10-27",
+        "date_precision": "day",
+        "title": "Rail",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Transportation",
+            "Rapid transit",
+            "Rail"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-18",
+        "date": "2016-07-12",
+        "date_precision": "day",
+        "title": "Streets and highways",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Transportation",
+            "Streets and highways"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-19",
+        "date": "2026-01-01",
+        "date_precision": "day",
+        "title": "Politics",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Government and politics",
+            "Politics"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg/1280px-Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg/250px-Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Castello Plan , a 1660 map of New Amsterdam in Lower Manhattan",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Dutch rule"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_fall_of_New_Amsterdam_cph.3g12217.jpg/1280px-The_fall_of_New_Amsterdam_cph.3g12217.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_fall_of_New_Amsterdam_cph.3g12217.jpg/250px-The_fall_of_New_Amsterdam_cph.3g12217.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Fall of New Amsterdam , painting by Jean Leon Gerome Ferris , depicting the Conquest of New Netherland",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "English rule"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/BattleofLongisland.jpg/1280px-BattleofLongisland.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/BattleofLongisland.jpg/250px-BattleofLongisland.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Battle of Long Island , one of the largest battles of the American Revolutionary War , which took place in Brooklyn on August 27, 1776",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "American Revolution"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ramon_Elorriaga_-_Inauguration_of_George_Washington.jpg/1280px-Ramon_Elorriaga_-_Inauguration_of_George_Washington.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ramon_Elorriaga_-_Inauguration_of_George_Washington.jpg/250px-Ramon_Elorriaga_-_Inauguration_of_George_Washington.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "A portrait of the first inauguration of George Washington in 1789",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Post-revolutionary period and early 19th century"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hippolyte_Sebron_-_Rue_De_New-York_En_1840.jpg/1280px-Hippolyte_Sebron_-_Rue_De_New-York_En_1840.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hippolyte_Sebron_-_Rue_De_New-York_En_1840.jpg/250px-Hippolyte_Sebron_-_Rue_De_New-York_En_1840.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Broadway , which follows the Native American Wecquaesgeek Trail through Manhattan, 1840",
+        "alt": "A painting of a snowy city street with horse-drawn sleds and a 19th-century fire truck under blue sky",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Post-revolutionary period and early 19th century"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Departure_of_the_7th_Regiment.jpg/1280px-The_Departure_of_the_7th_Regiment.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Departure_of_the_7th_Regiment.jpg/250px-The_Departure_of_the_7th_Regiment.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Departure of the 7th New York Militia Regiment for the defense of Washington, D.C., April 19, 1861",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "American Civil War"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/New_York_Draft_Riots_Harpers_colored_asylum.jpg/1280px-New_York_Draft_Riots_Harpers_colored_asylum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/New_York_Draft_Riots_Harpers_colored_asylum.jpg/250px-New_York_Draft_Riots_Harpers_colored_asylum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Colored Orphan Asylum , looted and burned during the Draft Riots of 1863",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "American Civil War"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Mulberry_Street_NYC_c1900_LOC_3g04637u_edit.jpg/1280px-Mulberry_Street_NYC_c1900_LOC_3g04637u_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Mulberry_Street_NYC_c1900_LOC_3g04637u_edit.jpg/250px-Mulberry_Street_NYC_c1900_LOC_3g04637u_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Manhattan's Little Italy c. 1900",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Late 19th and early 20th century"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Old_timer_structural_worker2.jpg/1280px-Old_timer_structural_worker2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Old_timer_structural_worker2.jpg/250px-Old_timer_structural_worker2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "A construction worker atop the Empire State Building during its construction in 1930. The Chrysler Building is visible to the right.",
+        "alt": "A man working on a steel girder high above a city skyline.",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Late 19th and early 20th century"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Stonewall_Inn_5_pride_weekend_2016.jpg/1280px-Stonewall_Inn_5_pride_weekend_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Stonewall_Inn_5_pride_weekend_2016.jpg/250px-Stonewall_Inn_5_pride_weekend_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Stonewall Inn in Greenwich Village , the site of the June 1969 Stonewall riots and the cradle of the modern LGBTQ+ rights movement",
+        "alt": "A two-story building with brick on the first floor, with two arched doorways, and gray stucco on the second floor, off of which hang numerous rainbow flags.",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Late 20th and early 21st centuries"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/77/Ford_to_City.PNG/1280px-Ford_to_City.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/77/Ford_to_City.PNG/250px-Ford_to_City.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "October 1975 New York Daily News front page on President Ford's refusal to help the city avert bankruptcy",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Late 20th and early 21st centuries"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/North_face_south_tower_after_plane_strike_9-11.jpg/1280px-North_face_south_tower_after_plane_strike_9-11.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/North_face_south_tower_after_plane_strike_9-11.jpg/250px-North_face_south_tower_after_plane_strike_9-11.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The World Trade Center , in Lower Manhattan , during the September 11 attacks in 2001",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Late 20th and early 21st centuries"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "number",
+      "ref": "0",
+      "preview": "Settled = 20",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "1",
+      "preview": "Current name = 8",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "2",
+      "preview": "Consolidated = 1",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "3",
+      "preview": "Area — Total = 472.43 sq",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "4",
+      "preview": "Area — Land = 300.46 sq",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "5",
+      "preview": "Area — Water = 171.97 sq",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "8",
+      "preview": "Population ( 2020 ) — Total = 8.80419e+06",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "9",
+      "preview": "Population ( 2020 ) — Estimate (2025) = 8.58463e+06",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "10",
+      "preview": "Population ( 2020 ) — Rank = 1 st",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "11",
+      "preview": "Population ( 2020 ) — Density = 29303 /sq",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "12",
+      "preview": "Population ( 2020 ) — Urban = 1.94264e+07",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "13",
+      "preview": "Population ( 2020 ) — Urban density = 5981 /sq",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "14",
+      "preview": "Population ( 2020 ) — Metro = 2.01405e+07",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "15",
+      "preview": "GDP — Total = 1.378e+12",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "16",
+      "preview": "GDP — Metro = 2.443e+12",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "17",
+      "preview": "GDP — Time zone = 5",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "number",
+      "ref": "18",
+      "preview": "GDP — Summer ( DST ) = 4",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "19",
+      "preview": "GDP — ZIP Codes = 100 xx–",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "20",
+      "preview": "GDP — Area codes = 212",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "21",
+      "preview": "GDP — FIPS code = 36",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "22",
+      "preview": "GDP — GNIS feature ID = 975772",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "6",
+      "preview": "Area — Highest elevation = 400 ft",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "7",
+      "preview": "Area — Lowest elevation = 0 ft",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "table",
+      "ref": "table-4",
+      "preview": "New York City Global Partners network",
+      "rule": "TBL-EMPTY",
+      "reason": "меньше двух строк или колонок"
+    },
+    {
+      "kind": "table",
+      "ref": "table-5",
+      "preview": "Preceded by Trenton, New Jersey | Capital of the United States of America 1785–1791 | Succeeded by Philadelphia , Pennsy",
+      "rule": "TBL-NAV",
+      "reason": "таблица-навигация (кто был до и после)"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "Aerial view of the New York City metropolitan area with Manhattan at its center",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "1. Manhattan (New York County) 2. Brooklyn (Kings County) 3. Queens (Queens County) 4. The Bronx (Bronx County) 5. State",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "The Statue of Liberty on Liberty Island in New York Harbor , a global symbol of the United States and its ideals of libe",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "The Pond and Midtown Manhattan as seen from Gapstow Bridge in Central Park",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "The Sunset Park Material Recovery Facility is the largest commingled recycling facility in the United States.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "Little Fuzhou , Manhattan",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "The NYC Pride March is the largest pride parade in the world .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "Left to right from the top: The Temple Emanu-El ; St. Patrick's Cathedral ; Islamic Cultural Center of New York ; and Hi",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "Midtown Manhattan is the world's largest central business district.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "21",
+      "preview": "Lower Manhattan , including Wall Street , the world's principal financial center, and One World Trade Center , the talle",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "22",
+      "preview": "The New York Stock Exchange is the world's largest stock exchange per total market capitalization of its listed companie",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "The Flatiron District is the cradle of Silicon Alley, initially metonymous for the New York metropolitan region's high t",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "24",
+      "preview": "Cornell Tech on Roosevelt Island",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "25",
+      "preview": "Fifth Avenue in Midtown Manhattan is the most expensive shopping street in the world.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "26",
+      "preview": "Times Square is one of the world's leading tourist attractions with 50 million tourists annually.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "27",
+      "preview": "Rockefeller Center , one of Manhattan's leading media and entertainment hubs",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "28",
+      "preview": "The headquarters of the New York Times Company , publisher of The New York Times",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "29",
+      "preview": "The Low Memorial Library at Columbia University",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "30",
+      "preview": "The Stephen A. Schwarzman Headquarters Building of the New York Public Library",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "31",
+      "preview": "Solomon R. Guggenheim Museum seen from Fifth Avenue",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "32",
+      "preview": "New York is typically characterized by its fast pace of life, which has spawned the term New York minute .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "33",
+      "preview": "The Golden ; Jacobs ; Schoenfeld ; and Booth theaters in the Theater District",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "34",
+      "preview": "Row houses in Crown Heights North Historic District , Brooklyn",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "35",
+      "preview": "High-resolution panorama of Midtown Manhattan , taken from Weehawken, New Jersey , on September 2021",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "36",
+      "preview": "The Lincoln Center : David H. Koch Theater (left), home of the NY City Ballet ; Metropolitan Opera House (center), home ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "37",
+      "preview": "Metropolitan Museum of Art , the largest art museum in the Americas",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "38",
+      "preview": "New York–style bagel with lox",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "39",
+      "preview": "Haute couture fashion models walk the runway during NYFW .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "40",
+      "preview": "The annual Macy's Thanksgiving Day Parade , the world's largest parade",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "41",
+      "preview": "The US Open Tennis Championships in Flushing Meadows–Corona Park in Queens",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "42",
+      "preview": "New York-Presbyterian Hospital , affiliated with Columbia University and Cornell University , is the largest hospital an",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "43",
+      "preview": "New York Police Department (NYPD) police officers in Brooklyn",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "44",
+      "preview": "The Fire Department of New York (FDNY), the largest municipal fire department in the United States",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "45",
+      "preview": "Port Authority Bus Terminal , the world's busiest bus station, at Eighth Avenue and 42nd Street",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "46",
+      "preview": "New York City is home to the two busiest train stations in the United States, Grand Central Terminal (pictured) and New ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "47",
+      "preview": "The New York City Subway , one of the world's largest metro systems.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "48",
+      "preview": "John F. Kennedy Airport in Queens",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "49",
+      "preview": "The Staten Island Ferry shuttles commuters between Manhattan and Staten Island .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "50",
+      "preview": "Citi Bike bike share service, which started in May 2013",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "51",
+      "preview": "Tourists observing Manhattanhenge on 42nd Street on July 12, 2016",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "52",
+      "preview": "The Manhattan Bridge and Brooklyn Bridge on the East River",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "53",
+      "preview": "Lincoln Tunnel",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "54",
+      "preview": "New York City Hall",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "55",
+      "preview": "Zohran Mamdani , the current and 112th Mayor of New York City",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

@@ -31,9 +31,12 @@ describe('timelineWidget: контракт', () => {
     expect(timelineWidget.supports(makeArticle())).toBe(false)
   })
 
-  test('supports возвращает false для одного события', () => {
+  test('supports не проверяет минимум: «меньше 2 событий» отсекает отбор (EV-MIN)', () => {
+    // Порог в 2 события (решение владельца) теперь в backend
+    // (test_selection.py: test_single_event_after_selection_gives_no_timeline):
+    // после отбора у статьи либо хронология, либо ни одного события.
     const data = makeArticle({ events: [makeEvent('a', '1900-01-01')] })
-    expect(timelineWidget.supports(data)).toBe(false)
+    expect(timelineWidget.supports(data)).toBe(true)
   })
 
   test('supports возвращает true для двух событий', () => {

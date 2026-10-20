@@ -1,0 +1,1423 @@
+{
+  "selected": {
+    "article": {
+      "id": 5843419,
+      "title": "France",
+      "language": "en",
+      "url": "https://en.wikipedia.org/wiki/France",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Etymology",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "History",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-2",
+            "title": "Prehistory",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-3",
+            "title": "Antiquity (6th century BC – 5th century AD)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-4",
+            "title": "Early Middle Ages (5th–10th century)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-5",
+            "title": "High and Late Middle Ages (10th–15th century)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-6",
+            "title": "Early modern period (15th century–1789)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-7",
+            "title": "Revolutionary France (1789–1799)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-8",
+            "title": "Napoleonic France (1799–1815)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-9",
+            "title": "Colonial empire",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-10",
+            "title": "Early to mid-20th century (1914–1946)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-11",
+            "title": "1946–present",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-12",
+        "title": "Geography",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-13",
+            "title": "Geology, topography and hydrography",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-14",
+            "title": "Environment",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-15",
+        "title": "Politics",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-16",
+            "title": "Government",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-17",
+            "title": "Administrative divisions",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-18",
+                "title": "Regions",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-19",
+                "title": "Overseas territories and collectivities",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-20",
+            "title": "Foreign relations",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-21",
+            "title": "Military",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-22",
+            "title": "Law",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-23",
+            "title": "Human rights",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-24",
+        "title": "Economy",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-25",
+            "title": "Tourism",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-26",
+            "title": "Energy",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-27",
+            "title": "Transport",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-28",
+        "title": "Demographics",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-29",
+            "title": "Major cities",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-30",
+            "title": "Ethnic groups",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-31",
+            "title": "Immigration",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-32",
+            "title": "Language",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-33",
+            "title": "Religion",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-34",
+            "title": "Health",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-35",
+            "title": "Education",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-36",
+        "title": "Culture",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-37",
+            "title": "Art",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-38",
+            "title": "Architecture",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-39",
+            "title": "Literature and philosophy",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-40",
+                "title": "Philosophy",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-41",
+            "title": "Music",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-42",
+            "title": "Cinema",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-43",
+            "title": "Fashion",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-44",
+            "title": "Media",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-45",
+            "title": "Cuisine",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-46",
+            "title": "Sports",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-47",
+        "title": "See also",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-48",
+        "title": "Notes",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-49",
+        "title": "References",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-50",
+        "title": "Further reading",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-51",
+        "title": "External links",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-52",
+            "title": "Economy",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-53",
+            "title": "Government",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-54",
+            "title": "Culture",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "infobox": {
+      "capital_and_largest_city": {
+        "key": "capital_and_largest_city",
+        "label": "Capital and largest city",
+        "group": null,
+        "value": "Paris, 48°51′N 2°21′E / 48.850°N 2.350°E",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "official_languages": {
+        "key": "official_languages",
+        "label": "Official languages",
+        "group": null,
+        "value": "French",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "common_languages": {
+        "key": "common_languages",
+        "label": "Common languages",
+        "group": null,
+        "value": "French and other regional languages",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "religion_2025": {
+        "key": "religion_2025",
+        "label": "Religion (2025)",
+        "group": null,
+        "value": "48% Christianity, 43% Catholicism, 4% Protestantism, 1% Orthodoxy, 37.5% no religion, 7% Islam, 1% Judaism, 1% Buddhism, 2.5% other religion, 3% unanswered",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "demonym": {
+        "key": "demonym",
+        "label": "Demonym",
+        "group": null,
+        "value": "French",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government": {
+        "key": "government",
+        "label": "Government",
+        "group": null,
+        "value": "Unitary semi-presidential republic",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_president": {
+        "key": "government_president",
+        "label": "President",
+        "group": "Government",
+        "value": "Emmanuel Macron",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_prime_minister": {
+        "key": "government_prime_minister",
+        "label": "Prime Minister",
+        "group": "Government",
+        "value": "Sébastien Lecornu",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_president_of_the_senate": {
+        "key": "government_president_of_the_senate",
+        "label": "President of the Senate",
+        "group": "Government",
+        "value": "Gérard Larcher",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_president_of_the_national_assembly": {
+        "key": "government_president_of_the_national_assembly",
+        "label": "President of the National Assembly",
+        "group": "Government",
+        "value": "Yaël Braun-Pivet",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature": {
+        "key": "legislature",
+        "label": "Legislature",
+        "group": null,
+        "value": "Parliament",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature_upper_house": {
+        "key": "legislature_upper_house",
+        "label": "Upper house",
+        "group": "Legislature",
+        "value": "Senate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature_lower_house": {
+        "key": "legislature_lower_house",
+        "label": "Lower house",
+        "group": "Legislature",
+        "value": "National Assembly",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "establishment_kingdom_of_the_west_franks_treaty_of_verdun": {
+        "key": "establishment_kingdom_of_the_west_franks_treaty_of_verdun",
+        "label": "Kingdom of the West Franks — Treaty of Verdun",
+        "group": "Establishment",
+        "value": "10 August 843",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "establishment_french_republic_french_first_republic": {
+        "key": "establishment_french_republic_french_first_republic",
+        "label": "French Republic — French First Republic",
+        "group": "Establishment",
+        "value": "22 September 1792",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "establishment_current_constitution_french_fifth_republic": {
+        "key": "establishment_current_constitution_french_fifth_republic",
+        "label": "Current constitution — French Fifth Republic",
+        "group": "Establishment",
+        "value": "4 October 1958",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_total": {
+        "key": "area_total",
+        "label": "Total",
+        "group": "Area",
+        "value": "632,702.3 km2 (244,287.7 sq mi), (including metropolitan France and overseas France and excluding Adélie Land) (42nd)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_water": {
+        "key": "area_water",
+        "label": "Water (%)",
+        "group": "Area",
+        "value": "0.86",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_metropolitan_france_dgcl": {
+        "key": "area_metropolitan_france_dgcl",
+        "label": "Metropolitan France (DGCL)",
+        "group": "Area",
+        "value": "543,941 km2 (210,017 sq mi) (50th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_metropolitan_france_insee": {
+        "key": "area_metropolitan_france_insee",
+        "label": "Metropolitan France (INSEE)",
+        "group": "Area",
+        "value": "543,908.3 km2 (210,004.2 sq mi) (50th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_january_2026_estimate": {
+        "key": "population_january_2026_estimate",
+        "label": "January 2026 estimate",
+        "group": "Population",
+        "value": "69,081,996 (21st)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_density": {
+        "key": "population_density",
+        "label": "Density",
+        "group": "Population",
+        "value": "109/km2 (283/sq mi) (106th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_metropolitan_france_estimate_as_of_january_2026": {
+        "key": "population_metropolitan_france_estimate_as_of_january_2026",
+        "label": "Metropolitan France, estimate as of January 2026",
+        "group": "Population",
+        "value": "66,792,845 (21st)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_density_2": {
+        "key": "population_density_2",
+        "label": "Density",
+        "group": "Population",
+        "value": "123/km2 (318.6/sq mi) (97th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp": {
+        "key": "gdp_ppp",
+        "label": "GDP (PPP)",
+        "group": null,
+        "value": "2026 estimate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp_total": {
+        "key": "gdp_ppp_total",
+        "label": "Total",
+        "group": "GDP (PPP)",
+        "value": "$4.734 trillion (9th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp_per_capita": {
+        "key": "gdp_ppp_per_capita",
+        "label": "Per capita",
+        "group": "GDP (PPP)",
+        "value": "$68,567 (25th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal": {
+        "key": "gdp_nominal",
+        "label": "GDP (nominal)",
+        "group": null,
+        "value": "2026 estimate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal_total": {
+        "key": "gdp_nominal_total",
+        "label": "Total",
+        "group": "GDP (nominal)",
+        "value": "$3.596 trillion (7th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal_per_capita": {
+        "key": "gdp_nominal_per_capita",
+        "label": "Per capita",
+        "group": "GDP (nominal)",
+        "value": "$52,083 (22nd)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gini_2025": {
+        "key": "gini_2025",
+        "label": "Gini (2025)",
+        "group": null,
+        "value": "30.4, medium inequality",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "hdi_2023": {
+        "key": "hdi_2023",
+        "label": "HDI (2023)",
+        "group": null,
+        "value": "0.920, very high (26th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "currency": {
+        "key": "currency",
+        "label": "Currency",
+        "group": null,
+        "value": "Euro (€) (EUR), CFP franc (XPF)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "time_zone": {
+        "key": "time_zone",
+        "label": "Time zone",
+        "group": null,
+        "value": "UTC+1 (CET)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "time_zone_summer_dst": {
+        "key": "time_zone_summer_dst",
+        "label": "Summer (DST)",
+        "group": "Time zone",
+        "value": "UTC+2 (CEST)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "calling_code": {
+        "key": "calling_code",
+        "label": "Calling code",
+        "group": null,
+        "value": "+33",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "iso_3166_code": {
+        "key": "iso_3166_code",
+        "label": "ISO 3166 code",
+        "group": null,
+        "value": "FR",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "internet_tld": {
+        "key": "internet_tld",
+        "label": "Internet TLD",
+        "group": null,
+        "value": ".fr",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [],
+    "locations": [
+      {
+        "id": "location-0",
+        "name": "France",
+        "latitude": 48.85,
+        "longitude": 2.35,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      },
+      {
+        "id": "location-1",
+        "name": "France",
+        "latitude": 47.0,
+        "longitude": 2.0,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      }
+    ],
+    "events": [
+      {
+        "id": "event-0",
+        "date": "0843-08-10",
+        "date_precision": "day",
+        "title": "•Kingdom of the West Franks—Treaty of Verdun",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-1",
+        "date": "1792-09-22",
+        "date_precision": "day",
+        "title": "•French Republic—French First Republic",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-2",
+        "date": "1958-10-04",
+        "date_precision": "day",
+        "title": "•Current constitution—French Fifth Republic",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-0",
+        "date": "1789-07-14",
+        "date_precision": "day",
+        "title": "Revolutionary France (1789–1799)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Revolutionary France (1789–1799)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-1",
+        "date": "1792-08-10",
+        "date_precision": "day",
+        "title": "Revolutionary France (1789–1799)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Revolutionary France (1789–1799)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-2",
+        "date": "1944-06-06",
+        "date_precision": "day",
+        "title": "Early to mid-20th century (1914–1946)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Early to mid-20th century (1914–1946)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "2019-06-28",
+        "date_precision": "day",
+        "title": "Environment",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Geography",
+            "Environment"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Religion (2025) — Christianity",
+        "value": 48.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — Catholicism",
+        "value": 43.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — Protestantism",
+        "value": 4.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — Orthodoxy",
+        "value": 1.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — no religion",
+        "value": 37.5,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — Islam",
+        "value": 7.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — Judaism",
+        "value": 1.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — Buddhism",
+        "value": 1.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — other religion",
+        "value": 2.5,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2025) — unanswered",
+        "value": 3.0,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Area — Total",
+        "value": 632702.3,
+        "unit": "km²",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Area — Metropolitan France ( DGCL )",
+        "value": 543941.0,
+        "unit": "km²",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Area — Metropolitan France ( INSEE )",
+        "value": 543908.3,
+        "unit": "km²",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/France-002364_-_Square_House_%2815867600545%29.jpg/1280px-France-002364_-_Square_House_%2815867600545%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/France-002364_-_Square_House_%2815867600545%29.jpg/250px-France-002364_-_Square_House_%2815867600545%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Maison carrée was a temple of the Gallo-Roman city of Nemausus (present-day Nîmes ) and is one of the best-preserved Roman temples anywhere.",
+        "alt": "Maison Carrée temple in Nemausus Corinthian columns and portico",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Antiquity (6th century BC – 5th century AD)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Chlodwigs_taufe.jpg/1280px-Chlodwigs_taufe.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Chlodwigs_taufe.jpg/250px-Chlodwigs_taufe.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "With Clovis 's conversion to Catholicism in 498, the Frankish monarchy , elective and secular until then, became hereditary and of divine right .",
+        "alt": "painting of Clovis I conversion to Catholicism in 498, a king being baptised in a tub in a cathedral surrounded by bishop and monks",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Early Middle Ages (5th–10th century)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/1280px-Joan_of_Arc_miniature_graded.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/250px-Joan_of_Arc_miniature_graded.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Joan of Arc led the French Army to several important victories during the Hundred Years' War (1337–1453), which paved the way for the final victory.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "High and Late Middle Ages (10th–15th century)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/1280px-Louis_XIV_of_France.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/250px-Louis_XIV_of_France.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Louis XIV , the \"Sun King\", was the absolute monarch of France who made the country the leading power in Europe.",
+        "alt": "Louis XIV of France standing in plate armour and blue sash facing left holding baton",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Early modern period (15th century–1789)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Prise_de_la_Bastille.jpg/1280px-Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Prise_de_la_Bastille.jpg/250px-Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Storming of the Bastille on 14 July 1789 was the most emblematic event of the French Revolution .",
+        "alt": "drawing of the Storming of the Bastille on 14 July 1789, smoke of gunfire enveloping stone castle",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Revolutionary France (1789–1799)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/1280px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Napoleon , Emperor of the French , built a vast empire across Europe .",
+        "alt": "painting of Napoleon in 1806 standing with hand in vest attended by staff and Imperial guard regiment",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Napoleonic France (1799–1815)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/EmpireFrench.png/1280px-EmpireFrench.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/EmpireFrench.png/250px-EmpireFrench.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "French colonial empires : First Second",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Colonial empire"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/El_114_de_infanter%C3%ADa%2C_en_Par%C3%ADs%2C_el_14_de_julio_de_1917%2C_Le%C3%B3n_Gimpel.jpg/1280px-El_114_de_infanter%C3%ADa%2C_en_Par%C3%ADs%2C_el_14_de_julio_de_1917%2C_Le%C3%B3n_Gimpel.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/El_114_de_infanter%C3%ADa%2C_en_Par%C3%ADs%2C_el_14_de_julio_de_1917%2C_Le%C3%B3n_Gimpel.jpg/250px-El_114_de_infanter%C3%ADa%2C_en_Par%C3%ADs%2C_el_14_de_julio_de_1917%2C_Le%C3%B3n_Gimpel.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "French Poilus posing with their war-torn flag in 1917, during World War I",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Early to mid-20th century (1914–1946)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/1280px-De_Gaulle-OWI.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/250px-De_Gaulle-OWI.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Charles de Gaulle , a hero of World War I, leader of the Free French during World War II , and President of France",
+        "alt": "Charles de Gaulle seated in uniform looking left with folded arms",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "1946–present"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Overview_of_Calais_Jungle.jpg/1280px-Overview_of_Calais_Jungle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Overview_of_Calais_Jungle.jpg/250px-Overview_of_Calais_Jungle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Calais Jungle",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "1946–present"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re%2C2010_07.JPG/1280px-Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re%2C2010_07.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re%2C2010_07.JPG/250px-Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re%2C2010_07.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Chamonix valley with Mont Blanc in the background, the highest mountain in the Alps and Western Europe on the border with Italy",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Geography"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": "Flag of France",
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "number",
+      "ref": "14",
+      "preview": "Population — January 2026 estimate = 6.9082e+07",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "16",
+      "preview": "Population — Metropolitan France, estimate as of January 2026 = 6.67928e+07",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "18",
+      "preview": "GDP ( PPP ) — Total = 4.734e+12",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "19",
+      "preview": "GDP ( PPP ) — Per capita = 68567",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "20",
+      "preview": "GDP (nominal) — Total = 3.596e+12",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "21",
+      "preview": "GDP (nominal) — Per capita = 52083",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "22",
+      "preview": "GDP (nominal) — Gini (2025) = 30.4 medium",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "23",
+      "preview": "GDP (nominal) — HDI (2023) = 0.92 very",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "24",
+      "preview": "GDP (nominal) — Time zone = 1",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "number",
+      "ref": "25",
+      "preview": "GDP (nominal) — Summer ( DST ) = 2",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "26",
+      "preview": "GDP (nominal) — Calling code = 33",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "number",
+      "ref": "11",
+      "preview": "Area — Water (%) = 0.86 %",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "15",
+      "preview": "Population — Density = 109 /km²",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "17",
+      "preview": "Population — Density = 123 /km²",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "Geological formations near Roussillon, Vaucluse",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "The Gironde estuary is classified as a marine nature park and is part of the Natura 2000 network. The left bank is part ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "Emmanuel Macron President",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "Palais Bourbon is the meeting place of the National Assembly , the lower legislative chamber of the French Parliament .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "88 states and governments are part of La Francophonie , which promotes values of democracy , multilingualism and cultura",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "The European Parliament in Strasbourg (near the border with Germany). France is a founding member of all EU institutions",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "France French military interventions since 2001: Afghanistan ; Ivory Coast ; Chad ; Libya ; Somalia ; Mali ; Central Afr",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "The basic principles that the French Republic must respect are found in the 1789 Declaration of the Rights of Man and of",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "La Défense was in 2017 ranked by Ernst & Young as the leading central business district in continental Europe, and fourt",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "Palace of Versailles , Yvelines",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "21",
+      "preview": "Belleville Nuclear Power Plant . France derives most of its electricity from nuclear power , the highest percentage in t",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "22",
+      "preview": "Millau Viaduct is the tallest bridge in the world .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "Population density in France by arrondissement",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "24",
+      "preview": "The Calais Jungle was a refugee and illegal migrant encampment in the vicinity of Calais , France, that existed from Jan",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "25",
+      "preview": "Map of the Francophone world: Native language Administrative language Secondary or cultural language",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "26",
+      "preview": "Notre-Dame de Reims is the Catholic cathedral where the Kings of France were crowned until 1825.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "27",
+      "preview": "The Pitié-Salpêtrière Hospital , a teaching hospital in Paris, is one of Europe's largest hospitals.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "28",
+      "preview": "The ENS produces among the most Nobel Prize laureates per capita in the world.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "29",
+      "preview": "Claude Monet , founder of the Impressionist movement",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "30",
+      "preview": "Saint Louis' Sainte-Chapelle represents the French impact on religious architecture.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "31",
+      "preview": "Victor Hugo , a French Romantic writer and politician",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "32",
+      "preview": "Claude Debussy , a French composer",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "33",
+      "preview": "A Palme d'Or from the Cannes Film Festival , one of the \" Big Three \" film festivals alongside the Venice Film Festival ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "34",
+      "preview": "Chanel 's headquarters on Place Vendôme , Paris",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "35",
+      "preview": "Le Figaro was founded in 1826 and is still considered a newspaper of record .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "36",
+      "preview": "French wines are usually made to accompany French cuisine.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "37",
+      "preview": "Starting in 1903, the Tour de France is the most prestigious of Grands Tours , and the world's most famous cycling race.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

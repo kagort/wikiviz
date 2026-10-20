@@ -1,0 +1,1355 @@
+{
+  "selected": {
+    "article": {
+      "id": 15924,
+      "title": "Julius Caesar",
+      "language": "en",
+      "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Early life and career",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-1",
+            "title": "Life under Sulla and military service",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-2",
+            "title": "Entrance to politics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-3",
+            "title": "Aedileship and election as pontifex maximus",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-4",
+            "title": "Praetorship",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-5",
+        "title": "First consulship and the Gallic Wars",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-6",
+            "title": "First consulship",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-7",
+            "title": "Campaigns in Gaul",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-8",
+            "title": "Politics, Gaul, and Rome",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-9",
+        "title": "Civil war",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-10",
+            "title": "Italy, Spain, and Greece",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-11",
+            "title": "Alexandrine war and Asia Minor",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-12",
+            "title": "Italy, Africa, and Spain",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-13",
+        "title": "Dictatorship and assassination",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-14",
+            "title": "Dictatorships and honours",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-15",
+            "title": "Legislation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-16",
+            "title": "Conspiracy and death",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-17",
+            "title": "Aftermath of the assassination",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-18",
+        "title": "Personal life",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-19",
+            "title": "Health and physical appearance",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-20",
+            "title": "Name and family",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-21",
+                "title": "The name Gaius Julius Caesar",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-22",
+                "title": "Posterity",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-23",
+            "title": "Rumours of passive homosexuality",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-24",
+        "title": "Literary works",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-25",
+            "title": "Memoirs",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-26",
+        "title": "Legacy",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-27",
+            "title": "Historiography",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-28",
+            "title": "Politics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-29",
+            "title": "Depictions",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-30",
+            "title": "Battle record",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-31",
+        "title": "Chronology",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-32",
+        "title": "See also",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-33",
+        "title": "Notes",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-34",
+        "title": "References",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-35",
+        "title": "Sources",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-36",
+            "title": "Primary sources",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-37",
+                "title": "Own writings",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-38",
+                "title": "Ancient historians' writings",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-39",
+            "title": "Secondary sources",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-40",
+        "title": "External links",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "born": {
+        "key": "born",
+        "label": "Born",
+        "group": null,
+        "value": "12 or 13 July 100 BC, Suburra, Rome",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "died": {
+        "key": "died",
+        "label": "Died",
+        "group": null,
+        "value": "15 March 44 BC (aged 55), Theatre of Pompey, Rome",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "cause_of_death": {
+        "key": "cause_of_death",
+        "label": "Cause of death",
+        "group": null,
+        "value": "Assassination (stab wounds)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "occupations": {
+        "key": "occupations",
+        "label": "Occupations",
+        "group": null,
+        "value": "Politician, soldier, author",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "notable_work": {
+        "key": "notable_work",
+        "label": "Notable work",
+        "group": null,
+        "value": "Bellum Gallicum, Bellum Civile",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "office": {
+        "key": "office",
+        "label": "Office",
+        "group": null,
+        "value": "Pontifex maximus, 64–44 BC, Praetor, 62 BC, Consul, 59 BC, Proconsul (Gaul, Illyricum), 58–49 BC, Dictator, 49–44 BC, Consul, 48, 46–44 BC, Dictator perpetuo, 44 BC",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "spouse_s": {
+        "key": "spouse_s",
+        "label": "Spouse(s)",
+        "group": null,
+        "value": "Cossutia, (disputed), Cornelia, m. 84 BC; d. 69 BC, Pompeia, m. 67 BC; div. 61 BC, Calpurnia, m. 59 BC",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "partner": {
+        "key": "partner",
+        "label": "Partner",
+        "group": null,
+        "value": "Cleopatra VII (mistress)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "children": {
+        "key": "children",
+        "label": "Children",
+        "group": null,
+        "value": "Julia, Caesarion (unacknowledged), Augustus (adoptive)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "parents": {
+        "key": "parents",
+        "label": "Parents",
+        "group": null,
+        "value": "Gaius Julius Caesar, Aurelia",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "awards": {
+        "key": "awards",
+        "label": "Awards",
+        "group": null,
+        "value": "Civic Crown",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "military_career_allegiance": {
+        "key": "military_career_allegiance",
+        "label": "Allegiance",
+        "group": "Military career",
+        "value": "Roman Republic",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "military_career_branch": {
+        "key": "military_career_branch",
+        "label": "Branch",
+        "group": "Military career",
+        "value": "Roman Army",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "military_career_service_years": {
+        "key": "military_career_service_years",
+        "label": "Service years",
+        "group": "Military career",
+        "value": "81–45 BC",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "military_career_commands": {
+        "key": "military_career_commands",
+        "label": "Commands",
+        "group": "Military career",
+        "value": "XIII Legion",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "military_career_conflicts": {
+        "key": "military_career_conflicts",
+        "label": "Conflicts",
+        "group": "Military career",
+        "value": "Several, including: Siege of Mytilene, Gallic Wars, Invasions of Britain, Caesar's civil war, Alexandrian war",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [
+      {
+        "id": "table-0",
+        "title": null,
+        "columns": [
+          "Date",
+          "War",
+          "Action",
+          "Opponents",
+          "Type",
+          "Present-day areas",
+          "Outcome"
+        ],
+        "rows": [
+          [
+            "58 BC",
+            "Gallic Wars",
+            "Battle of the Arar",
+            "Helvetii",
+            "Battle",
+            "France",
+            "Victory"
+          ],
+          [
+            "58 BC",
+            "Gallic Wars",
+            "Battle of Bibracte",
+            "Helvetii , Boii , Tulingi , Rauraci",
+            "Battle",
+            "France",
+            "Victory"
+          ],
+          [
+            "58 BC",
+            "Gallic Wars",
+            "Battle of Vosges",
+            "Suebi",
+            "Battle",
+            "France",
+            "Victory"
+          ],
+          [
+            "57 BC",
+            "Gallic Wars",
+            "Battle of the Axona",
+            "Belgae",
+            "Battle",
+            "France",
+            "Victory"
+          ],
+          [
+            "57 BC",
+            "Gallic Wars",
+            "Battle of the Sabis",
+            "Nervii , Viromandui , Atrebates , Aduatuci",
+            "Battle",
+            "France",
+            "Victory"
+          ],
+          [
+            "56 BC",
+            "Gallic Wars",
+            "Battle of Morbihan",
+            "Veneti",
+            "Battle",
+            "France",
+            "Victory"
+          ],
+          [
+            "55 and 54 BC",
+            "Gallic Wars",
+            "Julius Caesar's invasions of Britain",
+            "Celtic Britons",
+            "Campaign",
+            "England",
+            "Victory"
+          ],
+          [
+            "54 BC–53 BC",
+            "Gallic Wars",
+            "Ambiorix's revolt",
+            "Eburones",
+            "Campaign",
+            "Belgium, France",
+            "Victory"
+          ],
+          [
+            "52 BC",
+            "Gallic Wars",
+            "Avaricum",
+            "Bituriges , Arverni",
+            "Siege",
+            "France",
+            "Victory"
+          ],
+          [
+            "52 BC",
+            "Gallic Wars",
+            "Battle of Gergovia",
+            "Gallic tribes",
+            "Battle",
+            "France",
+            "Defeat"
+          ],
+          [
+            "September 52 BC",
+            "Gallic Wars",
+            "Battle of Alesia",
+            "Gallic Confederation",
+            "Siege and Battle",
+            "Alise-Sainte-Reine , France",
+            "Decisive victory"
+          ],
+          [
+            "51 BC",
+            "Gallic Wars",
+            "Siege of Uxellodunum",
+            "Gallic",
+            "Siege",
+            "Vayrac , France",
+            "Victory"
+          ],
+          [
+            "June–August 49 BC",
+            "Caesar's Civil War",
+            "Battle of Ilerda",
+            "Optimates",
+            "Battle",
+            "Catalonia , Spain",
+            "Victory"
+          ],
+          [
+            "10 July 48 BC",
+            "Caesar's Civil War",
+            "Battle of Dyrrhachium (48 BC)",
+            "Optimates",
+            "Battle",
+            "Durrës , Albania",
+            "Defeat"
+          ],
+          [
+            "9 August 48 BC",
+            "Caesar's Civil War",
+            "Battle of Pharsalus",
+            "Pompeians",
+            "Battle",
+            "Greece",
+            "Decisive victory"
+          ],
+          [
+            "47 BC",
+            "Caesar's Civil War",
+            "Battle of the Nile",
+            "Ptolemaic Kingdom",
+            "Battle",
+            "Alexandria , Egypt",
+            "Victory"
+          ],
+          [
+            "2 August 47 BC",
+            "Caesar's Civil War",
+            "Battle of Zela",
+            "Kingdom of Pontus",
+            "Battle",
+            "Zile , Turkey",
+            "Victory"
+          ],
+          [
+            "4 January 46 BC",
+            "Caesar's Civil War",
+            "Battle of Ruspina",
+            "Optimates , Numidia",
+            "Battle",
+            "Ruspina Africa",
+            "Defeat"
+          ],
+          [
+            "6 April 46 BC",
+            "Caesar's Civil War",
+            "Battle of Thapsus",
+            "Optimates , Numidia",
+            "Battle",
+            "Tunisia",
+            "Decisive victory"
+          ],
+          [
+            "17 March 45 BC",
+            "Caesar's Civil War",
+            "Battle of Munda",
+            "Pompeians",
+            "Battle",
+            "Andalusia Spain",
+            "Victory"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      }
+    ],
+    "locations": [],
+    "events": [
+      {
+        "id": "event-0",
+        "date": "-0100",
+        "date_precision": "year",
+        "title": "Born",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-1",
+        "date": "-0044",
+        "date_precision": "year",
+        "title": "Died",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-2",
+        "date": "-0044",
+        "date_precision": "year",
+        "title": "Pontifex maximus",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-3",
+        "date": "-0062",
+        "date_precision": "year",
+        "title": "Praetor",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-4",
+        "date": "-0059",
+        "date_precision": "year",
+        "title": "Consul",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-5",
+        "date": "-0049",
+        "date_precision": "year",
+        "title": "Proconsul(Gaul, Illyricum)",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-6",
+        "date": "-0044",
+        "date_precision": "year",
+        "title": "Dictator",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-7",
+        "date": "-0044",
+        "date_precision": "year",
+        "title": "Consul",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-8",
+        "date": "-0044",
+        "date_precision": "year",
+        "title": "Dictator perpetuo",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-9",
+        "date": "-0084",
+        "date_precision": "year",
+        "title": "Cornelia",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-10",
+        "date": "-0067",
+        "date_precision": "year",
+        "title": "Pompeia",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-11",
+        "date": "-0059",
+        "date_precision": "year",
+        "title": "Calpurnia",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-12",
+        "date": "-0045",
+        "date_precision": "year",
+        "title": "Service years",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "-0050",
+        "date_precision": "year",
+        "title": "Civil war",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Civil war"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-5",
+        "date": "-0048",
+        "date_precision": "year",
+        "title": "Italy, Spain, and Greece",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Civil war",
+            "Italy, Spain, and Greece"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-7",
+        "date": "-0047",
+        "date_precision": "year",
+        "title": "Italy, Africa, and Spain",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Civil war",
+            "Italy, Africa, and Spain"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-8",
+        "date": "-0046",
+        "date_precision": "year",
+        "title": "Italy, Africa, and Spain",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Civil war",
+            "Italy, Africa, and Spain"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-12",
+        "date": "-0042",
+        "date_precision": "year",
+        "title": "Aftermath of the assassination",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Dictatorship and assassination",
+            "Aftermath of the assassination"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg/1280px-Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg/250px-Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Sulla, depicted on the obverse of a denarius minted by Quintus Pompeius Rufus in 54 BC. Sulla took the city in 82 BC, purged his political enemies, and instituted new constitutional reforms .",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Early life and career",
+            "Life under Sulla and military service"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Augustus_Bevilacqua_Glyptothek_Munich_317.jpg/1280px-Augustus_Bevilacqua_Glyptothek_Munich_317.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Augustus_Bevilacqua_Glyptothek_Munich_317.jpg/250px-Augustus_Bevilacqua_Glyptothek_Munich_317.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Imperial period bust of Augustus (known as the Augustus Bevilacqua ) wearing the civic crown ( Latin : corona civica ). Caesar won the civic crown for his bravery at the Siege of Mytilene in 81 BC.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Early life and career",
+            "Life under Sulla and military service"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Julius_Caesar_%26_C._Cossutius_Maridianus%2C_denarius%2C_44_BC%2C_RRC_480-19.jpg/1280px-Julius_Caesar_%26_C._Cossutius_Maridianus%2C_denarius%2C_44_BC%2C_RRC_480-19.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Julius_Caesar_%26_C._Cossutius_Maridianus%2C_denarius%2C_44_BC%2C_RRC_480-19.jpg/330px-Julius_Caesar_%26_C._Cossutius_Maridianus%2C_denarius%2C_44_BC%2C_RRC_480-19.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Denarius of C. Cossutius Maridianus , 44 BC, with the head of Julius Caesar as pontifex maximus on the obverse. The legend on the reverse mentions the A. A. A. F. F.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Early life and career",
+            "Aedileship and election as pontifex maximus"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png/1280px-Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png/500px-Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Cicero , consul in 63 BC, depicted in an 1889 fresco denouncing Catiline and exposing his conspiracy before the Senate. When conspirators within the city were later arrested, Cicero referred their fate to the Senate, triggering a debate in which Caesar as praetor-elect participated.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Early life and career",
+            "Praetorship"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Cato_Volubilis_bronze_bust.jpg/1280px-Cato_Volubilis_bronze_bust.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Cato_Volubilis_bronze_bust.jpg/250px-Cato_Volubilis_bronze_bust.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Bronze bust of Cato, Caesar's principal opponent in the Catilinarian debate and also a personal enemy. Cato may have been responsible for the law requiring declarations of candidacy in person within the pomerium .",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Early life and career",
+            "Praetorship"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/RSC_0022_-_transparent_background.png/1280px-RSC_0022_-_transparent_background.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/RSC_0022_-_transparent_background.png/330px-RSC_0022_-_transparent_background.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "A denarius depicting Julius Caesar, dated to February–March 44 BC – the goddess Venus is shown on the reverse, holding Victoria and a sceptre. Caption: CAESAR IMP. M. / L. AEMILIVS BVCA.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "First consulship and the Gallic Wars"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Roman_republic%2C_territory_44_BC_labelled.svg/1280px-Roman_republic%2C_territory_44_BC_labelled.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Roman_republic%2C_territory_44_BC_labelled.svg/330px-Roman_republic%2C_territory_44_BC_labelled.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Extent of the Roman Republic in 44 BC after Caesar's conquests, with labels for the general area of provincial assignments.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "First consulship and the Gallic Wars",
+            "Campaigns in Gaul"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.jpg/1280px-Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.jpg/330px-Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Vercingetorix throws down his arms at the feet of Julius Caesar, painting by Lionel Royer in 1899. Musée Crozatier , Le Puy-en-Velay , France.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "First consulship and the Gallic Wars",
+            "Campaigns in Gaul"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/1280px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/250px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "A Roman bust of Pompey the Great made during the reign of Augustus (27 BC – 14 AD), a copy of an original bust from 70 to 60 BC, Venice National Archaeological Museum , Italy",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Civil war"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cleopatra_and_Caesar_by_Jean-Leon-Gerome.jpg/1280px-Cleopatra_and_Caesar_by_Jean-Leon-Gerome.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cleopatra_and_Caesar_by_Jean-Leon-Gerome.jpg/250px-Cleopatra_and_Caesar_by_Jean-Leon-Gerome.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Cleopatra and Caesar , 1866 painting by Jean-Léon Gérôme",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Civil war",
+            "Alexandrine war and Asia Minor"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Venus_and_Cupid_from_the_House_of_Marcus_Fabius_Rufus_at_Pompeii%2C_most_likely_a_depiction_of_Cleopatra_VII.jpg/1280px-Venus_and_Cupid_from_the_House_of_Marcus_Fabius_Rufus_at_Pompeii%2C_most_likely_a_depiction_of_Cleopatra_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Venus_and_Cupid_from_the_House_of_Marcus_Fabius_Rufus_at_Pompeii%2C_most_likely_a_depiction_of_Cleopatra_VII.jpg/330px-Venus_and_Cupid_from_the_House_of_Marcus_Fabius_Rufus_at_Pompeii%2C_most_likely_a_depiction_of_Cleopatra_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "This mid-1st-century-BC Roman wall painting in Pompeii is probably a depiction of Cleopatra VII as Venus Genetrix , with her son Caesarion as Cupid . Its owner Marcus Fabius Rufus most likely ordered its concealment behind a wall in reaction to the execution of Caesarion on orders of Octavian in 30 BC.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Civil war",
+            "Alexandrine war and Asia Minor"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/1280px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": "The Tusculum portrait, a marble sculpture of Julius Caesar",
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-0",
+      "preview": "-0100 «Introduction»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-1",
+      "preview": "-0044 «Introduction»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "-0100 «Early life and career»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "-0049 «Italy, Spain, and Greece»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "-0048 «Alexandrine war and Asia Minor»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "-0045 «Italy, Africa, and Spain»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "-0044 «Italy, Africa, and Spain»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "-0044 «Conspiracy and death»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "number",
+      "ref": "0",
+      "preview": "Pontifex maximus = 64",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "1",
+      "preview": "Praetor = 62 BC",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "2",
+      "preview": "Consul = 59 BC",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "3",
+      "preview": "Proconsul (Gaul, Illyricum) = 58",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "4",
+      "preview": "Dictator = 49",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "5",
+      "preview": "Consul = 48",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "6",
+      "preview": "Dictator perpetuo = 44 BC",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "7",
+      "preview": "Cornelia = 84 BC;",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "8",
+      "preview": "Pompeia = 67 BC;",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "9",
+      "preview": "Calpurnia = 59 BC",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "10",
+      "preview": "Service years = 81",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "table",
+      "ref": "table-1",
+      "preview": "Political offices",
+      "rule": "TBL-NAV",
+      "reason": "таблица-навигация (кто был до и после)"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "A silver denarius dated to January 44 BC portraying a wreathed Julius Caesar. On the reverse, Juno , wearing a goatskin ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "The Green Caesar , posthumous portrait from the 1st century AD, now located at the Altes Museum in Berlin",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "This coin, minted c. 44 BC , shows Caesar's laurelled head surrounded by the CAESAR DICT PERPETVO . The reverse shows sy",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "February-March 44 BC. Silver Denarius. Rome mint. head of laurelled Caesar right / Venus standing left, holding Victory ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "This also shows Caesar's laurelled head with the inscription CAESAR DICT PERPETVO . The reverse, however, shows the name",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "Denarius (42 BC) of Cassius and Lentulus Spinther , depicting the crowned head of Liberty and on the reverse a sacrifici",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "An 1867 depiction of Caesar's death. The Death of Caesar by Jean-Léon Gérôme .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "January-February 44 BC Denarius. Rome mint; portrait of laurelled Julius Caesar right; CAESAR IM[P] Venus standing left,",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "The Ides of March coin , minted in 42 BC, depicts Marcus Junius Brutus . The reverse depicts daggers and a pileus symbol",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "Marc Antony's Oration at Caesar's Funeral by George Edward Robertson (late 19th or early 20th century)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "21",
+      "preview": "The Chiaramonti Caesar bust, a posthumous portrait in marble, 44–30 BC, Museo Pio-Clementino , Vatican Museums",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "22",
+      "preview": "Julio-Claudian family tree",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "Reliefs of Cleopatra and her son by Julius Caesar, Caesarion , at the Temple of Dendera",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "24",
+      "preview": "Roman painting from the House of Giuseppe II, Pompeii , early 1st century AD, most likely depicting Cleopatra VII , wear",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "25",
+      "preview": "Julii Caesaris quae exstant (1678)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "26",
+      "preview": "A 1783 edition of The Gallic Wars",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "27",
+      "preview": "Flowers on the remains of the altar of Caesar in the Roman Forum of Rome, Italy",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "28",
+      "preview": "Bust in the National Archaeological Museum, Naples",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "29",
+      "preview": "Modern bronze statue of Julius Caesar, Rimini, Italy",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "30",
+      "preview": "Portrait at the Archaeological Museum of Sparta",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "31",
+      "preview": "Bronze statue at the Porta Palatina in Turin",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "32",
+      "preview": "Bust in the Archaeological Museum of Corinth",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "33",
+      "preview": "Late 17th century statue by Nicolas Coustou",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

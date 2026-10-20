@@ -1,0 +1,1176 @@
+{
+  "selected": {
+    "article": {
+      "id": 41054,
+      "title": "Отечественная война 1812 года",
+      "language": "ru",
+      "url": "https://ru.wikipedia.org/wiki/Отечественная_война_1812_года",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Предыстория конфликта",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-1",
+            "title": "Причины войны",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-2",
+                "title": "Со стороны Франции",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-3",
+                "title": "Со стороны России",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-4",
+            "title": "Дипломатия и разведка накануне войны",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-5",
+            "title": "Вооружённые силы противников",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-6",
+                "title": "На стороне Франции",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-7",
+                "title": "На стороне России",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-8",
+            "title": "Стратегические планы сторон перед началом боевых действий",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-9",
+        "title": "Наступление Наполеона (июнь — сентябрь 1812 года)",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-10",
+            "title": "От Немана до Смоленска",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-11",
+                "title": "Северное направление",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-12",
+                "title": "Центральное (Московское) направление",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-13",
+                "title": "Южное направление",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-14",
+            "title": "От Смоленска до Москвы",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-15",
+                "title": "Реорганизация управления русской армией",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-16",
+                "title": "Бородино",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-17",
+                "title": "Военный совет в Филях",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-18",
+                "title": "Сдача Москвы",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-19",
+            "title": "Три попытки Наполеона добиться мира",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-20",
+            "title": "Народная война против Наполеона",
+            "level": 3,
+            "children": [
+              {
+                "id": "section-21",
+                "title": "Армейские партизанские отряды",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-22",
+                "title": "Крестьянские партизанские отряды",
+                "level": 4,
+                "children": []
+              },
+              {
+                "id": "section-23",
+                "title": "Формирование ополчения",
+                "level": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "section-24",
+            "title": "Тарутинский манёвр",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-25",
+        "title": "Отступление Наполеона (октябрь — декабрь 1812 года)",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-26",
+            "title": "Стратегические планы сторон после отступления из Москвы",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-27",
+            "title": "От Москвы до Малоярославца",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-28",
+            "title": "От Малоярославца до Березины",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-29",
+            "title": "От Березины до Немана",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-30",
+            "title": "Северное направление",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-31",
+            "title": "Южное направление",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-32",
+            "title": "Болезни в войсках",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-33",
+        "title": "Коллаборационизм в Отечественной войне 1812 года",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-34",
+        "title": "Итоги Отечественной войны 1812 года",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-35",
+            "title": "Непосредственные итоги войны",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-36",
+            "title": "Причины поражения Наполеона",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-37",
+            "title": "Долгосрочные последствия войны",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-38",
+        "title": "Отражение войны 1812 года в культуре",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-39",
+            "title": "В науке",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-40",
+            "title": "В архитектуре",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-41",
+            "title": "В искусстве",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-42",
+            "title": "В нумизматике и фалеристике",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-43",
+            "title": "Национальные праздники и торжества",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-44",
+        "title": "Позднейшие исторические оценки",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-45",
+        "title": "См. также",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-46",
+        "title": "Примечания",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-47",
+        "title": "Литература",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-48",
+        "title": "Ссылки",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "основной_конфликт_наполеоновские_войны_дата": {
+        "key": "основной_конфликт_наполеоновские_войны_дата",
+        "label": "Дата",
+        "group": "Основной конфликт: Наполеоновские войны",
+        "value": "12 (24) июня — 25 декабря 1812 года (6 января 1813 года) (около 6 месяцев)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "основной_конфликт_наполеоновские_войны_место": {
+        "key": "основной_конфликт_наполеоновские_войны_место",
+        "label": "Место",
+        "group": "Основной конфликт: Наполеоновские войны",
+        "value": "Российская империя",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "основной_конфликт_наполеоновские_войны_итог": {
+        "key": "основной_конфликт_наполеоновские_войны_итог",
+        "label": "Итог",
+        "group": "Основной конфликт: Наполеоновские войны",
+        "value": "победа Российской империи",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "силы_сторон": {
+        "key": "силы_сторон",
+        "label": "Силы сторон",
+        "group": null,
+        "value": "610 — 685 тысяч солдат, 1390 орудий, 700 тысяч солдат, 1600 орудий, 400 тысяч ополченцев",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [],
+    "locations": [],
+    "events": [
+      {
+        "id": "event-0",
+        "date": "1812-12-25",
+        "date_precision": "day",
+        "title": "Дата",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-0",
+        "date": "1807-06-14",
+        "date_precision": "day",
+        "title": "Предыстория конфликта",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Предыстория конфликта"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-1",
+        "date": "1811-08-15",
+        "date_precision": "day",
+        "title": "Со стороны России",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Предыстория конфликта",
+            "Причины войны",
+            "Со стороны России"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-2",
+        "date": "1811-12-17",
+        "date_precision": "day",
+        "title": "Дипломатия и разведка накануне войны",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Предыстория конфликта",
+            "Дипломатия и разведка накануне войны"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "1812-03-14",
+        "date_precision": "day",
+        "title": "Дипломатия и разведка накануне войны",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Предыстория конфликта",
+            "Дипломатия и разведка накануне войны"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-4",
+        "date": "1812-02-24",
+        "date_precision": "day",
+        "title": "Дипломатия и разведка накануне войны",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Предыстория конфликта",
+            "Дипломатия и разведка накануне войны"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-5",
+        "date": "1812-05-22",
+        "date_precision": "day",
+        "title": "Дипломатия и разведка накануне войны",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Предыстория конфликта",
+            "Дипломатия и разведка накануне войны"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-6",
+        "date": "1812-07-18",
+        "date_precision": "day",
+        "title": "На стороне России",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Предыстория конфликта",
+            "Вооружённые силы противников",
+            "На стороне России"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-7",
+        "date": "1812-03-03",
+        "date_precision": "day",
+        "title": "Наступление Наполеона (июнь — сентябрь 1812 года)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-8",
+        "date": "1812-04-01",
+        "date_precision": "day",
+        "title": "Наступление Наполеона (июнь — сентябрь 1812 года)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-9",
+        "date": "1812-05-09",
+        "date_precision": "day",
+        "title": "Наступление Наполеона (июнь — сентябрь 1812 года)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-10",
+        "date": "1812-06-30",
+        "date_precision": "day",
+        "title": "Наступление Наполеона (июнь — сентябрь 1812 года)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-11",
+        "date": "1812-06-12",
+        "date_precision": "day",
+        "title": "Наступление Наполеона (июнь — сентябрь 1812 года)",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-12",
+        "date": "0002-07-19",
+        "date_precision": "day",
+        "title": "Центральное (Московское) направление",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)",
+            "От Немана до Смоленска",
+            "Центральное (Московское) направление"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-13",
+        "date": "0001-08-03",
+        "date_precision": "day",
+        "title": "Центральное (Московское) направление",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)",
+            "От Немана до Смоленска",
+            "Центральное (Московское) направление"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-14",
+        "date": "1812-07-06",
+        "date_precision": "day",
+        "title": "Формирование ополчения",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)",
+            "Народная война против Наполеона",
+            "Формирование ополчения"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-15",
+        "date": "1935-07-25",
+        "date_precision": "day",
+        "title": "Коллаборационизм в Отечественной войне 1812 года",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Коллаборационизм в Отечественной войне 1812 года"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-16",
+        "date": "1813-04-20",
+        "date_precision": "day",
+        "title": "Коллаборационизм в Отечественной войне 1812 года",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Коллаборационизм в Отечественной войне 1812 года"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-17",
+        "date": "1812-12-21",
+        "date_precision": "day",
+        "title": "Непосредственные итоги войны",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Итоги Отечественной войны 1812 года",
+            "Непосредственные итоги войны"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-18",
+        "date": "1813-01-01",
+        "date_precision": "day",
+        "title": "Непосредственные итоги войны",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Итоги Отечественной войны 1812 года",
+            "Непосредственные итоги войны"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-19",
+        "date": "2018-08-15",
+        "date_precision": "day",
+        "title": "В нумизматике и фалеристике",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Отражение войны 1812 года в культуре",
+            "В нумизматике и фалеристике"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-20",
+        "date": "1814-08-30",
+        "date_precision": "day",
+        "title": "Национальные праздники и торжества",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Отражение войны 1812 года в культуре",
+            "Национальные праздники и торжества"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B0%D1%81%D0%BE%D0%B2_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B2_1812_%D0%B3%D0%BE%D0%B4%D1%83.jpg/1280px-%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B0%D1%81%D0%BE%D0%B2_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B2_1812_%D0%B3%D0%BE%D0%B4%D1%83.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B0%D1%81%D0%BE%D0%B2_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B2_1812_%D0%B3%D0%BE%D0%B4%D1%83.jpg/330px-%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B0%D1%81%D0%BE%D0%B2_%D0%B0%D1%80%D0%BC%D0%B8%D0%B8_%D0%B2_1812_%D0%B3%D0%BE%D0%B4%D1%83.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Карта распределения передовых запасов продовольствия к апрелю 1812 года и тыловых запасов к началу Отечественной войны 1812 года",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Предыстория конфликта",
+            "Причины войны",
+            "Со стороны России"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Stjukin_tsar_Alexander_I_1808.JPG/1280px-Stjukin_tsar_Alexander_I_1808.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Stjukin_tsar_Alexander_I_1808.JPG/250px-Stjukin_tsar_Alexander_I_1808.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Александр I",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Предыстория конфликта",
+            "Дипломатия и разведка накануне войны"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Emperor_Napoleon_in_His_Study_at_the_Tuileries%2C_by_Jacques-Louis_David_%281812%29_-_National_Gallery_of_Art_%28Samuel_H._Kress_Foundation%29_-_2.jpg/1280px-The_Emperor_Napoleon_in_His_Study_at_the_Tuileries%2C_by_Jacques-Louis_David_%281812%29_-_National_Gallery_of_Art_%28Samuel_H._Kress_Foundation%29_-_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Emperor_Napoleon_in_His_Study_at_the_Tuileries%2C_by_Jacques-Louis_David_%281812%29_-_National_Gallery_of_Art_%28Samuel_H._Kress_Foundation%29_-_2.jpg/250px-The_Emperor_Napoleon_in_His_Study_at_the_Tuileries%2C_by_Jacques-Louis_David_%281812%29_-_National_Gallery_of_Art_%28Samuel_H._Kress_Foundation%29_-_2.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Наполеон I",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Предыстория конфликта",
+            "Дипломатия и разведка накануне войны"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Europe_map_1812-14_in_Rus.png/1280px-Europe_map_1812-14_in_Rus.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Europe_map_1812-14_in_Rus.png/330px-Europe_map_1812-14_in_Rus.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Карта Европы в 1812 году",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Предыстория конфликта",
+            "Вооружённые силы противников",
+            "На стороне Франции"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Knoe15_20.jpg/1280px-Knoe15_20.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Knoe15_20.jpg/250px-Knoe15_20.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Русская пехота 1812 года",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Предыстория конфликта",
+            "Вооружённые силы противников",
+            "На стороне России"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/125-%D0%BC%D0%BC_%D0%BF%D0%B5%D1%88%D0%B8%D0%B9_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1805.jpg/1280px-125-%D0%BC%D0%BC_%D0%BF%D0%B5%D1%88%D0%B8%D0%B9_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1805.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/125-%D0%BC%D0%BC_%D0%BF%D0%B5%D1%88%D0%B8%D0%B9_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1805.jpg/330px-125-%D0%BC%D0%BC_%D0%BF%D0%B5%D1%88%D0%B8%D0%B9_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1805.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "1/4-пудовый единорог образца 1805 года",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Предыстория конфликта",
+            "Вооружённые силы противников",
+            "На стороне России"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Carte_de_la_Russie_Europ%C3%A9enne_-_C6.jpg/1280px-Carte_de_la_Russie_Europ%C3%A9enne_-_C6.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Carte_de_la_Russie_Europ%C3%A9enne_-_C6.jpg/330px-Carte_de_la_Russie_Europ%C3%A9enne_-_C6.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Столистовая карта , переведённая на французский язык в 1812 году. Лист C6 (Москва и юго-западные окрестности)",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Предыстория конфликта",
+            "Стратегические планы сторон перед началом боевых действий"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%C2%BB_%E2%84%96_2._%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0_%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_1911-1915%29.jpg/1280px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%C2%BB_%E2%84%96_2._%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0_%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_1911-1915%29.jpg/330px-thumbnail.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Карта военных действий в июне—сентябре 1812 года",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/French_attack_in_1812_in_Russia.jpg/1280px-French_attack_in_1812_in_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/French_attack_in_1812_in_Russia.jpg/250px-French_attack_in_1812_in_Russia.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Французы атакуют. Русская кампания 1812 года. Рисунок 1896 года",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)",
+            "От Немана до Смоленска",
+            "Центральное (Московское) направление"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Battle_of_Saltanovka_1812_map_cut.png/1280px-Battle_of_Saltanovka_1812_map_cut.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Battle_of_Saltanovka_1812_map_cut.png/250px-Battle_of_Saltanovka_1812_map_cut.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Схема соединения русских армий под Смоленском в начале августа 1812 года",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)",
+            "От Немана до Смоленска",
+            "Центральное (Московское) направление"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Smolensk_by_hess.jpg/1280px-Smolensk_by_hess.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Smolensk_by_hess.jpg/330px-Smolensk_by_hess.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Сражение при Смоленске 5 (17) августа 1812 года. Гесс (1846 год)",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Наступление Наполеона (июнь — сентябрь 1812 года)",
+            "От Смоленска до Москвы"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/French_invasion_of_Russia_collage.jpg/1280px-French_invasion_of_Russia_collage.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/French_invasion_of_Russia_collage.jpg/330px-French_invasion_of_Russia_collage.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": "по часовой стрелке от верхнего левого: «Бородинское сражение» (Л.-Ф. Лежён); «Наполеон в горящей Москве» (А. Адам); «Мишель Ней в битве при Ковно» (О. Раффе); «В 1812 году» (И. М. Прянишников).",
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "number",
+      "ref": "0",
+      "preview": "Силы сторон — 610 — 685 тысяч солдат 1390 орудий = 700000 яч",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "1",
+      "preview": "Потери — 340 — 400 тыс. погибших. 100 — 200 тыс. пленных. 80 — 130 тыс. дезертиров. 1000 — 1200 орудий Общие безвозвратн",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "infobox_field",
+      "ref": "потери",
+      "preview": "Потери: 340 — 400 тыс. погибших., 100 — 200 тыс. пленных., 80 — 130 тыс. дезертиров., 1000 — 1200 орудий, Общие безвозвр",
+      "rule": "IB-LONG",
+      "reason": "значение длиннее 200 символов"
+    },
+    {
+      "kind": "image",
+      "ref": "43",
+      "preview": "1280px-100_year_1812_avers.jpg",
+      "rule": "IMG-NOCAP",
+      "reason": "нет подписи"
+    },
+    {
+      "kind": "image",
+      "ref": "44",
+      "preview": "1280px-100_year_1812_revers.jpg",
+      "rule": "IMG-NOCAP",
+      "reason": "нет подписи"
+    },
+    {
+      "kind": "image",
+      "ref": "8",
+      "preview": "Переправа наполеоновской армии через Неман . Неизвестный художник",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "9",
+      "preview": "Переправа Итальянского корпуса Евгения Богарне через Неман 30 июня 1812 года . Адам",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "10",
+      "preview": "Переход через Неман 12 июня 1812 (рис. из « Военной энциклопедии »)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "Переправа наполеоновских войск через Неман . Кларк [англ.]",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "Битва при Смоленске. Ланглуа (1839 год)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "Атака русских кирасир под Бородином. Фрагмент панорамы Бородинского сражения . Рубо (1912)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "Гвардейские полки отражают атаки французской кавалерии. Фрагмент панорамы Бородинского сражения . Рубо (1912)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "Саврасов А. К. «Кутузовская изба в Филях» (1884)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "Кившенко А. Д. Военный совет в Филях , 1(13) сентября 1812 года (1880)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "Пожар Москвы . А. Ф. Смирнов (1813)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "21",
+      "preview": "Расстрел предполагаемых поджигателей Москвы французами. Верещагин (1898)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "22",
+      "preview": "Наполеон и генерал Лористон (Мир во что бы то ни стало). Худ. Верещагин (ок. 1900)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "Война русского народа против французов на карикатуре британца Крукшенка (1813 год)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "24",
+      "preview": "Сражение при Тарутино 6 (18) октября 1812 года. Гесс (1847 год)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "25",
+      "preview": "Отход французов из Москвы. Суходольский ( 1844 )",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "26",
+      "preview": "Отступление наполеоновской армии из Москвы. Аткинсон ( 1813 )",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "27",
+      "preview": "Отступление Наполеона из Москвы. Адольф Нортен",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "28",
+      "preview": "Рисунок 'Выезд Наполеона из Москвы в сопровождении Нея и Мюрата' (1813~1825)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "29",
+      "preview": "Отступление Наполеона из Москвы",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "30",
+      "preview": "Французские солдаты маршала Нея загнаны в лес в сражении под Красным . А. Ивон",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "31",
+      "preview": "Отступление французов через Березину 17 (29) ноября 1812 года. Гесс ( 1844 )",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "32",
+      "preview": "Картина «Наполеон в Сморгони» художника З. Развадовского",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "33",
+      "preview": "Численность наполеоновской армии при движении внутрь России (бежевая) и обратно (чёрная полосы) . Ширина полос отражает ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "34",
+      "preview": "На большой дороге. Отступление, бегство … Верещагин , 1887—1895",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "35",
+      "preview": "Бегство французов с семьями из России. Виллевальде , 1846",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "36",
+      "preview": "Возвращение ратника домой. И. В. Лучанинов",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "37",
+      "preview": "«Нос, привезённый Наполеоном с собой из России в Париж». Рис. Теребенева И. (1813)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "38",
+      "preview": "«Наполеон продаёт с молотка похищенные им антики». Рис. Теребенева И. (1813)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "39",
+      "preview": "«Угощение Наполеону в России». Рис. Теребенева И. (1813)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "40",
+      "preview": "«Зачисление в казаки пленных поляков армии Наполеона, 1813 г.» Картина Н. Н. Каразина",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "41",
+      "preview": "Военная галерея в Зимнем дворце",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "42",
+      "preview": "Дворцовая площадь с Александровской колонной",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

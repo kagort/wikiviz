@@ -20,7 +20,7 @@ export function StatisticsChartView({ groups }: StatisticsChartViewProps) {
   return (
     <div>
       {groups.map((group) => {
-        const widths = barWidths(group.items)
+        const widths = barWidths(group.items, group.unit)
         return (
           <table key={group.title} aria-label={group.title}>
             <caption>{group.title}</caption>

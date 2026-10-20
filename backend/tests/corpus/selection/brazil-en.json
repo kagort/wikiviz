@@ -1,0 +1,1681 @@
+{
+  "selected": {
+    "article": {
+      "id": 3383,
+      "title": "Brazil",
+      "language": "en",
+      "url": "https://en.wikipedia.org/wiki/Brazil",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Etymology",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "History",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-2",
+            "title": "Pre-Cabraline era",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-3",
+            "title": "European colonization and Colonial Brazil",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-4",
+            "title": "Kingdom of Brazil",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-5",
+            "title": "Empire of Brazil",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-6",
+            "title": "Early Republic",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-7",
+            "title": "Military dictatorship",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-8",
+            "title": "Contemporary era",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-9",
+        "title": "Geography",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-10",
+            "title": "Climate",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-11",
+            "title": "Topography and hydrography",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-12",
+            "title": "Biodiversity and conservation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-13",
+        "title": "Government and politics",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-14",
+            "title": "Law",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-15",
+            "title": "Political subdivisions",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-16",
+            "title": "Foreign relations",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-17",
+            "title": "Military",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-18",
+            "title": "Law enforcement and crime",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-19",
+            "title": "Human rights",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-20",
+        "title": "Economy",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-21",
+            "title": "Tourism",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-22",
+            "title": "Science and technology",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-23",
+            "title": "Energy",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-24",
+            "title": "Transportation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-25",
+        "title": "Demographics",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-26",
+            "title": "Urbanization",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-27",
+            "title": "Race and ethnicity",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-28",
+            "title": "Language",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-29",
+            "title": "Religion",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-30",
+            "title": "Education",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-31",
+            "title": "Health",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-32",
+        "title": "Culture",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-33",
+            "title": "Architecture",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-34",
+            "title": "Visual arts",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-35",
+            "title": "Music",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-36",
+            "title": "Literature",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-37",
+            "title": "Theatre",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-38",
+            "title": "Cinema",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-39",
+            "title": "Media",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-40",
+            "title": "Cuisine",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-41",
+            "title": "Sports",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-42",
+        "title": "See also",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-43",
+        "title": "Notes",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-44",
+        "title": "References",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-45",
+        "title": "Bibliography",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-46",
+        "title": "Further reading",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-47",
+        "title": "External links",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "capital": {
+        "key": "capital",
+        "label": "Capital",
+        "group": null,
+        "value": "Brasília, 15°47′S 47°52′W / 15.783°S 47.867°W",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "largest_city": {
+        "key": "largest_city",
+        "label": "Largest city",
+        "group": null,
+        "value": "São Paulo, 23°33′S 46°38′W / 23.550°S 46.633°W",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "official_language_and_national_language": {
+        "key": "official_language_and_national_language",
+        "label": "Official language and national language",
+        "group": null,
+        "value": "Portuguese",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "recognized_regional_languages": {
+        "key": "recognized_regional_languages",
+        "label": "Recognized regional languages",
+        "group": null,
+        "value": "See regional official languages",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "ethnic_groups_2022": {
+        "key": "ethnic_groups_2022",
+        "label": "Ethnic groups (2022)",
+        "group": null,
+        "value": "45.3% Pardo, 43.5% White, 10.2% Black, 0.6% Indigenous, 0.4% East Asian",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "religion_2022": {
+        "key": "religion_2022",
+        "label": "Religion (2022)",
+        "group": null,
+        "value": "83.6% Christianity, 56.7% Catholic, 26.9% Protestant, 9.3% no religion, 1.8% Spiritism, 1.1% Afro-Brazilian religions, 4.2% others",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "demonym": {
+        "key": "demonym",
+        "label": "Demonym",
+        "group": null,
+        "value": "Brazilian",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government": {
+        "key": "government",
+        "label": "Government",
+        "group": null,
+        "value": "Federal presidential republic",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_president": {
+        "key": "government_president",
+        "label": "President",
+        "group": "Government",
+        "value": "Luiz Inácio Lula da Silva",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_vice_president": {
+        "key": "government_vice_president",
+        "label": "Vice President",
+        "group": "Government",
+        "value": "Geraldo Alckmin",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_president_of_the_chamber_of_deputies": {
+        "key": "government_president_of_the_chamber_of_deputies",
+        "label": "President of the Chamber of Deputies",
+        "group": "Government",
+        "value": "Hugo Motta",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_president_of_the_federal_senate": {
+        "key": "government_president_of_the_federal_senate",
+        "label": "President of the Federal Senate",
+        "group": "Government",
+        "value": "Davi Alcolumbre",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "government_president_of_the_supreme_federal_court": {
+        "key": "government_president_of_the_supreme_federal_court",
+        "label": "President of the Supreme Federal Court",
+        "group": "Government",
+        "value": "Edson Fachin",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature": {
+        "key": "legislature",
+        "label": "Legislature",
+        "group": null,
+        "value": "National Congress",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature_upper_house": {
+        "key": "legislature_upper_house",
+        "label": "Upper house",
+        "group": "Legislature",
+        "value": "Federal Senate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "legislature_lower_house": {
+        "key": "legislature_lower_house",
+        "label": "Lower house",
+        "group": "Legislature",
+        "value": "Chamber of Deputies",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "independence_from_portugal_declaration": {
+        "key": "independence_from_portugal_declaration",
+        "label": "Declaration",
+        "group": "Independence, from Portugal",
+        "value": "7 September 1822",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "independence_from_portugal_recognition": {
+        "key": "independence_from_portugal_recognition",
+        "label": "Recognition",
+        "group": "Independence, from Portugal",
+        "value": "29 August 1825",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "independence_from_portugal_republic": {
+        "key": "independence_from_portugal_republic",
+        "label": "Republic",
+        "group": "Independence, from Portugal",
+        "value": "15 November 1889",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "independence_from_portugal_current_constitution": {
+        "key": "independence_from_portugal_current_constitution",
+        "label": "Current constitution",
+        "group": "Independence, from Portugal",
+        "value": "5 October 1988",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_total": {
+        "key": "area_total",
+        "label": "Total",
+        "group": "Area",
+        "value": "8,510,346 km2 (3,285,863 sq mi) (5th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "area_water": {
+        "key": "area_water",
+        "label": "Water (%)",
+        "group": "Area",
+        "value": "0.65",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2026_estimate": {
+        "key": "population_2026_estimate",
+        "label": "2026 estimate",
+        "group": "Population",
+        "value": "214,211,951 (7th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_2022_census": {
+        "key": "population_2022_census",
+        "label": "2022 census",
+        "group": "Population",
+        "value": "203,080,756 (7th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "population_density": {
+        "key": "population_density",
+        "label": "Density",
+        "group": "Population",
+        "value": "23.8/km2 (61.6/sq mi) (193rd)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp": {
+        "key": "gdp_ppp",
+        "label": "GDP (PPP)",
+        "group": null,
+        "value": "2026 estimate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp_total": {
+        "key": "gdp_ppp_total",
+        "label": "Total",
+        "group": "GDP (PPP)",
+        "value": "$5.230 trillion (8th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_ppp_per_capita": {
+        "key": "gdp_ppp_per_capita",
+        "label": "Per capita",
+        "group": "GDP (PPP)",
+        "value": "$24,428 (82nd)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal": {
+        "key": "gdp_nominal",
+        "label": "GDP (nominal)",
+        "group": null,
+        "value": "2026 estimate",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal_total": {
+        "key": "gdp_nominal_total",
+        "label": "Total",
+        "group": "GDP (nominal)",
+        "value": "$2.636 trillion (10th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gdp_nominal_per_capita": {
+        "key": "gdp_nominal_per_capita",
+        "label": "Per capita",
+        "group": "GDP (nominal)",
+        "value": "$12,313 (84th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "gini_2024": {
+        "key": "gini_2024",
+        "label": "Gini (2024)",
+        "group": null,
+        "value": "50.3, high inequality",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "hdi_2023": {
+        "key": "hdi_2023",
+        "label": "HDI (2023)",
+        "group": null,
+        "value": "0.786, high (84th)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "currency": {
+        "key": "currency",
+        "label": "Currency",
+        "group": null,
+        "value": "Real (R$) (BRL)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "time_zone": {
+        "key": "time_zone",
+        "label": "Time zone",
+        "group": null,
+        "value": "UTC−02:00 to −05:00 (BT)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "date_format": {
+        "key": "date_format",
+        "label": "Date format",
+        "group": null,
+        "value": "dd/mm/yyyy (CE)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "calling_code": {
+        "key": "calling_code",
+        "label": "Calling code",
+        "group": null,
+        "value": "+55",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "iso_3166_code": {
+        "key": "iso_3166_code",
+        "label": "ISO 3166 code",
+        "group": null,
+        "value": "BR",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "internet_tld": {
+        "key": "internet_tld",
+        "label": "Internet TLD",
+        "group": null,
+        "value": ".br",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [],
+    "locations": [
+      {
+        "id": "location-0",
+        "name": "Brazil",
+        "latitude": -15.783333333333333,
+        "longitude": -47.86666666666667,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      },
+      {
+        "id": "location-1",
+        "name": "Brazil",
+        "latitude": -23.55,
+        "longitude": -46.63333333333333,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      },
+      {
+        "id": "location-2",
+        "name": "Brazil",
+        "latitude": -15.75,
+        "longitude": -47.95,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      },
+      {
+        "id": "location-3",
+        "name": "Brazil",
+        "latitude": -10.0,
+        "longitude": -52.0,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      }
+    ],
+    "events": [
+      {
+        "id": "event-0",
+        "date": "1822-09-07",
+        "date_precision": "day",
+        "title": "•Declaration",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-1",
+        "date": "1825-08-29",
+        "date_precision": "day",
+        "title": "•Recognition",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-2",
+        "date": "1889-11-15",
+        "date_precision": "day",
+        "title": "•Republic",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "event-3",
+        "date": "1988-10-05",
+        "date_precision": "day",
+        "title": "•Current constitution",
+        "description": null,
+        "source": "infobox",
+        "confidence": 1.0,
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-0",
+        "date": "1500-04-22",
+        "date_precision": "day",
+        "title": "European colonization and Colonial Brazil",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "European colonization and Colonial Brazil"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-1",
+        "date": "1818-02-06",
+        "date_precision": "day",
+        "title": "Kingdom of Brazil",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Kingdom of Brazil"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "1824-03-08",
+        "date_precision": "day",
+        "title": "Empire of Brazil",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Empire of Brazil"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-5",
+        "date": "1831-04-07",
+        "date_precision": "day",
+        "title": "Empire of Brazil",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Empire of Brazil"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-7",
+        "date": "2023-01-08",
+        "date_precision": "day",
+        "title": "Contemporary era",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "History",
+            "Contemporary era"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-9",
+        "date": "1974-09-14",
+        "date_precision": "day",
+        "title": "Transportation",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Economy",
+            "Transportation"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-10",
+        "date": "2026-07-01",
+        "date_precision": "day",
+        "title": "Demographics",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Demographics"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-11",
+        "date": "2025-05-18",
+        "date_precision": "day",
+        "title": "Cinema",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Culture",
+            "Cinema"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-12",
+        "date": "1808-05-13",
+        "date_precision": "day",
+        "title": "Media",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Culture",
+            "Media"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-13",
+        "date": "1808-09-10",
+        "date_precision": "day",
+        "title": "Media",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Culture",
+            "Media"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-14",
+        "date": "1922-09-07",
+        "date_precision": "day",
+        "title": "Media",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Culture",
+            "Media"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-15",
+        "date": "1923-04-20",
+        "date_precision": "day",
+        "title": "Media",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Culture",
+            "Media"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-16",
+        "date": "1950-09-18",
+        "date_precision": "day",
+        "title": "Media",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Culture",
+            "Media"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-17",
+        "date": "2009-10-02",
+        "date_precision": "day",
+        "title": "Sports",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Culture",
+            "Sports"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Ethnic groups (2022) — Pardo",
+        "value": 45.3,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2022) — White",
+        "value": 43.5,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2022) — Black",
+        "value": 10.2,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2022) — Indigenous",
+        "value": 0.6,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Ethnic groups (2022) — East Asian",
+        "value": 0.4,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2022) — Christianity",
+        "value": 83.6,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2022) — Catholic",
+        "value": 56.7,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2022) — Protestant",
+        "value": 26.9,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2022) — no religion",
+        "value": 9.3,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2022) — Spiritism",
+        "value": 1.8,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2022) — Afro-Brazilian religions",
+        "value": 1.1,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "label": "Religion (2022) — others",
+        "value": 4.2,
+        "unit": "%",
+        "year": null,
+        "source": "infobox",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pinturas_Rupestres_-_Serra_da_Capivara_I.jpg/1280px-Pinturas_Rupestres_-_Serra_da_Capivara_I.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pinturas_Rupestres_-_Serra_da_Capivara_I.jpg/250px-Pinturas_Rupestres_-_Serra_da_Capivara_I.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Rock art at Serra da Capivara National Park , one of the largest and oldest concentrations of prehistoric sites in the Americas",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Pre-Cabraline era"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg/1280px-Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg/250px-Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Pedro Álvares Cabral landing in Porto Seguro in 1500",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "European colonization and Colonial Brazil"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG/1280px-Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG/250px-Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Ouro Preto was the center of the Brazilian Gold Rush and was designated a World Heritage Site by UNESCO due to its Baroque colonial architecture .",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "European colonization and Colonial Brazil"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/L%27Ex%C3%A9cution_de_la_Punition_de_Fouet_by_Jean-Baptiste_Debret.jpg/1280px-L%27Ex%C3%A9cution_de_la_Punition_de_Fouet_by_Jean-Baptiste_Debret.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/L%27Ex%C3%A9cution_de_la_Punition_de_Fouet_by_Jean-Baptiste_Debret.jpg/250px-L%27Ex%C3%A9cution_de_la_Punition_de_Fouet_by_Jean-Baptiste_Debret.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Execution of the Punishment of the Whip by Jean-Baptiste Debret . Nearly 5 million enslaved Africans were imported to Brazil during the Atlantic slave trade , more than any other country.",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "European colonization and Colonial Brazil"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Aclama%C3%A7%C3%A3o_do_rei_Dom_Jo%C3%A3o_VI_no_Rio_de_Janeiro.jpg/1280px-Aclama%C3%A7%C3%A3o_do_rei_Dom_Jo%C3%A3o_VI_no_Rio_de_Janeiro.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Aclama%C3%A7%C3%A3o_do_rei_Dom_Jo%C3%A3o_VI_no_Rio_de_Janeiro.jpg/250px-Aclama%C3%A7%C3%A3o_do_rei_Dom_Jo%C3%A3o_VI_no_Rio_de_Janeiro.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "The Acclamation of King João VI of the United Kingdom of Portugal, Brazil and the Algarves in Rio de Janeiro , 6 February 1818",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Kingdom of Brazil"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_cores_ajustadas.jpg/1280px-Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_cores_ajustadas.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_cores_ajustadas.jpg/250px-Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_cores_ajustadas.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Declaration of the Independence of Brazil by Pedro I on 7 September 1822",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Empire of Brazil"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Pedro_Am%C3%A9rico_-_D._Pedro_II_na_abertura_da_Assembl%C3%A9ia_Geral.jpg/1280px-Pedro_Am%C3%A9rico_-_D._Pedro_II_na_abertura_da_Assembl%C3%A9ia_Geral.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Pedro_Am%C3%A9rico_-_D._Pedro_II_na_abertura_da_Assembl%C3%A9ia_Geral.jpg/250px-Pedro_Am%C3%A9rico_-_D._Pedro_II_na_abertura_da_Assembl%C3%A9ia_Geral.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Pedro II , Emperor of Brazil between 1831 and 1889",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Empire of Brazil"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg/1280px-Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg/250px-Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_by_Benedito_Calixto_1893.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Proclamation of the Republic , 1893, oil on canvas by Benedito Calixto",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Early Republic"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Constru%C3%A7%C3%A3o_do_Congresso_Nacional_Esplanada_dos_Minist%C3%A9rios_1959-10_%28cropped%29.jpg/1280px-Constru%C3%A7%C3%A3o_do_Congresso_Nacional_Esplanada_dos_Minist%C3%A9rios_1959-10_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Constru%C3%A7%C3%A3o_do_Congresso_Nacional_Esplanada_dos_Minist%C3%A9rios_1959-10_%28cropped%29.jpg/250px-Constru%C3%A7%C3%A3o_do_Congresso_Nacional_Esplanada_dos_Minist%C3%A9rios_1959-10_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Construction of the National Congress building in Brasília, 1959, during the JK administration",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Early Republic"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Tanques_ocupam_a_Avenida_Presidente_Vargas%2C_1968-04-04.jpg/1280px-Tanques_ocupam_a_Avenida_Presidente_Vargas%2C_1968-04-04.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Tanques_ocupam_a_Avenida_Presidente_Vargas%2C_1968-04-04.jpg/250px-Tanques_ocupam_a_Avenida_Presidente_Vargas%2C_1968-04-04.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "M41s along the Avenida Presidente Vargas , Rio de Janeiro , in April 1968, during the military dictatorship",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Military dictatorship"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Ulyssesguimaraesconstituicao_restored.jpg/1280px-Ulyssesguimaraesconstituicao_restored.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Ulyssesguimaraesconstituicao_restored.jpg/250px-Ulyssesguimaraesconstituicao_restored.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Ulysses Guimarães holding the Constitution of 1988",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "History",
+            "Contemporary era"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": "Flag of Brazil",
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-2",
+      "preview": "1822-09-07 «Empire of Brazil»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-4",
+      "preview": "1825-08-29 «Empire of Brazil»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-6",
+      "preview": "1889-11-15 «Empire of Brazil»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "1988-10-05 «Law»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "number",
+      "ref": "14",
+      "preview": "Population — 2026 estimate = 2.14212e+08",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "15",
+      "preview": "Population — 2022 census = 2.03081e+08",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "17",
+      "preview": "GDP ( PPP ) — Total = 5.23e+12",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "18",
+      "preview": "GDP ( PPP ) — Per capita = 24428",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "19",
+      "preview": "GDP (nominal) — Total = 2.636e+12",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "20",
+      "preview": "GDP (nominal) — Per capita = 12313",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "21",
+      "preview": "GDP (nominal) — Gini (2024) = 50.3 high",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "22",
+      "preview": "GDP (nominal) — HDI (2023) = 0.786 high",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "23",
+      "preview": "GDP (nominal) — Time zone = 2",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "number",
+      "ref": "24",
+      "preview": "GDP (nominal) — Calling code = 55",
+      "rule": "NUM-CODE",
+      "reason": "код или часовой пояс, а не величина"
+    },
+    {
+      "kind": "number",
+      "ref": "12",
+      "preview": "Area — Total = 8.51035e+06 km²",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "13",
+      "preview": "Area — Water (%) = 0.65 %",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "16",
+      "preview": "Population — Density = 23.8 /km²",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "image",
+      "ref": "11",
+      "preview": "Pro- and anti- impeachment protesters of Dilma Rousseff occupy the Esplanade of Ministries in Brasília, 2016.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "A topographic map of Brazil",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "Brazil map of Köppen climate classification zones",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "Since 1850, Brazil has cumulatively contributed an amount of CO 2 placing it among the top greenhouse gas emitters in th",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "Satellite image of the Amazon Delta",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "The toco toucan is an animal typical of the Brazilian savannas .",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "17",
+      "preview": "Cumulatively, Brazil has the highest percentage of deforested and highly degraded rainforest of any Amazonia nation.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "Luiz Inácio Lula da Silva President",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "National Congress , seat of the legislative branch",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "Itamaraty Palace , the seat of the Ministry of Foreign Affairs",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "21",
+      "preview": "Brazilian Navy's flagship PHM Atlântico and frigate Liberal (F-43) (background)",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "22",
+      "preview": "Headquarters of the Federal Police of Brazil in Brasília",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "São Paulo is considered the main financial center of Brazil.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "24",
+      "preview": "B3, the largest stock exchange of Latin America by market capitalization",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "25",
+      "preview": "Soybean crop in Tangará da Serra , Mato Grosso",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "26",
+      "preview": "The C-390 , developed by Embraer , the third largest producer of civil aircraft, after Boeing and Airbus",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "27",
+      "preview": "Iguaçu National Park in Paraná",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "28",
+      "preview": "VLS-1 at the Alcântara Launch Center of the Brazilian Space Agency, in Alcântara, Maranhão",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "29",
+      "preview": "Sirius , a diffraction-limited storage ring synchrotron light source at the Laboratório Nacional de Luz Síncrotron , in ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "30",
+      "preview": "The Itaipu Dam on the Paraná River , the second largest of the world. Brazilian energy matrix is one of the cleanest in ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "31",
+      "preview": "Wind farm in Parnaíba , Piauí . Brazil is one of the 5 largest producers of wind energy in the world.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "32",
+      "preview": "Terminal 3 of the São Paulo–Guarulhos International Airport , the busiest airport in Latin America",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "33",
+      "preview": "BR-116 in São José dos Campos , São Paulo , the longest highway in the country, with 4,542 km (2,822 mi) of extension",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "34",
+      "preview": "Population density of Brazilian municipalities",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "35",
+      "preview": "Alto Rio Negro Indigenous Territory , in São Gabriel da Cachoeira , Amazonas , where Nhengatu , Tucano and Baniwa are co",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "36",
+      "preview": "Pomerode , Santa Catarina , where the East Pomeranian is the second language (see Brazilian German )",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "37",
+      "preview": "The Cristo Redentor statue towers over Rio de Janeiro.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "38",
+      "preview": "Historical building of the Federal University of Paraná , one of the oldest universities in Brazil, located in Curitiba",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "39",
+      "preview": "The Clinical Hospital of Porto Alegre is academically linked to the Federal University of Rio Grande do Sul and is part ",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "40",
+      "preview": "Parade of Portela samba school at the Rio Carnival , the largest carnival in the world",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "41",
+      "preview": "The Cathedral of Brasília , designed by Brazilian architect Oscar Niemeyer for the federal capital, an example of Modern",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "42",
+      "preview": "Entry in the Forest mural at the Thomas Jefferson Building by Candido Portinari, one of the most important Brazilian pai",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "43",
+      "preview": "Tom Jobim , one of the creators of bossa nova , and Chico Buarque , one of the leading names of MPB",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "44",
+      "preview": "Machado de Assis (1839–1908), poet and novelist, founder of the Brazilian Academy of Letters , is associated with romant",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "45",
+      "preview": "Augusto Boal presenting a workshop on the Theatre of the Oppressed at Riverside Church in New York City in 2008",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "46",
+      "preview": "Gramado Film Festival , the biggest film festival in the country",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "47",
+      "preview": "Former President Dilma Rousseff at Jornal Nacional news program. Rede Globo is the world's second-largest commercial tel",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "48",
+      "preview": "Feijoada is the national dish of Brazilian cuisine.",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "49",
+      "preview": "Pelé , a footballer as well as sport figure of the 20th century",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}

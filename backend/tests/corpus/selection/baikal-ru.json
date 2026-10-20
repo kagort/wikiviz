@@ -1,0 +1,1333 @@
+{
+  "selected": {
+    "article": {
+      "id": 9512,
+      "title": "Байкал",
+      "language": "ru",
+      "url": "https://ru.wikipedia.org/wiki/Байкал",
+      "description": null,
+      "summary": null
+    },
+    "sections": [
+      {
+        "id": "section-0",
+        "title": "Название",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "География",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-2",
+            "title": "Географическое положение и размеры котловины",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-3",
+            "title": "Глубины",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-4",
+            "title": "Объём воды",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-5",
+            "title": "Притоки и сток",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-6",
+            "title": "Свойства воды",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-7",
+            "title": "Лёд",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-8",
+            "title": "Рельеф дна",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-9",
+            "title": "Острова и полуострова",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-10",
+            "title": "Сейсмоактивность",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-11",
+            "title": "Климат",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-12",
+        "title": "Происхождение озера",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-13",
+        "title": "Растительный и животный мир",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-14",
+        "title": "История заселения и изучения Байкала",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-15",
+            "title": "Заселение побережья озера",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-16",
+            "title": "Происхождение топонима «Байкал»",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-17",
+            "title": "Исследователи, путешественники и писатели Байкала",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-18",
+            "title": "Глубоководное бурение",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-19",
+            "title": "Нейтринный телескоп",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-20",
+            "title": "«Пайсисы» на Байкале",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-21",
+            "title": "«Миры» на Байкале",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-22",
+        "title": "Экология",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-23",
+            "title": "Результаты наблюдений",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-24",
+            "title": "Основные источники загрязнений",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-25",
+            "title": "Целлюлозно-бумажный комбинат",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-26",
+            "title": "Байкал как водохранилище",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-27",
+            "title": "Проекты строительства ГЭС на Селенге",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-28",
+            "title": "Байкал — территория Всемирного природного наследия",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-29",
+            "title": "Браконьерство",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-30",
+            "title": "Массовое цветение макроводорослей",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-31",
+            "title": "Экспорт воды в КНР",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-32",
+        "title": "Охрана природы Байкала",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-33",
+            "title": "Особо охраняемые природные территории",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-34",
+            "title": "Природоохранные организации",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-35",
+            "title": "Долговременный экологический мониторинг",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-36",
+        "title": "Научные исследования",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-37",
+            "title": "Научные организации",
+            "level": 3,
+            "children": []
+          },
+          {
+            "id": "section-38",
+            "title": "Лимнологические исследования",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-39",
+        "title": "Данные водного реестра",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-40",
+        "title": "Туризм",
+        "level": 2,
+        "children": [
+          {
+            "id": "section-41",
+            "title": "Достопримечательности",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "section-42",
+        "title": "Известные высказывания о Байкале",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-43",
+        "title": "Факты",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-44",
+        "title": "Мифы и легенды о Байкале",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-45",
+        "title": "Фильмы",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-46",
+        "title": "Песни",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-47",
+        "title": "Байкал в коллекционировании",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-48",
+        "title": "Год Байкала",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-49",
+        "title": "Примечания",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-50",
+        "title": "Литература",
+        "level": 2,
+        "children": []
+      },
+      {
+        "id": "section-51",
+        "title": "Ссылки",
+        "level": 2,
+        "children": []
+      }
+    ],
+    "infobox": {
+      "морфометрия_абсолютная_высота": {
+        "key": "морфометрия_абсолютная_высота",
+        "label": "Абсолютная высота",
+        "group": "Морфометрия",
+        "value": "456—457 м",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "морфометрия_размеры": {
+        "key": "морфометрия_размеры",
+        "label": "Размеры",
+        "group": "Морфометрия",
+        "value": "636 × 79,5 км",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "морфометрия_площадь": {
+        "key": "морфометрия_площадь",
+        "label": "Площадь",
+        "group": "Морфометрия",
+        "value": "31 722 км²",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "морфометрия_объём": {
+        "key": "морфометрия_объём",
+        "label": "Объём",
+        "group": "Морфометрия",
+        "value": "23 615,39 км³",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "морфометрия_береговая_линия": {
+        "key": "морфометрия_береговая_линия",
+        "label": "Береговая линия",
+        "group": "Морфометрия",
+        "value": "2000 км",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "морфометрия_наибольшая_глубина": {
+        "key": "морфометрия_наибольшая_глубина",
+        "label": "Наибольшая глубина",
+        "group": "Морфометрия",
+        "value": "1642 м",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "морфометрия_средняя_глубина": {
+        "key": "морфометрия_средняя_глубина",
+        "label": "Средняя глубина",
+        "group": "Морфометрия",
+        "value": "744,4 м",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гидрология_тип_минерализации": {
+        "key": "гидрология_тип_минерализации",
+        "label": "Тип минерализации",
+        "group": "Гидрология",
+        "value": "Пресное",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гидрология_солёность": {
+        "key": "гидрология_солёность",
+        "label": "Солёность",
+        "group": "Гидрология",
+        "value": "0,120 ‰",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "гидрология_прозрачность": {
+        "key": "гидрология_прозрачность",
+        "label": "Прозрачность",
+        "group": "Гидрология",
+        "value": "40 м",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "бассейн_площадь_бассейна": {
+        "key": "бассейн_площадь_бассейна",
+        "label": "Площадь бассейна",
+        "group": "Бассейн",
+        "value": "571 000 км²",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "бассейн_впадающие_реки": {
+        "key": "бассейн_впадающие_реки",
+        "label": "Впадающие реки",
+        "group": "Бассейн",
+        "value": "Селенга, Верхняя Ангара, Баргузин",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "бассейн_вытекающая_река": {
+        "key": "бассейн_вытекающая_река",
+        "label": "Вытекающая река",
+        "group": "Бассейн",
+        "value": "Ангара",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "расположение_страна": {
+        "key": "расположение_страна",
+        "label": "Страна",
+        "group": "Расположение",
+        "value": "Россия",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "расположение_субъекты_рф": {
+        "key": "расположение_субъекты_рф",
+        "label": "Субъекты РФ",
+        "group": "Расположение",
+        "value": "Бурятия, Иркутская область",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "объект_всемирного_наследия_ссылка": {
+        "key": "объект_всемирного_наследия_ссылка",
+        "label": "Ссылка",
+        "group": "Объект всемирного наследия",
+        "value": "№ 754 в списке объектов всемирного наследия (en)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "объект_всемирного_наследия_критерии": {
+        "key": "объект_всемирного_наследия_критерии",
+        "label": "Критерии",
+        "group": "Объект всемирного наследия",
+        "value": "VII, VIII, IX, X (природный)",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "объект_всемирного_наследия_регион": {
+        "key": "объект_всемирного_наследия_регион",
+        "label": "Регион",
+        "group": "Объект всемирного наследия",
+        "value": "Страны Европы и Северной Америки",
+        "normalized_value": null,
+        "source": "infobox"
+      },
+      "объект_всемирного_наследия_включение": {
+        "key": "объект_всемирного_наследия_включение",
+        "label": "Включение",
+        "group": "Объект всемирного наследия",
+        "value": "1996 (20-я сессия)",
+        "normalized_value": null,
+        "source": "infobox"
+      }
+    },
+    "tables": [
+      {
+        "id": "table-0",
+        "title": null,
+        "columns": [
+          "Показатель",
+          "2002",
+          "2003",
+          "2004",
+          "2005",
+          "2006",
+          "2007"
+        ],
+        "rows": [
+          [
+            "ХПК",
+            "30",
+            "24",
+            "25",
+            "29",
+            "26",
+            "30"
+          ],
+          [
+            "БПК 5",
+            "24",
+            "31",
+            "26",
+            "17",
+            "9",
+            "15"
+          ],
+          [
+            "Железо",
+            "85",
+            "91",
+            "89",
+            "83",
+            "87",
+            "88"
+          ],
+          [
+            "Медь",
+            "70",
+            "79",
+            "93",
+            "85",
+            "96",
+            "97"
+          ],
+          [
+            "Цинк",
+            "22",
+            "18",
+            "15",
+            "15",
+            "9",
+            "9"
+          ],
+          [
+            "Алюминий",
+            "0",
+            "3",
+            "20",
+            "51",
+            "0",
+            "7"
+          ],
+          [
+            "Марганец",
+            "0",
+            "80",
+            "80",
+            "100",
+            "0",
+            "93"
+          ],
+          [
+            "Фенолы",
+            "25",
+            "14",
+            "36",
+            "29",
+            "26",
+            "3"
+          ],
+          [
+            "Нефтепродукты",
+            "19",
+            "12",
+            "18",
+            "24",
+            "0",
+            "28"
+          ],
+          [
+            "Фториды",
+            "0",
+            "31",
+            "40",
+            "40",
+            "0",
+            "57"
+          ]
+        ],
+        "notes": [],
+        "source": "table"
+      }
+    ],
+    "locations": [
+      {
+        "id": "location-0",
+        "name": "Байкал",
+        "latitude": 53.21666666666667,
+        "longitude": 107.75,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      },
+      {
+        "id": "location-1",
+        "name": "Байкал",
+        "latitude": 53.249722222222225,
+        "longitude": 108.08638888888889,
+        "description": null,
+        "source": "coordinate",
+        "confidence": 1.0
+      }
+    ],
+    "events": [
+      {
+        "id": "text-event-0",
+        "date": "2023-11-28",
+        "date_precision": "day",
+        "title": "Происхождение озера",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "other",
+          "section_path": [
+            "Происхождение озера"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-1",
+        "date": "2010-01-13",
+        "date_precision": "day",
+        "title": "Целлюлозно-бумажный комбинат",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экология",
+            "Целлюлозно-бумажный комбинат"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-2",
+        "date": "2010-07-08",
+        "date_precision": "day",
+        "title": "Целлюлозно-бумажный комбинат",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экология",
+            "Целлюлозно-бумажный комбинат"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-3",
+        "date": "2013-12-25",
+        "date_precision": "day",
+        "title": "Целлюлозно-бумажный комбинат",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экология",
+            "Целлюлозно-бумажный комбинат"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-4",
+        "date": "2013-12-28",
+        "date_precision": "day",
+        "title": "Целлюлозно-бумажный комбинат",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экология",
+            "Целлюлозно-бумажный комбинат"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-5",
+        "date": "2001-03-26",
+        "date_precision": "day",
+        "title": "Байкал как водохранилище",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экология",
+            "Байкал как водохранилище"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-6",
+        "date": "2019-03-27",
+        "date_precision": "day",
+        "title": "Экспорт воды в КНР",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экология",
+            "Экспорт воды в КНР"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-7",
+        "date": "2019-04-02",
+        "date_precision": "day",
+        "title": "Экспорт воды в КНР",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Экология",
+            "Экспорт воды в КНР"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "id": "text-event-13",
+        "date": "2020-09-09",
+        "date_precision": "day",
+        "title": "Год Байкала",
+        "description": null,
+        "source": "article_text",
+        "confidence": 0.6,
+        "context": {
+          "block": "paragraph",
+          "section_path": [
+            "Год Байкала"
+          ],
+          "service_section": false
+        }
+      }
+    ],
+    "numbers": [],
+    "people": [],
+    "organizations": [],
+    "works": [],
+    "relations": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Baikal.A2001296.0420.250m-NASA.jpg/1280px-Baikal.A2001296.0420.250m-NASA.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Baikal.A2001296.0420.250m-NASA.jpg/250px-Baikal.A2001296.0420.250m-NASA.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Байкал из космоса , левее расположено озеро Хубсугул на территории Монголии",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB.png/1280px-%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB.png/250px-%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Байкал с прилегающими заповедниками и национальными парками",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%BE%D0%B7%D1%91%D1%80_20251116.png/1280px-%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%BE%D0%B7%D1%91%D1%80_20251116.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%BE%D0%B7%D1%91%D1%80_20251116.png/250px-%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%BE%D0%B7%D1%91%D1%80_20251116.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Глубина Байкала в сравнении с глубинами Каспийского моря и озера Танганьика",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Глубины"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ruchey_vpadayuschij_v_Bajkal_01.jpg/1280px-Ruchey_vpadayuschij_v_Bajkal_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ruchey_vpadayuschij_v_Bajkal_01.jpg/250px-Ruchey_vpadayuschij_v_Bajkal_01.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Один из ручьёв, впадающих в Байкал",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Объём воды"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pavel_Gurenchuk_2015_-_panoramio_%288%29.jpg/1280px-Pavel_Gurenchuk_2015_-_panoramio_%288%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pavel_Gurenchuk_2015_-_panoramio_%288%29.jpg/1280px-Pavel_Gurenchuk_2015_-_panoramio_%288%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Озеро Байкал зимой",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Лёд"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.png/1280px-%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.png/250px-%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Профиль озера Байкал от села Онгурён до мыса Горевой утёс (ширина 72 км, глубина 1612 м.)",
+        "alt": "реальный профиль озера Байкал",
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Рельеф дна"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%A1%D1%83%D1%85%D0%BE%D0%B9.jpg/1280px-%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%A1%D1%83%D1%85%D0%BE%D0%B9.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%A1%D1%83%D1%85%D0%BE%D0%B9.jpg/250px-%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%A1%D1%83%D1%85%D0%BE%D0%B9.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Берег Байкала у села Сухая (Бурятия)",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "География",
+            "Сейсмоактивность"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%93%D1%83%D0%B1%D0%B0_%D0%90%D1%8F%D1%8F%2C_%D0%92%D0%B8%D0%B4_%D1%81_%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%BA%D0%B0%D0%BB%D1%8B_%28%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%29.jpg/1280px-%D0%93%D1%83%D0%B1%D0%B0_%D0%90%D1%8F%D1%8F%2C_%D0%92%D0%B8%D0%B4_%D1%81_%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%BA%D0%B0%D0%BB%D1%8B_%28%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%93%D1%83%D0%B1%D0%B0_%D0%90%D1%8F%D1%8F%2C_%D0%92%D0%B8%D0%B4_%D1%81_%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%BA%D0%B0%D0%BB%D1%8B_%28%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%29.jpg/960px-%D0%93%D1%83%D0%B1%D0%B0_%D0%90%D1%8F%D1%8F%2C_%D0%92%D0%B8%D0%B4_%D1%81_%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%BA%D0%B0%D0%BB%D1%8B_%28%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Озеро Байкал, губа Аяя",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Происхождение озера"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Baikal_140629_0112.jpg/1280px-Baikal_140629_0112.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Baikal_140629_0112.jpg/250px-Baikal_140629_0112.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Саранка",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "Растительный и животный мир"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Widok_na_Bolszyje_Koty_05.JPG/1280px-Widok_na_Bolszyje_Koty_05.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Widok_na_Bolszyje_Koty_05.JPG/250px-Widok_na_Bolszyje_Koty_05.JPG?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Посёлок Большие Коты на берегу",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "История заселения и изучения Байкала",
+            "Заселение побережья озера"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Baikal_panorama.jpg/1280px-Baikal_panorama.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Baikal_panorama.jpg/3840px-Baikal_panorama.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": "Панорама юго-западной оконечности Байкала. Залив Култук у одноимённого посёлка",
+        "alt": null,
+        "source": "article_text",
+        "context": {
+          "block": "figure",
+          "section_path": [
+            "История заселения и изучения Байкала",
+            "Заселение побережья озера"
+          ],
+          "service_section": false
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%D0%9C%D1%8B%D1%81_%D0%9B%D1%83%D0%B4%D0%B0%D1%80%D1%8C%2C_17_%D0%B8%D1%8E%D0%BD%D1%8F_2013_%D0%B3%D0%BE%D0%B4%D0%B0.jpg/1280px-%D0%9C%D1%8B%D1%81_%D0%9B%D1%83%D0%B4%D0%B0%D1%80%D1%8C%2C_17_%D0%B8%D1%8E%D0%BD%D1%8F_2013_%D0%B3%D0%BE%D0%B4%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%D0%9C%D1%8B%D1%81_%D0%9B%D1%83%D0%B4%D0%B0%D1%80%D1%8C%2C_17_%D0%B8%D1%8E%D0%BD%D1%8F_2013_%D0%B3%D0%BE%D0%B4%D0%B0.jpg/330px-%D0%9C%D1%8B%D1%81_%D0%9B%D1%83%D0%B4%D0%B0%D1%80%D1%8C%2C_17_%D0%B8%D1%8E%D0%BD%D1%8F_2013_%D0%B3%D0%BE%D0%B4%D0%B0.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "caption": null,
+        "alt": "Вид на Байкал с мыса Лударь летом 2013 года",
+        "source": "article_text",
+        "context": {
+          "block": "infobox",
+          "section_path": [],
+          "service_section": false
+        }
+      }
+    ],
+    "links": [],
+    "metadata": {}
+  },
+  "rejected": [
+    {
+      "kind": "event",
+      "ref": "text-event-10",
+      "preview": "2012-11-27 «Факты»",
+      "rule": "EV-LIST",
+      "reason": "дата из пункта списка, а не из рассказа"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-8",
+      "preview": "2023-11-28 «Известные высказывания о Байкале»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-9",
+      "preview": "2023-11-28 «Факты»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-11",
+      "preview": "2023-11-28 «Фильмы»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "event",
+      "ref": "text-event-12",
+      "preview": "2023-11-28 «Песни»",
+      "rule": "EV-DUP",
+      "reason": "эта дата уже показана"
+    },
+    {
+      "kind": "number",
+      "ref": "0",
+      "preview": "Морфометрия — Абсолютная высота = 456",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "1",
+      "preview": "Морфометрия — Размеры = 636",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "3",
+      "preview": "Морфометрия — Объём = 23615.4 км³",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "7",
+      "preview": "Гидрология — Солёность = 0.12",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "10",
+      "preview": "Объект всемирного наследия — Ссылка = 754 в",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "11",
+      "preview": "Объект всемирного наследия — Включение = 1996 year",
+      "rule": "NUM-UNIT",
+      "reason": "нет распознанной единицы измерения"
+    },
+    {
+      "kind": "number",
+      "ref": "2",
+      "preview": "Морфометрия — Площадь = 31722 км²",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "4",
+      "preview": "Морфометрия — Береговая линия = 2000 км",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "5",
+      "preview": "Морфометрия — Наибольшая глубина = 1642 м",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "6",
+      "preview": "Морфометрия — Средняя глубина = 744.4 м",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "8",
+      "preview": "Гидрология — Прозрачность = 40 м",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "number",
+      "ref": "9",
+      "preview": "Бассейн — Площадь бассейна = 571000 км²",
+      "rule": "NUM-GROUP",
+      "reason": "нет группы из 3 и больше значений с одной единицей"
+    },
+    {
+      "kind": "image",
+      "ref": "4",
+      "preview": "Байкальская вода",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "5",
+      "preview": "«Золотые камушки»",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "7",
+      "preview": "«Байкальский бриллиант»",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "8",
+      "preview": "Кристальный лёд",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "9",
+      "preview": "Ледяная гладь",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "10",
+      "preview": "Голубые глыбы",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "12",
+      "preview": "Огой",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "13",
+      "preview": "Ольхон",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "14",
+      "preview": "Остров",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "15",
+      "preview": "Ушканьи острова",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "16",
+      "preview": "Белый Камень",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "18",
+      "preview": "Лето на Байкале",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "19",
+      "preview": "с. Байкальское",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "20",
+      "preview": "Бухта",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "23",
+      "preview": "Чайки в Чивыркуйском заливе",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "24",
+      "preview": "Горечавка",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "25",
+      "preview": "Байкальская нерпа",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "26",
+      "preview": "Багульник",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "29",
+      "preview": "Чертёж Иркутска и окрестностей, сделанный в 1699—1701 годах С. У. Ремезовым",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "30",
+      "preview": "Гидрографическая карта Байкала, составленная в 1897 году",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "31",
+      "preview": "Полуостров Святой Нос",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "32",
+      "preview": "Обследование ледового покрова на СВП Хивус-10",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "33",
+      "preview": "Мусор после туристов",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "34",
+      "preview": "БЦБК загрязнял воду и атмосферу Прибайкалья",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "35",
+      "preview": "Иркутская ГЭС",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "36",
+      "preview": "Транссиб",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "37",
+      "preview": "Парус",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "38",
+      "preview": "Заря над Байкалом",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "39",
+      "preview": "Кругобайкальская железная дорога",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "40",
+      "preview": "Большая Байкальская тропа",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "41",
+      "preview": "Туристы на льду Байкала",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "42",
+      "preview": "Дорога по льду Байкала",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "43",
+      "preview": "Туристы ночуют на льду Байкала",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "44",
+      "preview": "Баргузинский залив",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "45",
+      "preview": "Бухта Песчаная",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "46",
+      "preview": "Бухта Змеиная в Чивыркуйском заливе",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "47",
+      "preview": "мыс Скала Шаманка на острове Ольхон",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    },
+    {
+      "kind": "image",
+      "ref": "48",
+      "preview": "Мыс Кобылья Голова",
+      "rule": "IMG-MAX",
+      "reason": "не больше 12 изображений на статью"
+    }
+  ]
+}
