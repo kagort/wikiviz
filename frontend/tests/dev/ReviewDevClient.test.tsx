@@ -1,28 +1,38 @@
-import { act, fireEvent, render, screen, waitFor } from '@testing-library/react'
+import { act, fireEvent, render, screen, waitFor, within } from '@testing-library/react'
 import { ReviewDevClient } from '../../components/dev/ReviewDevClient'
 import type { ReviewArticle, SampleValue } from '../../lib/dev/reviewLabels'
 
-const value = {
-  key: 'a.json|event|1961-04-12|History|article_text',
+const shown = {
+  key: 'pushkin-ru.json|event|1799-06-06|Дата рождения|infobox',
   kind: 'event',
-  preview: '1961-04-12 — History',
+  preview: '1799-06-06 — Дата рождения',
   selected: true,
   rule: null,
   reason: null,
-  where: 'абзац, History',
+  where: 'инфобокс',
 }
 const rejected = {
-  key: 'a.json|event|1961-04-14|Awards|article_text',
+  key: 'pushkin-ru.json|event|1821-12-16|Ссылка|article_text',
   kind: 'event',
-  preview: '1961-04-14 — Awards',
+  preview: '1821-12-16 — Ссылка',
   selected: false,
-  rule: 'EV-LIST',
-  reason: 'дата из пункта списка, а не из рассказа',
+  rule: 'EV-TEXT',
+  reason: 'дата из текста статьи',
+}
+const controlValue = {
+  key: 'random-ru-1.json|infobox_field|страна',
+  kind: 'infobox_field',
+  preview: 'Страна: Россия',
+  selected: true,
+  rule: null,
+  reason: null,
 }
 const articles: ReviewArticle[] = [
-  { file: 'a.json', kind: 'person-modern', title: 'Гагарин', url: 'https://ru.wikipedia.org/wiki/x', values: [value, rejected] },
+  { file: 'london-en.json', kind: 'city', title: 'London', url: 'https://en.wikipedia.org/wiki/London', values: [] },
+  { file: 'pushkin-ru.json', kind: 'person-modern', title: 'Пушкин', url: 'https://ru.wikipedia.org/wiki/x', values: [shown, rejected] },
+  { file: 'random-ru-1.json', kind: 'random', title: 'Зельрайн', url: 'https://ru.wikipedia.org/wiki/y', values: [controlValue] },
 ]
-const sample: SampleValue[] = [{ ...value, article: 'Гагарин', file: 'a.json' }]
+const sample: SampleValue[] = [{ ...shown, article: 'Пушкин', file: 'pushkin-ru.json' }]
 
 function mockFetch() {
   const calls: { method: string; body?: unknown }[] = []
@@ -33,33 +43,64 @@ function mockFetch() {
   return calls
 }
 
-describe('ReviewDevClient', () => {
-  test('отметка в выборке сразу сохраняется и меняет счётчик', async () => {
-    const calls = mockFetch()
-    render(<ReviewDevClient articles={articles} sample={sample} />)
-    await waitFor(() => expect(screen.getByRole('status')).toHaveTextContent(''))
+async function renderPage() {
+  const calls = mockFetch()
+  render(<ReviewDevClient articles={articles} sample={sample} />)
+  await waitFor(() => expect(screen.getByRole('status')).toHaveTextContent(''))
+  return calls
+}
 
-    expect(screen.getByText(/размечено 0 из 1/)).toBeInTheDocument()
+describe('ReviewDevClient', () => {
+  test('инструкция показывает три шага с прогрессом', async () => {
+    await renderPage()
+
+    const howTo = screen.getByRole('region', { name: 'Как размечать' })
+    expect(howTo).toHaveTextContent('Размечено 0 из 1')
+    expect(howTo).toHaveTextContent('Отмечено 0 фактов в 0 статьях из 10')
+    expect(howTo).toHaveTextContent('Контрольная группа')
+  })
+
+  test('шаг 1: отметка в выборке сразу сохраняется', async () => {
+    const calls = await renderPage()
+
     await act(async () => {
       fireEvent.click(screen.getByRole('button', { name: 'Верно' }))
     })
 
-    expect(screen.getByText(/размечено 1 из 1/)).toBeInTheDocument()
-    expect(calls.at(-1)).toEqual({ method: 'POST', body: { labels: { [value.key]: 'ok' }, golden: [] } })
+    expect(screen.getByRole('region', { name: 'Как размечать' })).toHaveTextContent('Размечено 1 из 1 ✓ готово')
+    expect(calls.at(-1)).toEqual({ method: 'POST', body: { labels: { [shown.key]: 'ok' }, golden: [] } })
   })
 
-  test('во вкладке «Статьи» видна причина отбрасывания, ★ отмечает золотой факт', async () => {
-    const calls = mockFetch()
-    render(<ReviewDevClient articles={articles} sample={sample} />)
-    await waitFor(() => expect(screen.getByRole('status')).toHaveTextContent(''))
+  test('шаг 2: русские статьи первыми, кнопка «Обязательно оставить» ставит золотой факт', async () => {
+    const calls = await renderPage()
 
-    fireEvent.click(screen.getByRole('button', { name: 'Статьи' }))
-    expect(screen.getByText(/отброшено: EV-LIST — дата из пункта списка/)).toBeInTheDocument()
+    fireEvent.click(screen.getByRole('button', { name: '2. Золотые факты' }))
+    expect(screen.getByRole('combobox')).toHaveValue('pushkin-ru.json')
+    // Сначала показанные значения, ниже - отброшенные с правилом.
+    const headings = screen.getAllByRole('heading', { level: 2 }).map((h) => h.textContent)
+    expect(headings).toEqual(['Показано на странице', 'Отброшено отбором'])
+    expect(screen.getByText(/EV-TEXT — дата из текста статьи/)).toBeInTheDocument()
+    expect(screen.queryByRole('button', { name: 'Верно' })).not.toBeInTheDocument()
 
     await act(async () => {
-      fireEvent.click(screen.getAllByRole('button', { name: 'Отметить как золотой факт' })[0])
+      fireEvent.click(screen.getAllByRole('button', { name: '☆ Обязательно оставить' })[0])
     })
-    expect(calls.at(-1)?.body).toEqual({ labels: {}, golden: [value.key] })
-    expect(screen.getByText(/Золотых фактов: 1 в 1 статьях/)).toBeInTheDocument()
+
+    expect(calls.at(-1)?.body).toEqual({ labels: {}, golden: [shown.key] })
+    expect(screen.getByRole('button', { name: '★ Обязательно оставить' })).toBeInTheDocument()
+    expect(screen.getByRole('region', { name: 'Как размечать' })).toHaveTextContent('Отмечено 1 фактов в 1 статьях')
+  })
+
+  test('шаг 3: контрольная группа показывает показанные значения случайных статей', async () => {
+    await renderPage()
+
+    fireEvent.click(screen.getByRole('button', { name: '3. Контрольная группа' }))
+    const group = screen.getByRole('region', { name: 'Зельрайн' })
+    expect(within(group).getByText('Страна: Россия')).toBeInTheDocument()
+
+    await act(async () => {
+      fireEvent.click(within(group).getByRole('button', { name: 'Мусор' }))
+    })
+    expect(screen.getByRole('region', { name: 'Как размечать' })).toHaveTextContent('Размечено 1 из 1 ✓ готово.')
   })
 })
